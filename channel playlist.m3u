@@ -203,10 +203,6 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 #EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." group-title="UK",NICK JR.
 https://a1xs.vip/1000052
-#EXTINF:0 CUID="10" tvg-chno="null" tvg-name="ASPIRE" tvg-logo="https://logo.m3uassets.com/aspiretv.png" group-title="US",ASPIRE
-https://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:0 CUID="11" tvg-chno="null" tvg-name="ACC NETWORK" tvg-id="ACC.Network.us" tvg-logo="https://logo.m3uassets.com/accnetwork.png" group-title="US",ACC NETWORK
-https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 CUID="12" tvg-chno="null" tvg-name="GAME SHOW NETWORK (EAST)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="US",GAME SHOW NETWORK (EAST)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
