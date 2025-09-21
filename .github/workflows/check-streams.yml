@@ -1,0 +1,235 @@
+name: Check M3U Streams
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+
+permissions:
+  contents: write
+
+jobs:
+  check-streams:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests m3u8
+
+      - name: Check Streams
+        run: |
+          python - << 'EOF'
+          import requests
+          import os
+          from datetime import datetime
+          import re
+          import time
+          
+          def check_stream(url, timeout=15):
+              """Check if a stream URL is accessible"""
+              try:
+                  # Handle different types of URLs
+                  headers = {
+                      'User-Agent': 'VLC/3.0.11 LibVLC/3.0.11',
+                      'Accept': '*/*'
+                  }
+                  
+                  response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
+                  
+                  # If HEAD doesn't work, try GET with limited data
+                  if response.status_code >= 400:
+                      response = requests.get(url, timeout=timeout, headers=headers, stream=True)
+                      # Read only first few bytes to check if stream starts
+                      next(response.iter_content(chunk_size=1024), None)
+                  
+                  return response.status_code < 400
+              except Exception as e:
+                  print(f"Error checking {url}: {str(e)}")
+                  return False
+          
+          def parse_m3u(file_path):
+              """Parse M3U file and extract stream information"""
+              if not os.path.exists(file_path):
+                  print(f"File not found: {file_path}")
+                  return []
+                  
+              streams = []
+              
+              try:
+                  with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                      lines = f.readlines()
+              except Exception as e:
+                  print(f"Error reading {file_path}: {str(e)}")
+                  return []
+                  
+              for i in range(len(lines)):
+                  line = lines[i].strip()
+                  if line.startswith('#EXTINF'):
+                      try:
+                          # Extract group-title if present
+                          group_match = re.search(r'group-title="([^"]*)"', line)
+                          group = group_match.group(1) if group_match else "No Group"
+                          
+                          # Extract channel name (after last comma)
+                          name_part = line.split(',')[-1].strip()
+                          name = name_part if name_part else "Unknown Channel"
+                          
+                          # Get URL from next line
+                          if i + 1 < len(lines):
+                              url = lines[i + 1].strip()
+                              if url and not url.startswith('#') and ('http' in url or 'rtmp' in url):
+                                  streams.append({
+                                      'name': name,
+                                      'url': url,
+                                      'group': group
+                                  })
+                      except Exception as e:
+                          print(f"Error parsing line {i}: {str(e)}")
+                          continue
+              
+              return streams
+          
+          # Initialize counters and lists
+          total_streams = 0
+          working_streams = 0
+          non_working = []
+          checked_streams = 0
+          
+          # Your M3U files (update these to match your actual file names)
+          m3u_files = [
+              'vod playlist.m3u',
+              'channel playlist.m3u'
+          ]
+          
+          print("Starting stream check...")
+          
+          for m3u_file in m3u_files:
+              print(f"Processing {m3u_file}...")
+              
+              try:
+                  streams = parse_m3u(m3u_file)
+                  file_total = len(streams)
+                  total_streams += file_total
+                  file_working = 0
+                  
+                  print(f"Found {file_total} streams in {m3u_file}")
+                  
+                  for i, stream in enumerate(streams):
+                      checked_streams += 1
+                      print(f"Checking stream {checked_streams}/{total_streams}: {stream['name'][:50]}...")
+                      
+                      if check_stream(stream['url']):
+                          working_streams += 1
+                          file_working += 1
+                      else:
+                          non_working.append({
+                              'name': stream['name'],
+                              'group': stream['group'],
+                              'url': stream['url'][:100] + '...' if len(stream['url']) > 100 else stream['url'],
+                              'file': m3u_file
+                          })
+                      
+                      # Small delay to avoid overwhelming servers
+                      time.sleep(0.1)
+                  
+                  print(f"File {m3u_file}: {file_working}/{file_total} working streams")
+                  
+              except Exception as e:
+                  print(f"Error processing {m3u_file}: {str(e)}")
+          
+          # Calculate percentages
+          working_percentage = (working_streams / total_streams * 100) if total_streams > 0 else 0
+          non_working_percentage = 100 - working_percentage
+          
+          # Generate report
+          report = f"""# 📺 M3U Stream Status Report
+          
+          **Generated on:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+          
+          ## 📊 Summary
+          
+          | Metric | Count | Percentage |
+          |--------|-------|------------|
+          | **Total Streams** | {total_streams} | 100% |
+          | **✅ Working Streams** | {working_streams} | {working_percentage:.1f}% |
+          | **❌ Non-working Streams** | {len(non_working)} | {non_working_percentage:.1f}% |
+          
+          ## 📁 Files Processed
+          
+          """
+          
+          for m3u_file in m3u_files:
+              if os.path.exists(m3u_file):
+                  file_streams = parse_m3u(m3u_file)
+                  report += f"- `{m3u_file}`: {len(file_streams)} streams\n"
+              else:
+                  report += f"- `{m3u_file}`: **File not found**\n"
+          
+          if non_working:
+              report += f"""
+          ## ❌ Non-working Streams ({len(non_working)} total)
+          
+          | Channel Name | Group | File | URL |
+          |-------------|-------|------|-----|
+          """
+              
+              for stream in non_working:
+                  # Escape special characters for markdown
+                  name = stream['name'].replace('|', '\\|').replace('\n', ' ').strip()
+                  group = stream['group'].replace('|', '\\|').replace('\n', ' ').strip()
+                  file_name = stream['file'].replace('|', '\\|')
+                  url = stream['url'].replace('|', '\\|')
+                  
+                  report += f"| {name} | {group} | {file_name} | `{url}` |\n"
+          else:
+              report += """
+          ## 🎉 All Streams Working!
+          
+          Congratulations! All streams are currently accessible.
+          """
+          
+          report += f"""
+          
+          ## 📝 Notes
+          
+          - This check was performed using HTTP HEAD/GET requests
+          - Some streams may show as non-working due to geo-restrictions or temporary server issues
+          - Streams are checked with a 15-second timeout
+          - Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+          
+          ---
+          *Report generated automatically by GitHub Actions*
+          """
+          
+          # Write report to file
+          try:
+              with open('report.md', 'w', encoding='utf-8') as f:
+                  f.write(report)
+              print("Report generated successfully!")
+          except Exception as e:
+              print(f"Error writing report: {str(e)}")
+          
+          print(f"Final Summary: {working_streams}/{total_streams} streams working ({working_percentage:.1f}%)")
+          EOF
+        
+      - name: Commit and push report
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add report.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update stream status report - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
