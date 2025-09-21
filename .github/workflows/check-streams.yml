@@ -36,26 +36,59 @@ jobs:
           import time
           
           def check_stream(url, timeout=15):
-              """Check if a stream URL is accessible"""
+              """Check if a stream URL is accessible and categorize failures"""
               try:
                   # Handle different types of URLs
                   headers = {
-                      'User-Agent': 'VLC/3.0.11 LibVLC/3.0.11',
-                      'Accept': '*/*'
+                      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                      'Accept': '*/*',
+                      'Accept-Language': 'en-US,en;q=0.9',
+                      'Accept-Encoding': 'gzip, deflate',
+                      'Connection': 'keep-alive',
+                      'Referer': 'https://github.com/'
                   }
                   
-                  response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
+                  # First try HEAD request
+                  try:
+                      response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
+                      if response.status_code < 400:
+                          return {"status": "working", "code": response.status_code, "error": None}
+                  except:
+                      pass
                   
-                  # If HEAD doesn't work, try GET with limited data
-                  if response.status_code >= 400:
-                      response = requests.get(url, timeout=timeout, headers=headers, stream=True)
-                      # Read only first few bytes to check if stream starts
-                      next(response.iter_content(chunk_size=1024), None)
+                  # If HEAD fails, try GET with stream
+                  response = requests.get(url, timeout=timeout, headers=headers, stream=True, allow_redirects=True)
                   
-                  return response.status_code < 400
+                  if response.status_code < 400:
+                      # Try to read a small chunk to verify it's actually streaming
+                      try:
+                          next(response.iter_content(chunk_size=1024), None)
+                          return {"status": "working", "code": response.status_code, "error": None}
+                      except:
+                          return {"status": "stream_error", "code": response.status_code, "error": "Stream not readable"}
+                  else:
+                      # Categorize HTTP errors
+                      if response.status_code == 403:
+                          return {"status": "access_denied", "code": 403, "error": "Access denied (possibly geo-blocked)"}
+                      elif response.status_code == 404:
+                          return {"status": "not_found", "code": 404, "error": "Stream not found"}
+                      elif response.status_code in [500, 502, 503, 504]:
+                          return {"status": "server_error", "code": response.status_code, "error": "Server error"}
+                      else:
+                          return {"status": "http_error", "code": response.status_code, "error": f"HTTP {response.status_code}"}
+                          
+              except requests.exceptions.Timeout:
+                  return {"status": "timeout", "code": None, "error": "Connection timeout"}
+              except requests.exceptions.ConnectionError as e:
+                  error_str = str(e)
+                  if "Name or service not known" in error_str or "Failed to resolve" in error_str:
+                      return {"status": "dns_error", "code": None, "error": "DNS resolution failed"}
+                  elif "Connection refused" in error_str:
+                      return {"status": "connection_refused", "code": None, "error": "Connection refused"}
+                  else:
+                      return {"status": "connection_error", "code": None, "error": "Connection error"}
               except Exception as e:
-                  print(f"Error checking {url}: {str(e)}")
-                  return False
+                  return {"status": "unknown_error", "code": None, "error": str(e)[:100]}
           
           def parse_m3u(file_path):
               """Parse M3U file and extract stream information"""
@@ -102,7 +135,17 @@ jobs:
           # Initialize counters and lists
           total_streams = 0
           working_streams = 0
-          non_working = []
+          categorized_failures = {
+              'access_denied': [],
+              'timeout': [],
+              'dns_error': [],
+              'not_found': [],
+              'server_error': [],
+              'connection_error': [],
+              'stream_error': [],
+              'http_error': [],
+              'unknown_error': []
+          }
           checked_streams = 0
           
           # Your M3U files (update these to match your actual file names)
@@ -128,16 +171,26 @@ jobs:
                       checked_streams += 1
                       print(f"Checking stream {checked_streams}/{total_streams}: {stream['name'][:50]}...")
                       
-                      if check_stream(stream['url']):
+                      result = check_stream(stream['url'])
+                      
+                      if result['status'] == 'working':
                           working_streams += 1
                           file_working += 1
                       else:
-                          non_working.append({
+                          # Categorize the failure
+                          failure_info = {
                               'name': stream['name'],
                               'group': stream['group'],
                               'url': stream['url'][:100] + '...' if len(stream['url']) > 100 else stream['url'],
-                              'file': m3u_file
-                          })
+                              'file': m3u_file,
+                              'error': result['error'],
+                              'code': result['code']
+                          }
+                          
+                          if result['status'] in categorized_failures:
+                              categorized_failures[result['status']].append(failure_info)
+                          else:
+                              categorized_failures['unknown_error'].append(failure_info)
                       
                       # Small delay to avoid overwhelming servers
                       time.sleep(0.1)
@@ -147,14 +200,15 @@ jobs:
               except Exception as e:
                   print(f"Error processing {m3u_file}: {str(e)}")
           
-          # Calculate percentages
+          # Calculate totals
+          total_failures = sum(len(failures) for failures in categorized_failures.values())
           working_percentage = (working_streams / total_streams * 100) if total_streams > 0 else 0
-          non_working_percentage = 100 - working_percentage
           
           # Generate report
           report = f"""# 📺 M3U Stream Status Report
           
           **Generated on:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+          **GitHub Actions Runner Location:** GitHub's infrastructure (global)
           
           ## 📊 Summary
           
@@ -162,7 +216,7 @@ jobs:
           |--------|-------|------------|
           | **Total Streams** | {total_streams} | 100% |
           | **✅ Working Streams** | {working_streams} | {working_percentage:.1f}% |
-          | **❌ Non-working Streams** | {len(non_working)} | {non_working_percentage:.1f}% |
+          | **❌ Failed Streams** | {total_failures} | {100-working_percentage:.1f}% |
           
           ## 📁 Files Processed
           
@@ -175,39 +229,72 @@ jobs:
               else:
                   report += f"- `{m3u_file}`: **File not found**\n"
           
-          if non_working:
-              report += f"""
-          ## ❌ Non-working Streams ({len(non_working)} total)
+          # Failure categories with explanations
+          failure_categories = {
+              'access_denied': ('🚫 Access Denied', 'Likely geo-blocked or requires authentication'),
+              'timeout': ('⏱️ Connection Timeouts', 'Server too slow to respond or overloaded'),
+              'dns_error': ('🌐 DNS Resolution Failures', 'Domain name cannot be resolved'),
+              'not_found': ('❓ Not Found (404)', 'Stream URL no longer exists'),
+              'server_error': ('💥 Server Errors (5xx)', 'Server-side issues'),
+              'connection_error': ('🔗 Connection Errors', 'Network connectivity issues'),
+              'stream_error': ('📺 Stream Reading Errors', 'Stream exists but content unreadable'),
+              'http_error': ('🌍 Other HTTP Errors', 'Various HTTP status codes'),
+              'unknown_error': ('❓ Unknown Errors', 'Unexpected errors')
+          }
           
-          | Channel Name | Group | File | URL |
-          |-------------|-------|------|-----|
+          if total_failures > 0:
+              report += f"""
+          ## 📋 Failure Analysis ({total_failures} total failures)
+          
           """
               
-              for stream in non_working:
-                  # Escape special characters for markdown
-                  name = stream['name'].replace('|', '\\|').replace('\n', ' ').strip()
-                  group = stream['group'].replace('|', '\\|').replace('\n', ' ').strip()
-                  file_name = stream['file'].replace('|', '\\|')
-                  url = stream['url'].replace('|', '\\|')
-                  
-                  report += f"| {name} | {group} | {file_name} | `{url}` |\n"
+              for category, failures in categorized_failures.items():
+                  if failures:
+                      title, description = failure_categories[category]
+                      report += f"""### {title} ({len(failures)} streams)
+          *{description}*
+          
+          | Channel Name | Group | File | Error Details | Code |
+          |-------------|-------|------|---------------|------|
+          """
+                      
+                      for stream in failures:
+                          # Escape special characters for markdown
+                          name = stream['name'].replace('|', '\\|').replace('\n', ' ').strip()
+                          group = stream['group'].replace('|', '\\|').replace('\n', ' ').strip()
+                          file_name = stream['file'].replace('|', '\\|')
+                          error = stream['error'].replace('|', '\\|') if stream['error'] else 'Unknown'
+                          code = stream['code'] if stream['code'] else 'N/A'
+                          
+                          report += f"| {name} | {group} | {file_name} | {error} | {code} |\n"
+                      
+                      report += "\n"
           else:
               report += """
           ## 🎉 All Streams Working!
           
-          Congratulations! All streams are currently accessible.
+          Congratulations! All streams are currently accessible from GitHub's infrastructure.
           """
           
           report += f"""
+          ## 📈 Geographic Notes
           
-          ## 📝 Notes
+          - Tests run from **GitHub Actions infrastructure** (multiple global locations)
+          - "Access Denied" errors may indicate geo-restrictions
+          - Some streams may work from different geographic locations
+          - DNS errors suggest the streaming service may be down entirely
+          - Timeout errors often indicate server overload or slow response
           
-          - This check was performed using HTTP HEAD/GET requests
-          - Some streams may show as non-working due to geo-restrictions or temporary server issues
-          - Streams are checked with a 15-second timeout
-          - Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+          ## 📝 Technical Details
+          
+          - **User-Agent:** Modern browser simulation for better compatibility
+          - **Timeout:** 15 seconds per stream
+          - **Method:** HEAD request first, then GET with stream verification
+          - **Retry Logic:** Single attempt per stream to avoid rate limiting
+          - **Headers:** Include Accept-Language and Referer for better success rates
           
           ---
+          *Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC*
           *Report generated automatically by GitHub Actions*
           """
           
