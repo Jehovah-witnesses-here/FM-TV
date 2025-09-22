@@ -217,22 +217,70 @@ https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 CUID="489" tvg-chno="null" tvg-name="VIRGIN MEDIA TWO" group-title="UK",VIRGIN MEDIA TWO
+#EXTINF:0 CUID="489" tvg-chno="null" tvg-name="VIRGIN MEDIA TWO" tvg-logo="https://logo.m3uassets.com/virginmediatwo.png" group-title="UK",VIRGIN MEDIA TWO
 http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
-#EXTINF:0 CUID="490" tvg-chno="null" tvg-name="VIRGIN MEDIA THREE" group-title="UK",VIRGIN MEDIA THREE
+#EXTINF:0 CUID="490" tvg-chno="null" tvg-name="VIRGIN MEDIA THREE" tvg-logo="https://logo.m3uassets.com/virginmediathree.png" group-title="UK",VIRGIN MEDIA THREE
 http://185.99.136.50:9981/stream/channelid/1547165180?profile=pass
-#EXTINF:0 CUID="491" tvg-chno="null" tvg-name="VIRGIN MEDIA FOUR" group-title="UK",VIRGIN MEDIA FOUR
+#EXTINF:0 CUID="491" tvg-chno="null" tvg-name="VIRGIN MEDIA FOUR" tvg-logo="https://logo.m3uassets.com/virginmediafour.png" group-title="UK",VIRGIN MEDIA FOUR
 http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
-#EXTINF:0 CUID="492" tvg-chno="null" tvg-name="RTÈ NEWS" group-title="UK",RTÈ NEWS
+#EXTINF:0 CUID="492" tvg-chno="null" tvg-name="RTÈ NEWS" tvg-logo="https://logo.m3uassets.com/rtenews.png" group-title="UK",RTÈ NEWS
 http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
-#EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." group-title="UK",RTÈ JR.
+#EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="UK",RTÈ JR.
 http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
 #EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" group-title="UK",TG 4+1
 http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
-#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" group-title="UK",BBC ALBA
+#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" tvg-logo="https://logo.m3uassets.com/bbcalba.png" group-title="UK",BBC ALBA
 http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
 #EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" group-title="UK",ITV QUIZ
 http://185.99.136.50:9981/stream/channelid/372639910?profile=pass
+#EXTINF:0 CUID="497" tvg-chno="null" tvg-name="SKY ARTS" tvg-logo="https://logo.m3uassets.com/skyarts.png" group-title="UK",SKY ARTS
+http://185.99.136.50:9981/stream/channelid/1862163777?profile=pass
+#EXTINF:0 CUID="498" tvg-chno="null" tvg-name="REALLY" tvg-logo="https://logo.m3uassets.com/really.png" group-title="UK",REALLY
+http://185.99.136.50:9981/stream/channelid/1475236954?profile=pass
+#EXTINF:0 CUID="499" tvg-chno="null" tvg-name="QUEST RED" tvg-logo="https://logo.m3uassets.com/questred.png" group-title="UK",QUEST RED
+http://185.99.136.50:9981/stream/channelid/1493802683?profile=pass
+#EXTINF:0 CUID="500" tvg-chno="null" tvg-name="DMAX" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="UK",DMAX
+http://185.99.136.50:9981/stream/channelid/764978521?profile=pass
+#EXTINF:0 CUID="501" tvg-chno="null" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="UK",HGTV
+http://185.99.136.50:9981/stream/channelid/1176777508?profile=pass
+#EXTINF:0 CUID="502" tvg-chno="null" tvg-name="QUEST" tvg-logo="https://logo.m3uassets.com/questp.png" group-title="UK",QUEST
+http://185.99.136.50:9981/stream/channelid/1685007534?profile=pass
+#EXTINF:0 CUID="503" tvg-chno="null" tvg-name="QUEST+1" tvg-logo="https://logo.m3uassets.com/quest+1.png" group-title="UK",QUEST+1
+http://185.99.136.50:9981/stream/channelid/297910009?profile=pass
+#EXTINF:0 CUID="504" tvg-chno="null" tvg-name="U&W" tvg-logo="https://logo.m3uassets.com/uandw.png" group-title="UK",U&W
+http://185.99.136.50:9981/stream/channelid/1510803961?profile=pass
+#EXTINF:0 CUID="505" tvg-chno="null" tvg-name="U&DAVE" tvg-logo="https://logo.m3uassets.com/uanddave.png" group-title="UK",U&DAVE
+http://185.99.136.50:9981/stream/channelid/1127047218?profile=pass
+#EXTINF:0 CUID="507" tvg-chno="null" tvg-name="U&DRAMA" tvg-logo="https://logo.m3uassets.com/uanddrama.png" group-title="UK",U&DRAMA
+http://185.99.136.50:9981/stream/channelid/23629857?profile=pass
+#EXTINF:0 CUID="508" tvg-chno="null" tvg-name="U&YESTERDAY" tvg-logo="https://logo.m3uassets.com/uandyesterday.png" group-title="UK",U&YESTERDAY
+http://185.99.136.50:9981/stream/channelid/1076237312?profile=pass
+#EXTINF:0 CUID="509" tvg-chno="null" tvg-name="U&EDEN" tvg-logo="https://logo.m3uassets.com/uandeden.png" group-title="UK",U&EDEN
+http://185.99.136.50:9981/stream/channelid/607795469?profile=pass
+#EXTINF:0 CUID="510" tvg-chno="null" tvg-name="TOGETHER TV" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK",TOGETHER TV
+http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
+#EXTINF:0 CUID="511" tvg-chno="null" tvg-name="BBC SCOTLAND" tvg-logo="https://logo.m3uassets.com/bbcscotland.png" group-title="UK",BBC SCOTLAND
+http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
+#EXTINF:0 CUID="512" tvg-chno="null" tvg-name="BBC PARLIAMENT" tvg-logo="https://logo.m3uassets.com/bbcparliament.png" group-title="UK",BBC PARLIAMENT
+http://185.99.136.50:9981/stream/channelid/461645423?profile=pass
+#EXTINF:0 CUID="513" tvg-chno="null" tvg-name="AL JAZEERA ENGLISH" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK",AL JAZEERA ENGLISH
+http://185.99.136.50:9981/stream/channelid/1299425142?profile=pass
+#EXTINF:0 CUID="514" tvg-chno="null" tvg-name="TRT WORLD" tvg-logo="https://logo.m3uassets.com/trtworld.png" group-title="UK",TRT WORLD
+http://185.99.136.50:9981/stream/channelid/1031041867?profile=pass
+#EXTINF:0 CUID="515" tvg-chno="null" tvg-name="DAYSTAR" tvg-logo="https://logo.m3uassets.com/daystar.png" group-title="UK",DAYSTAR
+http://185.99.136.50:9981/stream/channelid/1555913123?profile=pass
+#EXTINF:0 CUID="516" tvg-chno="null" tvg-name="RTÈ ONE" tvg-logo="https://logo.m3uassets.com/rteone.png" group-title="UK",RTÈ ONE
+http://185.99.136.50:9981/stream/channelid/1459190158?profile=pass
+#EXTINF:0 CUID="517" tvg-chno="null" tvg-name="RTÈ 2" tvg-logo="https://logo.m3uassets.com/rt2.png" group-title="UK",RTÈ 2
+http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
+#EXTINF:0 CUID="518" tvg-chno="null" tvg-name="VIRIGIN MEDIA ONE" tvg-logo="https://logo.m3uassets.com/virginmediaone.png" group-title="UK",VIRIGIN MEDIA ONE
+http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
+#EXTINF:0 CUID="519" tvg-chno="null" tvg-name="CHALLENGE" tvg-logo="https://logo.m3uassets.com/challenge.png" group-title="UK",CHALLENGE
+http://185.99.136.50:9981/stream/channelid/1884126385?profile=pass
+#EXTINF:0 CUID="520" tvg-chno="null" tvg-name="ITV 4" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="UK",ITV 4
+http://185.99.136.50:9981/stream/channelid/2144361280?profile=pass
+#EXTINF:0 CUID="521" tvg-chno="null" tvg-name="ITV 1" tvg-logo="https://logo.m3uassets.com/itv1.png" group-title="UK",ITV 1
+http://185.99.136.50:9981/stream/channelid/548411237?profile=pass
 #EXTINF:0 CUID="12" tvg-chno="null" tvg-name="GAME SHOW NETWORK (EAST)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="US",GAME SHOW NETWORK (EAST)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
