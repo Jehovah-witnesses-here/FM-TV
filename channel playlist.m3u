@@ -555,5 +555,131 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:0 CUID="417" tvg-chno="null" tvg-name="ORA NEWS" group-title="AL",ORA NEWS
 https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0 CUID="418" tvg-chno="null" tvg-name="REPORT TV" group-title="AL",REPORT TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0 CUID="419" tvg-chno="null" tvg-name="VIZION PLUS" group-title="AL",VIZION PLUS
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:0 CUID="420" tvg-chno="null" tvg-name="ARMENIA 1" group-title="AM",ARMENIA 1
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:0 CUID="421" tvg-chno="null" tvg-name="ARMENIA 2" group-title="AM",ARMENIA 2
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:0 CUID="422" tvg-chno="null" tvg-name="ARTN TV" group-title="AM",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:0 CUID="423" tvg-chno="null" tvg-name="FIRST CHANNEL NEWS" group-title="AM",FIRST CHANNEL NEWS
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:0 CUID="424" tvg-chno="null" tvg-name="SONGTV ARMENIA" group-title="AM",SONGTV ARMENIA
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:0 CUID="425" tvg-chno="null" tvg-name="KK TV ANGOLA" group-title="AO",KK TV ANGOLA
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:0 CUID="426" tvg-chno="null" tvg-name="MUZANGALA TV" group-title="AO",MUZANGALA TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:0 CUID="427" tvg-chno="null" tvg-name="TV ZIMBO" group-title="AO",TV ZIMBO
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:0 CUID="428" tvg-chno="null" tvg-name="5TV CORRIENTES" group-title="AR",5TV CORRIENTES
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:0 CUID="429" tvg-chno="null" tvg-name="13MAX TELEVISIÓN" group-title="AR",13MAX TELEVISIÓN
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0 CUID="430" tvg-chno="null" tvg-name="AIRE DE SANTA FE" group-title="AR",AIRE DE SANTA FE
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:0 CUID="431" tvg-chno="null" tvg-name="ALTERNA TV" group-title="AR",ALTERNA TV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:0 CUID="432" tvg-chno="null" tvg-name="ARGENTINÍSIMA SATELITAL" group-title="AR",ARGENTINÍSIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:0 CUID="433" tvg-chno="null" tvg-name="AZAHARES RADIO MULTIMEDIA" group-title="AR",AZAHARES RADIO MULTIMEDIA
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:0 CUID="434" tvg-chno="null" tvg-name="BEATS RADIO" group-title="AR",BEATS RADIO
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:0 CUID="435" tvg-chno="null" tvg-name="CABLE IMAGEN ARMSTRONG" group-title="AR",CABLE IMAGEN ARMSTRONG
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:0 CUID="436" tvg-chno="null" tvg-name="CADENA 103" group-title="AR",CADENA 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+#EXTINF:0 CUID="437" tvg-chno="null" tvg-name="CANAL 2 DE USHUAIA" group-title="AR",CANAL 2 DE USHUAIA
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:0 CUID="438" tvg-chno="null" tvg-name="CANAL 2 MISIONES" group-title="AR",CANAL 2 MISIONES
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:0 CUID="439" tvg-chno="null" tvg-name="CANAL 3 LA PAMPA" group-title="AR",CANAL 3 LA PAMPA
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:0 CUID="440" tvg-chno="null" tvg-name="CANAL 3 LAS HERAS" group-title="AR",CANAL 3 LAS HERAS
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:0 CUID="441" tvg-chno="null" tvg-name="CANAL 4 POSADAS" group-title="AR",CANAL 4 POSADAS
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:0 CUID="442" tvg-chno="null" tvg-name="CANAL 4 SAN JUAN" group-title="AR",CANAL 4 SAN JUAN
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:0 CUID="443" tvg-chno="null" tvg-name="CANAL 5 DEL PUEBLO" group-title="AR",CANAL 5 DEL PUEBLO
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:0 CUID="444" tvg-chno="null" tvg-name="CANAL 5 PICO TRUNCADO" group-title="AR",CANAL 5 PICO TRUNCADO
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:0 CUID="445" tvg-chno="null" tvg-name="CANAL 5 SANTA FE" group-title="AR",CANAL 5 SANTA FE
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:0 CUID="446" tvg-chno="null" tvg-name="CANAL 6 POSADAS" group-title="AR",CANAL 6 POSADAS
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:0 CUID="447" tvg-chno="null" tvg-name="CANAL 7 SALTA" group-title="AR",CANAL 7 SALTA
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:0 CUID="448" tvg-chno="null" tvg-name="CANAL 7 SANTIAGO DEL ESTERO" group-title="AR",CANAL 7 SANTIAGO DEL ESTERO
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:0 CUID="449" tvg-chno="null" tvg-name="CANAL 9 LITORAL" group-title="AR",CANAL 9 LITORAL
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:0 CUID="450" tvg-chno="null" tvg-name="CANAL 9 RESISTENCIA" group-title="AR",CANAL 9 RESISTENCIA
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:0 CUID="451" tvg-chno="null" tvg-name="CANAL 11 DE LA COSTA" group-title="AR",CANAL 11 DE LA COSTA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:0 CUID="452" tvg-chno="null" tvg-name="CANAL 13 LA RIOJA" group-title="AR",CANAL 13 LA RIOJA
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:0 CUID="453" tvg-chno="null" tvg-name="CANAL 21 TV" group-title="AR",CANAL 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:0 CUID="454" tvg-chno="null" tvg-name="2GB SYDNEY" group-title="AUS",2GB SYDNEY
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:0 CUID="455" tvg-chno="null" tvg-name="3AW MELBOURNE" group-title="AUS",3AW MELBOURNE
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:0 CUID="456" tvg-chno="null" tvg-name="6PR PERTH" group-title="AUS",6PR PERTH
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:0 CUID="457" tvg-chno="null" tvg-name="10 BOLD ADELAIDE" group-title="AUS",10 BOLD ADELAIDE
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:0 CUID="458" tvg-chno="null" tvg-name="ABC AUSTRALIA" group-title="AUS",ABC AUSTRALIA
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:0 CUID="459" tvg-chno="null" tvg-name="ABC AUSTRALIA VIETNAM" group-title="AUS",ABC AUSTRALIA VIETNAM
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+#EXTINF:0 CUID="460" tvg-chno="null" tvg-name="ABC KIDS" group-title="AUS",ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:0 CUID="461" tvg-chno="null" tvg-name="ABC ME" group-title="AUS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:0 CUID="462" tvg-chno="null" tvg-name="ABC NEWS" group-title="AUS",ABC NEWS
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:0 CUID="463" tvg-chno="null" tvg-name="ABC TV ADELAIDE" group-title="AUS",ABC TV ADELAIDE
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:0 CUID="464" tvg-chno="null" tvg-name="ABC TV BRISBANE" group-title="AUS",ABC TV BRISBANE
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:0 CUID="465" tvg-chno="null" tvg-name="ABC TV CANBERRA" group-title="AUS",ABC TV CANBERRA
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:0 CUID="466" tvg-chno="null" tvg-name="ABC TV DARWIN" group-title="AUS",ABC TV DARWIN
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:0 CUID="467" tvg-chno="null" tvg-name="ABC TV HOBART" group-title="AUS",ABC TV HOBART
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:0 CUID="468" tvg-chno="null" tvg-name="ABC TV MELBOURNE" group-title="AUS",ABC TV MELBOURNE
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:0 CUID="469" tvg-chno="null" tvg-name="ABC TV PERTH" group-title="AUS",ABC TV PERTH
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:0 CUID="470" tvg-chno="null" tvg-name="ABC TV PLUS" group-title="AUS",ABC TV PLUS
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:0 CUID="471" tvg-chno="null" tvg-name="ABC TV SYDNEY" group-title="AUS",ABC TV SYDNEY
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:0 CUID="472" tvg-chno="null" tvg-name="AUSBIZ TV" group-title="AUS",AUSBIZ TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:0 CUID="473" tvg-chno="null" tvg-name="BLOOMBERG TELEVISION AUSTRALIA" group-title="AUS",BLOOMBERG TELEVISION AUSTRALIA
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:0 CUID="474" tvg-chno="null" tvg-name="C31 MELBOURNE" group-title="AUS",C31 MELBOURNE
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:0 CUID="475" tvg-chno="null" tvg-name="CHANNEL 44" group-title="AUS",CHANNEL 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:0 CUID="476" tvg-chno="null" tvg-name="CTB PERTH" group-title="AUS",CTB PERTH
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:0 CUID="477" tvg-chno="null" tvg-name="CTB PERTH MOVIES" group-title="AUS",CTB PERTH MOVIES
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:0 CUID="478" tvg-chno="null" tvg-name="CTB PERTH NEWS" group-title="AUS",CTB PERTH NEWS
+https://news.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:0 CUID="479" tvg-chno="null" tvg-name="EXPO CHANNEL" group-title="AUS",EXPO CHANNEL
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:0 CUID="480" tvg-chno="null" tvg-name="INDO OZ TV" group-title="AUS",INDO OZ TV
+https://stream.e2is.in/hls/indoztv.m3u8
 #EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
 https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
