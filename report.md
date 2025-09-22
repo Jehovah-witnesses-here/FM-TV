@@ -1,38 +1,39 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-22 12:49:12 UTC
+**Generated on:** 2025-09-22 18:34:14 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 691 | 100% |
-| **✅ Working Streams** | 687 | 99.4% |
-| **❌ Failed Streams** | 4 | 0.6% |
+| **Total Streams** | 774 | 100% |
+| **✅ Working Streams** | 763 | 98.6% |
+| **❌ Failed Streams** | 11 | 1.4% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 196 streams
+- `channel playlist.m3u`: 279 streams
 
-## 📋 Failure Analysis (4 total failures)
+## 📋 Failure Analysis (11 total failures)
 
-### 🚫 Access Denied (2 streams)
+### 🚫 Access Denied (11 streams)
 *Likely geo-blocked or requires authentication*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
-
-### ❓ Not Found (404) (2 streams)
-*Stream URL no longer exists*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| BBC EARTH | INTERNATIONAL | channel playlist.m3u | Stream not found | 404 |
-| BBC LIFESTYLE | INTERNATIONAL | channel playlist.m3u | Stream not found | 404 |
+| ALARABIYA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC 1 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC 4 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC 5 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC BOLLYWOOD | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC DRAMA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| MBC PERSIA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
 
 ## 📈 Geographic Notes
@@ -52,5 +53,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-22 12:49:12 UTC*
+*Last updated: 2025-09-22 18:34:14 UTC*
 *Report generated automatically by GitHub Actions*
