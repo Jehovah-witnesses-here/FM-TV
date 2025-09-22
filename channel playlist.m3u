@@ -83,13 +83,29 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
 #EXTINF:0 CUID="109" tvg-chno="null" tvg-name="TOP GEAR" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="FAST",TOP GEAR
 https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="335" tvg-chno="null" tvg-name="ION" group-title="FAST",ION
+#EXTINF:0 CUID="335" tvg-chno="null" tvg-name="ION" tvg-logo="https://logo.m3uassets.com/ion.png" group-title="FAST",ION
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
-#EXTINF:0 CUID="336" tvg-chno="null" tvg-name="ION PLUS" group-title="FAST",ION PLUS
+#EXTINF:0 CUID="336" tvg-chno="null" tvg-name="ION PLUS" tvg-logo="https://logo.m3uassets.com/ionplus.png" group-title="FAST",ION PLUS
 https://live-manifest.production-public.tubi.io/live/0e9538d9-1180-4710-9b00-4bf312c6dd17/playlist.m3u8
 #EXTINF:0 CUID="337" tvg-chno="null" tvg-name="SONY ONE ACTION HITS" group-title="FAST",SONY ONE ACTION HITS
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL",TRACE URBAN
+#EXTINF:0 CUID="338" tvg-chno="null" tvg-name="SONY ONE COMEDY HITS" group-title="FAST",SONY ONE COMEDY HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="339" tvg-chno="null" tvg-name="SONY ONE THRILLER TV" group-title="FAST",SONY ONE THRILLER TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="340" tvg-chno="null" tvg-name="SONY ONE COMEDY TV" group-title="FAST",SONY ONE COMEDY TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="341" tvg-chno="null" tvg-name="SONY ONE FAVES" group-title="FAST",SONY ONE FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="342" tvg-chno="null" tvg-name="ICON FILM CHANNEL" group-title="FAST",ICON FILM CHANNEL
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+#EXTINF:0 CUID="343" tvg-chno="null" tvg-name="SPARKLE MOVIES" group-title="FAST",SPARKLE MOVIES
+https://4e7a7263575046f8a1d1770818e39216.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_SparkleMovies/playlist.m3u8
+#EXTINF:0 CUID="344" tvg-chno="null" tvg-name="STORIES BY AMC" tvg-logo="https://logo.m3uassets.com/storiesbyamc.png" group-title="FAST",STORIES BY AMC
+https://dcdf4f2976be4aac8e4094d129e179a9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_StoriesByAMC/playlist.m3u8
+#EXTINF:0 CUID="345" tvg-chno="null" tvg-name="THE WALKING DEAD UNIVERSE" tvg-logo="https://logo.m3uassets.com/thewalkingdeaduniverse.png" group-title="FAST",THE WALKING DEAD UNIVERSE
+https://4af795c331a141e19ee30918d8abc796.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_TheWalkingDeadUniverse/playlist.m3u8
+#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL ENGLISH",TRACE URBAN
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:0 CUID="1" tvg-chno="null" tvg-name="BLAZE" tvg-id="BLAZE.uk" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="UK",BLAZE
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
@@ -389,13 +405,19 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" group-title="US",RACER TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 CUID="338" tvg-chno="null" tvg-name="SONY ONE COMEDY HITS" group-title="US",SONY ONE COMEDY HITS
-https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" group-title="AE",ABU DHABI ALOULA
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:0 CUID="348" tvg-chno="null" tvg-name="ABU DHABI SPORTS 2" group-title="AE",ABU DHABI SPORTS 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:0 CUID="349" tvg-chno="null" tvg-name="AJMAN TV" group-title="AE",AJMAN TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
 https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
