@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-22 06:39:36 UTC
+**Generated on:** 2025-09-22 12:49:12 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 691 | 100% |
-| **✅ Working Streams** | 686 | 99.3% |
-| **❌ Failed Streams** | 5 | 0.7% |
+| **✅ Working Streams** | 687 | 99.4% |
+| **❌ Failed Streams** | 4 | 0.6% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 196 streams
 
-## 📋 Failure Analysis (5 total failures)
+## 📋 Failure Analysis (4 total failures)
 
 ### 🚫 Access Denied (2 streams)
 *Likely geo-blocked or requires authentication*
@@ -26,14 +26,13 @@
 | BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (3 streams)
-*Server too slow to respond or overloaded*
+### ❓ Not Found (404) (2 streams)
+*Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| Global TV | CA | channel playlist.m3u | Connection timeout | N/A |
-| CTV | CA | channel playlist.m3u | Connection timeout | N/A |
-| Citytv | CA | channel playlist.m3u | Connection timeout | N/A |
+| BBC EARTH | INTERNATIONAL | channel playlist.m3u | Stream not found | 404 |
+| BBC LIFESTYLE | INTERNATIONAL | channel playlist.m3u | Stream not found | 404 |
 
 
 ## 📈 Geographic Notes
@@ -53,5 +52,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-22 06:39:36 UTC*
+*Last updated: 2025-09-22 12:49:12 UTC*
 *Report generated automatically by GitHub Actions*
