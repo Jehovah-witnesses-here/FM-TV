@@ -411,7 +411,7 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
-#EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" group-title="AE",ABU DHABI ALOULA
+#EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
@@ -419,7 +419,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/ind
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:0 CUID="349" tvg-chno="null" tvg-name="AJMAN TV" group-title="AE",AJMAN TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:0 CUID="350" tvg-chno="null" tvg-name="AL ARABIYA" group-title="AE",AL ARABIYA
+#EXTINF:0 CUID="350" tvg-chno="null" tvg-name="AL ARABIYA" tvg-logo="https://logo.m3uassets.com/alarabiya.png" group-title="AE",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0 CUID="351" tvg-chno="null" tvg-name="AL ARABIYA BUSINESS" group-title="AE",AL ARABIYA BUSINESS
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
@@ -429,7 +429,7 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 #EXTINF:0 CUID="354" tvg-chno="null" tvg-name="AL MASHHAD" group-title="AE",AL MASHHAD
 https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:0 CUID="355" tvg-chno="null" tvg-name="AL QAMAR TV" group-title="AE",AL QAMAR TV
+#EXTINF:0 CUID="355" tvg-chno="null" tvg-name="AL QAMAR TV" tvg-logo="https://logo.m3uassets.com/almashhad.png" group-title="AE",AL QAMAR TV
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:0 CUID="356" tvg-chno="null" tvg-name="AL SHALLAL TV" group-title="AE",AL SHALLAL TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
@@ -439,65 +439,121 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 CUID="359" tvg-chno="null" tvg-name="AL YAUM TV" group-title="AE",AL YAUM TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:0 CUID="360" tvg-chno="null" tvg-name="ALARABIYA" group-title="AE",ALARABIYA
+#EXTINF:0 CUID="360" tvg-chno="null" tvg-name="ALARABIYA" tvg-logo="https://logo.m3uassets.com/alarabiya.png" group-title="AE",ALARABIYA
 https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:0 CUID="361" tvg-chno="null" tvg-name="BAYNOUNAH TV" group-title="AE",BAYNOUNAH TV
+#EXTINF:0 CUID="361" tvg-chno="null" tvg-name="BAYNOUNAH TV" tvg-logo="https://logo.m3uassets.com/baynounahtv.png" group-title="AE",BAYNOUNAH TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:0 CUID="362" tvg-chno="null" tvg-name="CNBC ARABIYA" group-title="AE",CNBC ARABIYA
+#EXTINF:0 CUID="362" tvg-chno="null" tvg-name="CNBC ARABIYA" tvg-logo="https://logo.m3uassets.com/cnbcarabiya.png" group-title="AE",CNBC ARABIYA
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:0 CUID="363" tvg-chno="null" tvg-name="DUBAI ONE" group-title="AE",DUBAI ONE
+#EXTINF:0 CUID="363" tvg-chno="null" tvg-name="DUBAI ONE" tvg-logo="https://logo.m3uassets.com/dubaione.png" group-title="AE",DUBAI ONE
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="364" tvg-chno="null" tvg-name="DUBAI RACING" group-title="AE",DUBAI RACING
+#EXTINF:0 CUID="364" tvg-chno="null" tvg-name="DUBAI RACING" tvg-logo="https://logo.m3uassets.com/dubairacing.png" group-title="AE",DUBAI RACING
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="365" tvg-chno="null" tvg-name="DUBAI RACING 2" group-title="AE",DUBAI RACING 2
+#EXTINF:0 CUID="365" tvg-chno="null" tvg-name="DUBAI RACING 2" tvg-logo="https://logo.m3uassets.com/dubairacing2.png" group-title="AE",DUBAI RACING 2
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:0 CUID="366" tvg-chno="null" tvg-name="DUBAI RACING 3" group-title="AE",DUBAI RACING 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:0 CUID="367" tvg-chno="null" tvg-name="DUBAI SPORTS 1" group-title="AE",DUBAI SPORTS 1
+#EXTINF:0 CUID="367" tvg-chno="null" tvg-name="DUBAI SPORTS 1" tvg-logo="https://logo.m3uassets.com/dubaisports1.png" group-title="AE",DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="368" tvg-chno="null" tvg-name="DUBAI TV" group-title="AE",DUBAI TV
+#EXTINF:0 CUID="368" tvg-chno="null" tvg-name="DUBAI TV" tvg-logo="https://logo.m3uassets.com/dubaitv.png" group-title="AE",DUBAI TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="369" tvg-chno="null" tvg-name="DUBAI ZAMAN (NOT 24/7)" group-title="AE",DUBAI ZAMAN (NOT 24/7)
+#EXTINF:0 CUID="369" tvg-chno="null" tvg-name="DUBAI ZAMAN (NOT 24/7)" tvg-logo="https://logo.m3uassets.com/dubaizaman.png" group-title="AE",DUBAI ZAMAN (NOT 24/7)
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="370" tvg-chno="null" tvg-name="FUJAIRAH TV" group-title="AE",FUJAIRAH TV
+#EXTINF:0 CUID="370" tvg-chno="null" tvg-name="FUJAIRAH TV" tvg-logo="https://logo.m3uassets.com/fujairahtv.png" group-title="AE",FUJAIRAH TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:0 CUID="371" tvg-chno="null" tvg-name="MAJID" group-title="AE",MAJID
+#EXTINF:0 CUID="371" tvg-chno="null" tvg-name="MAJID" tvg-logo="https://logo.m3uassets.com/majid.png" group-title="AE",MAJID
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:0 CUID="372" tvg-chno="null" tvg-name="MBC 1" group-title="AE",MBC 1
+#EXTINF:0 CUID="372" tvg-chno="null" tvg-name="MBC 1" tvg-logo="https://logo.m3uassets.com/mbc1.png" group-title="AE",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:0 CUID="373" tvg-chno="null" tvg-name="MBC 4" group-title="AE",MBC 4
+#EXTINF:0 CUID="373" tvg-chno="null" tvg-name="MBC 4" tvg-logo="https://logo.m3uassets.com/mbc4.png" group-title="AE",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:0 CUID="374" tvg-chno="null" tvg-name="MBC 5" group-title="AE",MBC 5
+#EXTINF:0 CUID="374" tvg-chno="null" tvg-name="MBC 5" tvg-logo="https://logo.m3uassets.com/mbc5.png" group-title="AE",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:0 CUID="375" tvg-chno="null" tvg-name="MBC ACTION" group-title="AE",MBC ACTION
+#EXTINF:0 CUID="375" tvg-chno="null" tvg-name="MBC ACTION" tvg-logo="https://logo.m3uassets.com/mbcaction.png" group-title="AE",MBC ACTION
 http://213.57.91.138:8000/play/a05l
-#EXTINF:0 CUID="376" tvg-chno="null" tvg-name="MBC BOLLYWOOD" group-title="AE",MBC BOLLYWOOD
+#EXTINF:0 CUID="376" tvg-chno="null" tvg-name="MBC BOLLYWOOD" tvg-logo="https://logo.m3uassets.com/mbcbollywood.png" group-title="AE",MBC BOLLYWOOD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:0 CUID="377" tvg-chno="null" tvg-name="MBC DRAMA" group-title="AE",MBC DRAMA
+#EXTINF:0 CUID="377" tvg-chno="null" tvg-name="MBC DRAMA" tvg-logo="https://logo.m3uassets.com/mbcdrama.png" group-title="AE",MBC DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:0 CUID="378" tvg-chno="null" tvg-name="MBC FM" group-title="AE",MBC FM
+#EXTINF:0 CUID="378" tvg-chno="null" tvg-name="MBC FM" tvg-logo="https://logo.m3uassets.com/mbcfm.png" group-title="AE",MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:0 CUID="379" tvg-chno="null" tvg-name="MBC PERSIA" group-title="AE",MBC PERSIA
+#EXTINF:0 CUID="379" tvg-chno="null" tvg-name="MBC PERSIA" tvg-logo="https://logo.m3uassets.com/mbcpersia.png" group-title="AE",MBC PERSIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:0 CUID="380" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC ABU DHABI" group-title="AE",NATIONAL GEOGRAPHIC ABU DHABI
+#EXTINF:0 CUID="380" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC ABU DHABI" tvg-logo="https://logo.m3uassets.com/nationalgeographicabudhabi.png" group-title="AE",NATIONAL GEOGRAPHIC ABU DHABI
 http://213.57.91.138:8000/play/a05a
-#EXTINF:0 CUID="381" tvg-chno="null" tvg-name="NOOR DUBAI" group-title="AE",NOOR DUBAI
+#EXTINF:0 CUID="381" tvg-chno="null" tvg-name="NOOR DUBAI" tvg-logo="https://logo.m3uassets.com/noordubai.png" group-title="AE",NOOR DUBAI
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:0 CUID="382" tvg-chno="null" tvg-name="NOUR TV" group-title="AE",NOUR TV
+#EXTINF:0 CUID="382" tvg-chno="null" tvg-name="NOUR TV" tvg-logo="https://logo.m3uassets.com/ourtv.png" group-title="AE",NOUR TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:0 CUID="383" tvg-chno="null" tvg-name="PEACE TV BANGLA" group-title="AE",PEACE TV BANGLA
+#EXTINF:0 CUID="383" tvg-chno="null" tvg-name="PEACE TV BANGLA" tvg-logo="https://logo.m3uassets.com/peacetv.png" group-title="AE",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:0 CUID="384" tvg-chno="null" tvg-name="PEACE TV CHINESE" group-title="AE",PEACE TV CHINESE
+#EXTINF:0 CUID="384" tvg-chno="null" tvg-name="PEACE TV CHINESE" tvg-logo="https://logo.m3uassets.com/peacetv.png" group-title="AE",PEACE TV CHINESE
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:0 CUID="385" tvg-chno="null" tvg-name="PEACE TV ENGLISH" group-title="AE",PEACE TV ENGLISH
+#EXTINF:0 CUID="385" tvg-chno="null" tvg-name="PEACE TV ENGLISH" tvg-logo="https://logo.m3uassets.com/peacetv.png" group-title="AE",PEACE TV ENGLISH
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:0 CUID="386" tvg-chno="null" tvg-name="PEACE TV URDU" group-title="AE",PEACE TV URDU
+#EXTINF:0 CUID="386" tvg-chno="null" tvg-name="PEACE TV URDU" tvg-logo="https://logo.m3uassets.com/peacetv.png" group-title="AE",PEACE TV URDU
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:0 CUID="387" tvg-chno="null" tvg-name="PULSE95 RADIO" group-title="AE",PULSE95 RADIO
+#EXTINF:0 CUID="387" tvg-chno="null" tvg-name="PULSE95 RADIO" tvg-logo="https://logo.m3uassets.com/pulse.png" group-title="AE",PULSE95 RADIO
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:0 CUID="388" tvg-chno="null" tvg-name="SAMA DUBAI" group-title="AE",SAMA DUBAI
+#EXTINF:0 CUID="388" tvg-chno="null" tvg-name="SAMA DUBAI" tvg-logo="https://logo.m3uassets.com/samadubai.png" group-title="AE",SAMA DUBAI
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:0 CUID="389" tvg-chno="null" tvg-name="SHARJAH 2" group-title="AE",SHARJAH 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:0 CUID="390" tvg-chno="null" tvg-name="SHARJAH RADIO" group-title="AE",SHARJAH RADIO
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+#EXTINF:0 CUID="391" tvg-chno="null" tvg-name="SHARJAH RADIO QURAN" group-title="AE",SHARJAH RADIO QURAN
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:0 CUID="392" tvg-chno="null" tvg-name="SHARJAH SPORTS" group-title="AE",SHARJAH SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0 CUID="393" tvg-chno="null" tvg-name="SHARJAH TV" group-title="AE",SHARJAH TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0 CUID="394" tvg-chno="null" tvg-name="SKY NEWS ARABIA" group-title="AE",SKY NEWS ARABIA
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:0 CUID="395" tvg-chno="null" tvg-name="SKY NEWS ARABIA (PORTRAIT)" group-title="AE",SKY NEWS ARABIA (PORTRAIT)
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:0 CUID="396" tvg-chno="null" tvg-name="SPACETOON ARABIC" group-title="AE",SPACETOON ARABIC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:0 CUID="397" tvg-chno="null" tvg-name="WANASAH" group-title="AE",WANASAH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:0 CUID="398" tvg-chno="null" tvg-name="WATAR RADIO" group-title="AE",WATAR RADIO
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:0 CUID="399" tvg-chno="null" tvg-name="AMC" group-title="AF",AMC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:0 CUID="400" tvg-chno="null" tvg-name="BAHAR TV" group-title="AF",BAHAR TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:0 CUID="401" tvg-chno="null" tvg-name="Chekad TV" group-title="AF",Chekad TV
+https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:0 CUID="402" tvg-chno="null" tvg-name="DUNYA NAW TV" group-title="AF",DUNYA NAW TV
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:0 CUID="403" tvg-chno="null" tvg-name="ESLAH TV" group-title="AF",ESLAH TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+#EXTINF:0 CUID="405" tvg-chno="null" tvg-name="KAYHAN TV" group-title="AF",KAYHAN TV
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:0 CUID="406" tvg-chno="null" tvg-name="RTA" group-title="AF",RTA
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+#EXTINF:0 CUID="408" tvg-chno="null" tvg-name="RTA NEWS" group-title="AF",RTA NEWS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
+#EXTINF:0 CUID="409" tvg-chno="null" tvg-name="RTA SPORT" group-title="AF",RTA SPORT
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:0 CUID="410" tvg-chno="null" tvg-name="TAMADON TV" group-title="AF",TAMADON TV
+https://hls.tamadon.live/hls/stream.m3u8
+#EXTINF:0 CUID="411" tvg-chno="null" tvg-name="ALBKANALE MUSIC TV" group-title="AL",ALBKANALE MUSIC TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:0 CUID="412" tvg-chno="null" tvg-name="BANG BANG" group-title="AL",BANG BANG
+https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_004&playlist_template=nginx&profile_id=1&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783&video_id=16377
+#EXTINF:0 CUID="413" tvg-chno="null" tvg-name="CNA" group-title="AL",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0 CUID="414" tvg-chno="null" tvg-name="CUFO" group-title="AL",CUFO
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:0 CUID="415" tvg-chno="null" tvg-name="NEWS 24" group-title="AL",NEWS 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0 CUID="416" tvg-chno="null" tvg-name="NEWS 24 ALBANIA" group-title="AL",NEWS 24 ALBANIA
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 CUID="417" tvg-chno="null" tvg-name="ORA NEWS" group-title="AL",ORA NEWS
+https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
 https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
