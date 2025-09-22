@@ -213,6 +213,26 @@ https://a1xs.vip/2000024
 https://a1xs.vip/1000052
 #EXTINF:0 CUID="319" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",BBC ONE LONDON
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:0 CUID="489" tvg-chno="null" tvg-name="VIRGIN MEDIA TWO" group-title="UK",VIRGIN MEDIA TWO
+http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
+#EXTINF:0 CUID="490" tvg-chno="null" tvg-name="VIRGIN MEDIA THREE" group-title="UK",VIRGIN MEDIA THREE
+http://185.99.136.50:9981/stream/channelid/1547165180?profile=pass
+#EXTINF:0 CUID="491" tvg-chno="null" tvg-name="VIRGIN MEDIA FOUR" group-title="UK",VIRGIN MEDIA FOUR
+http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
+#EXTINF:0 CUID="492" tvg-chno="null" tvg-name="RTÈ NEWS" group-title="UK",RTÈ NEWS
+http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
+#EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." group-title="UK",RTÈ JR.
+http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
+#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" group-title="UK",TG 4+1
+http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
+#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" group-title="UK",BBC ALBA
+http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
+#EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" group-title="UK",ITV QUIZ
+http://185.99.136.50:9981/stream/channelid/372639910?profile=pass
 #EXTINF:0 CUID="12" tvg-chno="null" tvg-name="GAME SHOW NETWORK (EAST)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="US",GAME SHOW NETWORK (EAST)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
@@ -633,43 +653,43 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:0 CUID="456" tvg-chno="null" tvg-name="6PR PERTH" group-title="AUS",6PR PERTH
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-#EXTINF:0 CUID="457" tvg-chno="null" tvg-name="10 BOLD ADELAIDE" group-title="AUS",10 BOLD ADELAIDE
+#EXTINF:0 CUID="457" tvg-chno="null" tvg-name="10 BOLD ADELAIDE" tvg-logo="https://logo.m3uassets.com/10boldadelaide.png" group-title="AUS",10 BOLD ADELAIDE
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:0 CUID="458" tvg-chno="null" tvg-name="ABC AUSTRALIA" group-title="AUS",ABC AUSTRALIA
+#EXTINF:0 CUID="458" tvg-chno="null" tvg-name="ABC AUSTRALIA" tvg-logo="https://logo.m3uassets.com/abc.png" group-title="AUS",ABC AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:0 CUID="459" tvg-chno="null" tvg-name="ABC AUSTRALIA VIETNAM" group-title="AUS",ABC AUSTRALIA VIETNAM
 https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
-#EXTINF:0 CUID="460" tvg-chno="null" tvg-name="ABC KIDS" group-title="AUS",ABC KIDS
+#EXTINF:0 CUID="460" tvg-chno="null" tvg-name="ABC KIDS" tvg-logo="https://logo.m3uassets.com/abckids.png" group-title="AUS",ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:0 CUID="461" tvg-chno="null" tvg-name="ABC ME" group-title="AUS",ABC ME
+#EXTINF:0 CUID="461" tvg-chno="null" tvg-name="ABC ME" tvg-logo="https://logo.m3uassets.com/abcme.png" group-title="AUS",ABC ME
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:0 CUID="462" tvg-chno="null" tvg-name="ABC NEWS" group-title="AUS",ABC NEWS
+#EXTINF:0 CUID="462" tvg-chno="null" tvg-name="ABC NEWS" tvg-logo="https://logo.m3uassets.com/abcnewsadelaide.png" group-title="AUS",ABC NEWS
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:0 CUID="463" tvg-chno="null" tvg-name="ABC TV ADELAIDE" group-title="AUS",ABC TV ADELAIDE
+#EXTINF:0 CUID="463" tvg-chno="null" tvg-name="ABC TV ADELAIDE" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV ADELAIDE
 https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:0 CUID="464" tvg-chno="null" tvg-name="ABC TV BRISBANE" group-title="AUS",ABC TV BRISBANE
+#EXTINF:0 CUID="464" tvg-chno="null" tvg-name="ABC TV BRISBANE" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV BRISBANE
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:0 CUID="465" tvg-chno="null" tvg-name="ABC TV CANBERRA" group-title="AUS",ABC TV CANBERRA
+#EXTINF:0 CUID="465" tvg-chno="null" tvg-name="ABC TV CANBERRA" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV CANBERRA
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:0 CUID="466" tvg-chno="null" tvg-name="ABC TV DARWIN" group-title="AUS",ABC TV DARWIN
+#EXTINF:0 CUID="466" tvg-chno="null" tvg-name="ABC TV DARWIN" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV DARWIN
 https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:0 CUID="467" tvg-chno="null" tvg-name="ABC TV HOBART" group-title="AUS",ABC TV HOBART
+#EXTINF:0 CUID="467" tvg-chno="null" tvg-name="ABC TV HOBART" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV HOBART
 https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:0 CUID="468" tvg-chno="null" tvg-name="ABC TV MELBOURNE" group-title="AUS",ABC TV MELBOURNE
+#EXTINF:0 CUID="468" tvg-chno="null" tvg-name="ABC TV MELBOURNE" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV MELBOURNE
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:0 CUID="469" tvg-chno="null" tvg-name="ABC TV PERTH" group-title="AUS",ABC TV PERTH
+#EXTINF:0 CUID="469" tvg-chno="null" tvg-name="ABC TV PERTH" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV PERTH
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:0 CUID="470" tvg-chno="null" tvg-name="ABC TV PLUS" group-title="AUS",ABC TV PLUS
+#EXTINF:0 CUID="470" tvg-chno="null" tvg-name="ABC TV PLUS" tvg-logo="https://logo.m3uassets.com/abctvplus.png" group-title="AUS",ABC TV PLUS
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:0 CUID="471" tvg-chno="null" tvg-name="ABC TV SYDNEY" group-title="AUS",ABC TV SYDNEY
+#EXTINF:0 CUID="471" tvg-chno="null" tvg-name="ABC TV SYDNEY" tvg-logo="https://logo.m3uassets.com/abctvadelaide.png" group-title="AUS",ABC TV SYDNEY
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:0 CUID="472" tvg-chno="null" tvg-name="AUSBIZ TV" group-title="AUS",AUSBIZ TV
+#EXTINF:0 CUID="472" tvg-chno="null" tvg-name="AUSBIZ TV" tvg-logo="https://logo.m3uassets.com/ausbiztv.png" group-title="AUS",AUSBIZ TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:0 CUID="473" tvg-chno="null" tvg-name="BLOOMBERG TELEVISION AUSTRALIA" group-title="AUS",BLOOMBERG TELEVISION AUSTRALIA
+#EXTINF:0 CUID="473" tvg-chno="null" tvg-name="BLOOMBERG TELEVISION AUSTRALIA" tvg-logo="https://logo.m3uassets.com/bloombergtelevision.png" group-title="AUS",BLOOMBERG TELEVISION AUSTRALIA
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:0 CUID="474" tvg-chno="null" tvg-name="C31 MELBOURNE" group-title="AUS",C31 MELBOURNE
+#EXTINF:0 CUID="474" tvg-chno="null" tvg-name="C31 MELBOURNE" tvg-logo="https://logo.m3uassets.com/c31melbourne.png" group-title="AUS",C31 MELBOURNE
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:0 CUID="475" tvg-chno="null" tvg-name="CHANNEL 44" group-title="AUS",CHANNEL 44
+#EXTINF:0 CUID="475" tvg-chno="null" tvg-name="CHANNEL 44" tvg-logo="https://logo.m3uassets.com/channel44.png" group-title="AUS",CHANNEL 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:0 CUID="476" tvg-chno="null" tvg-name="CTB PERTH" group-title="AUS",CTB PERTH
 https://live.ctbperth.net.au/hls/0/stream.m3u8
@@ -677,9 +697,21 @@ https://live.ctbperth.net.au/hls/0/stream.m3u8
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:0 CUID="478" tvg-chno="null" tvg-name="CTB PERTH NEWS" group-title="AUS",CTB PERTH NEWS
 https://news.ctbperth.net.au/hls/stream.m3u8
-#EXTINF:0 CUID="479" tvg-chno="null" tvg-name="EXPO CHANNEL" group-title="AUS",EXPO CHANNEL
+#EXTINF:0 CUID="479" tvg-chno="null" tvg-name="EXPO CHANNEL" tvg-logo="https://logo.m3uassets.com/expochannel.png" group-title="AUS",EXPO CHANNEL
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:0 CUID="480" tvg-chno="null" tvg-name="INDO OZ TV" group-title="AUS",INDO OZ TV
 https://stream.e2is.in/hls/indoztv.m3u8
+#EXTINF:0 CUID="481" tvg-chno="null" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="AUS",SKY NEWS EXTRA 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:0 CUID="482" tvg-chno="null" tvg-name="SKY NEWS EXTRA 2" tvg-logo="https://logo.m3uassets.com/skynewsextra2.png" group-title="AUS",SKY NEWS EXTRA 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:0 CUID="483" tvg-chno="null" tvg-name="SKY NEWS EXTRA 3" tvg-logo="https://logo.m3uassets.com/skynewsextra2.png" group-title="AUS",SKY NEWS EXTRA 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:0 CUID="484" tvg-chno="null" tvg-name="TVSN" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:0 CUID="485" tvg-chno="null" tvg-name="TVSN BEAUTY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN BEAUTY
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
 https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
