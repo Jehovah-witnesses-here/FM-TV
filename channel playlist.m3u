@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 CUID="42" tvg-chno="null" tvg-name="FIFA+ UK" group-title="FAST",FIFA+ UK
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:0 CUID="51" tvg-chno="null" tvg-name="SKY NEWS WEATHER" tvg-logo="https://logo.m3uassets.com/skynewsweather.png" group-title="FAST",SKY NEWS WEATHER
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:0 CUID="52" tvg-chno="null" tvg-name="TALKSPORT UK" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="FAST",TALKSPORT UK
@@ -85,10 +83,12 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
 #EXTINF:0 CUID="109" tvg-chno="null" tvg-name="TOP GEAR" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="FAST",TOP GEAR
 https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="60" tvg-chno="null" tvg-name="BBC EARTH" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="INTERNATIONAL",BBC EARTH
-https://tv.ddns.vn/tv/bbcearth/index.m3u8
-#EXTINF:0 CUID="61" tvg-chno="null" tvg-name="BBC LIFESTYLE" tvg-logo="https://logo.m3uassets.com/bbclifestyle.png" group-title="INTERNATIONAL",BBC LIFESTYLE
-https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:0 CUID="335" tvg-chno="null" tvg-name="ION" group-title="FAST",ION
+https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
+#EXTINF:0 CUID="336" tvg-chno="null" tvg-name="ION PLUS" group-title="FAST",ION PLUS
+https://live-manifest.production-public.tubi.io/live/0e9538d9-1180-4710-9b00-4bf312c6dd17/playlist.m3u8
+#EXTINF:0 CUID="337" tvg-chno="null" tvg-name="SONY ONE ACTION HITS" group-title="FAST",SONY ONE ACTION HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL",TRACE URBAN
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:0 CUID="1" tvg-chno="null" tvg-name="BLAZE" tvg-id="BLAZE.uk" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="UK",BLAZE
@@ -323,8 +323,6 @@ https://a1xs.vip/40000013
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:0 CUID="128" tvg-chno="null" tvg-name="COURT TV" tvg-id="Court.TV.US.us" tvg-logo="https://logo.m3uassets.com/courttv.png" group-title="US",COURT TV
 https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=596E8325-B870-491C-8DF8-C279814C5538&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=596E8325-B870-491C-8DF8-C279814C5538&ads.n4=content_name&ads.v4=EPG%20%7C%20Court%20TV&ads.n21=channel_name&ads.v21=EPG%20%20Court%20TV&ads.n22=content_livestream&ads.v22=1&ads.n23=channel_company_id&ads.v23=AMDP500139&ads.n24=content_type&ads.v24=channel&ads.n25=content_producer_name&ads.v25=Katz%20Broadcasting%20LLC&ads.n26=content_custom_2_param&ads.v26=AMDB012021&ads.n27=content_custom_1_param&ads.v27=596E8325-B870-491C-8DF8-C279814C5538&ads.n28=channel_corp&ads.v28=Katz%20Broadcasting%20LLC&ads.n29=did&ads.v29=&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=app_name&ads.v31=&ads.n32=ifa_type&ads.v32=&ads.n33=device_model&ads.v33=&ads.n34=channel_ext_id&ads.v34=5ffced0c6048ec36fe4954d2&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=193.228.206.147&ads.n37=device_make&ads.v37=&ads.n38=channel_title&ads.v38=EPG%20%20Court%20TV&ads.n39=dnt&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=app_bundle&ads.v41=&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=device_type&ads.v43=&ads.n44=content_provider&ads.v44=court-tv&ads.n45=channel_id&ads.v45=596E8325-B870-491C-8DF8-C279814C5538&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=gpp_sid&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=channel_genre&ads.v49=Reality%20TV&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=network_name&ads.v51=court-tv&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_language&ads.v54=en&ads.n55=gpp&ads.v55=&ads.n56=pos&ads.v56=midroll&ads.n57=channel_brand_id&ads.v57=AMDB012021&ads.n58=h&ads.v58=1080
-#EXTINF:0 CUID="127" tvg-chno="null" tvg-name="COMET" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US",COMET
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:0 CUID="105" tvg-chno="null" tvg-name="CBS SPORTS GOLAZO NETWORK" tvg-logo="https://logo.m3uassets.com/cbssportsgolazonetwork.png" group-title="US",CBS SPORTS GOLAZO NETWORK
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F7f3Wv6f7QEKfQna22jHqLQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=193.228.206.147&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
 #EXTINF:0 CUID="126" tvg-chno="null" tvg-name="COMEDY CENTRAL (EAST)" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US",COMEDY CENTRAL (EAST)
@@ -375,14 +373,24 @@ https://a1xs.vip/40000042
 https://a1xs.vip/40000043
 #EXTINF:0 CUID="11" tvg-chno="null" tvg-name="ACC NETWORK" tvg-id="ACC.Network.us" tvg-logo="https://logo.m3uassets.com/accnetwork.png" group-title="US",ACC NETWORK
 https://a1xs.vip/40000016
-#EXTINF:0 CUID="327" tvg-chno="null" tvg-name="HLN" group-title="US",HLN
+#EXTINF:0 CUID="327" tvg-chno="null" tvg-name="HLN" tvg-logo="https://logo.m3uassets.com/hln.png" group-title="US",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="328" tvg-chno="null" tvg-name="MSNBC" group-title="US",MSNBC
+#EXTINF:0 CUID="328" tvg-chno="null" tvg-name="MSNBC" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="US",MSNBC
 https://a1xs.vip/300008
-#EXTINF:0 CUID="329" tvg-chno="null" tvg-name="ALTITUDE SPORTS" group-title="US",ALTITUDE SPORTS
+#EXTINF:0 CUID="329" tvg-chno="null" tvg-name="ALTITUDE SPORTS" tvg-logo="https://logo.m3uassets.com/altitudesports.png" group-title="US",ALTITUDE SPORTS
 https://a1xs.vip/40000048
-#EXTINF:0 CUID="330" tvg-chno="null" tvg-name="GOL TV" group-title="US",GOL TV
+#EXTINF:0 CUID="330" tvg-chno="null" tvg-name="GOL TV" tvg-logo="https://logo.m3uassets.com/goltv.png" group-title="US",GOL TV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:0 CUID="331" tvg-chno="null" tvg-name="NBC BAY AREA" tvg-logo="https://logo.m3uassets.com/nbcbayarea.png" group-title="US",NBC BAY AREA
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843&ads.afid=348208856&ads.sfid=17135549&ads.csid=xumo_web_NBCNBA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_vcid2=512116:e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3822&ads.xumo_contentName=NBCNBA&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA&ads.channelId=99951162&ads._fw_ifa_type=
+#EXTINF:0 CUID="332" tvg-chno="null" tvg-name="NESN" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="US",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0 CUID="333" tvg-chno="null" tvg-name="SEC NETWORK" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US",SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" group-title="US",RACER TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 CUID="338" tvg-chno="null" tvg-name="SONY ONE COMEDY HITS" group-title="US",SONY ONE COMEDY HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
