@@ -473,6 +473,10 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" group-title="US",RACER TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 CUID="127" tvg-chno="null" tvg-name="COMET" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US",COMET
+https://fl7.moveonjoy.com/COMET/index.m3u8
+#EXTINF:0 CUID="187" tvg-chno="null" tvg-name="TENNIS CHANNEL" tvg-id="Tennis.Channel.us" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="US",TENNIS CHANNEL
+https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
@@ -763,3 +767,5 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
 https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
+#EXTINF:0 CUID="2" tvg-name="TEST 2 (MKV MASK)" group-title="TEST",TEST 2 (MKV MASK)
+https://akmzed.cloud/_v1_akmzed/3YngOhkcwMFSL27mvwo0ywIBBZNU88nLjAZMUyN1gVY=/aW5kZXgubTN1OA==.m3u8/#.mkv
