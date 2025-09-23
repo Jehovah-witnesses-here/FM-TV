@@ -767,6 +767,8 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="61" tvg-name="That Christmas" group-title="NETFLIX",That Christmas
+https://akmzed.cloud/_v1_akmzed/nkmpWRuirm2ZsF0jn7VTzqU~D6lMlqsPVp5r7Tn7uTo=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="4" tvg-name="The Fantastic Four: First Steps" tvg-logo="https://image.tmdb.org/t/p/w780/x26MtUlwtWD26d0G0FXcppxCJio.jpg" group-title="Disney+",The Fantastic Four: First Steps
 https://akmzed.cloud/_v1_akmzed/xF~TbifltRVOgbxbDQl1RtOqODynaTvgItgKiNpJq5M=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="5" tvg-name="Thunderbolts*" tvg-logo="https://image.tmdb.org/t/p/w780/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg" group-title="Disney+",Thunderbolts*
@@ -785,6 +787,8 @@ https://akmzed.cloud/_v1_akmzed/6kEjXkpJGsGlCBR24AFKEMx1KzRTtNR~wAPmD+N3aMA=/aW5
 https://akmzed.cloud/_v1_akmzed/Skn0dXWuD5TbyUGuKymjr+Lfm+rGlYWj2svfsCwD5HM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="59" tvg-name="Captain Underpants: The First Epic Movie" group-title="Disney+",Captain Underpants: The First Epic Movie
 https://akmzed.cloud/_v1_akmzed/ceVkDoDXBiUX16Wzj0nDevpm+G57JE7FMR3Y~aWGWxo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="60" tvg-name="Ron's Gone Wrong" group-title="Disney+",Ron's Gone Wrong
+https://akmzed.cloud/_v1_akmzed/6UnadMy6~9KExwD6BRJjGC3k3g8BXKt5ZAxbPWNweXc=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="14" tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="PRIME VIDEO",Road House (2024)
 https://akmzed.cloud/_v1_akmzed/CGANxHXMtuTAHfyi7J2ttVpd7Rpr4lNJHxpA+R5FUg0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="41" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="PRIME VIDEO",Air (2023)
@@ -819,6 +823,12 @@ https://akmzed.cloud/_v1_akmzed/~b~JSf9vg1M4ENV9Pz1Fp9X+TUznoDFIKWgSDixexUE=/aW5
 https://akmzed.cloud/_v1_akmzed/PxE+KhFUKFqAn6kO4zhELqZaNjaDHTeYAvJsB5LRx5I=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="53" tvg-name="Ready Player One" tvg-logo="https://image.tmdb.org/t/p/w780/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" group-title="HBO MAX",Ready Player One
 https://akmzed.cloud/_v1_akmzed/r4UoOdSuN30azezXUGMbW5QTzg95GuHPtMZZJkm8XYg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="63" tvg-name="12 Strong" group-title="HBO MAX",12 Strong
+https://akmzed.cloud/_v1_akmzed/U+dXIAYHuNjF4IE4QHizDDxleiPM6Z6wholZ2rhM23U=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="66" tvg-name="Gran Torino" group-title="HBO MAX",Gran Torino
+https://akmzed.cloud/_v1_akmzed/DBwVKa2K+k3EzLoXcNxoTSbn3H1U8HNWJqijCEP0kxo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="67" tvg-name="Superman" group-title="HBO MAX",Superman
+https://akmzed.cloud/_v1_akmzed/C4wt9X5ToMO71JSLYWjuaZ4fvhas9vXz8MrMylCDGJE=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="15" tvg-name="Ambulance" tvg-logo="https://image.tmdb.org/t/p/w780/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="Peacock TV",Ambulance
 https://akmzed.cloud/_v1_akmzed/qujynwcn6PZCATH49GAQf19PPTQiuSkIByq5CZLupFg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="17" tvg-name="Drop" tvg-logo="https://image.tmdb.org/t/p/w780/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg" group-title="Peacock TV",Drop
@@ -867,6 +877,12 @@ https://akmzed.cloud/_v1_akmzed/s+8xKwbaYDETN18Ge5TL3oz9TFx2QlehV8GUN1rYCn4=/aW5
 https://akmzed.cloud/_v1_akmzed/s7+hAoGmOCNlrCThEmHgILBAuFBzYz+ma0DuIdeh+kM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="55" tvg-name="Gladiator II" group-title="Paramount+",Gladiator II
 https://akmzed.cloud/_v1_akmzed/PJ4zv3myde3gTgNDjUyLYucRTaHQcosOP1C5BZaoq3E=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="62" tvg-name="The Garfield Movie" group-title="SONY Pictures Core",The Garfield Movie
+https://akmzed.cloud/_v1_akmzed/iB7tZRBX8gUAVdvUN+xKADvALoNu0cYLsNYjGEW8AtI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="64" tvg-name="Blade Runner 2049" group-title="SONY Pictures Core",Blade Runner 2049
+https://akmzed.cloud/_v1_akmzed/4ol0qpOg+YZt6TzzGurDYdp4~Obh+rke7jrcjILzUHs=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="65" tvg-name="Gran Turismo" group-title="SONY Pictures Core",Gran Turismo
+https://akmzed.cloud/_v1_akmzed/V0mVKljKddcA5lxYVP0MTs6fmihTlJvse3GIJPVZeas=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="56" tvg-name="Allegiant" group-title="STARZ",Allegiant
 https://akmzed.cloud/_v1_akmzed/SHVe7V0paqeoe6JIDSOoVP9cnDhhyCUn0ETAxt6FxJg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="48" tvg-name="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w780/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="AMC+",Arcadian
