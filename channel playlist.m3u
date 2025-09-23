@@ -765,6 +765,8 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:0 CUID="4" tvg-name="The Fantastic Four: First Steps" group-title="Disney+",The Fantastic Four: First Steps
+https://akmzed.cloud/_v1_akmzed/xF~TbifltRVOgbxbDQl1RtOqODynaTvgItgKiNpJq5M=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="2" tvg-name="'71" tvg-logo="https://image.tmdb.org/t/p/w780/wbhqBocsP7QoX8SZLvCsGOWUAaQ.jpg" group-title="Studiocanal Presents",'71
 https://akmzed.cloud/_v1_akmzed/6XNNFxGNUiE+N6K8bQfq~7NifhhET4G5OrcnYxbZYS8=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="1" tvg-name=".45" tvg-logo="https://image.tmdb.org/t/p/w780/clv6FaRRliTN5E6GpDJI4FPFguk.jpg" group-title="Others",.45
