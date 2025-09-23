@@ -111,19 +111,19 @@ https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tra
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 #EXTINF:0 CUID="2" tvg-chno="null" tvg-name="SKY NEWS" tvg-id="Sky.News.HD.uk" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="UK",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 CUID="3" tvg-chno="null" tvg-name="GB NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="UK",GB NEWS
+#EXTINF:0 CUID="3" tvg-chno="null" tvg-name="GB NEWS" tvg-id="GB.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="UK",GB NEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:0 CUID="4" tvg-chno="null" tvg-name="GREAT! MOVIES" tvg-id="GREAT!.movies.uk" tvg-logo="https://logo.m3uassets.com/greatmovies.png" group-title="UK",GREAT! MOVIES
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:0 CUID="5" tvg-chno="null" tvg-name="GREAT! ROMANCE" tvg-id="GREAT!.romance.uk" tvg-logo="https://logo.m3uassets.com/greatromance.png" group-title="UK",GREAT! ROMANCE
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="POP.uk" group-title="UK",POP
+#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="pop.uk" group-title="UK",POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:0 CUID="7" tvg-chno="null" tvg-name="TINY POP" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK",TINY POP
+#EXTINF:0 CUID="7" tvg-chno="null" tvg-name="TINY POP" tvg-id="tinypop.uk" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK",TINY POP
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:0 CUID="8" tvg-chno="null" tvg-name="STV" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="UK",STV
+#EXTINF:0 CUID="8" tvg-chno="null" tvg-name="STV" tvg-id="STV.Central.uk" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="UK",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
-#EXTINF:0 CUID="9" tvg-chno="null" tvg-name="STV+1" tvg-logo="https://logo.m3uassets.com/stvplus.png" group-title="UK",STV+1
+#EXTINF:0 CUID="9" tvg-chno="null" tvg-name="STV+1" tvg-id="STV.Central.+1.uk" tvg-logo="https://logo.m3uassets.com/stvplus.png" group-title="UK",STV+1
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
 #EXTINF:0 CUID="28" tvg-chno="null" tvg-name="BBC NEWS" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK",BBC NEWS
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
@@ -135,25 +135,25 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:0 CUID="32" tvg-chno="null" tvg-name="MORE4" tvg-id="More4.HD.uk" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="UK",MORE4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
-#EXTINF:0 CUID="33" tvg-chno="null" tvg-name="BBC THREE | CBBC" tvg-logo="https://logo.m3uassets.com/bbcthreecbbc.png" group-title="UK",BBC THREE | CBBC
+#EXTINF:0 CUID="33" tvg-chno="null" tvg-name="BBC THREE | CBBC" tvg-id="BBC.Three.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcthreecbbc.png" group-title="UK",BBC THREE | CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:0 CUID="34" tvg-chno="null" tvg-name="BBC FOUR | CBEEBIES" tvg-logo="https://logo.m3uassets.com/bbcfourcbeebies.png" group-title="UK",BBC FOUR | CBEEBIES
+#EXTINF:0 CUID="34" tvg-chno="null" tvg-name="BBC FOUR | CBEEBIES" tvg-id="BBC.Four.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcfourcbeebies.png" group-title="UK",BBC FOUR | CBEEBIES
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:0 CUID="35" tvg-chno="null" tvg-name="CHANNEL 5" tvg-id="Channel.5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/250px-Channel_5_2025.svg.png" group-title="UK",CHANNEL 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:0 CUID="36" tvg-chno="null" tvg-name="FILM4" tvg-id="Film4.HD.uk" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="UK",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:0 CUID="39" tvg-chno="null" tvg-name="ITV 3" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="UK",ITV 3
+#EXTINF:0 CUID="39" tvg-chno="null" tvg-name="ITV 3" tvg-id="ITV3.HD.uk" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="UK",ITV 3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:0 CUID="40" tvg-chno="null" tvg-name="ITV 2" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="UK",ITV 2
+#EXTINF:0 CUID="40" tvg-chno="null" tvg-name="ITV 2" tvg-id="ITV2.HD.uk" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="UK",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:0 CUID="43" tvg-chno="null" tvg-name="HORSE & COUNTRY" tvg-logo="https://logo.m3uassets.com/horseandcountry.png" group-title="UK",HORSE & COUNTRY
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:0 CUID="44" tvg-chno="null" tvg-name="MTV HITS" tvg-id="MTV.HITS.uk" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="UK",MTV HITS
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-#EXTINF:0 CUID="45" tvg-chno="null" tvg-name="NOW 80'S" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="UK",NOW 80'S
+#EXTINF:0 CUID="45" tvg-chno="null" tvg-name="NOW 80'S" tvg-id="NOW.80s.uk" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="UK",NOW 80'S
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 CUID="47" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="UK",QVC
+#EXTINF:0 CUID="47" tvg-chno="null" tvg-name="QVC" tvg-id="QVC.HD.uk" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="UK",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:0 CUID="48" tvg-chno="null" tvg-name="QVC BEAUTY" tvg-id="QVC.Beauty.uk" tvg-logo="https://logo.m3uassets.com/qvcbeauty.png" group-title="UK",QVC BEAUTY
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
@@ -163,9 +163,9 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0 CUID="53" tvg-chno="null" tvg-name="TALK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="UK",TALK
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:0 CUID="54" tvg-chno="null" tvg-name="TBN UK" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="UK",TBN UK
+#EXTINF:0 CUID="54" tvg-chno="null" tvg-name="TBN UK" tvg-id="TBN.UK.uk" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="UK",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
-#EXTINF:0 CUID="55" tvg-chno="null" tvg-name="TJC" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="UK",TJC
+#EXTINF:0 CUID="55" tvg-chno="null" tvg-name="TJC" tvg-id="TJC.HD.uk" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="UK",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:0 CUID="56" tvg-chno="null" tvg-name="TRACE UK" group-title="UK",TRACE UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
@@ -175,31 +175,31 @@ https://tvwarehouse.r.worldssl.net/mystream.m3u8
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:0 CUID="59" tvg-chno="null" tvg-name="YAAAS!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.webp?itok=TOd-aCWI" group-title="UK",YAAAS!
 https://jmp2.uk/stvp-GB340000289
-#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="UK",NOW 70'S
+#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-id="NOW.70s.uk" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="UK",NOW 70'S
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="84" tvg-chno="null" tvg-name="NOW ROCK" tvg-id="Now.Rock.uk" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="UK",NOW ROCK
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="110" tvg-chno="null" tvg-name="EURONEWS ENGLISH" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK",EURONEWS ENGLISH
+#EXTINF:0 CUID="110" tvg-chno="null" tvg-name="EURONEWS ENGLISH" tvg-id="Euronews.uk" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK",EURONEWS ENGLISH
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:0 CUID="111" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH" tvg-logo="https://logo.m3uassets.com/24englishint.png" group-title="UK",FRANCE 24 ENGLISH
+#EXTINF:0 CUID="111" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH" tvg-id="FRANCE.24.HD.uk" tvg-logo="https://logo.m3uassets.com/24englishint.png" group-title="UK",FRANCE 24 ENGLISH
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 #EXTINF:0 CUID="285" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT UHD" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT UHD
 https://a1xs.vip/2000015
 #EXTINF:0 CUID="228" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT
 https://a1xs.vip/2000001
-#EXTINF:0 CUID="230" tvg-chno="null" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.m3uassets.com/skysportspremierleaguehz.png" group-title="UK",SKY SPORTS PREMIER LEAGUE
+#EXTINF:0 CUID="230" tvg-chno="null" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-id="SkySp.PL.uk" tvg-logo="https://logo.m3uassets.com/skysportspremierleaguehz.png" group-title="UK",SKY SPORTS PREMIER LEAGUE
 https://a1xs.vip/2000002
-#EXTINF:0 CUID="223" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.m3uassets.com/skysportscrickethz.png" group-title="UK",SKY SPORTS CRICKET
+#EXTINF:0 CUID="223" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" tvg-id="SkySp.Cricket.uk" tvg-logo="https://logo.m3uassets.com/skysportscrickethz.png" group-title="UK",SKY SPORTS CRICKET
 https://a1xs.vip/2000006
-#EXTINF:0 CUID="226" tvg-chno="null" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.m3uassets.com/skysportsgolfhz.png" group-title="UK",SKY SPORTS GOLF
+#EXTINF:0 CUID="226" tvg-chno="null" tvg-name="SKY SPORTS GOLF" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsgolfhz.png" group-title="UK",SKY SPORTS GOLF
 https://a1xs.vip/2000009
-#EXTINF:0 CUID="231" tvg-chno="null" tvg-name="SKY SPORTS RACING" tvg-logo="https://logo.m3uassets.com/skysportsracinghz.png" group-title="UK",SKY SPORTS RACING
+#EXTINF:0 CUID="231" tvg-chno="null" tvg-name="SKY SPORTS RACING" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracinghz.png" group-title="UK",SKY SPORTS RACING
 https://a1xs.vip/2000010
 #EXTINF:0 CUID="221" tvg-chno="null" tvg-name="SKY SPORTS NFL" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnflhz.png" group-title="UK",SKY SPORTS NFL
 https://a1xs.vip/2000011
-#EXTINF:0 CUID="222" tvg-chno="null" tvg-name="SKY SPORTS+" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="UK",SKY SPORTS+
+#EXTINF:0 CUID="222" tvg-chno="null" tvg-name="SKY SPORTS+" tvg-id="I1074.104322.schedulesdirect.org" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="UK",SKY SPORTS+
 https://a1xs.vip/2000012
-#EXTINF:0 CUID="232" tvg-chno="null" tvg-name="SKY SPORTS TENNIS" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK",SKY SPORTS TENNIS
+#EXTINF:0 CUID="232" tvg-chno="null" tvg-name="SKY SPORTS TENNIS" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK",SKY SPORTS TENNIS
 https://a1xs.vip/2000013
 #EXTINF:0 CUID="234" tvg-chno="null" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="UK",TNT SPORTS 1
 https://a1xs.vip/2000021
@@ -209,11 +209,11 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:0 CUID="237" tvg-chno="null" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="UK",TNT SPORTS 4
 https://a1xs.vip/2000024
-#EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="UK",NICK JR.
+#EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." tvg-id="Nick.Jr..HD.uk" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="UK",NICK JR.
 https://a1xs.vip/1000052
-#EXTINF:0 CUID="319" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",BBC ONE LONDON
+#EXTINF:0 CUID="319" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",BBC ONE LONDON
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
+#EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-id="I1195.30454.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
@@ -227,17 +227,17 @@ http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
 http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
 #EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="UK",RTÈ JR.
 http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
-#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" group-title="UK",TG 4+1
+#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" tvg-id="I1195.30454.schedulesdirect.org.plus1" group-title="UK",TG 4+1
 http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
-#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" tvg-logo="https://logo.m3uassets.com/bbcalba.png" group-title="UK",BBC ALBA
+#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcalba.png" group-title="UK",BBC ALBA
 http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
-#EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" group-title="UK",ITV QUIZ
+#EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" tvg-id="ITV.Quiz.uk" group-title="UK",ITV QUIZ
 http://185.99.136.50:9981/stream/channelid/372639910?profile=pass
-#EXTINF:0 CUID="497" tvg-chno="null" tvg-name="SKY ARTS" tvg-logo="https://logo.m3uassets.com/skyarts.png" group-title="UK",SKY ARTS
+#EXTINF:0 CUID="497" tvg-chno="null" tvg-name="SKY ARTS" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://logo.m3uassets.com/skyarts.png" group-title="UK",SKY ARTS
 http://185.99.136.50:9981/stream/channelid/1862163777?profile=pass
-#EXTINF:0 CUID="498" tvg-chno="null" tvg-name="REALLY" tvg-logo="https://logo.m3uassets.com/really.png" group-title="UK",REALLY
+#EXTINF:0 CUID="498" tvg-chno="null" tvg-name="REALLY" tvg-id="Really.uk" tvg-logo="https://logo.m3uassets.com/really.png" group-title="UK",REALLY
 http://185.99.136.50:9981/stream/channelid/1475236954?profile=pass
-#EXTINF:0 CUID="499" tvg-chno="null" tvg-name="QUEST RED" tvg-logo="https://logo.m3uassets.com/questred.png" group-title="UK",QUEST RED
+#EXTINF:0 CUID="499" tvg-chno="null" tvg-name="QUEST RED" tvg-id="Quest.Red.uk" tvg-logo="https://logo.m3uassets.com/questred.png" group-title="UK",QUEST RED
 http://185.99.136.50:9981/stream/channelid/1493802683?profile=pass
 #EXTINF:0 CUID="500" tvg-chno="null" tvg-name="DMAX" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="UK",DMAX
 http://185.99.136.50:9981/stream/channelid/764978521?profile=pass
@@ -767,8 +767,12 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="61" tvg-name="That Christmas" group-title="NETFLIX",That Christmas
+#EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
 https://akmzed.cloud/_v1_akmzed/nkmpWRuirm2ZsF0jn7VTzqU~D6lMlqsPVp5r7Tn7uTo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="82" tvg-name="Back in Action" tvg-logo="https://image.tmdb.org/t/p/w780/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg" group-title="NETFLIX",Back in Action
+https://akmzed.cloud/_v1_akmzed/aIT~IkekGEg4PiN3yapOOjuFc6Sg7UIi27obf0hJzqE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="113" tvg-name="Fair Play" tvg-logo="https://image.tmdb.org/t/p/w780/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg" group-title="NETFLIX",Fair Play
+https://akmzed.cloud/_v1_akmzed/v4GBdFYeN~R9kuV0+lfOUeVTc8pCrFV9vJWCYvvLWp0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="4" tvg-name="The Fantastic Four: First Steps" tvg-logo="https://image.tmdb.org/t/p/w780/x26MtUlwtWD26d0G0FXcppxCJio.jpg" group-title="Disney+",The Fantastic Four: First Steps
 https://akmzed.cloud/_v1_akmzed/xF~TbifltRVOgbxbDQl1RtOqODynaTvgItgKiNpJq5M=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="5" tvg-name="Thunderbolts*" tvg-logo="https://image.tmdb.org/t/p/w780/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg" group-title="Disney+",Thunderbolts*
@@ -783,16 +787,34 @@ https://akmzed.cloud/_v1_akmzed/oWMLFPu3PwnRXSg05CkaUjYoTxDEagcJckGEHH9gtn8=/aW5
 https://akmzed.cloud/_v1_akmzed/g+5iC4R6~~kc+D1+tBAEqe3gA6zUSqufBkeN984frI0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="23" tvg-name="Inside Out 2" tvg-logo="https://image.tmdb.org/t/p/w780/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" group-title="Disney+",Inside Out 2
 https://akmzed.cloud/_v1_akmzed/6kEjXkpJGsGlCBR24AFKEMx1KzRTtNR~wAPmD+N3aMA=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="57" tvg-name="Chip 'n Dale: Rescue Rangers" group-title="Disney+",Chip 'n Dale: Rescue Rangers
+#EXTINF:0 CUID="57" tvg-name="Chip 'n Dale: Rescue Rangers" tvg-logo="https://image.tmdb.org/t/p/w780/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="Disney+",Chip 'n Dale: Rescue Rangers
 https://akmzed.cloud/_v1_akmzed/Skn0dXWuD5TbyUGuKymjr+Lfm+rGlYWj2svfsCwD5HM=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="59" tvg-name="Captain Underpants: The First Epic Movie" group-title="Disney+",Captain Underpants: The First Epic Movie
+#EXTINF:0 CUID="59" tvg-name="Captain Underpants: The First Epic Movie" tvg-logo="https://image.tmdb.org/t/p/w780/vKSmaPct5OEeMoD8ue30RisHlKD.jpg" group-title="Disney+",Captain Underpants: The First Epic Movie
 https://akmzed.cloud/_v1_akmzed/ceVkDoDXBiUX16Wzj0nDevpm+G57JE7FMR3Y~aWGWxo=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="60" tvg-name="Ron's Gone Wrong" group-title="Disney+",Ron's Gone Wrong
+#EXTINF:0 CUID="60" tvg-name="Ron's Gone Wrong" tvg-logo="https://image.tmdb.org/t/p/w780/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg" group-title="Disney+",Ron's Gone Wrong
 https://akmzed.cloud/_v1_akmzed/6UnadMy6~9KExwD6BRJjGC3k3g8BXKt5ZAxbPWNweXc=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="73" tvg-name="Fresh" tvg-logo="https://image.tmdb.org/t/p/w780/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg" group-title="Disney+",Fresh
+https://akmzed.cloud/_v1_akmzed/qwkhDxl+sssuHBJ~xQQJjHCa1pQ9rqNNbtn2nnPibnA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="83" tvg-name="Underwater" tvg-logo="https://image.tmdb.org/t/p/w780/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="Disney+",Underwater
+https://akmzed.cloud/_v1_akmzed/eBhk53hGLemgXIanIi71NUm5BlaaDMNWN9+FkxcfkXI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="84" tvg-name="Ford v. Ferrari" tvg-logo="https://image.tmdb.org/t/p/w780/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg" group-title="Disney+",Ford v. Ferrari
+https://akmzed.cloud/_v1_akmzed/s8bS968PIC1KGDP6xLLkzwwSWY~LmS+D3Tc89WxuxKk=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="88" tvg-name="Alien: Romulus" tvg-logo="https://image.tmdb.org/t/p/w780/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="Disney+",Alien: Romulus
+https://akmzed.cloud/_v1_akmzed/NNG8Y5IlSot+Eu8kQwtAsVUJ9FpvSuiYf65k1mxr1TQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="92" tvg-name="The Big Year" tvg-logo="https://image.tmdb.org/t/p/w780/q6Pr8fWKh664seri2MaQeIJ6eSI.jpg" group-title="Disney+",The Big Year
+https://akmzed.cloud/_v1_akmzed/9kTkI1KjPIIlTBOdcK~I71tfqWAYX8eFqK2BdrNs7LA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="96" tvg-name="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="Disney+",Moana 2
+https://akmzed.cloud/_v1_akmzed/athq6gGkFAzt7JaHgVvDyzEMgRlIEQRCNwSnmiAMKwg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="97" tvg-name="Indiana Jones and the Dial of Destiny" tvg-logo="https://image.tmdb.org/t/p/w780/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="Disney+",Indiana Jones and the Dial of Destiny
+https://akmzed.cloud/_v1_akmzed/Wxwni0mW+gWjs1bgI1aWByrkrJIUV4AhpRD+67s1dNE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="98" tvg-name="Star Wars: The Rise of Skywalker" tvg-logo="https://image.tmdb.org/t/p/w780/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="Disney+",Star Wars: The Rise of Skywalker
+https://akmzed.cloud/_v1_akmzed/a1O5IzgyEkwvFNcgIrwhkpPx~CwyheLbRWx6NxsE+vY=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="14" tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="PRIME VIDEO",Road House (2024)
 https://akmzed.cloud/_v1_akmzed/CGANxHXMtuTAHfyi7J2ttVpd7Rpr4lNJHxpA+R5FUg0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="41" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="PRIME VIDEO",Air (2023)
 https://akmzed.cloud/_v1_akmzed/j4ML5ft~lh82EvL8+kX1+YFT5F5Vka+aeyapqY0y8bQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="93" tvg-name="Butcher's Crossing" tvg-logo="https://image.tmdb.org/t/p/w780/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg" group-title="PRIME VIDEO",Butcher's Crossing
+https://akmzed.cloud/_v1_akmzed/Fzjml5r9oaW9mZPJGFdymq65M4XXXXPxZ3KJR9pwdoo=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="10" tvg-name="Weapons" tvg-logo="https://image.tmdb.org/t/p/w780/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg" group-title="HBO MAX",Weapons
 https://akmzed.cloud/_v1_akmzed/jlYHg751nv41lJReDm3d2tRKTEVWn8h21zsCSWG4+yw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="11" tvg-name="Final Destination Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w780/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="HBO MAX",Final Destination Bloodlines
@@ -823,14 +845,36 @@ https://akmzed.cloud/_v1_akmzed/~b~JSf9vg1M4ENV9Pz1Fp9X+TUznoDFIKWgSDixexUE=/aW5
 https://akmzed.cloud/_v1_akmzed/PxE+KhFUKFqAn6kO4zhELqZaNjaDHTeYAvJsB5LRx5I=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="53" tvg-name="Ready Player One" tvg-logo="https://image.tmdb.org/t/p/w780/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" group-title="HBO MAX",Ready Player One
 https://akmzed.cloud/_v1_akmzed/r4UoOdSuN30azezXUGMbW5QTzg95GuHPtMZZJkm8XYg=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="63" tvg-name="12 Strong" group-title="HBO MAX",12 Strong
+#EXTINF:0 CUID="63" tvg-name="12 Strong" tvg-logo="https://image.tmdb.org/t/p/w780/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg" group-title="HBO MAX",12 Strong
 https://akmzed.cloud/_v1_akmzed/U+dXIAYHuNjF4IE4QHizDDxleiPM6Z6wholZ2rhM23U=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="66" tvg-name="Gran Torino" group-title="HBO MAX",Gran Torino
+#EXTINF:0 CUID="66" tvg-name="Gran Torino" tvg-logo="https://image.tmdb.org/t/p/w780/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg" group-title="HBO MAX",Gran Torino
 https://akmzed.cloud/_v1_akmzed/DBwVKa2K+k3EzLoXcNxoTSbn3H1U8HNWJqijCEP0kxo=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="67" tvg-name="Superman" group-title="HBO MAX",Superman
+#EXTINF:0 CUID="67" tvg-name="Superman" tvg-logo="https://image.tmdb.org/t/p/w780/wPLysNDLffQLOVebZQCbXJEv6E6.jpg" group-title="HBO MAX",Superman
 https://akmzed.cloud/_v1_akmzed/C4wt9X5ToMO71JSLYWjuaZ4fvhas9vXz8MrMylCDGJE=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="15" tvg-name="Ambulance" tvg-logo="https://image.tmdb.org/t/p/w780/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="Peacock TV",Ambulance
-https://akmzed.cloud/_v1_akmzed/qujynwcn6PZCATH49GAQf19PPTQiuSkIByq5CZLupFg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="72" tvg-name="Pokémon Detective Pikachu" tvg-logo="https://image.tmdb.org/t/p/w780/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg" group-title="HBO MAX",Pokémon Detective Pikachu
+https://akmzed.cloud/_v1_akmzed/y979GMCikR3H2SJytSFkD8f6PEN41SHApYTnJNKa8BM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="77" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)" tvg-logo="https://image.tmdb.org/t/p/w780/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="HBO MAX",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+https://akmzed.cloud/_v1_akmzed/WlPqi3YDNRKLNhBmUTSQBZV0BR0m13GOhJY+5XVZdQs=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="78" tvg-name="Barbie" tvg-logo="https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="HBO MAX",Barbie
+https://akmzed.cloud/_v1_akmzed/9US57eu+wQDWLbEVWYTpCdHi074AQkHNIXG+RR2d5zM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="89" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w780/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="HBO MAX",Interstellar
+https://akmzed.cloud/_v1_akmzed/kvwnpO5Lvw9T1uyzQWAfpGUGjKAETbpEEUBb4fBKufE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="91" tvg-name="Me Before You" tvg-logo="https://image.tmdb.org/t/p/w780/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg" group-title="HBO MAX",Me Before You
+https://akmzed.cloud/_v1_akmzed/EqAus0l6rj~6HweR902ig4pR6cHC5np5O2SOX13j5vY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="94" tvg-name="A Nightmare on Elm Street" tvg-logo="https://image.tmdb.org/t/p/w780/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg" group-title="HBO MAX",A Nightmare on Elm Street
+https://akmzed.cloud/_v1_akmzed/pm0DvnEGqgT~9izIvrXdZI+2YFg+K~0fXgzvYjAF5B0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="95" tvg-name="Black Adam" tvg-logo="https://image.tmdb.org/t/p/w780/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg" group-title="HBO MAX",Black Adam
+https://akmzed.cloud/_v1_akmzed/KyQxk7Wphwz7m9FXNVJjC9S+2VrSeBG9tNNnAY7JltM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="101" tvg-name="Furiosa: A Mad Max Saga" tvg-logo="https://image.tmdb.org/t/p/w780/iADOJ8Zymht2JPMoy3R7xceZprc.jpg" group-title="HBO MAX",Furiosa: A Mad Max Saga
+https://akmzed.cloud/_v1_akmzed/DtUWylia3t5FzEu7gQPrs2pP6HeJt5p4oSLThUQHD9U=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="102" tvg-name="Wonka" tvg-logo="https://image.tmdb.org/t/p/w780/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="HBO MAX",Wonka
+https://akmzed.cloud/_v1_akmzed/nBr05TxTeaFoYebD5fqDod0p21Myf0xZPlxjjs5XdEE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="103" tvg-name="Willy Wonka & the Chocolate Factory" tvg-logo="https://image.tmdb.org/t/p/w780/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg" group-title="HBO MAX",Willy Wonka & the Chocolate Factory
+https://akmzed.cloud/_v1_akmzed/FLX9iYrUZEcbfyoejnVqFIsIdL7E8qxXx1p3pnhsXnE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="111" tvg-name="The Suicide Squad" tvg-logo="https://image.tmdb.org/t/p/w780/q61qEyssk2ku3okWICKArlAdhBn.jpg" group-title="HBO MAX",The Suicide Squad
+https://akmzed.cloud/_v1_akmzed/27BPjSnvWtQd09bBiNMYXBL3~ZcZMTTSkY14mVFQS1s=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="112" tvg-name="King Richard" tvg-logo="https://image.tmdb.org/t/p/w780/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg" group-title="HBO MAX",King Richard
+https://akmzed.cloud/_v1_akmzed/jYBUp7+EsWFJIqhZJI5pQ~b84zuFMVlwKRHu6llGjBQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="17" tvg-name="Drop" tvg-logo="https://image.tmdb.org/t/p/w780/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg" group-title="Peacock TV",Drop
 https://akmzed.cloud/_v1_akmzed/OzTiCHlteddsszKMpQrNdJ8Y1YNj+DuYsdCp4nncoZw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="18" tvg-name="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/w780/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" group-title="Peacock TV",Speak No Evil
@@ -857,10 +901,32 @@ https://akmzed.cloud/_v1_akmzed/R2696KbfUukRgqHG95y2h7CnfbEbQqHdwrK034imN6k=/aW5
 https://akmzed.cloud/_v1_akmzed/endPFMa4Di1l52NmV8NdsU4n7Rh5xnD6PpXgVfcWHUQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="52" tvg-name="Jurassic World Dominion" tvg-logo="https://image.tmdb.org/t/p/w780/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg" group-title="Peacock TV",Jurassic World Dominion
 https://akmzed.cloud/_v1_akmzed/Kz+y7TdzbSf337K4tuPyoVxgJUPpj+uRmnoVFSM+VEI=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="54" tvg-name="Sing 2" group-title="Peacock TV",Sing 2
+#EXTINF:0 CUID="54" tvg-name="Sing 2" tvg-logo="https://image.tmdb.org/t/p/w780/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="Peacock TV",Sing 2
 https://akmzed.cloud/_v1_akmzed/z~jDAG7NAC2zGt7X2~w8lHdJ6ZlZbGT50pXIHWrwU7I=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="58" tvg-name="Puss in Boots: The Last Wish" group-title="Peacock TV",Puss in Boots: The Last Wish
+#EXTINF:0 CUID="58" tvg-name="Puss in Boots: The Last Wish" tvg-logo="https://image.tmdb.org/t/p/w780/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Peacock TV",Puss in Boots: The Last Wish
 https://akmzed.cloud/_v1_akmzed/xrZysr4wdymK+PuYxAOz2uPawvlECIvy5MwEXlb8k1k=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="69" tvg-name="Migration" tvg-logo="https://image.tmdb.org/t/p/w780/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg" group-title="Peacock TV",Migration
+https://akmzed.cloud/_v1_akmzed/EdRMjL5aQpa5ZM2rNpBie7CaX~~gq09Q5hMZ8gbFtuc=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="70" tvg-name="Despicable Me 4" tvg-logo="https://image.tmdb.org/t/p/w780/wWba3TaojhK7NdycRhoQpsG0FaH.jpg" group-title="Peacock TV",Despicable Me 4
+https://akmzed.cloud/_v1_akmzed/PNpopFNrA3hNz61XmrkQm~WgNVd7tXW0QLJWQfTmr3w=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="71" tvg-name="The Super Mario Bros. Movie" tvg-logo="https://image.tmdb.org/t/p/w780/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="Peacock TV",The Super Mario Bros. Movie
+https://akmzed.cloud/_v1_akmzed/mk5GMWnOnbCS4gc01HLtSMG+ymLRs4ruQUODFhQUJVI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="79" tvg-name="Sing" tvg-logo="https://image.tmdb.org/t/p/w780/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg" group-title="Peacock TV",Sing
+https://akmzed.cloud/_v1_akmzed/xHoVYw95drHWbE4e3gpP2tyEKKFhXZeqW~ba45YOPao=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="80" tvg-name="The Secret Life of Pets" tvg-logo="https://image.tmdb.org/t/p/w780/bc3rCMgP4bbxNqGQCRlpJyU8otF.jpg" group-title="Peacock TV",The Secret Life of Pets
+https://akmzed.cloud/_v1_akmzed/jgF1GHg2qgUbRXsUCACsFX2tN5aiCBH2jLNy+mTjPlM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="81" tvg-name="Strays" tvg-logo="https://image.tmdb.org/t/p/w780/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="Peacock TV",Strays
+https://akmzed.cloud/_v1_akmzed/zAzAdWwnlOtafZWcBz+p0D65gYrnve8P~j6iWl1zuHI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="87" tvg-name="The Bourne Legacy" tvg-logo="https://image.tmdb.org/t/p/w780/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="Peacock TV",The Bourne Legacy
+https://akmzed.cloud/_v1_akmzed/V6D+ODJT69f6S~nASk2vkoAfb+OJRPt8rBTWx7XbycQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="108" tvg-name="The Green Mile" tvg-logo="https://image.tmdb.org/t/p/w780/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg" group-title="Peacock TV",The Green Mile
+https://akmzed.cloud/_v1_akmzed/IB1eXMA8uPgiVsEIO3RrerRbMFsb5x25qFNByHfjOzg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="109" tvg-name="The Fall Guy" tvg-logo="https://image.tmdb.org/t/p/w780/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg" group-title="Peacock TV",The Fall Guy
+https://akmzed.cloud/_v1_akmzed/RI6eqzHFiP1AEOf0UGjZbTKTTiQE8a9dQaQ6ySOhIew=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="110" tvg-name="Fast X" tvg-logo="https://image.tmdb.org/t/p/w780/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peacock TV",Fast X
+https://akmzed.cloud/_v1_akmzed/vMtITbOyIG7IbG4PC1LRVTdOLVCqz0ZZ4yh5O+ogJyY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="15" tvg-name="Ambulance" tvg-logo="https://image.tmdb.org/t/p/w780/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="Peacock TV",Ambulance
+https://akmzed.cloud/_v1_akmzed/qujynwcn6PZCATH49GAQf19PPTQiuSkIByq5CZLupFg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="13" tvg-name="Smile 2" tvg-logo="https://image.tmdb.org/t/p/w780/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg" group-title="Paramount+",Smile 2
 https://akmzed.cloud/_v1_akmzed/fojybTAPAacIvzpyp9MEAWcdDfGwZoNSGYZpbuBLNKw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="20" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w780/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Paramount+",The Godfather
@@ -875,15 +941,35 @@ https://akmzed.cloud/_v1_akmzed/d816iSHM9L~GNFBFL~~OehOSx1~iT3bG08ytERno4NE=/aW5
 https://akmzed.cloud/_v1_akmzed/s+8xKwbaYDETN18Ge5TL3oz9TFx2QlehV8GUN1rYCn4=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="35" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg" group-title="Paramount+",Scream (2022)
 https://akmzed.cloud/_v1_akmzed/s7+hAoGmOCNlrCThEmHgILBAuFBzYz+ma0DuIdeh+kM=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="55" tvg-name="Gladiator II" group-title="Paramount+",Gladiator II
+#EXTINF:0 CUID="55" tvg-name="Gladiator II" tvg-logo="https://image.tmdb.org/t/p/w780/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="Paramount+",Gladiator II
 https://akmzed.cloud/_v1_akmzed/PJ4zv3myde3gTgNDjUyLYucRTaHQcosOP1C5BZaoq3E=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="62" tvg-name="The Garfield Movie" group-title="SONY Pictures Core",The Garfield Movie
+#EXTINF:0 CUID="75" tvg-name="Gemini Man" tvg-logo="https://image.tmdb.org/t/p/w780/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="Paramount+",Gemini Man
+https://akmzed.cloud/_v1_akmzed/ELMaFJ0q+bqWB4eH1vRoOSR~nhma7MdJl32grEiN854=/aW5kZXgubTN1OA==.m3u8/#.miv
+#EXTINF:0 CUID="86" tvg-name="Freedom Writers" tvg-logo="https://image.tmdb.org/t/p/w780/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg" group-title="Paramount+",Freedom Writers
+https://akmzed.cloud/_v1_akmzed/m2HxbiCc3+RqRFqHJ3hFqCgkwwFG70zbTGsQoOwfYv0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="99" tvg-name="The Cloverfield Paradox" tvg-logo="https://image.tmdb.org/t/p/w780/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg" group-title="Paramount+",The Cloverfield Paradox
+https://akmzed.cloud/_v1_akmzed/39alE7aYE1NmDxQ1MiH0UPDjxvXrmqXmCbOBKNCueCQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="104" tvg-name="Novocaine" tvg-logo="https://image.tmdb.org/t/p/w780/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg" group-title="Paramount+",Novocaine
+https://akmzed.cloud/_v1_akmzed/JCDJXf5ZX5rPeuOomrBnJQTsWmtXGlWVJMAKtR5~TA8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="62" tvg-name="The Garfield Movie" tvg-logo="https://image.tmdb.org/t/p/w780/xYduFGuch9OwbCOEUiamml18ZoB.jpg" group-title="SONY Pictures Core",The Garfield Movie
 https://akmzed.cloud/_v1_akmzed/iB7tZRBX8gUAVdvUN+xKADvALoNu0cYLsNYjGEW8AtI=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="64" tvg-name="Blade Runner 2049" group-title="SONY Pictures Core",Blade Runner 2049
+#EXTINF:0 CUID="64" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w780/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="SONY Pictures Core",Blade Runner 2049
 https://akmzed.cloud/_v1_akmzed/4ol0qpOg+YZt6TzzGurDYdp4~Obh+rke7jrcjILzUHs=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="65" tvg-name="Gran Turismo" group-title="SONY Pictures Core",Gran Turismo
+#EXTINF:0 CUID="65" tvg-name="Gran Turismo" tvg-logo="https://image.tmdb.org/t/p/w780/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="SONY Pictures Core",Gran Turismo
 https://akmzed.cloud/_v1_akmzed/V0mVKljKddcA5lxYVP0MTs6fmihTlJvse3GIJPVZeas=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="56" tvg-name="Allegiant" group-title="STARZ",Allegiant
+#EXTINF:0 CUID="68" tvg-name="Brightburn" tvg-logo="https://image.tmdb.org/t/p/w780/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg" group-title="SONY Pictures Core",Brightburn
+https://akmzed.cloud/_v1_akmzed/kyIW2e6ZwUh~CD~bSUi2tlu5q2MJpOrsBoFy3Akqw3A=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="90" tvg-name="Karate Kid: Legends" tvg-logo="https://image.tmdb.org/t/p/w780/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="SONY Pictures Core",Karate Kid: Legends
+https://akmzed.cloud/_v1_akmzed/vONAGqfi5vLpauK3EKYTWcSV2GvMvXUA2nMSYcbGvno=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="100" tvg-name="Concussion" tvg-logo="https://image.tmdb.org/t/p/w780/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg" group-title="SONY Pictures Core",Concussion
+https://akmzed.cloud/_v1_akmzed/toPJwjrs1QLduzmU~WILwszOMRhRQkcpFpCjNqhZ5Q4=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="105" tvg-name="Air (2015)" group-title="SONY Pictures Core",Air (2015)
+https://akmzed.cloud/_v1_akmzed/GDpVY8kcy94G~jWa+AqO+ICsvzgD0hscNiffd7VuQDg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="106" tvg-name="Friends with Benefits" group-title="SONY Pictures Core",Friends with Benefits
+https://akmzed.cloud/_v1_akmzed/5dcL+pTWMWiUjNIsCnw1yFTZX2fislbTGIIXD4xC5Rk=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="107" tvg-name="Faster" group-title="SONY Pictures Core",Faster
+https://akmzed.cloud/_v1_akmzed/b8Oele4kl~sQcGP38s8ku4s6BP~L0iDMdfjc18b5fck=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="56" tvg-name="Allegiant" tvg-logo="https://image.tmdb.org/t/p/w780/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg" group-title="STARZ",Allegiant
 https://akmzed.cloud/_v1_akmzed/SHVe7V0paqeoe6JIDSOoVP9cnDhhyCUn0ETAxt6FxJg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="48" tvg-name="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w780/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="AMC+",Arcadian
 https://akmzed.cloud/_v1_akmzed/AnGu1WoP2NF3YsfxUXwx~hOdYJDam~Tp0n7O6~RQmZA=/aW5kZXgubTN1OA==.m3u8/#.mkv
@@ -893,9 +979,15 @@ https://akmzed.cloud/_v1_akmzed/6XNNFxGNUiE+N6K8bQfq~7NifhhET4G5OrcnYxbZYS8=/aW5
 https://akmzed.cloud/_v1_akmzed/dKEOJN4PI7lFuBd2Tz3wEDFKVCHqobLLQJtZ1I~8shE=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="40" tvg-name="The Instigators" tvg-logo="https://image.tmdb.org/t/p/w780/dnYWsIFDmygCjNg65rY3uBymx81.jpg" group-title="Apple TV+",The Instigators
 https://akmzed.cloud/_v1_akmzed/tg6VVjQwb8OgXgBoOtJuJ8kUttVpijZNKyabuaU5cu8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="76" tvg-name="Emancipation" tvg-logo="https://image.tmdb.org/t/p/w780/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg" group-title="Apple TV+",Emancipation
+https://akmzed.cloud/_v1_akmzed/hIBJIyCo753HMWx~9zYVCF9SW9hOW7z7xiHwqaT5Ksg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="1" tvg-name=".45" tvg-logo="https://image.tmdb.org/t/p/w780/clv6FaRRliTN5E6GpDJI4FPFguk.jpg" group-title="Others",.45
 https://akmzed.cloud/_v1_akmzed/4jH2REcndfCdF1P1oLDhFCpW05ycklOdbTWKMrVK2Ys=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="3" tvg-name="1" tvg-logo="https://image.tmdb.org/t/p/w780/nIHvkb3M1B9TnaiaABsfTzmFMYP.jpg" group-title="Others",1
 https://akmzed.cloud/_v1_akmzed/zv9E1cTe8FgGKv6Mm0grU5UryGX6HuIno+THym5JXaI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="16" tvg-name="The Whale" tvg-logo="https://image.tmdb.org/t/p/w780/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg" group-title="Others",The Whale
 https://akmzed.cloud/_v1_akmzed/AqVNL5LxSqNTwlqJcMWVlBFo0SFZQ04DBMbtKp6JcC0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="74" tvg-name="Civil War" tvg-logo="https://image.tmdb.org/t/p/w780/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg" group-title="Others",Civil War
+https://akmzed.cloud/_v1_akmzed/~emi7fnYHu8BDc77AKfeyf~1cvLjnuxLJ~na5HSQ6F8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="85" tvg-name="Ferrari" tvg-logo="https://image.tmdb.org/t/p/w780/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg" group-title="Others",Ferrari
+https://akmzed.cloud/_v1_akmzed/PnoA0kGses9fnVdJP+yV5+4xi7aFFZQxw5lh4KiS1Fw=/aW5kZXgubTN1OA==.m3u8/#.mkv
