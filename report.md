@@ -1,31 +1,28 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-23 12:50:48 UTC
+**Generated on:** 2025-09-23 18:38:22 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 880 | 100% |
-| **✅ Working Streams** | 863 | 98.1% |
-| **❌ Failed Streams** | 17 | 1.9% |
+| **Total Streams** | 923 | 100% |
+| **✅ Working Streams** | 909 | 98.5% |
+| **❌ Failed Streams** | 14 | 1.5% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 385 streams
+- `channel playlist.m3u`: 428 streams
 
-## 📋 Failure Analysis (17 total failures)
+## 📋 Failure Analysis (14 total failures)
 
-### 🚫 Access Denied (12 streams)
+### 🚫 Access Denied (9 streams)
 *Likely geo-blocked or requires authentication*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
-| TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
-| TG 4 | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | ALARABIYA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 1 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 4 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
@@ -48,10 +45,10 @@
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| ANIMAL PLANET | US | channel playlist.m3u | Stream not found | 404 |
-| BOOMERANG | US | channel playlist.m3u | Stream not found | 404 |
-| REELZ | US | channel playlist.m3u | Stream not found | 404 |
-| BEATS RADIO | AR | channel playlist.m3u | Stream not found | 404 |
+| FS2 | US | channel playlist.m3u | Stream not found | 404 |
+| FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
+| HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
+| NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
 
 
 ## 📈 Geographic Notes
@@ -71,5 +68,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-23 12:50:48 UTC*
+*Last updated: 2025-09-23 18:38:22 UTC*
 *Report generated automatically by GitHub Actions*
