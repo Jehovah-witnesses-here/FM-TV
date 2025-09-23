@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-23 06:39:05 UTC
+**Generated on:** 2025-09-23 12:50:48 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 880 | 100% |
-| **✅ Working Streams** | 864 | 98.2% |
-| **❌ Failed Streams** | 16 | 1.8% |
+| **✅ Working Streams** | 863 | 98.1% |
+| **❌ Failed Streams** | 17 | 1.9% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 385 streams
 
-## 📋 Failure Analysis (16 total failures)
+## 📋 Failure Analysis (17 total failures)
 
 ### 🚫 Access Denied (12 streams)
 *Likely geo-blocked or requires authentication*
@@ -43,14 +43,15 @@
 |-------------|-------|------|---------------|------|
 | TG 4+1 | UK | channel playlist.m3u | Connection timeout | N/A |
 
-### ❓ Not Found (404) (3 streams)
+### ❓ Not Found (404) (4 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| TNT SPORTS 3 | UK | channel playlist.m3u | Stream not found | 404 |
+| ANIMAL PLANET | US | channel playlist.m3u | Stream not found | 404 |
+| BOOMERANG | US | channel playlist.m3u | Stream not found | 404 |
+| REELZ | US | channel playlist.m3u | Stream not found | 404 |
 | BEATS RADIO | AR | channel playlist.m3u | Stream not found | 404 |
-| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
 
 
 ## 📈 Geographic Notes
@@ -70,5 +71,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-23 06:39:05 UTC*
+*Last updated: 2025-09-23 12:50:48 UTC*
 *Report generated automatically by GitHub Actions*
