@@ -1,28 +1,31 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-23 18:38:22 UTC
+**Generated on:** 2025-09-23 23:11:12 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 923 | 100% |
-| **✅ Working Streams** | 909 | 98.5% |
-| **❌ Failed Streams** | 14 | 1.5% |
+| **Total Streams** | 997 | 100% |
+| **✅ Working Streams** | 978 | 98.1% |
+| **❌ Failed Streams** | 19 | 1.9% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 428 streams
+- `channel playlist.m3u`: 502 streams
 
-## 📋 Failure Analysis (14 total failures)
+## 📋 Failure Analysis (19 total failures)
 
-### 🚫 Access Denied (9 streams)
+### 🚫 Access Denied (12 streams)
 *Likely geo-blocked or requires authentication*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
+| BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| TG 4 | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | ALARABIYA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 1 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 4 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
@@ -33,22 +36,18 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (1 streams)
-*Server too slow to respond or overloaded*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| TG 4+1 | UK | channel playlist.m3u | Connection timeout | N/A |
-
-### ❓ Not Found (404) (4 streams)
+### ❓ Not Found (404) (7 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | FS2 | US | channel playlist.m3u | Stream not found | 404 |
 | FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
+| COOKING CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
 | HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
+| REVOLT | US | channel playlist.m3u | Stream not found | 404 |
 | NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
+| NATIONAL GEOGRAPHIC (EAST) | US | channel playlist.m3u | Stream not found | 404 |
 
 
 ## 📈 Geographic Notes
@@ -68,5 +67,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-23 18:38:22 UTC*
+*Last updated: 2025-09-23 23:11:12 UTC*
 *Report generated automatically by GitHub Actions*
