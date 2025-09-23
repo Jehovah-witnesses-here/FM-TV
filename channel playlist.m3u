@@ -765,7 +765,9 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
-#EXTINF:0 CUID="1" tvg-name="TEST" group-title="TEST",TEST
-https://9dd.arrow-pulse.site/pd86/c4/bJzO9NZz0d6kvjsNmMUTMzhiou_t-RrWoFxJKtbgbYwFBvZ8-2eals7FpqsSEco0hktizH02f5ddXbSxicaL-ZD0gJw/4/aGxzLzEwODAvMTA4MA,Z3r-aM6peKE-ic4lJkPfnljqs9Q0UQ.m3u8
-#EXTINF:0 CUID="2" tvg-name="TEST 2 (MKV MASK)" group-title="TEST",TEST 2 (MKV MASK)
-https://akmzed.cloud/_v1_akmzed/3YngOhkcwMFSL27mvwo0ywIBBZNU88nLjAZMUyN1gVY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="2" tvg-name="'71" tvg-logo="https://image.tmdb.org/t/p/w780/wbhqBocsP7QoX8SZLvCsGOWUAaQ.jpg" group-title="Studiocanal Presents",'71
+https://akmzed.cloud/_v1_akmzed/6XNNFxGNUiE+N6K8bQfq~7NifhhET4G5OrcnYxbZYS8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="1" tvg-name=".45" tvg-logo="https://image.tmdb.org/t/p/w780/clv6FaRRliTN5E6GpDJI4FPFguk.jpg" group-title="Others",.45
+https://akmzed.cloud/_v1_akmzed/4jH2REcndfCdF1P1oLDhFCpW05ycklOdbTWKMrVK2Ys=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="3" tvg-name="1" group-title="Others",1
+https://akmzed.cloud/_v1_akmzed/zv9E1cTe8FgGKv6Mm0grU5UryGX6HuIno+THym5JXaI=/aW5kZXgubTN1OA==.m3u8/#.mkv
