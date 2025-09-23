@@ -765,11 +765,93 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" group-title="NETFLIX",Happy Gilmore 2
+https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="4" tvg-name="The Fantastic Four: First Steps" group-title="Disney+",The Fantastic Four: First Steps
 https://akmzed.cloud/_v1_akmzed/xF~TbifltRVOgbxbDQl1RtOqODynaTvgItgKiNpJq5M=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="5" tvg-name="Thunderbolts*" group-title="Disney+",Thunderbolts*
+https://akmzed.cloud/_v1_akmzed/DTTsbiIx6aPxQ1myTEFUsGrX9yCwlEKpStYursVlzQI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="6" tvg-name="Captain America: Brave New World" group-title="Disney+",Captain America: Brave New World
+https://akmzed.cloud/_v1_akmzed/+Z0GeyTZxuRwkcctEOTNeN8fUp7tC~gbmEfIJ3SSS4U=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="7" tvg-name="Deadpool & Wolverine" group-title="Disney+",Deadpool & Wolverine
+https://akmzed.cloud/_v1_akmzed/7gBiq2buifsszUMPs8B4wtK~KRm4MfE5ZSxczb58QTw=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="8" tvg-name="Deadpool" group-title="Disney+",Deadpool
+https://akmzed.cloud/_v1_akmzed/oWMLFPu3PwnRXSg05CkaUjYoTxDEagcJckGEHH9gtn8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="9" tvg-name="Deadpool 2" group-title="Disney+",Deadpool 2
+https://akmzed.cloud/_v1_akmzed/g+5iC4R6~~kc+D1+tBAEqe3gA6zUSqufBkeN984frI0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="23" tvg-name="Inside Out 2" group-title="Disney+",Inside Out 2
+https://akmzed.cloud/_v1_akmzed/6kEjXkpJGsGlCBR24AFKEMx1KzRTtNR~wAPmD+N3aMA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="14" tvg-name="Road House (2024)" group-title="PRIME VIDEO",Road House (2024)
+https://akmzed.cloud/_v1_akmzed/CGANxHXMtuTAHfyi7J2ttVpd7Rpr4lNJHxpA+R5FUg0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="41" tvg-name="Air (2023)" group-title="PRIME VIDEO",Air (2023)
+https://akmzed.cloud/_v1_akmzed/j4ML5ft~lh82EvL8+kX1+YFT5F5Vka+aeyapqY0y8bQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="10" tvg-name="Weapons" group-title="HBO MAX",Weapons
+https://akmzed.cloud/_v1_akmzed/jlYHg751nv41lJReDm3d2tRKTEVWn8h21zsCSWG4+yw=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="11" tvg-name="Final Destination Bloodlines" group-title="HBO MAX",Final Destination Bloodlines
+https://akmzed.cloud/_v1_akmzed/a2LrJ8dy5C+x7WaI6eu~GUWFYxCVAb9UX3CG63~7UjY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="12" tvg-name="Companion" group-title="HBO MAX",Companion
+https://akmzed.cloud/_v1_akmzed/OtpL4R9XfDZeG9eYiG9P6y31G8JO3TwwXGs2EXtpsKE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="19" tvg-name="The Shawshank Redemption" group-title="HBO MAX",The Shawshank Redemption
+https://akmzed.cloud/_v1_akmzed/yW9XZAcDOLLo7xqwxuYke3h8zhtG0k8qZwP0VOd7gnI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="32" tvg-name="Twisters" group-title="HBO MAX",Twisters
+https://akmzed.cloud/_v1_akmzed/1+xhmeOGpwpAa1vDLb33wxEiPhNo5mbwT1FtvzeNslI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="37" tvg-name="The Batman" group-title="HBO MAX",The Batman
+https://akmzed.cloud/_v1_akmzed/p7E1He56w4ckOvZHhiIRi4rOnfrbvXXgBHnaqhSZ4VM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="38" tvg-name="DC League of Super-Pets" group-title="HBO MAX",DC League of Super-Pets
+https://akmzed.cloud/_v1_akmzed/~ykIBVecXQpHuNTvxwW8sJXUto1jgU6VIE6mvr05gKI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="39" tvg-name="Tom & Jerry" group-title="HBO MAX",Tom & Jerry
+https://akmzed.cloud/_v1_akmzed/qU276nCv6DOw+33jD5mTj560RsdrTgDVo18pJcdlhLM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="42" tvg-name="Sinners" group-title="HBO MAX",Sinners
+https://akmzed.cloud/_v1_akmzed/P~uPZJciYk0gL~weWzbOAfPivNR2ZvociQOZ9amgguE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="43" tvg-name="Batman v Superman: Dawn of Justice" group-title="HBO MAX",Batman v Superman: Dawn of Justice
+https://akmzed.cloud/_v1_akmzed/J4RCIm2uOfNMtDaopI+PdrXwtTCJchkxyj7SvSlHj8c=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="44" tvg-name="Zack Snyder's Justice League" group-title="HBO MAX",Zack Snyder's Justice League
+https://akmzed.cloud/_v1_akmzed/q8mOE7yl4f4vUjNtPifu4SYla2RQa8IvibdrR7mknK8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="15" tvg-name="Ambulance" group-title="Peacock TV",Ambulance
+https://akmzed.cloud/_v1_akmzed/qujynwcn6PZCATH49GAQf19PPTQiuSkIByq5CZLupFg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="17" tvg-name="Drop" group-title="Peacock TV",Drop
+https://akmzed.cloud/_v1_akmzed/OzTiCHlteddsszKMpQrNdJ8Y1YNj+DuYsdCp4nncoZw=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="18" tvg-name="Speak No Evil" group-title="Peacock TV",Speak No Evil
+https://akmzed.cloud/_v1_akmzed/smAFRvhbvLv3d9Y07+WXlnMTGfAJUFrDEi0clqAtAs8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="25" tvg-name="The Bad Guys 2" group-title="Peacock TV",The Bad Guys 2
+https://akmzed.cloud/_v1_akmzed/VCaiTDuUoGCzfinaKPAixVxAf2vpWTQbmtHqXNdXHEQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="26" tvg-name="Dog Man" group-title="Peacock TV",Dog Man
+https://akmzed.cloud/_v1_akmzed/Mh5~SdQ0dtXKvfsx5y15Mjg64AsRXhhjoIf+eFmMRgA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="27" tvg-name="Jurassic World: Rebirth" group-title="Peacock TV",Jurassic World: Rebirth
+https://akmzed.cloud/_v1_akmzed/8IyE05n1k1F6h26~ZCzKV1V6Fy52jGRjkgfS9Quz4OQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="28" tvg-name="Wicked" group-title="Peacock TV",Wicked
+https://akmzed.cloud/_v1_akmzed/BfSK~x3MUsxt6YKqktueU+9M8ij8vH~xr6hsYbXGCis=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="30" tvg-name="War of the Worlds (2025)" group-title="Peacock TV",War of the Worlds (2025)
+https://akmzed.cloud/_v1_akmzed/4zOch747Fco~8fsQGTSE7Jv6RNMwt0pUR+r~nD4wLaM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="31" tvg-name="Green Zone" group-title="Peacock TV",Green Zone
+https://akmzed.cloud/_v1_akmzed/JQPZrpv8eCjXqmrA~lSLYEvewui7gg0tgfI4Dxu1V5o=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="36" tvg-name="Get Him to the Greek" group-title="Peacock TV",Get Him to the Greek
+https://akmzed.cloud/_v1_akmzed/RWxp25O~kAvzb5+Ox48icRSYz804dK1s~TbHd1LwWME=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="45" tvg-name="Oppenheimer" group-title="Peacock TV",Oppenheimer
+https://akmzed.cloud/_v1_akmzed/aNfwQA9n9z59pdAp3HFaTjQNhOU0F6ILI1SuyCr9KkM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="13" tvg-name="Smile 2" group-title="Paramount+",Smile 2
+https://akmzed.cloud/_v1_akmzed/fojybTAPAacIvzpyp9MEAWcdDfGwZoNSGYZpbuBLNKw=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="20" tvg-name="The Godfather" group-title="Paramount+",The Godfather
+https://akmzed.cloud/_v1_akmzed/j6+EokAllqU9ahnBnd3dToRU+Tm8DIBEh30hMfDO1P0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="21" tvg-name="Smurfs" group-title="Paramount+",Smurfs
+https://akmzed.cloud/_v1_akmzed/QLBGGfSfTTKvu3FGPfm7NOPXPv8+6W4pUtrG8XqdLtA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="22" tvg-name="Transformers: The Last Knight" group-title="Paramount+",Transformers: The Last Knight
+https://akmzed.cloud/_v1_akmzed/3uvUbqUzvzKIMDZQ4Xvnpi7pfr3l9B99uYtAp2F65f4=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="29" tvg-name="Babylon" group-title="Paramount+",Babylon
+https://akmzed.cloud/_v1_akmzed/d816iSHM9L~GNFBFL~~OehOSx1~iT3bG08ytERno4NE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="33" tvg-name="Mission: Impossible - The Final Reckoning" group-title="Paramount+",Mission: Impossible - The Final Reckoning
+https://akmzed.cloud/_v1_akmzed/s+8xKwbaYDETN18Ge5TL3oz9TFx2QlehV8GUN1rYCn4=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="35" tvg-name="Scream (2022)" group-title="Paramount+",Scream (2022)
+https://akmzed.cloud/_v1_akmzed/s7+hAoGmOCNlrCThEmHgILBAuFBzYz+ma0DuIdeh+kM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="2" tvg-name="'71" tvg-logo="https://image.tmdb.org/t/p/w780/wbhqBocsP7QoX8SZLvCsGOWUAaQ.jpg" group-title="Studiocanal Presents",'71
 https://akmzed.cloud/_v1_akmzed/6XNNFxGNUiE+N6K8bQfq~7NifhhET4G5OrcnYxbZYS8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="34" tvg-name="Fountain of Youth" group-title="Apple TV+",Fountain of Youth
+https://akmzed.cloud/_v1_akmzed/dKEOJN4PI7lFuBd2Tz3wEDFKVCHqobLLQJtZ1I~8shE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="40" tvg-name="The Instigators" group-title="Apple TV+",The Instigators
+https://akmzed.cloud/_v1_akmzed/tg6VVjQwb8OgXgBoOtJuJ8kUttVpijZNKyabuaU5cu8=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="1" tvg-name=".45" tvg-logo="https://image.tmdb.org/t/p/w780/clv6FaRRliTN5E6GpDJI4FPFguk.jpg" group-title="Others",.45
 https://akmzed.cloud/_v1_akmzed/4jH2REcndfCdF1P1oLDhFCpW05ycklOdbTWKMrVK2Ys=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="3" tvg-name="1" group-title="Others",1
 https://akmzed.cloud/_v1_akmzed/zv9E1cTe8FgGKv6Mm0grU5UryGX6HuIno+THym5JXaI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="16" tvg-name="The Whale" group-title="Others",The Whale
+https://akmzed.cloud/_v1_akmzed/AqVNL5LxSqNTwlqJcMWVlBFo0SFZQ04DBMbtKp6JcC0=/aW5kZXgubTN1OA==.m3u8/#.mkv
