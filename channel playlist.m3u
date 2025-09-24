@@ -571,7 +571,7 @@ http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:0 CUID="59" tvg-chno="null" tvg-name="YAAAS!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.webp?itok=TOd-aCWI" group-title="UK",YAAAS!
 https://jmp2.uk/stvp-GB340000289
-#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="5 STAR MAX" tvg-id="5starmax.us" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US",5 STAR MAX
+#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="CINEMAX CLASSICS" tvg-id="5starmax.us" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US",CINEMAX CLASSICS
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 CUID="301" tvg-chno="null" tvg-name="A WEALTH OF ENTERTAINMENT (AWE)" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.m3uassets.com/awealthofentertainment.png" group-title="US",A WEALTH OF ENTERTAINMENT (AWE)
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
@@ -721,13 +721,13 @@ https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:0 CUID="309" tvg-chno="null" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO 2" tvg-id="https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20250924&channel_id=13084" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO 2
+#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO HITS" tvg-id="https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20250924&channel_id=13084" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO HITS
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 CUID="307" tvg-chno="null" tvg-name="HBO COMEDY" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US",HBO COMEDY
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 CUID="543" tvg-chno="null" tvg-name="HBO FAMILY" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="US",HBO FAMILY
 https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:0 CUID="544" tvg-chno="null" tvg-name="HBO ZONE" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US",HBO ZONE
+#EXTINF:0 CUID="544" tvg-chno="null" tvg-name="HBO MOVIES" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US",HBO MOVIES
 https://fl7.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:0 CUID="548" tvg-chno="null" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="US",HGTV
 https://fl7.moveonjoy.com/HGTV/index.m3u8
@@ -781,7 +781,7 @@ https://fl7.moveonjoy.com/EPIX/index.m3u8
 https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:0 CUID="153" tvg-chno="null" tvg-name="MLB NETWORK" tvg-id="I213.62079.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="US",MLB NETWORK
 https://a1xs.vip/40000030
-#EXTINF:0 CUID="305" tvg-chno="null" tvg-name="MORE MAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://logo.m3uassets.com/cinemaxmoremax.png" group-title="US",MORE MAX
+#EXTINF:0 CUID="305" tvg-chno="null" tvg-name="CINEMAX HITS" tvg-id="MoreMax..Eastern.us" tvg-logo="https://logo.m3uassets.com/cinemaxmoremax.png" group-title="US",CINEMAX HITS
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 CUID="553" tvg-chno="null" tvg-name="MOTOR TREND" tvg-logo="https://logo.m3uassets.com/motortrend.png" group-title="US",MOTOR TREND
 https://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
