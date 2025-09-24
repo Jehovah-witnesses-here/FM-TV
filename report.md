@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-24 06:14:03 UTC
+**Generated on:** 2025-09-24 06:39:47 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 1083 | 100% |
-| **✅ Working Streams** | 1064 | 98.2% |
-| **❌ Failed Streams** | 19 | 1.8% |
+| **✅ Working Streams** | 1063 | 98.2% |
+| **❌ Failed Streams** | 20 | 1.8% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 588 streams
 
-## 📋 Failure Analysis (19 total failures)
+## 📋 Failure Analysis (20 total failures)
 
 ### 🚫 Access Denied (12 streams)
 *Likely geo-blocked or requires authentication*
@@ -36,18 +36,31 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ❓ Not Found (404) (7 streams)
+### ⏱️ Connection Timeouts (1 streams)
+*Server too slow to respond or overloaded*
+
+| Channel Name | Group | File | Error Details | Code |
+|-------------|-------|------|---------------|------|
+| TG 4+1 | UK | channel playlist.m3u | Connection timeout | N/A |
+
+### ❓ Not Found (404) (6 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | FS2 | US | channel playlist.m3u | Stream not found | 404 |
 | FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
-| CARTOON NETWORK | US | channel playlist.m3u | Stream not found | 404 |
 | HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
 | NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
 | MTV LIVE | US | channel playlist.m3u | Stream not found | 404 |
 | CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
+
+### 🔗 Connection Errors (1 streams)
+*Network connectivity issues*
+
+| Channel Name | Group | File | Error Details | Code |
+|-------------|-------|------|---------------|------|
+| CTV | CA | channel playlist.m3u | Connection error | N/A |
 
 
 ## 📈 Geographic Notes
@@ -67,5 +80,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-24 06:14:03 UTC*
+*Last updated: 2025-09-24 06:39:47 UTC*
 *Report generated automatically by GitHub Actions*
