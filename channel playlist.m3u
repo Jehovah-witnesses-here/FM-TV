@@ -393,6 +393,8 @@ https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="101" tvg-chno="null" tvg-name="VEVO POP UK" group-title="FAST",VEVO POP UK
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="524" tvg-chno="null" tvg-name="FOX WEATHER" group-title="FAST",FOX WEATHER
+https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
 #EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL ENGLISH",TRACE URBAN
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:0 CUID="513" tvg-chno="null" tvg-name="AL JAZEERA ENGLISH" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK",AL JAZEERA ENGLISH
@@ -587,7 +589,7 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 https://a1xs.vip/300035
 #EXTINF:0 CUID="26" tvg-chno="null" tvg-name="BBC AMERICA (EAST)" tvg-id="BBC.America.-.East.us" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US",BBC AMERICA (EAST)
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0 CUID="522" tvg-chno="null" tvg-name="BBC NEWS" group-title="US",BBC NEWS
+#EXTINF:0 CUID="522" tvg-chno="null" tvg-name="BBC NEWS" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="US",BBC NEWS
 https://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 CUID="117" tvg-chno="null" tvg-name="BIG TEN NETWORK" tvg-id="I610.56783.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US",BIG TEN NETWORK
 http://23.237.104.106:8080/USA_BTN/index.m3u8
@@ -647,13 +649,13 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:0 CUID="330" tvg-chno="null" tvg-name="GOL TV" tvg-id="I468.32161.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/goltv.png" group-title="US",GOL TV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:0 CUID="20" tvg-chno="null" tvg-name="GOLF CHANNEL" tvg-id="Golf.Channel.USA.us" group-title="US",GOLF CHANNEL
+#EXTINF:0 CUID="20" tvg-chno="null" tvg-name="GOLF CHANNEL" tvg-id="Golf.Channel.USA.us" tvg-logo="https://logo.m3uassets.com/golfchannel.png" group-title="US",GOLF CHANNEL
 https://a1xs.vip/40000060
 #EXTINF:0 CUID="141" tvg-chno="null" tvg-name="HALLMARK CHANNEL" tvg-id="I312.11221.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hallmarkchannel.png" group-title="US",HALLMARK CHANNEL
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:0 CUID="309" tvg-chno="null" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO 2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO 2
+#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO 2" tvg-id="hbo2.us" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 CUID="307" tvg-chno="null" tvg-name="HBO COMEDY" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US",HBO COMEDY
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
@@ -763,7 +765,7 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000042
 #EXTINF:0 CUID="251" tvg-chno="null" tvg-name="YES NETWORK" tvg-id="I1702.46275.gracenote.com" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US",YES NETWORK
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:0 CUID="523" tvg-chno="null" tvg-name="C•SPAN" group-title="US",C•SPAN
+#EXTINF:0 CUID="523" tvg-chno="null" tvg-name="C•SPAN" tvg-logo="https://logo.m3uassets.com/cspan.png" group-title="US",C•SPAN
 https://fl7.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:0 CUID="133" tvg-chno="null" tvg-name="FOX BUSINESS NETWORK" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="US",FOX BUSINESS NETWORK
 https://fl7.moveonjoy.com/FOX_Business_Network/index.m3u8
@@ -783,10 +785,10 @@ https://fl7.moveonjoy.com/CNBC_World/index.m3u8
 https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:0 CUID="114" tvg-chno="null" tvg-name="BET HER (EAST)" tvg-id="BET.Her.us" tvg-logo="https://logo.m3uassets.com/bether.png" group-title="US",BET HER (EAST)
 https://fl7.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:0 CUID="115" tvg-chno="null" tvg-name="BET JAMS" tvg-logo="https://logo.m3uassets.com/betjams.png" group-title="US",BET JAMS
-https://fl7.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:0 CUID="116" tvg-chno="null" tvg-name="BET SOUL" tvg-id="BET.Soul.us" tvg-logo="https://logo.m3uassets.com/betsoul.png" group-title="US",BET SOUL
 https://fl7.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:0 CUID="115" tvg-chno="null" tvg-name="BET JAMS" tvg-logo="https://logo.m3uassets.com/betjams.png" group-title="US",BET JAMS
+https://fl7.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:0 CUID="120" tvg-chno="null" tvg-name="BRAVO (EAST)" tvg-logo="https://logo.m3uassets.com/bravo.png" group-title="US",BRAVO (EAST)
 https://fl7.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:0 CUID="123" tvg-chno="null" tvg-name="CBS SPORTS NETWORK" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="US",CBS SPORTS NETWORK
@@ -801,7 +803,7 @@ https://fl7.moveonjoy.com/FOX_SOUL/index.m3u8
 https://fl7.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:0 CUID="140" tvg-chno="null" tvg-name="GET TV" tvg-logo="https://logo.m3uassets.com/gettv.png" group-title="US",GET TV
 https://fl7.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:0 CUID="142" tvg-chno="null" tvg-name="HALLMARK DRAMA" group-title="US",HALLMARK DRAMA
+#EXTINF:0 CUID="142" tvg-chno="null" tvg-name="HALLMARK DRAMA" tvg-logo="https://logo.m3uassets.com/hallmarkdrama.png" group-title="US",HALLMARK DRAMA
 https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:0 CUID="143" tvg-chno="null" tvg-name="HALLMARK MOVIES & MYSTERY" tvg-logo="https://logo.m3uassets.com/hallmarkmovies&mysteries.png" group-title="US",HALLMARK MOVIES & MYSTERY
 https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
@@ -827,18 +829,18 @@ https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 CUID="164" tvg-chno="null" tvg-name="NFL RED ZONE" tvg-id="NFL.RedZone.us" tvg-logo="https://logo.m3uassets.com/nflredzone.png" group-title="US",NFL RED ZONE
 https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:0 CUID="166" tvg-chno="null" tvg-name="OUTDOOR CHANNEL" tvg-id="Outdoor.Channel.US.us" tvg-logo="https://logo.m3uassets.com/outdoorchannel.png" group-title="US",OUTDOOR CHANNEL
-https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:0 CUID="169" tvg-chno="null" tvg-name="OXYGEN TRUE CRIME" tvg-logo="https://logo.m3uassets.com/oxygen.png" group-title="US",OXYGEN TRUE CRIME
 https://fl7.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:0 CUID="166" tvg-chno="null" tvg-name="OUTDOOR CHANNEL" tvg-id="Outdoor.Channel.US.us" tvg-logo="https://logo.m3uassets.com/outdoorchannel.png" group-title="US",OUTDOOR CHANNEL
+https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:0 CUID="167" tvg-chno="null" tvg-name="OUTSIDE TV" tvg-logo="https://logo.m3uassets.com/outsidetv.png" group-title="US",OUTSIDE TV
 https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:0 CUID="171" tvg-chno="null" tvg-name="PURSUIT CHANNEL" tvg-id="Pursuit.Channel.us" group-title="US",PURSUIT CHANNEL
 https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:0 CUID="172" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="US",QVC
-https://fl7.moveonjoy.com/QVC/index.m3u8
 #EXTINF:0 CUID="168" tvg-chno="null" tvg-name="OVATION" tvg-id="Ovation.us" tvg-logo="https://logo.m3uassets.com/ovation.png" group-title="US",OVATION
 https://fl7.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:0 CUID="172" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="US",QVC
+https://fl7.moveonjoy.com/QVC/index.m3u8
 #EXTINF:0 CUID="175" tvg-chno="null" tvg-name="SHOWTIME 2" tvg-logo="https://logo.m3uassets.com/showtime2.png" group-title="US",SHOWTIME 2
 https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:0 CUID="177" tvg-chno="null" tvg-name="SHOWTIME NEXT" tvg-logo="https://logo.m3uassets.com/showtimenext.png" group-title="US",SHOWTIME NEXT
@@ -867,6 +869,56 @@ https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 https://fl7.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:0 CUID="262" tvg-chno="null" tvg-name="TEEN NICK" tvg-logo="https://logo.m3uassets.com/teennick.png" group-title="US",TEEN NICK
 https://a1xs.vip/300031
+#EXTINF:0 CUID="266" tvg-chno="null" tvg-name="TLC" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="US",TLC
+https://fl7.moveonjoy.com/TLC/index.m3u8
+#EXTINF:0 CUID="269" tvg-chno="null" tvg-name="OWN" tvg-logo="https://logo.m3uassets.com/own.png" group-title="US",OWN
+https://fl7.moveonjoy.com/OWN/index.m3u8
+#EXTINF:0 CUID="260" tvg-chno="null" tvg-name="FOOD NETWORK" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="US",FOOD NETWORK
+https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:0 CUID="525" tvg-chno="null" tvg-name="BEIN SPORTS" tvg-logo="https://logo.m3uassets.com/beinsports.png" group-title="US",BEIN SPORTS
+https://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0 CUID="526" tvg-chno="null" tvg-name="SPECTRUM SPORTSNET" tvg-logo="https://logo.m3uassets.com/spectrumsportsnet.png" group-title="US",SPECTRUM SPORTSNET
+https://a1xs.vip/4000006
+#EXTINF:0 CUID="527" tvg-chno="null" tvg-name="SNY" tvg-logo="https://logo.m3uassets.com/sny.png" group-title="US",SNY
+https://fl7.moveonjoy.com/SNY/index.m3u8
+#EXTINF:0 CUID="528" tvg-chno="null" tvg-name="BUZZR" tvg-logo="https://logo.m3uassets.com/buzzr.png" group-title="US",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:0 CUID="529" tvg-chno="null" tvg-name="CHARGE!" tvg-logo="https://logo.m3uassets.com/charge.png" group-title="US",CHARGE!
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+#EXTINF:0 CUID="530" tvg-chno="null" tvg-name="CINEMAX" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="US",CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0 CUID="531" tvg-chno="null" tvg-name="CLEO TV" tvg-logo="https://logo.m3uassets.com/cleotv.png" group-title="US",CLEO TV
+https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:0 CUID="532" tvg-chno="null" tvg-name="CMT" tvg-logo="https://logo.m3uassets.com/cmt.png" group-title="US",CMT
+https://fl7.moveonjoy.com/CMT/index.m3u8
+#EXTINF:0 CUID="533" tvg-chno="null" tvg-name="COZI TV" tvg-logo="https://logo.m3uassets.com/cozitv.png" group-title="US",COZI TV
+https://fl7.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:0 CUID="534" tvg-chno="null" tvg-name="FREE FORM" tvg-logo="https://logo.m3uassets.com/freeform.png" group-title="US",FREE FORM
+https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:0 CUID="536" tvg-chno="null" tvg-name="GRIT TV" tvg-logo="https://logo.m3uassets.com/grit.png" group-title="US",GRIT TV
+https://fl7.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:0 CUID="537" tvg-chno="null" tvg-name="IFC" tvg-logo="https://logo.m3uassets.com/ifc.png" group-title="US",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0 CUID="538" tvg-chno="null" tvg-name="LAFF" tvg-logo="https://logo.m3uassets.com/laff.png" group-title="US",LAFF
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:0 CUID="541" tvg-chno="null" tvg-name="METV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="US",METV
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:0 CUID="542" tvg-chno="null" tvg-name="WE TV" tvg-logo="https://logo.m3uassets.com/wetv.png" group-title="US",WE TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:0 CUID="543" tvg-chno="null" tvg-name="HBO FAMILY" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="US",HBO FAMILY
+https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:0 CUID="544" tvg-chno="null" tvg-name="HBO ZONE" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US",HBO ZONE
+https://fl7.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:0 CUID="545" tvg-chno="null" tvg-name="MOREMAX" group-title="US",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 CUID="546" tvg-chno="null" tvg-name="DISCOVERY LIFE" group-title="US",DISCOVERY LIFE
+https://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:0 CUID="547" tvg-chno="null" tvg-name="FYI" group-title="US",FYI
+https://fl7.moveonjoy.com/FYI/index.m3u8
+#EXTINF:0 CUID="548" tvg-chno="null" tvg-name="HGTV" group-title="US",HGTV
+https://fl7.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:0 CUID="549" tvg-chno="null" tvg-name="MAGNOLIA NETWORK" group-title="US",MAGNOLIA NETWORK
+https://fl7.moveonjoy.com/DIY/index.m3u8
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
