@@ -287,6 +287,10 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:0 CUID="555" tvg-chno="null" tvg-name="Sportsnet 360" tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20250924&channel_id=404765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qwl9vK69Lscmc07-zGKwhJKBcycFRk2_rV-5--v9oQ&s=10" group-title="CA",Sportsnet 360
+http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/175777
+#EXTINF:0 CUID="556" tvg-chno="null" tvg-name="Fubo sports 1" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="CA",Fubo sports 1
+http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/473384
 #EXTINF:0 CUID="66" tvg-chno="null" tvg-name="21 JUMP STREET" group-title="FAST",21 JUMP STREET
 https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
 #EXTINF:0 CUID="62" tvg-chno="null" tvg-name="ANTIQUES ROADSHOW" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="FAST",ANTIQUES ROADSHOW
@@ -461,7 +465,7 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." tvg-id="Nick.Jr..HD.uk" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="UK",NICK JR.
 https://a1xs.vip/1000052
-#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-id="NOW.70s.uk" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="UK",NOW 70'S
+#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-id="NOW.70s.uk" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest?cb=20221213214947&output=png" group-title="UK",NOW 70'S
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="45" tvg-chno="null" tvg-name="NOW 80'S" tvg-id="NOW.80s.uk" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="UK",NOW 80'S
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -469,7 +473,7 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="pop.uk" group-title="UK",POP
+#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="pop.uk" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/1/10/POP_2015_3D.png/revision/latest/scale-to-width-down/1000?cb=20211211122432&output=png" group-title="UK",POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:0 CUID="502" tvg-chno="null" tvg-name="QUEST" tvg-id="QUEST.HD.uk" tvg-logo="https://logo.m3uassets.com/questp.png" group-title="UK",QUEST
 http://185.99.136.50:9981/stream/channelid/1685007534?profile=pass
@@ -527,7 +531,7 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62c
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 #EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-id="I1195.30454.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" tvg-id="I1195.30454.schedulesdirect.org.plus1" group-title="UK",TG 4+1
+#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" tvg-id="I1195.30454.schedulesdirect.org.plus1" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/b/bd/TG4_%2B1.svg/revision/latest?cb=20230904232525&output=png" group-title="UK",TG 4+1
 http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
 #EXTINF:0 CUID="7" tvg-chno="null" tvg-name="TINY POP" tvg-id="tinypop.uk" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK",TINY POP
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
@@ -543,7 +547,7 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 #EXTINF:0 CUID="510" tvg-chno="null" tvg-name="TOGETHER TV" tvg-id="Together.uk" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK",TOGETHER TV
 http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
-#EXTINF:0 CUID="56" tvg-chno="null" tvg-name="TRACE UK" group-title="UK",TRACE UK
+#EXTINF:0 CUID="56" tvg-chno="null" tvg-name="TRACE UK" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341&output=png" group-title="UK",TRACE UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:0 CUID="514" tvg-chno="null" tvg-name="TRT WORLD" tvg-id="TRT.World.uk" tvg-logo="https://logo.m3uassets.com/trtworld.png" group-title="UK",TRT WORLD
 http://185.99.136.50:9981/stream/channelid/1031041867?profile=pass
@@ -571,7 +575,7 @@ http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:0 CUID="59" tvg-chno="null" tvg-name="YAAAS!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.webp?itok=TOd-aCWI" group-title="UK",YAAAS!
 https://jmp2.uk/stvp-GB340000289
-#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="CINEMAX CLASSICS" tvg-id="5starmax.us" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US",CINEMAX CLASSICS
+#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="CINEMAX CLASSICS" tvg-id="5starmax.us" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/5/5e/Cinemax_Classics_2025.svg/revision/latest?cb=20250904230105&output=png" group-title="US",CINEMAX CLASSICS
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 CUID="301" tvg-chno="null" tvg-name="A WEALTH OF ENTERTAINMENT (AWE)" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.m3uassets.com/awealthofentertainment.png" group-title="US",A WEALTH OF ENTERTAINMENT (AWE)
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
@@ -721,13 +725,13 @@ https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:0 CUID="309" tvg-chno="null" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO HITS" tvg-id="https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20250924&channel_id=13084" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO HITS
+#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO HITS" tvg-id="https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9DaGljYWdv&date=20250924&channel_id=13084" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/a/a0/HBO_Hits_2025.svg/revision/latest?cb=20250904230718&output=png" group-title="US",HBO HITS
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 CUID="307" tvg-chno="null" tvg-name="HBO COMEDY" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US",HBO COMEDY
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 CUID="543" tvg-chno="null" tvg-name="HBO FAMILY" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="US",HBO FAMILY
 https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:0 CUID="544" tvg-chno="null" tvg-name="HBO MOVIES" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US",HBO MOVIES
+#EXTINF:0 CUID="544" tvg-chno="null" tvg-name="HBO MOVIES" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017&output=png" group-title="US",HBO MOVIES
 https://fl7.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:0 CUID="548" tvg-chno="null" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="US",HGTV
 https://fl7.moveonjoy.com/HGTV/index.m3u8
@@ -837,11 +841,11 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:0 CUID="296" tvg-chno="null" tvg-name="PBS KIDS" tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/pbskids.png" group-title="US",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0 CUID="171" tvg-chno="null" tvg-name="PURSUIT CHANNEL" tvg-id="Pursuit.Channel.us" group-title="US",PURSUIT CHANNEL
+#EXTINF:0 CUID="171" tvg-chno="null" tvg-name="PURSUIT CHANNEL" tvg-id="Pursuit.Channel.us" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/d/d0/Pursuit-Tag-Line_no_ppl.png/revision/latest?cb=20181205162145&output=png" group-title="US",PURSUIT CHANNEL
 https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:0 CUID="172" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="US",QVC
 https://fl7.moveonjoy.com/QVC/index.m3u8
-#EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" tvg-id="racer.us" group-title="US",RACER TV
+#EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" tvg-id="racer.us" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/f/f1/Racer_Network_2025.png/revision/latest?cb=20250415083445&output=png" group-title="US",RACER TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0 CUID="173" tvg-chno="null" tvg-name="REELZ" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="US",REELZ
 https://fl7.moveonjoy.com/REELZ/index.m3u8
@@ -919,9 +923,9 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:0 CUID="542" tvg-chno="null" tvg-name="WE TV" tvg-logo="https://logo.m3uassets.com/wetv.png" group-title="US",WE TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:0 CUID="252" tvg-chno="null" tvg-name="WILLOW 2" tvg-id="willow2.us" tvg-logo="https://logo.m3uassets.com/willowxtra.png" group-title="US",WILLOW 2
+#EXTINF:0 CUID="252" tvg-chno="null" tvg-name="WILLOW 2" tvg-id="willow2.us" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/9/91/Willow_2_2025.png/revision/latest?cb=20250612175809&output=png" group-title="US",WILLOW 2
 https://a1xs.vip/40000043
-#EXTINF:0 CUID="253" tvg-chno="null" tvg-name="WILLOW CRICKET" tvg-id="I625.80621.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/willow.png" group-title="US",WILLOW CRICKET
+#EXTINF:0 CUID="253" tvg-chno="null" tvg-name="WILLOW CRICKET" tvg-id="I625.80621.schedulesdirect.org" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831&output=png" group-title="US",WILLOW CRICKET
 https://a1xs.vip/40000042
 #EXTINF:0 CUID="251" tvg-chno="null" tvg-name="YES NETWORK" tvg-id="I1702.46275.gracenote.com" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US",YES NETWORK
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
@@ -1039,6 +1043,22 @@ https://akmzed.cloud/_v1_akmzed/GN3oDo6gCRgJagHdV4l55~WfF+x3+QFevDLvLx+U5mk=/aW5
 https://akmzed.cloud/_v1_akmzed/YStnNlNJSDTAFeNJfNaMjOtjFhTJM5BESAvKsE5BdFU=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="237" tvg-name="(500) Days of Summer" group-title="Disney+",(500) Days of Summer
 https://akmzed.cloud/_v1_akmzed/kgslj82K+2TJy9QUVJDPndlQpOHibZ4EL7uNYPAEAG8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="240" tvg-name="10 Things I Hate About You" group-title="Disney+",10 Things I Hate About You
+https://akmzed.cloud/_v1_akmzed/YCHV98pCpgqUPKvR9f6TLZSswA8UNMKOdaWaRWR80mk=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="241" tvg-name="101 Dalmatians" group-title="Disney+",101 Dalmatians
+https://akmzed.cloud/_v1_akmzed/mbLLlk7h3IKrAQCAAK4n9B9~j5GMy5E~QcXicDvvA+8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="242" tvg-name="One Hundred and One Dalmatians" group-title="Disney+",One Hundred and One Dalmatians
+https://akmzed.cloud/_v1_akmzed/8iLSkE++cFGWOWnLh2xESJxChCjqz3u3nSb2LRO4HUk=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="244" tvg-name="12 Years a Slave" group-title="Disney+",12 Years a Slave
+https://akmzed.cloud/_v1_akmzed/ije7MBuYvnSme7iuXOnpRo0puU7r0x16dBZsqh8Telo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="245" tvg-name="127 Hours" group-title="Disney+",127 Hours
+https://akmzed.cloud/_v1_akmzed/47Ef9R70MPn6Jc0h45dxj+9C1U4cydT7Kn4udOUn7~A=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="259" tvg-name="27 Dresses" group-title="Disney+",27 Dresses
+https://akmzed.cloud/_v1_akmzed/1tU24+3Cig~V12cEmZLkYuRppjyhdYAylUCUqdVPTNY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="260" tvg-name="28 Days Later" group-title="Disney+",28 Days Later
+https://akmzed.cloud/_v1_akmzed/GC3fX8QffcA78pyGsPuMyEFn62+r+cNWgBkiDGq7914=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="261" tvg-name="28 Weeks Later" group-title="Disney+",28 Weeks Later
+https://akmzed.cloud/_v1_akmzed/zcNJkExBoyoZEl3qa0W3i+1MPdDxs11Tcf7sgM5gO8s=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="14" tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="PRIME VIDEO",Road House (2024)
 https://akmzed.cloud/_v1_akmzed/CGANxHXMtuTAHfyi7J2ttVpd7Rpr4lNJHxpA+R5FUg0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="41" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="PRIME VIDEO",Air (2023)
@@ -1061,6 +1081,10 @@ https://akmzed.cloud/_v1_akmzed/5K1KAOgUtGQQn201cy~y2ATFnVfW5370C2jW0o5T0b4=/aW5
 https://akmzed.cloud/_v1_akmzed/KvE+UIeJmr8WW21dbUH0HZ6yhSKdBACUu8P2gOwBEhg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="232" tvg-name="¡Three Amigos!" group-title="PRIME VIDEO",¡Three Amigos!
 https://akmzed.cloud/_v1_akmzed/83e1NzfqYQ~iDI00bgS0kU68YP0OZ6pcQQ1X4TEYsjI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="248" tvg-name="1408" group-title="PRIME VIDEO",1408
+https://akmzed.cloud/_v1_akmzed/bFdULen+KfNUX0XpRbvuop6eT2oGfi2B121yxdr4pVo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="253" tvg-name="2001: A Space Odyssey" group-title="PRIME VIDEO",2001: A Space Odyssey
+https://akmzed.cloud/_v1_akmzed/B63ii1FPnfRdzzss+pxVycCEbiAdhrK4dc0ho53RgIc=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="10" tvg-name="Weapons" tvg-logo="https://image.tmdb.org/t/p/w780/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg" group-title="HBO MAX",Weapons
 https://akmzed.cloud/_v1_akmzed/jlYHg751nv41lJReDm3d2tRKTEVWn8h21zsCSWG4+yw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="11" tvg-name="Final Destination Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w780/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="HBO MAX",Final Destination Bloodlines
@@ -1165,6 +1189,14 @@ https://akmzed.cloud/_v1_akmzed/bBcOUvJcEoaXpvC+Y3bey~H~Po0NCuexAN2o03FycsI=/aW5
 https://akmzed.cloud/_v1_akmzed/G472ZXZv+ZPz5aBWTiPkYb4VwoP5AFsIuKQehOLbqG4=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="222" tvg-name="Se7en" tvg-logo="https://image.tmdb.org/t/p/w780/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg" group-title="HBO MAX",Se7en
 https://akmzed.cloud/_v1_akmzed/zzW7bOyEyoH96t0oyqlbMZV0gj44I1BV7ISHtFv~Z2w=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="249" tvg-name="The 15:17 to Paris" group-title="HBO MAX",The 15:17 to Paris
+https://akmzed.cloud/_v1_akmzed/PiCZS8IsOiNEyvjoh5rI6M~5NWCs9q45PJ0L2aoAab8=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="264" tvg-name="300" group-title="HBO MAX",300
+https://akmzed.cloud/_v1_akmzed/pd1hWsJ8qXiTFRihqUiy9ttu3v8HR5hJxbS1pWrtf6k=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="265" tvg-name="300: Rise of an Empire" group-title="HBO MAX",300: Rise of an Empire
+https://akmzed.cloud/_v1_akmzed/EPHKVjMJGG2FtqWpWY2oag4y29ncWcxn+P9pSkflxIE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="270" tvg-name="42" group-title="HBO MAX",42
+https://akmzed.cloud/_v1_akmzed/+MCaAgVZVL+w1Uny~O9TSwR8z8HgHt~T23gQTzLDDBM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="17" tvg-name="Drop" tvg-logo="https://image.tmdb.org/t/p/w780/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg" group-title="Peacock TV",Drop
 https://akmzed.cloud/_v1_akmzed/OzTiCHlteddsszKMpQrNdJ8Y1YNj+DuYsdCp4nncoZw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="18" tvg-name="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/w780/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" group-title="Peacock TV",Speak No Evil
@@ -1243,6 +1275,16 @@ https://akmzed.cloud/_v1_akmzed/UUbd0Md9QIEF7boohrrHMDUd0pps9PgdvILaxhRbQA8=/aW5
 https://akmzed.cloud/_v1_akmzed/~kfMsbKWm3noEnX3psRMadoe8DVSBywk6vlPgVen25o=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="234" tvg-name="The 'Burbs" group-title="Peacock TV",The 'Burbs
 https://akmzed.cloud/_v1_akmzed/EJYeBwfTUXjlVsONrpY7w2DIopNonmRe7AvxwGNrxJQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="250" tvg-name="1917" group-title="Peacock TV",1917
+https://akmzed.cloud/_v1_akmzed/9NOkVkuWdLxumjkZTLDCS3V5Bj4hzSycxqpc05DIE1I=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="252" tvg-name="2 Fast 2 Furious" group-title="Peacock TV",2 Fast 2 Furious
+https://akmzed.cloud/_v1_akmzed/ANSAMXJl36mtkD1PDcyAEuFTXi3W6zFGG8hRG~v2csA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="266" tvg-name="The 355" group-title="Peacock TV",The 355
+https://akmzed.cloud/_v1_akmzed/fB1MSG884UjMOLszspnGL~yyoyLdmY9S~wfbRKZrKBI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="269" tvg-name="The 40 Year Old Virgin" group-title="Peacock TV",The 40 Year Old Virgin
+https://akmzed.cloud/_v1_akmzed/MKWisLsZIPrcJXzc9isEXgn0KjTgNVPy+CJklCYjMdc=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="271" tvg-name="47 Ronin" group-title="Peacock TV",47 Ronin
+https://akmzed.cloud/_v1_akmzed/shoCM8yNX9JcHVojSeTUdfRHCSeVhOYBtKAzrsjLmmM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="13" tvg-name="Smile 2" tvg-logo="https://image.tmdb.org/t/p/w780/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg" group-title="Paramount+",Smile 2
 https://akmzed.cloud/_v1_akmzed/fojybTAPAacIvzpyp9MEAWcdDfGwZoNSGYZpbuBLNKw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="20" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w780/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Paramount+",The Godfather
@@ -1291,6 +1333,10 @@ https://akmzed.cloud/_v1_akmzed/EpmjV8apqlhJymKmjkdXVNccczvnIOTXGmj6OGv7lTc=/aW5
 https://akmzed.cloud/_v1_akmzed/TR9FveITuFLDeDssMXR8zpcK8gycHCbrtThME9VMNPY=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="226" tvg-name="It's a Wonderful Life" tvg-logo="https://image.tmdb.org/t/p/w780/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg" group-title="Paramount+",It's a Wonderful Life
 https://akmzed.cloud/_v1_akmzed/XfyWlL37ZgFPZEu7nh+TrgpwSgjRgYMNopqD0IF3DzM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="239" tvg-name="10 Cloverfield Lane" group-title="Paramount+",10 Cloverfield Lane
+https://akmzed.cloud/_v1_akmzed/~vgsTy4cQfdLMzwlN3xfRukoRVOFebBk2hJeBMdC8lQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="247" tvg-name="13 Hours: The Secret Soldiers of Benghazi" group-title="Paramount+",13 Hours: The Secret Soldiers of Benghazi
+https://akmzed.cloud/_v1_akmzed/7nYyJwnYxfNYLMhLc3P~5q6AP4Cxt4ljgqWk+F8U5Ic=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="62" tvg-name="The Garfield Movie" tvg-logo="https://image.tmdb.org/t/p/w780/xYduFGuch9OwbCOEUiamml18ZoB.jpg" group-title="SONY Pictures Core",The Garfield Movie
 https://akmzed.cloud/_v1_akmzed/iB7tZRBX8gUAVdvUN+xKADvALoNu0cYLsNYjGEW8AtI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="64" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w780/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="SONY Pictures Core",Blade Runner 2049
@@ -1337,6 +1383,18 @@ https://akmzed.cloud/_v1_akmzed/tfgbLAUEHn~3hft~ud4AjxgFHzJy2Cc99a~9um4RO0k=/aW5
 https://akmzed.cloud/_v1_akmzed/rp5P0yCQlxzBRfVEYO63AH8fKasUPVqoK2adaOQvCjk=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="233" tvg-name="...And Justice for All" group-title="SONY Pictures Core",...And Justice for All
 https://akmzed.cloud/_v1_akmzed/ZoHbqGlhuzKfbN~x4MQIBerb2Qi7AlbqExUOHozj7fM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="246" tvg-name="13 Going on 30" group-title="SONY Pictures Core",13 Going on 30
+https://akmzed.cloud/_v1_akmzed/8t2pOSNHi6lvd66D~WFUlN9U6me7B1SW9OmkydqWJag=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="254" tvg-name="2012" group-title="SONY Pictures Core",2012
+https://akmzed.cloud/_v1_akmzed/+f2o6vaRFRQw~DheUzD+1YivE9n~8eJKvJsVJrVOeC4=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="256" tvg-name="21 Jump Street" group-title="SONY Pictures Core",21 Jump Street
+https://akmzed.cloud/_v1_akmzed/Lp1NOYI9WUvKMhY2uYSqPnwsfw+4FyJwUVHASBC1vCs=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="257" tvg-name="22 Jump Street" group-title="SONY Pictures Core",22 Jump Street
+https://akmzed.cloud/_v1_akmzed/xm6BsIjk04xIcvpBSekakbavMM00kbQYZtipn5zqOrg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="268" tvg-name="3:10 to Yuma (1957)" group-title="SONY Pictures Core",3:10 to Yuma (1957)
+https://akmzed.cloud/_v1_akmzed/p4HFWrC52uYIdyWQjIDq+jk4y04seZwx9kxfyJM7tQA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="272" tvg-name="50 First Dates" group-title="SONY Pictures Core",50 First Dates
+https://akmzed.cloud/_v1_akmzed/rWxUUmSfO3BWTb3DcI5D0jXaD2EWvMzdCqkTe1Rpvo4=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="56" tvg-name="Allegiant" tvg-logo="https://image.tmdb.org/t/p/w780/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg" group-title="STARZ",Allegiant
 https://akmzed.cloud/_v1_akmzed/SHVe7V0paqeoe6JIDSOoVP9cnDhhyCUn0ETAxt6FxJg=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="146" tvg-name="Gunslingers" tvg-logo="https://image.tmdb.org/t/p/w780/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="STARZ",Gunslingers
@@ -1347,6 +1405,16 @@ https://akmzed.cloud/_v1_akmzed/gWykP3PM5AYcNc+ZiprkcXz7ltV8vD5atGEcOYrjYxI=/aW5
 https://akmzed.cloud/_v1_akmzed/~KS0YuFCaCQBNMnzecFz6~WVz99XuaESGBnpyifhwAM=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="165" tvg-name="Angel Has Fallen" tvg-logo="https://image.tmdb.org/t/p/w780/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="STARZ",Angel Has Fallen
 https://akmzed.cloud/_v1_akmzed/sLot27wt1eTyey+9KeC6yRAOOEygDaZjKg0d9ZzQcSg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="251" tvg-name="1992" group-title="STARZ",1992
+https://akmzed.cloud/_v1_akmzed/7WDeK57InkpL03oozakW1tXkS3VmSgd5S9TyY2Z0aUU=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="258" tvg-name="211" group-title="STARZ",211
+https://akmzed.cloud/_v1_akmzed/fdliJ9aTK4krDe6FBC5rZxKncJHeX~j44nHoej8M0Es=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="263" tvg-name="3 from Hell" group-title="STARZ",3 from Hell
+https://akmzed.cloud/_v1_akmzed/bRUOjLnHsjw+SPh7GlxZmnO8eHBbcB~PrYKVkrwqVSg=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="267" tvg-name="3:10 to Yuma" group-title="STARZ",3:10 to Yuma
+https://akmzed.cloud/_v1_akmzed/LPn9BdvqIJesdU3dp4c4QKqnQU+TSw5dkktgzi0qT1Y=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="273" tvg-name="50/50" group-title="STARZ",50/50
+https://akmzed.cloud/_v1_akmzed/oa4kp34Pv9h0qHKc4tvLPYhbkimpoKpnfkQ2OwrHkeA=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="48" tvg-name="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w780/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="AMC+",Arcadian
 https://akmzed.cloud/_v1_akmzed/AnGu1WoP2NF3YsfxUXwx~hOdYJDam~Tp0n7O6~RQmZA=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="2" tvg-name="'71" tvg-logo="https://image.tmdb.org/t/p/w780/wbhqBocsP7QoX8SZLvCsGOWUAaQ.jpg" group-title="Studiocanal Presents",'71
@@ -1395,6 +1463,12 @@ https://akmzed.cloud/_v1_akmzed/dAHU3TGKbCPE5g+qlw43zPhFMUIzBpger1gvFY8YYyw=/aW5
 https://akmzed.cloud/_v1_akmzed/E+M407Hd~WNl3Oka4aXHkzjD4GY11OUekfgMX+wRHsQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="238" tvg-name="[REC]" group-title="Others",[REC]
 https://akmzed.cloud/_v1_akmzed/Wi8~rQU8XTX1mFLHd5y~f1tlNxvLWXBteiytSwsJUEI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="243" tvg-name="10x10" group-title="Others",10x10
+https://akmzed.cloud/_v1_akmzed/wgx6sXcMULdpLzhznXGQTi55~HGRTwc65a5yRVNiM6g=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="255" tvg-name="2073" group-title="Others",2073
+https://akmzed.cloud/_v1_akmzed/FFzNK7aw1AluuA5u5qsUZZXW80fyp01DAf+Fte7h7PQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="262" tvg-name="3 Days to Kill" group-title="Others",3 Days to Kill
+https://akmzed.cloud/_v1_akmzed/ZAk772jUUakZEWyYzC82sL3aBE~dSSA73n~JoLqH1kY=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="117" tvg-name="A Dickens of a Holiday!" tvg-logo="https://image.tmdb.org/t/p/w780/rqm52nuyi19lxFEHz4DCVsCmA6v.jpg" group-title="Hallmark+",A Dickens of a Holiday!
 https://akmzed.cloud/_v1_akmzed/6fy7wq0HMSXF6W3ULKXgA3LtA0EhqiQ7j0YKUBL6Znw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="133" tvg-name="True History of the Kelly Gang" tvg-logo="https://image.tmdb.org/t/p/w780/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg" group-title="Stan.",True History of the Kelly Gang
