@@ -919,6 +919,10 @@ https://fl7.moveonjoy.com/FYI/index.m3u8
 https://fl7.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:0 CUID="549" tvg-chno="null" tvg-name="MAGNOLIA NETWORK" group-title="US",MAGNOLIA NETWORK
 https://fl7.moveonjoy.com/DIY/index.m3u8
+#EXTINF:0 CUID="550" tvg-chno="null" tvg-name="DISCOVERY FAMILY" group-title="US",DISCOVERY FAMILY
+https://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:0 CUID="551" tvg-chno="null" tvg-name="DISNEY JR." group-title="US",DISNEY JR.
+https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
