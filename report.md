@@ -1,20 +1,20 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-23 23:11:12 UTC
+**Generated on:** 2025-09-24 06:14:03 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 997 | 100% |
-| **✅ Working Streams** | 978 | 98.1% |
-| **❌ Failed Streams** | 19 | 1.9% |
+| **Total Streams** | 1083 | 100% |
+| **✅ Working Streams** | 1064 | 98.2% |
+| **❌ Failed Streams** | 19 | 1.8% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 502 streams
+- `channel playlist.m3u`: 588 streams
 
 ## 📋 Failure Analysis (19 total failures)
 
@@ -43,11 +43,11 @@
 |-------------|-------|------|---------------|------|
 | FS2 | US | channel playlist.m3u | Stream not found | 404 |
 | FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
-| COOKING CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
+| CARTOON NETWORK | US | channel playlist.m3u | Stream not found | 404 |
 | HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
-| REVOLT | US | channel playlist.m3u | Stream not found | 404 |
 | NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
-| NATIONAL GEOGRAPHIC (EAST) | US | channel playlist.m3u | Stream not found | 404 |
+| MTV LIVE | US | channel playlist.m3u | Stream not found | 404 |
+| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
 
 
 ## 📈 Geographic Notes
@@ -67,5 +67,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-23 23:11:12 UTC*
+*Last updated: 2025-09-24 06:14:03 UTC*
 *Report generated automatically by GitHub Actions*
