@@ -723,8 +723,6 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:0 CUID="634" tvg-chno="null" tvg-name="FANDUEL SPORTS NETWORK ARIZONA" tvg-logo="https://logo.m3uassets.com/fandueltv.png" group-title="USA",FANDUEL SPORTS NETWORK ARIZONA
 https://fl7.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
-#EXTINF:0 CUID="635" tvg-chno="null" tvg-name="THE MOVIE CHANNEL" group-title="USA",THE MOVIE CHANNEL
-https://e2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=CZhIoUCuCsp6sghYpqC5HQ&expires=1758756438&user_id=YjdVU2dsRGs0am1YdkJkb
 #EXTINF:0 CUID="524" tvg-chno="null" tvg-name="FOX WEATHER" group-title="USA FAST",FOX WEATHER
 https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
 #EXTINF:0 CUID="636" tvg-chno="null" tvg-name="ABC7 CHICAGO" group-title="USA FAST",ABC7 CHICAGO
@@ -801,6 +799,8 @@ https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
+#EXTINF:0 CUID="639" tvg-chno="null" tvg-name="CTV 2" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="CA",CTV 2
+http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
 #EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:0 CUID="555" tvg-chno="null" tvg-name="Sportsnet 360" tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20250924&channel_id=404765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qwl9vK69Lscmc07-zGKwhJKBcycFRk2_rV-5--v9oQ&s=10" group-title="CA",Sportsnet 360
@@ -809,6 +809,10 @@ http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/175777
 http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/473384
 #EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
 http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
+#EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
+#EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
@@ -1025,8 +1029,14 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:0 CUID="453" tvg-chno="null" tvg-name="CANAL 21 TV" group-title="AR",CANAL 21 TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL ENGLISH",TRACE URBAN
+#EXTINF:0 CUID="638" tvg-chno="null" tvg-name="24/7 FAMILY GUY" group-title="INT",24/7 FAMILY GUY
+http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
+#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INT",TRACE URBAN
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:0 CUID="635" tvg-chno="null" tvg-name="THE MOVIE CHANNEL" group-title="INT",THE MOVIE CHANNEL
+https://e2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=CZhIoUCuCsp6sghYpqC5HQ&expires=1758756438&user_id=YjdVU2dsRGs0am1YdkJkb
+#EXTINF:0 CUID="642" tvg-chno="null" tvg-name="PEACOCK PPV" group-title="USA PPV",PEACOCK PPV
+http://user.scalecdn.co:8080/live/26725074/92867131/696539.ts
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
