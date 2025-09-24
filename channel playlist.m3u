@@ -1,488 +1,4 @@
 #EXTM3U
-#EXTINF:0 CUID="51" tvg-chno="null" tvg-name="SKY NEWS WEATHER" tvg-logo="https://logo.m3uassets.com/skynewsweather.png" group-title="FAST",SKY NEWS WEATHER
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:0 CUID="52" tvg-chno="null" tvg-name="TALKSPORT UK" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="FAST",TALKSPORT UK
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:0 CUID="46" tvg-chno="null" tvg-name="POP UP UK" group-title="FAST",POP UP UK
-https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
-#EXTINF:0 CUID="62" tvg-chno="null" tvg-name="ANTIQUES ROADSHOW" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="FAST",ANTIQUES ROADSHOW
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 CUID="65" tvg-chno="null" tvg-name="PLUTO TV MOVIES UK" tvg-logo="https://logo.m3uassets.com/plutotvmovies.png" group-title="FAST",PLUTO TV MOVIES UK
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
-#EXTINF:0 CUID="66" tvg-chno="null" tvg-name="21 JUMP STREET" group-title="FAST",21 JUMP STREET
-https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
-#EXTINF:0 CUID="67" tvg-chno="null" tvg-name="BAYWATCH" tvg-logo="https://logo.m3uassets.com/baywatch.png" group-title="FAST",BAYWATCH
-https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="68" tvg-chno="null" tvg-name="CURIOSITY NOW" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="FAST",CURIOSITY NOW
-https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
-#EXTINF:0 CUID="69" tvg-chno="null" tvg-name="DEAL OR NO DEAL US" group-title="FAST",DEAL OR NO DEAL US
-https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="70" tvg-chno="null" tvg-name="EGGHEADS" group-title="FAST",EGGHEADS
-https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="71" tvg-chno="null" tvg-name="ESCAPE TO THE COUNTRY" group-title="FAST",ESCAPE TO THE COUNTRY
-https://amg00145-amg00145c11-rakuten-uk-5450.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="72" tvg-chno="null" tvg-name="FILMZIE" group-title="FAST",FILMZIE
-https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="73" tvg-chno="null" tvg-name="THE GRAHAM NORTON SHOW" group-title="FAST",THE GRAHAM NORTON SHOW
-https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="74" tvg-chno="null" tvg-name="GUSTO TV" tvg-logo="https://logo.m3uassets.com/gustotv.png" group-title="FAST",GUSTO TV
-https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
-#EXTINF:0 CUID="75" tvg-chno="null" tvg-name="HELL'S KITCHEN" tvg-logo="https://logo.m3uassets.com/hell'skitchen.png" group-title="FAST",HELL'S KITCHEN
-https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="76" tvg-chno="null" tvg-name="HIGHWAY THRU HELL" group-title="FAST",HIGHWAY THRU HELL
-https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="77" tvg-chno="null" tvg-name="HOMES UNDER THE HAMMER" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="FAST",HOMES UNDER THE HAMMER
-https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="78" tvg-chno="null" tvg-name="ICE ROAD TRUCKERS" tvg-logo="https://logo.m3uassets.com/iceroadtruckers.png" group-title="FAST",ICE ROAD TRUCKERS
-https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
-#EXTINF:0 CUID="79" tvg-chno="null" tvg-name="MECH+" group-title="FAST",MECH+
-https://mechtvltd-mechplus-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="80" tvg-chno="null" tvg-name="MR. BEAN ANIMATED" tvg-logo="https://logo.m3uassets.com/mrbean.png" group-title="FAST",MR. BEAN ANIMATED
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-#EXTINF:0 CUID="81" tvg-chno="null" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="FAST",MY TIME MOVIE NETWORK
-https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="82" tvg-chno="null" tvg-name="NINJA WARRIOR" group-title="FAST",NINJA WARRIOR
-https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="85" tvg-chno="null" tvg-name="POINTLESS" group-title="FAST",POINTLESS
-https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8
-#EXTINF:0 CUID="86" tvg-chno="null" tvg-name="POPFLIX" group-title="FAST",POPFLIX
-https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="87" tvg-chno="null" tvg-name="RAKUTEN TV TOP MOVIES UK" group-title="FAST",RAKUTEN TV TOP MOVIES UK
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:0 CUID="88" tvg-chno="null" tvg-name="RAKUTEN TV ACTION MOVIES UK" group-title="FAST",RAKUTEN TV ACTION MOVIES UK
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:0 CUID="89" tvg-chno="null" tvg-name="RAKUTEN TV COMEDY MOVIES UK" group-title="FAST",RAKUTEN TV COMEDY MOVIES UK
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:0 CUID="90" tvg-chno="null" tvg-name="RAKUTEN TV DRAMA MOVIES UK" group-title="FAST",RAKUTEN TV DRAMA MOVIES UK
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:0 CUID="91" tvg-chno="null" tvg-name="RAKUTEN TV FAMILY MOVIES UK" group-title="FAST",RAKUTEN TV FAMILY MOVIES UK
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:0 CUID="92" tvg-chno="null" tvg-name="RAKUTEN TV REALITY UK" group-title="FAST",RAKUTEN TV REALITY UK
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:0 CUID="93" tvg-chno="null" tvg-name="RAKUTEN TV ROMANCE MOVIES UK" group-title="FAST",RAKUTEN TV ROMANCE MOVIES UK
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:0 CUID="94" tvg-chno="null" tvg-name="RAKUTEN TV SCI-FI UK" group-title="FAST",RAKUTEN TV SCI-FI UK
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:0 CUID="95" tvg-chno="null" tvg-name="RAKUTEN TV THRILLERS UK" group-title="FAST",RAKUTEN TV THRILLERS UK
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
-#EXTINF:0 CUID="96" tvg-chno="null" tvg-name="RAKUTEN TV TRAILERS UK" group-title="FAST",RAKUTEN TV TRAILERS UK
-https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
-#EXTINF:0 CUID="97" tvg-chno="null" tvg-name="RED BULL TV" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="FAST",RED BULL TV
-https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
-#EXTINF:0 CUID="98" tvg-chno="null" tvg-name="TENNIS CHANNEL UK" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="FAST",TENNIS CHANNEL UK
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="99" tvg-chno="null" tvg-name="TENNIS+ UK" group-title="FAST",TENNIS+ UK
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="100" tvg-chno="null" tvg-name="VEVO HIP-HOP R&B UK" group-title="FAST",VEVO HIP-HOP R&B UK
-https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="101" tvg-chno="null" tvg-name="VEVO POP UK" group-title="FAST",VEVO POP UK
-https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="102" tvg-chno="null" tvg-name="MOVEISPHERE BY LIONSGATE UK" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="FAST",MOVEISPHERE BY LIONSGATE UK
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="108" tvg-chno="null" tvg-name="NOSEY" tvg-logo="https://logo.m3uassets.com/nosey.png" group-title="FAST",NOSEY
-https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
-#EXTINF:0 CUID="109" tvg-chno="null" tvg-name="TOP GEAR" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="FAST",TOP GEAR
-https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="335" tvg-chno="null" tvg-name="ION" tvg-logo="https://logo.m3uassets.com/ion.png" group-title="FAST",ION
-https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
-#EXTINF:0 CUID="336" tvg-chno="null" tvg-name="ION PLUS" tvg-logo="https://logo.m3uassets.com/ionplus.png" group-title="FAST",ION PLUS
-https://live-manifest.production-public.tubi.io/live/0e9538d9-1180-4710-9b00-4bf312c6dd17/playlist.m3u8
-#EXTINF:0 CUID="337" tvg-chno="null" tvg-name="SONY ONE ACTION HITS" group-title="FAST",SONY ONE ACTION HITS
-https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="338" tvg-chno="null" tvg-name="SONY ONE COMEDY HITS" group-title="FAST",SONY ONE COMEDY HITS
-https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="339" tvg-chno="null" tvg-name="SONY ONE THRILLER TV" group-title="FAST",SONY ONE THRILLER TV
-https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="340" tvg-chno="null" tvg-name="SONY ONE COMEDY TV" group-title="FAST",SONY ONE COMEDY TV
-https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="341" tvg-chno="null" tvg-name="SONY ONE FAVES" group-title="FAST",SONY ONE FAVES
-https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:0 CUID="342" tvg-chno="null" tvg-name="ICON FILM CHANNEL" group-title="FAST",ICON FILM CHANNEL
-https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
-#EXTINF:0 CUID="343" tvg-chno="null" tvg-name="SPARKLE MOVIES" group-title="FAST",SPARKLE MOVIES
-https://4e7a7263575046f8a1d1770818e39216.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_SparkleMovies/playlist.m3u8
-#EXTINF:0 CUID="344" tvg-chno="null" tvg-name="STORIES BY AMC" tvg-logo="https://logo.m3uassets.com/storiesbyamc.png" group-title="FAST",STORIES BY AMC
-https://dcdf4f2976be4aac8e4094d129e179a9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_StoriesByAMC/playlist.m3u8
-#EXTINF:0 CUID="345" tvg-chno="null" tvg-name="THE WALKING DEAD UNIVERSE" tvg-logo="https://logo.m3uassets.com/thewalkingdeaduniverse.png" group-title="FAST",THE WALKING DEAD UNIVERSE
-https://4af795c331a141e19ee30918d8abc796.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_TheWalkingDeadUniverse/playlist.m3u8
-#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL ENGLISH",TRACE URBAN
-https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:0 CUID="1" tvg-chno="null" tvg-name="BLAZE" tvg-id="BLAZE.uk" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="UK",BLAZE
-https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
-#EXTINF:0 CUID="2" tvg-chno="null" tvg-name="SKY NEWS" tvg-id="Sky.News.HD.uk" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="UK",SKY NEWS
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 CUID="3" tvg-chno="null" tvg-name="GB NEWS" tvg-id="GB.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="UK",GB NEWS
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 CUID="4" tvg-chno="null" tvg-name="GREAT! MOVIES" tvg-id="GREAT!.movies.uk" tvg-logo="https://logo.m3uassets.com/greatmovies.png" group-title="UK",GREAT! MOVIES
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:0 CUID="5" tvg-chno="null" tvg-name="GREAT! ROMANCE" tvg-id="GREAT!.romance.uk" tvg-logo="https://logo.m3uassets.com/greatromance.png" group-title="UK",GREAT! ROMANCE
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="pop.uk" group-title="UK",POP
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:0 CUID="7" tvg-chno="null" tvg-name="TINY POP" tvg-id="tinypop.uk" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK",TINY POP
-https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:0 CUID="8" tvg-chno="null" tvg-name="STV" tvg-id="STV.Central.uk" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="UK",STV
-https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
-#EXTINF:0 CUID="9" tvg-chno="null" tvg-name="STV+1" tvg-id="STV.Central.+1.uk" tvg-logo="https://logo.m3uassets.com/stvplus.png" group-title="UK",STV+1
-https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
-#EXTINF:0 CUID="28" tvg-chno="null" tvg-name="BBC NEWS" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK",BBC NEWS
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTINF:0 CUID="29" tvg-chno="null" tvg-name="CNBC UK" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="UK",CNBC UK
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:0 CUID="30" tvg-chno="null" tvg-name="CHANNEL 4" tvg-id="Channel.4.HD.uk" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="UK",CHANNEL 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:0 CUID="31" tvg-chno="null" tvg-name="BBC TWO" tvg-id="BBC.Two.HD.uk" tvg-logo="https://logo.m3uassets.com/bbctwo.png" group-title="UK",BBC TWO
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:0 CUID="32" tvg-chno="null" tvg-name="MORE4" tvg-id="More4.HD.uk" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="UK",MORE4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
-#EXTINF:0 CUID="33" tvg-chno="null" tvg-name="BBC THREE | CBBC" tvg-id="BBC.Three.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcthreecbbc.png" group-title="UK",BBC THREE | CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:0 CUID="34" tvg-chno="null" tvg-name="BBC FOUR | CBEEBIES" tvg-id="BBC.Four.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcfourcbeebies.png" group-title="UK",BBC FOUR | CBEEBIES
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:0 CUID="35" tvg-chno="null" tvg-name="CHANNEL 5" tvg-id="Channel.5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/250px-Channel_5_2025.svg.png" group-title="UK",CHANNEL 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:0 CUID="36" tvg-chno="null" tvg-name="FILM4" tvg-id="Film4.HD.uk" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="UK",FILM4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:0 CUID="39" tvg-chno="null" tvg-name="ITV 3" tvg-id="ITV3.HD.uk" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="UK",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:0 CUID="40" tvg-chno="null" tvg-name="ITV 2" tvg-id="ITV2.HD.uk" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="UK",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:0 CUID="43" tvg-chno="null" tvg-name="HORSE & COUNTRY" tvg-logo="https://logo.m3uassets.com/horseandcountry.png" group-title="UK",HORSE & COUNTRY
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:0 CUID="44" tvg-chno="null" tvg-name="MTV HITS" tvg-id="MTV.HITS.uk" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="UK",MTV HITS
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-#EXTINF:0 CUID="45" tvg-chno="null" tvg-name="NOW 80'S" tvg-id="NOW.80s.uk" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="UK",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 CUID="47" tvg-chno="null" tvg-name="QVC" tvg-id="QVC.HD.uk" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="UK",QVC
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:0 CUID="48" tvg-chno="null" tvg-name="QVC BEAUTY" tvg-id="QVC.Beauty.uk" tvg-logo="https://logo.m3uassets.com/qvcbeauty.png" group-title="UK",QVC BEAUTY
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:0 CUID="49" tvg-chno="null" tvg-name="QVC EXTRA" tvg-id="QVC.Extra.uk" tvg-logo="https://logo.m3uassets.com/qvcextra.png" group-title="UK",QVC EXTRA
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:0 CUID="50" tvg-chno="null" tvg-name="QVC STYLE" tvg-id="QVC.Style.HD.uk" tvg-logo="https://logo.m3uassets.com/qvcstyle.png" group-title="UK",QVC STYLE
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:0 CUID="53" tvg-chno="null" tvg-name="TALK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="UK",TALK
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:0 CUID="54" tvg-chno="null" tvg-name="TBN UK" tvg-id="TBN.UK.uk" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="UK",TBN UK
-https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
-#EXTINF:0 CUID="55" tvg-chno="null" tvg-name="TJC" tvg-id="TJC.HD.uk" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="UK",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:0 CUID="56" tvg-chno="null" tvg-name="TRACE UK" group-title="UK",TRACE UK
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:0 CUID="57" tvg-chno="null" tvg-name="TV WAREHOUSE" tvg-id="TV.Warehouse.uk" tvg-logo="https://logo.m3uassets.com/tvwarehouse.png" group-title="UK",TV WAREHOUSE
-https://tvwarehouse.r.worldssl.net/mystream.m3u8
-#EXTINF:0 CUID="58" tvg-chno="null" tvg-name="WILD EARTH" tvg-id="WildEarth.uk" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="UK",WILD EARTH
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:0 CUID="59" tvg-chno="null" tvg-name="YAAAS!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.webp?itok=TOd-aCWI" group-title="UK",YAAAS!
-https://jmp2.uk/stvp-GB340000289
-#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-id="NOW.70s.uk" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="UK",NOW 70'S
-https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="84" tvg-chno="null" tvg-name="NOW ROCK" tvg-id="Now.Rock.uk" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="UK",NOW ROCK
-https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="110" tvg-chno="null" tvg-name="EURONEWS ENGLISH" tvg-id="Euronews.uk" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK",EURONEWS ENGLISH
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:0 CUID="111" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH" tvg-id="FRANCE.24.HD.uk" tvg-logo="https://logo.m3uassets.com/24englishint.png" group-title="UK",FRANCE 24 ENGLISH
-https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
-#EXTINF:0 CUID="285" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT UHD" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT UHD
-https://a1xs.vip/2000015
-#EXTINF:0 CUID="228" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT
-https://a1xs.vip/2000001
-#EXTINF:0 CUID="230" tvg-chno="null" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-id="SkySp.PL.uk" tvg-logo="https://logo.m3uassets.com/skysportspremierleaguehz.png" group-title="UK",SKY SPORTS PREMIER LEAGUE
-https://a1xs.vip/2000002
-#EXTINF:0 CUID="223" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" tvg-id="SkySp.Cricket.uk" tvg-logo="https://logo.m3uassets.com/skysportscrickethz.png" group-title="UK",SKY SPORTS CRICKET
-https://a1xs.vip/2000006
-#EXTINF:0 CUID="226" tvg-chno="null" tvg-name="SKY SPORTS GOLF" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsgolfhz.png" group-title="UK",SKY SPORTS GOLF
-https://a1xs.vip/2000009
-#EXTINF:0 CUID="231" tvg-chno="null" tvg-name="SKY SPORTS RACING" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracinghz.png" group-title="UK",SKY SPORTS RACING
-https://a1xs.vip/2000010
-#EXTINF:0 CUID="221" tvg-chno="null" tvg-name="SKY SPORTS NFL" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnflhz.png" group-title="UK",SKY SPORTS NFL
-https://a1xs.vip/2000011
-#EXTINF:0 CUID="222" tvg-chno="null" tvg-name="SKY SPORTS+" tvg-id="I1074.104322.schedulesdirect.org" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="UK",SKY SPORTS+
-https://a1xs.vip/2000012
-#EXTINF:0 CUID="232" tvg-chno="null" tvg-name="SKY SPORTS TENNIS" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK",SKY SPORTS TENNIS
-https://a1xs.vip/2000013
-#EXTINF:0 CUID="234" tvg-chno="null" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="UK",TNT SPORTS 1
-https://a1xs.vip/2000021
-#EXTINF:0 CUID="235" tvg-chno="null" tvg-name="TNT SPORTS 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="UK",TNT SPORTS 2
-https://a1xs.vip/2000022
-#EXTINF:0 CUID="236" tvg-chno="null" tvg-name="TNT SPORTS 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="UK",TNT SPORTS 3
-https://a1xs.vip/2000023
-#EXTINF:0 CUID="237" tvg-chno="null" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="UK",TNT SPORTS 4
-https://a1xs.vip/2000024
-#EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." tvg-id="Nick.Jr..HD.uk" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="UK",NICK JR.
-https://a1xs.vip/1000052
-#EXTINF:0 CUID="319" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",BBC ONE LONDON
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-id="I1195.30454.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
-https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 CUID="489" tvg-chno="null" tvg-name="VIRGIN MEDIA TWO" tvg-logo="https://logo.m3uassets.com/virginmediatwo.png" group-title="UK",VIRGIN MEDIA TWO
-http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
-#EXTINF:0 CUID="490" tvg-chno="null" tvg-name="VIRGIN MEDIA THREE" tvg-logo="https://logo.m3uassets.com/virginmediathree.png" group-title="UK",VIRGIN MEDIA THREE
-http://185.99.136.50:9981/stream/channelid/1547165180?profile=pass
-#EXTINF:0 CUID="491" tvg-chno="null" tvg-name="VIRGIN MEDIA FOUR" tvg-logo="https://logo.m3uassets.com/virginmediafour.png" group-title="UK",VIRGIN MEDIA FOUR
-http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
-#EXTINF:0 CUID="492" tvg-chno="null" tvg-name="RTÈ NEWS" tvg-logo="https://logo.m3uassets.com/rtenews.png" group-title="UK",RTÈ NEWS
-http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
-#EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="UK",RTÈ JR.
-http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
-#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" tvg-id="I1195.30454.schedulesdirect.org.plus1" group-title="UK",TG 4+1
-http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
-#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcalba.png" group-title="UK",BBC ALBA
-http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
-#EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" tvg-id="ITV.Quiz.uk" group-title="UK",ITV QUIZ
-http://185.99.136.50:9981/stream/channelid/372639910?profile=pass
-#EXTINF:0 CUID="497" tvg-chno="null" tvg-name="SKY ARTS" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://logo.m3uassets.com/skyarts.png" group-title="UK",SKY ARTS
-http://185.99.136.50:9981/stream/channelid/1862163777?profile=pass
-#EXTINF:0 CUID="498" tvg-chno="null" tvg-name="REALLY" tvg-id="Really.uk" tvg-logo="https://logo.m3uassets.com/really.png" group-title="UK",REALLY
-http://185.99.136.50:9981/stream/channelid/1475236954?profile=pass
-#EXTINF:0 CUID="499" tvg-chno="null" tvg-name="QUEST RED" tvg-id="Quest.Red.uk" tvg-logo="https://logo.m3uassets.com/questred.png" group-title="UK",QUEST RED
-http://185.99.136.50:9981/stream/channelid/1493802683?profile=pass
-#EXTINF:0 CUID="500" tvg-chno="null" tvg-name="DMAX" tvg-id="DMAX.uk" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="UK",DMAX
-http://185.99.136.50:9981/stream/channelid/764978521?profile=pass
-#EXTINF:0 CUID="501" tvg-chno="null" tvg-name="HGTV" tvg-id="HGTV.uk" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="UK",HGTV
-http://185.99.136.50:9981/stream/channelid/1176777508?profile=pass
-#EXTINF:0 CUID="502" tvg-chno="null" tvg-name="QUEST" tvg-id="QUEST.HD.uk" tvg-logo="https://logo.m3uassets.com/questp.png" group-title="UK",QUEST
-http://185.99.136.50:9981/stream/channelid/1685007534?profile=pass
-#EXTINF:0 CUID="503" tvg-chno="null" tvg-name="QUEST+1" tvg-id="QUEST.HD.uk.plus1" tvg-logo="https://logo.m3uassets.com/quest+1.png" group-title="UK",QUEST+1
-http://185.99.136.50:9981/stream/channelid/297910009?profile=pass
-#EXTINF:0 CUID="504" tvg-chno="null" tvg-name="U&W" tvg-id="U.and.W.HD.uk" tvg-logo="https://logo.m3uassets.com/uandw.png" group-title="UK",U&W
-http://185.99.136.50:9981/stream/channelid/1510803961?profile=pass
-#EXTINF:0 CUID="505" tvg-chno="null" tvg-name="U&DAVE" tvg-id="U.and.Dave.HD.uk" tvg-logo="https://logo.m3uassets.com/uanddave.png" group-title="UK",U&DAVE
-http://185.99.136.50:9981/stream/channelid/1127047218?profile=pass
-#EXTINF:0 CUID="507" tvg-chno="null" tvg-name="U&DRAMA" tvg-id="U.and.Drama.uk" tvg-logo="https://logo.m3uassets.com/uanddrama.png" group-title="UK",U&DRAMA
-http://185.99.136.50:9981/stream/channelid/23629857?profile=pass
-#EXTINF:0 CUID="508" tvg-chno="null" tvg-name="U&YESTERDAY" tvg-id="U.and.YESTERDAY.uk" tvg-logo="https://logo.m3uassets.com/uandyesterday.png" group-title="UK",U&YESTERDAY
-http://185.99.136.50:9981/stream/channelid/1076237312?profile=pass
-#EXTINF:0 CUID="509" tvg-chno="null" tvg-name="U&EDEN" tvg-id="U.and.Eden.uk" tvg-logo="https://logo.m3uassets.com/uandeden.png" group-title="UK",U&EDEN
-http://185.99.136.50:9981/stream/channelid/607795469?profile=pass
-#EXTINF:0 CUID="510" tvg-chno="null" tvg-name="TOGETHER TV" tvg-id="Together.uk" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK",TOGETHER TV
-http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
-#EXTINF:0 CUID="511" tvg-chno="null" tvg-name="BBC SCOTLAND" tvg-id="I246.110540.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bbcscotland.png" group-title="UK",BBC SCOTLAND
-http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
-#EXTINF:0 CUID="512" tvg-chno="null" tvg-name="BBC PARLIAMENT" tvg-id="BBC.Parliament.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcparliament.png" group-title="UK",BBC PARLIAMENT
-http://185.99.136.50:9981/stream/channelid/461645423?profile=pass
-#EXTINF:0 CUID="513" tvg-chno="null" tvg-name="AL JAZEERA ENGLISH" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK",AL JAZEERA ENGLISH
-http://185.99.136.50:9981/stream/channelid/1299425142?profile=pass
-#EXTINF:0 CUID="514" tvg-chno="null" tvg-name="TRT WORLD" tvg-id="TRT.World.uk" tvg-logo="https://logo.m3uassets.com/trtworld.png" group-title="UK",TRT WORLD
-http://185.99.136.50:9981/stream/channelid/1031041867?profile=pass
-#EXTINF:0 CUID="515" tvg-chno="null" tvg-name="DAYSTAR" tvg-id="DAYSTAR.HD.uk" tvg-logo="https://logo.m3uassets.com/daystar.png" group-title="UK",DAYSTAR
-http://185.99.136.50:9981/stream/channelid/1555913123?profile=pass
-#EXTINF:0 CUID="516" tvg-chno="null" tvg-name="RTÈ ONE" tvg-id="I948.25554.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/rteone.png" group-title="UK",RTÈ ONE
-http://185.99.136.50:9981/stream/channelid/1459190158?profile=pass
-#EXTINF:0 CUID="517" tvg-chno="null" tvg-name="RTÈ 2" tvg-id="I939.99521.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/rt2.png" group-title="UK",RTÈ 2
-http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
-#EXTINF:0 CUID="518" tvg-chno="null" tvg-name="VIRIGIN MEDIA ONE" tvg-logo="https://logo.m3uassets.com/virginmediaone.png" group-title="UK",VIRIGIN MEDIA ONE
-http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
-#EXTINF:0 CUID="519" tvg-chno="null" tvg-name="CHALLENGE" tvg-id="Challenge.uk" tvg-logo="https://logo.m3uassets.com/challenge.png" group-title="UK",CHALLENGE
-http://185.99.136.50:9981/stream/channelid/1884126385?profile=pass
-#EXTINF:0 CUID="520" tvg-chno="null" tvg-name="ITV 4" tvg-id="ITV4.HD.uk" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="UK",ITV 4
-http://185.99.136.50:9981/stream/channelid/2144361280?profile=pass
-#EXTINF:0 CUID="521" tvg-chno="null" tvg-name="ITV 1" tvg-id="ITV1.HD.uk" tvg-logo="https://logo.m3uassets.com/itv1.png" group-title="UK",ITV 1
-http://185.99.136.50:9981/stream/channelid/548411237?profile=pass
-#EXTINF:0 CUID="12" tvg-chno="null" tvg-name="GAME SHOW NETWORK (EAST)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="US",GAME SHOW NETWORK (EAST)
-https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="14" tvg-chno="null" tvg-name="AMC (EAST)" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US",AMC (EAST)
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:0 CUID="17" tvg-chno="null" tvg-name="NICKTOONS (EAST)" tvg-id="Nicktoons.-.East.us" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="US",NICKTOONS (EAST)
-https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:0 CUID="18" tvg-chno="null" tvg-name="NICKELODEON" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="US",NICKELODEON
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:0 CUID="19" tvg-chno="null" tvg-name="NEWSMAX TV" tvg-id="NewsMax.TV.us" tvg-logo="https://logo.m3uassets.com/newsmaxtv.png" group-title="US",NEWSMAX TV
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:0 CUID="20" tvg-chno="null" tvg-name="GOLF CHANNEL" tvg-id="Golf.Channel.USA.us" group-title="US",GOLF CHANNEL
-https://a1xs.vip/40000060
-#EXTINF:0 CUID="21" tvg-chno="null" tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="US",FS2
-http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:0 CUID="22" tvg-chno="null" tvg-name="FOX NEWS CHANNEL" tvg-id="Fox.News.us" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="US",FOX NEWS CHANNEL
-http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
-#EXTINF:0 CUID="26" tvg-chno="null" tvg-name="BBC AMERICA (EAST)" tvg-id="BBC.America.-.East.us" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US",BBC AMERICA (EAST)
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0 CUID="103" tvg-chno="null" tvg-name="ABC" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://logo.m3uassets.com/abc.png" group-title="US",ABC
-http://41.205.93.154/ABC/index.m3u8
-#EXTINF:0 CUID="104" tvg-chno="null" tvg-name="ABC NEWS LIVE" tvg-id="ABC.NEWS.us" tvg-logo="https://logo.m3uassets.com/abcnewslive.png" group-title="US",ABC NEWS LIVE
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 CUID="106" tvg-chno="null" tvg-name="CHEDDAR NEWS" tvg-id="Cheddar.News.us" tvg-logo="https://logo.m3uassets.com/cheddarnews.png" group-title="US",CHEDDAR NEWS
-https://cheddar-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 CUID="289" tvg-chno="null" tvg-name="ESPN" tvg-id="ESPN.Alternate.us" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="US",ESPN
-https://a1xs.vip/40000011
-#EXTINF:0 CUID="290" tvg-chno="null" tvg-name="ESPN 2" tvg-id="ESPN2.us" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="US",ESPN 2
-https://a1xs.vip/40000012
-#EXTINF:0 CUID="291" tvg-chno="null" tvg-name="ANIMAL PLANET" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="US",ANIMAL PLANET
-https://a1xs.vip/300035
-#EXTINF:0 CUID="292" tvg-chno="null" tvg-name="DISCOVERY" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="US",DISCOVERY
-https://a1xs.vip/300034
-#EXTINF:0 CUID="295" tvg-chno="null" tvg-name="TELEMUDO FLORIDA" tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/telemundo.png" group-title="US",TELEMUDO FLORIDA
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:0 CUID="296" tvg-chno="null" tvg-name="PBS KIDS" tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/pbskids.png" group-title="US",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0 CUID="297" tvg-chno="null" tvg-name="CARTOON NETWORK" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="US",CARTOON NETWORK
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:0 CUID="298" tvg-chno="null" tvg-name="BOOMERANG" tvg-id="Boomerang.us" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="US",BOOMERANG
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:0 CUID="299" tvg-chno="null" tvg-name="DESTINATION AMERICA" tvg-id="Destination.America.us" tvg-logo="https://logo.m3uassets.com/destinationamerica.png" group-title="US",DESTINATION AMERICA
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:0 CUID="300" tvg-chno="null" tvg-name="COOKING CHANNEL" tvg-id="The.Cooking.Channel.us" tvg-logo="https://logo.m3uassets.com/cookingchannel.png" group-title="US",COOKING CHANNEL
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:0 CUID="301" tvg-chno="null" tvg-name="A WEALTH OF ENTERTAINMENT (AWE)" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.m3uassets.com/awealthofentertainment.png" group-title="US",A WEALTH OF ENTERTAINMENT (AWE)
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:0 CUID="302" tvg-chno="null" tvg-name="STARZ COMEDY" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="US",STARZ COMEDY
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0 CUID="303" tvg-chno="null" tvg-name="STARZ CINEMA" tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starzcinema.png" group-title="US",STARZ CINEMA
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:0 CUID="304" tvg-chno="null" tvg-name="STARZ" tvg-id="Starz.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US",STARZ
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:0 CUID="305" tvg-chno="null" tvg-name="MORE MAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://logo.m3uassets.com/cinemaxmoremax.png" group-title="US",MORE MAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 CUID="306" tvg-chno="null" tvg-name="HBO SIGNATURE" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="US",HBO SIGNATURE
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
-#EXTINF:0 CUID="307" tvg-chno="null" tvg-name="HBO COMEDY" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US",HBO COMEDY
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO 2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:0 CUID="309" tvg-chno="null" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="5 STAR MAX" tvg-id="5starmax.us" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US",5 STAR MAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 CUID="311" tvg-chno="null" tvg-name="KOMUCW" tvg-logo="https://logo.m3uassets.com/cw.png" group-title="US",KOMUCW
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:0 CUID="312" tvg-chno="null" tvg-name="KYOUFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",KYOUFOX
-https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:0 CUID="313" tvg-chno="null" tvg-name="KOMUNBC" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="US",KOMUNBC
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:0 CUID="314" tvg-chno="null" tvg-name="PBS" tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="US",PBS
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:0 CUID="189" tvg-chno="null" tvg-name="VH1 (EAST)" tvg-id="I335.11218.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="US",VH1 (EAST)
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:0 CUID="186" tvg-chno="null" tvg-name="SYFY" tvg-id="I244.11097.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 CUID="184" tvg-chno="null" tvg-name="STARZ" tvg-id="I525.12719.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US",STARZ
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:0 CUID="176" tvg-chno="null" tvg-name="SHOWTIME" tvg-id="I548.20622.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US",SHOWTIME
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:0 CUID="174" tvg-chno="null" tvg-name="REVOLT" tvg-id="I384.83098.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/revolt.png" group-title="US",REVOLT
-http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-#EXTINF:0 CUID="173" tvg-chno="null" tvg-name="REELZ" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="US",REELZ
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 CUID="170" tvg-chno="null" tvg-name="PARAMOUNT NETWORK" tvg-id="I241.11163.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="US",PARAMOUNT NETWORK
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0 CUID="165" tvg-chno="null" tvg-name="NICK JR." tvg-id="I301.19211.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="US",NICK JR.
-http://23.237.104.106:8080/USA_NICK_JR/index.m3u8
-#EXTINF:0 CUID="161" tvg-chno="null" tvg-name="NBA TV" tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="US",NBA TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=83b0d798-ec29-41a9-b051-b2586bb02872&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:0 CUID="163" tvg-chno="null" tvg-name="NFL NETWORK" tvg-id="I212.34710.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US",NFL NETWORK
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:0 CUID="153" tvg-chno="null" tvg-name="MLB NETWORK" tvg-id="I213.62079.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="US",MLB NETWORK
-https://a1xs.vip/40000030
-#EXTINF:0 CUID="154" tvg-chno="null" tvg-name="MSG" tvg-id="MSG.2.us" tvg-logo="https://logo.m3uassets.com/msg.png" group-title="US",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:0 CUID="158" tvg-chno="null" tvg-name="MTV LIVE" tvg-id="I485.66419.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mtvlive.png" group-title="US",MTV LIVE
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 CUID="157" tvg-chno="null" tvg-name="MTV" tvg-id="I160.10986.gracenote.com" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="US",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:0 CUID="159" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC (EAST)" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="US",NATIONAL GEOGRAPHIC (EAST)
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:0 CUID="160" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC WILD (EAST)" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="US",NATIONAL GEOGRAPHIC WILD (EAST)
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-#EXTINF:0 CUID="135" tvg-chno="null" tvg-name="FS1" tvg-id="I350.82541.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="US",FS1
-https://a1xs.vip/40000021
-#EXTINF:0 CUID="148" tvg-chno="null" tvg-name="LIFETIME MOVIE NETWORK (EAST)" tvg-id="I253.18480.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/lifetimemovienetwork.png" group-title="US",LIFETIME MOVIE NETWORK (EAST)
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 CUID="137" tvg-chno="null" tvg-name="FX" tvg-id="I248.14321.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="US",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:0 CUID="138" tvg-chno="null" tvg-name="FXM" tvg-id="I258.14988.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fxm.png" group-title="US",FXM
-https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/e1074d51-e146-4054-af60-8179449c237c/36-90-1020.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n4=content_name&ads.v4=Free%20Movies%20Plus&ads.n21=network_name&ads.v21=free-movies-plus&ads.n22=channel_genre&ads.v22=Entertainment&ads.n23=channel_brand_id&ads.v23=AMDB013395&ads.n24=gpp&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=device_type&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=app_name&ads.v28=&ads.n29=app_store_url&ads.v29=&ads.n30=channel_ext_id&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=channel_id&ads.v32=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n33=channel_company_id&ads.v33=AMDP500517&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=ifa_type&ads.v35=&ads.n36=cust_devicename&ads.v36=desktop_web&ads.n37=channel_name&ads.v37=Free%20Movies%20Plus&ads.n38=channel_corp&ads.v38=OTT%20Studio%20LLC.&ads.n39=app_version&ads.v39=0.0.0&ads.n40=app_bundle&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=content_producer_name&ads.v42=OTT%20Studio%20LLC.&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=content_custom_2_param&ads.v44=AMDB013395&ads.n45=device_model&ads.v45=&ads.n46=gpp_sid&ads.v46=&ads.n47=did&ads.v47=&ads.n48=content_type&ads.v48=channel&ads.n49=channel_language&ads.v49=en&ads.n50=dnt&ads.v50=&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=content_provider&ads.v53=free-movies-plus&ads.n54=ip&ads.v54=193.228.206.147&ads.n55=pos&ads.v55=midroll&ads.n56=content_custom_1_param&ads.v56=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n57=channel_title&ads.v57=Free%20Movies%20Plus&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
-#EXTINF:0 CUID="139" tvg-chno="null" tvg-name="FXX" tvg-id="I259.17927.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="US",FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:0 CUID="141" tvg-chno="null" tvg-name="HALLMARK CHANNEL" tvg-id="I312.11221.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hallmarkchannel.png" group-title="US",HALLMARK CHANNEL
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:0 CUID="132" tvg-chno="null" tvg-name="ESPNEWS" tvg-id="I207.16485.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/espnews.png" group-title="US",ESPNEWS
-https://a1xs.vip/40000014
-#EXTINF:0 CUID="131" tvg-chno="null" tvg-name="ESPN U" tvg-id="I208.45654.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/espnu.png" group-title="US",ESPN U
-https://a1xs.vip/40000013
-#EXTINF:0 CUID="130" tvg-chno="null" tvg-name="E! ENTERTAINMENT" tvg-id="I274.101734.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="US",E! ENTERTAINMENT
-http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:0 CUID="128" tvg-chno="null" tvg-name="COURT TV" tvg-id="Court.TV.US.us" tvg-logo="https://logo.m3uassets.com/courttv.png" group-title="US",COURT TV
-https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=596E8325-B870-491C-8DF8-C279814C5538&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=596E8325-B870-491C-8DF8-C279814C5538&ads.n4=content_name&ads.v4=EPG%20%7C%20Court%20TV&ads.n21=channel_name&ads.v21=EPG%20%20Court%20TV&ads.n22=content_livestream&ads.v22=1&ads.n23=channel_company_id&ads.v23=AMDP500139&ads.n24=content_type&ads.v24=channel&ads.n25=content_producer_name&ads.v25=Katz%20Broadcasting%20LLC&ads.n26=content_custom_2_param&ads.v26=AMDB012021&ads.n27=content_custom_1_param&ads.v27=596E8325-B870-491C-8DF8-C279814C5538&ads.n28=channel_corp&ads.v28=Katz%20Broadcasting%20LLC&ads.n29=did&ads.v29=&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=app_name&ads.v31=&ads.n32=ifa_type&ads.v32=&ads.n33=device_model&ads.v33=&ads.n34=channel_ext_id&ads.v34=5ffced0c6048ec36fe4954d2&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=193.228.206.147&ads.n37=device_make&ads.v37=&ads.n38=channel_title&ads.v38=EPG%20%20Court%20TV&ads.n39=dnt&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=app_bundle&ads.v41=&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=device_type&ads.v43=&ads.n44=content_provider&ads.v44=court-tv&ads.n45=channel_id&ads.v45=596E8325-B870-491C-8DF8-C279814C5538&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=gpp_sid&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=channel_genre&ads.v49=Reality%20TV&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=network_name&ads.v51=court-tv&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_language&ads.v54=en&ads.n55=gpp&ads.v55=&ads.n56=pos&ads.v56=midroll&ads.n57=channel_brand_id&ads.v57=AMDB012021&ads.n58=h&ads.v58=1080
-#EXTINF:0 CUID="105" tvg-chno="null" tvg-name="CBS SPORTS GOLAZO NETWORK" tvg-id="cbssportsgolazonetwork.us" tvg-logo="https://logo.m3uassets.com/cbssportsgolazonetwork.png" group-title="US",CBS SPORTS GOLAZO NETWORK
-https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F7f3Wv6f7QEKfQna22jHqLQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=193.228.206.147&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
-#EXTINF:0 CUID="126" tvg-chno="null" tvg-name="COMEDY CENTRAL (EAST)" tvg-id="I198.74906.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US",COMEDY CENTRAL (EAST)
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:0 CUID="125" tvg-chno="null" tvg-name="CNBC" tvg-id="I355.10139.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="US",CNBC
-https://a1xs.vip/300009
-#EXTINF:0 CUID="122" tvg-chno="null" tvg-name="KSMOIND (CBS)" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KSMOIND (CBS)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:0 CUID="320" tvg-chno="null" tvg-name="KRCGCBS" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KRCGCBS
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:0 CUID="321" tvg-chno="null" tvg-name="KTVOCBS" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KTVOCBS
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:0 CUID="322" tvg-chno="null" tvg-name="KQFXFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",KQFXFOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:0 CUID="323" tvg-chno="null" tvg-name="WDAFFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",WDAFFOX
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:0 CUID="324" tvg-chno="null" tvg-name="KSHBNBC" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="US",KSHBNBC
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:0 CUID="325" tvg-chno="null" tvg-name="KYOUNBC2" tvg-logo="https://logo.m3uassets.com/nbc2.png" group-title="US",KYOUNBC2
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:0 CUID="326" tvg-chno="null" tvg-name="KYOUDT4 (CW)" tvg-logo="https://logo.m3uassets.com/cw.png" group-title="US",KYOUDT4 (CW)
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:0 CUID="119" tvg-chno="null" tvg-name="BOUNCE" tvg-id="I82.73067.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bounce.png" group-title="US",BOUNCE
-https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-#EXTINF:0 CUID="118" tvg-chno="null" tvg-name="BLOOMBERG TELEVISION" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://logo.m3uassets.com/bloombergtelevision.png" group-title="US",BLOOMBERG TELEVISION
-https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/live/origin-contribution-m1-btv-plus-localnow.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n4=content_name&ads.v4=EPG%20%7C%20Bloomberg%20TV+&ads.n21=network_name&ads.v21=bloomberg-tv&ads.n22=content_provider&ads.v22=bloomberg-tv&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=channel_company_id&ads.v24=AMDP500129&ads.n25=device_model&ads.v25=&ads.n26=channel_language&ads.v26=en&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=ip&ads.v29=193.228.206.147&ads.n30=channel_name&ads.v30=EPG%20%20Bloomberg%20TV+&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=gpp&ads.v32=&ads.n33=device_make&ads.v33=&ads.n34=content_custom_1_param&ads.v34=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n35=app_store_url&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=us_privacy&ads.v37=1YNY&ads.n38=content_type&ads.v38=channel&ads.n39=app_bundle&ads.v39=&ads.n40=channel_ext_id&ads.v40=64a5746ac260a556f90c1bfc&ads.n41=content_producer_name&ads.v41=Bloomberg%20LP&ads.n42=h&ads.v42=1080&ads.n43=dnt&ads.v43=&ads.n44=app_version&ads.v44=0.0.0&ads.n45=pos&ads.v45=midroll&ads.n46=gpp_sid&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB012010&ads.n48=channel_title&ads.v48=EPG%20%20Bloomberg%20TV+&ads.n49=did&ads.v49=&ads.n50=app_name&ads.v50=&ads.n51=device_type&ads.v51=&ads.n52=channel_genre&ads.v52=News&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=ifa_type&ads.v54=&ads.n55=channel_brand_id&ads.v55=AMDB012010&ads.n56=content_livestream&ads.v56=1&ads.n57=channel_id&ads.v57=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n58=channel_corp&ads.v58=Bloomberg%20LP
-#EXTINF:0 CUID="117" tvg-chno="null" tvg-name="BIG TEN NETWORK" tvg-id="I610.56783.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US",BIG TEN NETWORK
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:0 CUID="25" tvg-chno="null" tvg-name="DISNEY XD" tvg-id="I234.110962.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/disneyxd.png" group-title="US",DISNEY XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:0 CUID="242" tvg-chno="null" tvg-name="CNN" tvg-id="cnn.us" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="US",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="268" tvg-chno="null" tvg-name="TBS (EAST)" tvg-id="I247.11867.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="US",TBS (EAST)
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="267" tvg-chno="null" tvg-name="TCM (EAST)" tvg-id="I681.19246.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="US",TCM (EAST)
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 CUID="265" tvg-chno="null" tvg-name="TNT (EAST)" tvg-id="I245.11164.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="US",TNT (EAST)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="257" tvg-chno="null" tvg-name="TRU TV" tvg-id="I246.10153.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="US",TRU TV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="251" tvg-chno="null" tvg-name="YES NETWORK" tvg-id="I1702.46275.gracenote.com" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US",YES NETWORK
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:0 CUID="254" tvg-chno="null" tvg-name="VICE" tvg-id="I271.18822.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/vice.png" group-title="US",VICE
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:0 CUID="253" tvg-chno="null" tvg-name="WILLOW CRICKET" tvg-id="I625.80621.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/willow.png" group-title="US",WILLOW CRICKET
-https://a1xs.vip/40000042
-#EXTINF:0 CUID="252" tvg-chno="null" tvg-name="WILLOW 2" tvg-id="willow2.us" tvg-logo="https://logo.m3uassets.com/willowxtra.png" group-title="US",WILLOW 2
-https://a1xs.vip/40000043
-#EXTINF:0 CUID="11" tvg-chno="null" tvg-name="ACC NETWORK" tvg-id="I612.111905.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/accnetwork.png" group-title="US",ACC NETWORK
-https://a1xs.vip/40000016
-#EXTINF:0 CUID="327" tvg-chno="null" tvg-name="HLN" tvg-id="I425.113876.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hln.png" group-title="US",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 CUID="328" tvg-chno="null" tvg-name="MSNBC" tvg-id="I356.16300.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="US",MSNBC
-https://a1xs.vip/300008
-#EXTINF:0 CUID="329" tvg-chno="null" tvg-name="ALTITUDE SPORTS" tvg-id="I413.65596.gracenote.com" tvg-logo="https://logo.m3uassets.com/altitudesports.png" group-title="US",ALTITUDE SPORTS
-https://a1xs.vip/40000048
-#EXTINF:0 CUID="330" tvg-chno="null" tvg-name="GOL TV" tvg-id="I468.32161.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/goltv.png" group-title="US",GOL TV
-http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:0 CUID="331" tvg-chno="null" tvg-name="NBC BAY AREA" tvg-logo="https://logo.m3uassets.com/nbcbayarea.png" group-title="US",NBC BAY AREA
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843&ads.afid=348208856&ads.sfid=17135549&ads.csid=xumo_web_NBCNBA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_vcid2=512116:e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3822&ads.xumo_contentName=NBCNBA&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA&ads.channelId=99951162&ads._fw_ifa_type=
-#EXTINF:0 CUID="332" tvg-chno="null" tvg-name="NESN" tvg-id="I434.35038.gracenote.com" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="US",NESN
-http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0 CUID="333" tvg-chno="null" tvg-name="SEC NETWORK" tvg-id="I611.89535.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US",SEC NETWORK
-http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" tvg-id="racer.us" group-title="US",RACER TV
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 CUID="127" tvg-chno="null" tvg-name="COMET" tvg-id="I24.3.46785.gracenote.com" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US",COMET
-https://fl7.moveonjoy.com/COMET/index.m3u8
-#EXTINF:0 CUID="187" tvg-chno="null" tvg-name="TENNIS CHANNEL" tvg-id="I217.33395.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="US",TENNIS CHANNEL
-https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
-http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
-#EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
-http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
-#EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
-http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
@@ -765,6 +281,592 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
+#EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
+http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
+#EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
+http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:0 CUID="66" tvg-chno="null" tvg-name="21 JUMP STREET" group-title="FAST",21 JUMP STREET
+https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
+#EXTINF:0 CUID="62" tvg-chno="null" tvg-name="ANTIQUES ROADSHOW" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="FAST",ANTIQUES ROADSHOW
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 CUID="67" tvg-chno="null" tvg-name="BAYWATCH" tvg-logo="https://logo.m3uassets.com/baywatch.png" group-title="FAST",BAYWATCH
+https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="68" tvg-chno="null" tvg-name="CURIOSITY NOW" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="FAST",CURIOSITY NOW
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#EXTINF:0 CUID="69" tvg-chno="null" tvg-name="DEAL OR NO DEAL US" group-title="FAST",DEAL OR NO DEAL US
+https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="70" tvg-chno="null" tvg-name="EGGHEADS" group-title="FAST",EGGHEADS
+https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="71" tvg-chno="null" tvg-name="ESCAPE TO THE COUNTRY" group-title="FAST",ESCAPE TO THE COUNTRY
+https://amg00145-amg00145c11-rakuten-uk-5450.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="72" tvg-chno="null" tvg-name="FILMZIE" group-title="FAST",FILMZIE
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="74" tvg-chno="null" tvg-name="GUSTO TV" tvg-logo="https://logo.m3uassets.com/gustotv.png" group-title="FAST",GUSTO TV
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+#EXTINF:0 CUID="75" tvg-chno="null" tvg-name="HELL'S KITCHEN" tvg-logo="https://logo.m3uassets.com/hell'skitchen.png" group-title="FAST",HELL'S KITCHEN
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="76" tvg-chno="null" tvg-name="HIGHWAY THRU HELL" group-title="FAST",HIGHWAY THRU HELL
+https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="77" tvg-chno="null" tvg-name="HOMES UNDER THE HAMMER" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="FAST",HOMES UNDER THE HAMMER
+https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="78" tvg-chno="null" tvg-name="ICE ROAD TRUCKERS" tvg-logo="https://logo.m3uassets.com/iceroadtruckers.png" group-title="FAST",ICE ROAD TRUCKERS
+https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
+#EXTINF:0 CUID="342" tvg-chno="null" tvg-name="ICON FILM CHANNEL" group-title="FAST",ICON FILM CHANNEL
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+#EXTINF:0 CUID="335" tvg-chno="null" tvg-name="ION" tvg-logo="https://logo.m3uassets.com/ion.png" group-title="FAST",ION
+https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
+#EXTINF:0 CUID="336" tvg-chno="null" tvg-name="ION PLUS" tvg-logo="https://logo.m3uassets.com/ionplus.png" group-title="FAST",ION PLUS
+https://live-manifest.production-public.tubi.io/live/0e9538d9-1180-4710-9b00-4bf312c6dd17/playlist.m3u8
+#EXTINF:0 CUID="79" tvg-chno="null" tvg-name="MECH+" group-title="FAST",MECH+
+https://mechtvltd-mechplus-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="102" tvg-chno="null" tvg-name="MOVEISPHERE BY LIONSGATE UK" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="FAST",MOVEISPHERE BY LIONSGATE UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="80" tvg-chno="null" tvg-name="MR. BEAN ANIMATED" tvg-logo="https://logo.m3uassets.com/mrbean.png" group-title="FAST",MR. BEAN ANIMATED
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:0 CUID="81" tvg-chno="null" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="FAST",MY TIME MOVIE NETWORK
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="82" tvg-chno="null" tvg-name="NINJA WARRIOR" group-title="FAST",NINJA WARRIOR
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="108" tvg-chno="null" tvg-name="NOSEY" tvg-logo="https://logo.m3uassets.com/nosey.png" group-title="FAST",NOSEY
+https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+#EXTINF:0 CUID="65" tvg-chno="null" tvg-name="PLUTO TV MOVIES UK" tvg-logo="https://logo.m3uassets.com/plutotvmovies.png" group-title="FAST",PLUTO TV MOVIES UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
+#EXTINF:0 CUID="85" tvg-chno="null" tvg-name="POINTLESS" group-title="FAST",POINTLESS
+https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8
+#EXTINF:0 CUID="46" tvg-chno="null" tvg-name="POP UP UK" group-title="FAST",POP UP UK
+https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
+#EXTINF:0 CUID="86" tvg-chno="null" tvg-name="POPFLIX" group-title="FAST",POPFLIX
+https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="88" tvg-chno="null" tvg-name="RAKUTEN TV ACTION MOVIES UK" group-title="FAST",RAKUTEN TV ACTION MOVIES UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:0 CUID="89" tvg-chno="null" tvg-name="RAKUTEN TV COMEDY MOVIES UK" group-title="FAST",RAKUTEN TV COMEDY MOVIES UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:0 CUID="90" tvg-chno="null" tvg-name="RAKUTEN TV DRAMA MOVIES UK" group-title="FAST",RAKUTEN TV DRAMA MOVIES UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0 CUID="91" tvg-chno="null" tvg-name="RAKUTEN TV FAMILY MOVIES UK" group-title="FAST",RAKUTEN TV FAMILY MOVIES UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:0 CUID="92" tvg-chno="null" tvg-name="RAKUTEN TV REALITY UK" group-title="FAST",RAKUTEN TV REALITY UK
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:0 CUID="93" tvg-chno="null" tvg-name="RAKUTEN TV ROMANCE MOVIES UK" group-title="FAST",RAKUTEN TV ROMANCE MOVIES UK
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:0 CUID="94" tvg-chno="null" tvg-name="RAKUTEN TV SCI-FI UK" group-title="FAST",RAKUTEN TV SCI-FI UK
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:0 CUID="95" tvg-chno="null" tvg-name="RAKUTEN TV THRILLERS UK" group-title="FAST",RAKUTEN TV THRILLERS UK
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+#EXTINF:0 CUID="87" tvg-chno="null" tvg-name="RAKUTEN TV TOP MOVIES UK" group-title="FAST",RAKUTEN TV TOP MOVIES UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:0 CUID="96" tvg-chno="null" tvg-name="RAKUTEN TV TRAILERS UK" group-title="FAST",RAKUTEN TV TRAILERS UK
+https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
+#EXTINF:0 CUID="97" tvg-chno="null" tvg-name="RED BULL TV" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="FAST",RED BULL TV
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+#EXTINF:0 CUID="51" tvg-chno="null" tvg-name="SKY NEWS WEATHER" tvg-logo="https://logo.m3uassets.com/skynewsweather.png" group-title="FAST",SKY NEWS WEATHER
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:0 CUID="337" tvg-chno="null" tvg-name="SONY ONE ACTION HITS" group-title="FAST",SONY ONE ACTION HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="338" tvg-chno="null" tvg-name="SONY ONE COMEDY HITS" group-title="FAST",SONY ONE COMEDY HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="340" tvg-chno="null" tvg-name="SONY ONE COMEDY TV" group-title="FAST",SONY ONE COMEDY TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="341" tvg-chno="null" tvg-name="SONY ONE FAVES" group-title="FAST",SONY ONE FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="339" tvg-chno="null" tvg-name="SONY ONE THRILLER TV" group-title="FAST",SONY ONE THRILLER TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:0 CUID="343" tvg-chno="null" tvg-name="SPARKLE MOVIES" group-title="FAST",SPARKLE MOVIES
+https://4e7a7263575046f8a1d1770818e39216.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_SparkleMovies/playlist.m3u8
+#EXTINF:0 CUID="344" tvg-chno="null" tvg-name="STORIES BY AMC" tvg-logo="https://logo.m3uassets.com/storiesbyamc.png" group-title="FAST",STORIES BY AMC
+https://dcdf4f2976be4aac8e4094d129e179a9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_StoriesByAMC/playlist.m3u8
+#EXTINF:0 CUID="52" tvg-chno="null" tvg-name="TALKSPORT UK" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="FAST",TALKSPORT UK
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:0 CUID="98" tvg-chno="null" tvg-name="TENNIS CHANNEL UK" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="FAST",TENNIS CHANNEL UK
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="99" tvg-chno="null" tvg-name="TENNIS+ UK" group-title="FAST",TENNIS+ UK
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="73" tvg-chno="null" tvg-name="THE GRAHAM NORTON SHOW" group-title="FAST",THE GRAHAM NORTON SHOW
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="345" tvg-chno="null" tvg-name="THE WALKING DEAD UNIVERSE" tvg-logo="https://logo.m3uassets.com/thewalkingdeaduniverse.png" group-title="FAST",THE WALKING DEAD UNIVERSE
+https://4af795c331a141e19ee30918d8abc796.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_TheWalkingDeadUniverse/playlist.m3u8
+#EXTINF:0 CUID="109" tvg-chno="null" tvg-name="TOP GEAR" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="FAST",TOP GEAR
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="100" tvg-chno="null" tvg-name="VEVO HIP-HOP R&B UK" group-title="FAST",VEVO HIP-HOP R&B UK
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="101" tvg-chno="null" tvg-name="VEVO POP UK" group-title="FAST",VEVO POP UK
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="112" tvg-chno="null" tvg-name="TRACE URBAN" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="INTERNATIONAL ENGLISH",TRACE URBAN
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:0 CUID="513" tvg-chno="null" tvg-name="AL JAZEERA ENGLISH" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK",AL JAZEERA ENGLISH
+http://185.99.136.50:9981/stream/channelid/1299425142?profile=pass
+#EXTINF:0 CUID="495" tvg-chno="null" tvg-name="BBC ALBA" tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcalba.png" group-title="UK",BBC ALBA
+http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
+#EXTINF:0 CUID="34" tvg-chno="null" tvg-name="BBC FOUR | CBEEBIES" tvg-id="BBC.Four.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcfourcbeebies.png" group-title="UK",BBC FOUR | CBEEBIES
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:0 CUID="28" tvg-chno="null" tvg-name="BBC NEWS" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK",BBC NEWS
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:0 CUID="319" tvg-chno="null" tvg-name="BBC ONE LONDON" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",BBC ONE LONDON
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:0 CUID="512" tvg-chno="null" tvg-name="BBC PARLIAMENT" tvg-id="BBC.Parliament.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcparliament.png" group-title="UK",BBC PARLIAMENT
+http://185.99.136.50:9981/stream/channelid/461645423?profile=pass
+#EXTINF:0 CUID="511" tvg-chno="null" tvg-name="BBC SCOTLAND" tvg-id="I246.110540.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bbcscotland.png" group-title="UK",BBC SCOTLAND
+http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
+#EXTINF:0 CUID="33" tvg-chno="null" tvg-name="BBC THREE | CBBC" tvg-id="BBC.Three.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcthreecbbc.png" group-title="UK",BBC THREE | CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:0 CUID="31" tvg-chno="null" tvg-name="BBC TWO" tvg-id="BBC.Two.HD.uk" tvg-logo="https://logo.m3uassets.com/bbctwo.png" group-title="UK",BBC TWO
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:0 CUID="1" tvg-chno="null" tvg-name="BLAZE" tvg-id="BLAZE.uk" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="UK",BLAZE
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+#EXTINF:0 CUID="519" tvg-chno="null" tvg-name="CHALLENGE" tvg-id="Challenge.uk" tvg-logo="https://logo.m3uassets.com/challenge.png" group-title="UK",CHALLENGE
+http://185.99.136.50:9981/stream/channelid/1884126385?profile=pass
+#EXTINF:0 CUID="30" tvg-chno="null" tvg-name="CHANNEL 4" tvg-id="Channel.4.HD.uk" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="UK",CHANNEL 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:0 CUID="35" tvg-chno="null" tvg-name="CHANNEL 5" tvg-id="Channel.5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/250px-Channel_5_2025.svg.png" group-title="UK",CHANNEL 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:0 CUID="29" tvg-chno="null" tvg-name="CNBC UK" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="UK",CNBC UK
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:0 CUID="515" tvg-chno="null" tvg-name="DAYSTAR" tvg-id="DAYSTAR.HD.uk" tvg-logo="https://logo.m3uassets.com/daystar.png" group-title="UK",DAYSTAR
+http://185.99.136.50:9981/stream/channelid/1555913123?profile=pass
+#EXTINF:0 CUID="500" tvg-chno="null" tvg-name="DMAX" tvg-id="DMAX.uk" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="UK",DMAX
+http://185.99.136.50:9981/stream/channelid/764978521?profile=pass
+#EXTINF:0 CUID="110" tvg-chno="null" tvg-name="EURONEWS ENGLISH" tvg-id="Euronews.uk" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK",EURONEWS ENGLISH
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:0 CUID="36" tvg-chno="null" tvg-name="FILM4" tvg-id="Film4.HD.uk" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="UK",FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:0 CUID="111" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH" tvg-id="FRANCE.24.HD.uk" tvg-logo="https://logo.m3uassets.com/24englishint.png" group-title="UK",FRANCE 24 ENGLISH
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+#EXTINF:0 CUID="3" tvg-chno="null" tvg-name="GB NEWS" tvg-id="GB.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="UK",GB NEWS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:0 CUID="4" tvg-chno="null" tvg-name="GREAT! MOVIES" tvg-id="GREAT!.movies.uk" tvg-logo="https://logo.m3uassets.com/greatmovies.png" group-title="UK",GREAT! MOVIES
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:0 CUID="5" tvg-chno="null" tvg-name="GREAT! ROMANCE" tvg-id="GREAT!.romance.uk" tvg-logo="https://logo.m3uassets.com/greatromance.png" group-title="UK",GREAT! ROMANCE
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:0 CUID="501" tvg-chno="null" tvg-name="HGTV" tvg-id="HGTV.uk" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="UK",HGTV
+http://185.99.136.50:9981/stream/channelid/1176777508?profile=pass
+#EXTINF:0 CUID="43" tvg-chno="null" tvg-name="HORSE & COUNTRY" tvg-logo="https://logo.m3uassets.com/horseandcountry.png" group-title="UK",HORSE & COUNTRY
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:0 CUID="521" tvg-chno="null" tvg-name="ITV 1" tvg-id="ITV1.HD.uk" tvg-logo="https://logo.m3uassets.com/itv1.png" group-title="UK",ITV 1
+http://185.99.136.50:9981/stream/channelid/548411237?profile=pass
+#EXTINF:0 CUID="40" tvg-chno="null" tvg-name="ITV 2" tvg-id="ITV2.HD.uk" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="UK",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:0 CUID="39" tvg-chno="null" tvg-name="ITV 3" tvg-id="ITV3.HD.uk" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="UK",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:0 CUID="520" tvg-chno="null" tvg-name="ITV 4" tvg-id="ITV4.HD.uk" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="UK",ITV 4
+http://185.99.136.50:9981/stream/channelid/2144361280?profile=pass
+#EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" tvg-id="ITV.Quiz.uk" group-title="UK",ITV QUIZ
+http://185.99.136.50:9981/stream/channelid/372639910?profile=pass
+#EXTINF:0 CUID="32" tvg-chno="null" tvg-name="MORE4" tvg-id="More4.HD.uk" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="UK",MORE4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:0 CUID="44" tvg-chno="null" tvg-name="MTV HITS" tvg-id="MTV.HITS.uk" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="UK",MTV HITS
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:0 CUID="315" tvg-chno="null" tvg-name="NICK JR." tvg-id="Nick.Jr..HD.uk" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="UK",NICK JR.
+https://a1xs.vip/1000052
+#EXTINF:0 CUID="83" tvg-chno="null" tvg-name="NOW 70'S" tvg-id="NOW.70s.uk" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="UK",NOW 70'S
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="45" tvg-chno="null" tvg-name="NOW 80'S" tvg-id="NOW.80s.uk" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="UK",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0 CUID="84" tvg-chno="null" tvg-name="NOW ROCK" tvg-id="Now.Rock.uk" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="UK",NOW ROCK
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="488" tvg-chno="null" tvg-name="OIREACHTAS TV" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="UK",OIREACHTAS TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:0 CUID="6" tvg-chno="null" tvg-name="POP" tvg-id="pop.uk" group-title="UK",POP
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:0 CUID="502" tvg-chno="null" tvg-name="QUEST" tvg-id="QUEST.HD.uk" tvg-logo="https://logo.m3uassets.com/questp.png" group-title="UK",QUEST
+http://185.99.136.50:9981/stream/channelid/1685007534?profile=pass
+#EXTINF:0 CUID="499" tvg-chno="null" tvg-name="QUEST RED" tvg-id="Quest.Red.uk" tvg-logo="https://logo.m3uassets.com/questred.png" group-title="UK",QUEST RED
+http://185.99.136.50:9981/stream/channelid/1493802683?profile=pass
+#EXTINF:0 CUID="503" tvg-chno="null" tvg-name="QUEST+1" tvg-id="QUEST.HD.uk.plus1" tvg-logo="https://logo.m3uassets.com/quest+1.png" group-title="UK",QUEST+1
+http://185.99.136.50:9981/stream/channelid/297910009?profile=pass
+#EXTINF:0 CUID="47" tvg-chno="null" tvg-name="QVC" tvg-id="QVC.HD.uk" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="UK",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:0 CUID="48" tvg-chno="null" tvg-name="QVC BEAUTY" tvg-id="QVC.Beauty.uk" tvg-logo="https://logo.m3uassets.com/qvcbeauty.png" group-title="UK",QVC BEAUTY
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:0 CUID="49" tvg-chno="null" tvg-name="QVC EXTRA" tvg-id="QVC.Extra.uk" tvg-logo="https://logo.m3uassets.com/qvcextra.png" group-title="UK",QVC EXTRA
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:0 CUID="50" tvg-chno="null" tvg-name="QVC STYLE" tvg-id="QVC.Style.HD.uk" tvg-logo="https://logo.m3uassets.com/qvcstyle.png" group-title="UK",QVC STYLE
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:0 CUID="498" tvg-chno="null" tvg-name="REALLY" tvg-id="Really.uk" tvg-logo="https://logo.m3uassets.com/really.png" group-title="UK",REALLY
+http://185.99.136.50:9981/stream/channelid/1475236954?profile=pass
+#EXTINF:0 CUID="517" tvg-chno="null" tvg-name="RTÈ 2" tvg-id="I939.99521.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/rt2.png" group-title="UK",RTÈ 2
+http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
+#EXTINF:0 CUID="493" tvg-chno="null" tvg-name="RTÈ JR." tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="UK",RTÈ JR.
+http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
+#EXTINF:0 CUID="492" tvg-chno="null" tvg-name="RTÈ NEWS" tvg-logo="https://logo.m3uassets.com/rtenews.png" group-title="UK",RTÈ NEWS
+http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
+#EXTINF:0 CUID="516" tvg-chno="null" tvg-name="RTÈ ONE" tvg-id="I948.25554.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/rteone.png" group-title="UK",RTÈ ONE
+http://185.99.136.50:9981/stream/channelid/1459190158?profile=pass
+#EXTINF:0 CUID="497" tvg-chno="null" tvg-name="SKY ARTS" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://logo.m3uassets.com/skyarts.png" group-title="UK",SKY ARTS
+http://185.99.136.50:9981/stream/channelid/1862163777?profile=pass
+#EXTINF:0 CUID="2" tvg-chno="null" tvg-name="SKY NEWS" tvg-id="Sky.News.HD.uk" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="UK",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 CUID="223" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" tvg-id="SkySp.Cricket.uk" tvg-logo="https://logo.m3uassets.com/skysportscrickethz.png" group-title="UK",SKY SPORTS CRICKET
+https://a1xs.vip/2000006
+#EXTINF:0 CUID="226" tvg-chno="null" tvg-name="SKY SPORTS GOLF" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsgolfhz.png" group-title="UK",SKY SPORTS GOLF
+https://a1xs.vip/2000009
+#EXTINF:0 CUID="228" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT
+https://a1xs.vip/2000001
+#EXTINF:0 CUID="285" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENT UHD" tvg-id="SkySpMainEv.uk" tvg-logo="https://logo.m3uassets.com/skysportsmaineventhz.png" group-title="UK",SKY SPORTS MAIN EVENT UHD
+https://a1xs.vip/2000015
+#EXTINF:0 CUID="221" tvg-chno="null" tvg-name="SKY SPORTS NFL" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnflhz.png" group-title="UK",SKY SPORTS NFL
+https://a1xs.vip/2000011
+#EXTINF:0 CUID="230" tvg-chno="null" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-id="SkySp.PL.uk" tvg-logo="https://logo.m3uassets.com/skysportspremierleaguehz.png" group-title="UK",SKY SPORTS PREMIER LEAGUE
+https://a1xs.vip/2000002
+#EXTINF:0 CUID="231" tvg-chno="null" tvg-name="SKY SPORTS RACING" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracinghz.png" group-title="UK",SKY SPORTS RACING
+https://a1xs.vip/2000010
+#EXTINF:0 CUID="232" tvg-chno="null" tvg-name="SKY SPORTS TENNIS" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK",SKY SPORTS TENNIS
+https://a1xs.vip/2000013
+#EXTINF:0 CUID="222" tvg-chno="null" tvg-name="SKY SPORTS+" tvg-id="I1074.104322.schedulesdirect.org" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="UK",SKY SPORTS+
+https://a1xs.vip/2000012
+#EXTINF:0 CUID="8" tvg-chno="null" tvg-name="STV" tvg-id="STV.Central.uk" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="UK",STV
+https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
+#EXTINF:0 CUID="9" tvg-chno="null" tvg-name="STV+1" tvg-id="STV.Central.+1.uk" tvg-logo="https://logo.m3uassets.com/stvplus.png" group-title="UK",STV+1
+https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
+#EXTINF:0 CUID="53" tvg-chno="null" tvg-name="TALK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="UK",TALK
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:0 CUID="54" tvg-chno="null" tvg-name="TBN UK" tvg-id="TBN.UK.uk" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="UK",TBN UK
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+#EXTINF:0 CUID="487" tvg-chno="null" tvg-name="TG 4" tvg-id="I1195.30454.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="UK",TG 4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:0 CUID="494" tvg-chno="null" tvg-name="TG 4+1" tvg-id="I1195.30454.schedulesdirect.org.plus1" group-title="UK",TG 4+1
+http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
+#EXTINF:0 CUID="7" tvg-chno="null" tvg-name="TINY POP" tvg-id="tinypop.uk" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK",TINY POP
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:0 CUID="55" tvg-chno="null" tvg-name="TJC" tvg-id="TJC.HD.uk" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="UK",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:0 CUID="234" tvg-chno="null" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="UK",TNT SPORTS 1
+https://a1xs.vip/2000021
+#EXTINF:0 CUID="235" tvg-chno="null" tvg-name="TNT SPORTS 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="UK",TNT SPORTS 2
+https://a1xs.vip/2000022
+#EXTINF:0 CUID="236" tvg-chno="null" tvg-name="TNT SPORTS 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="UK",TNT SPORTS 3
+https://a1xs.vip/2000023
+#EXTINF:0 CUID="237" tvg-chno="null" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="UK",TNT SPORTS 4
+https://a1xs.vip/2000024
+#EXTINF:0 CUID="510" tvg-chno="null" tvg-name="TOGETHER TV" tvg-id="Together.uk" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK",TOGETHER TV
+http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
+#EXTINF:0 CUID="56" tvg-chno="null" tvg-name="TRACE UK" group-title="UK",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:0 CUID="514" tvg-chno="null" tvg-name="TRT WORLD" tvg-id="TRT.World.uk" tvg-logo="https://logo.m3uassets.com/trtworld.png" group-title="UK",TRT WORLD
+http://185.99.136.50:9981/stream/channelid/1031041867?profile=pass
+#EXTINF:0 CUID="57" tvg-chno="null" tvg-name="TV WAREHOUSE" tvg-id="TV.Warehouse.uk" tvg-logo="https://logo.m3uassets.com/tvwarehouse.png" group-title="UK",TV WAREHOUSE
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
+#EXTINF:0 CUID="505" tvg-chno="null" tvg-name="U&DAVE" tvg-id="U.and.Dave.HD.uk" tvg-logo="https://logo.m3uassets.com/uanddave.png" group-title="UK",U&DAVE
+http://185.99.136.50:9981/stream/channelid/1127047218?profile=pass
+#EXTINF:0 CUID="507" tvg-chno="null" tvg-name="U&DRAMA" tvg-id="U.and.Drama.uk" tvg-logo="https://logo.m3uassets.com/uanddrama.png" group-title="UK",U&DRAMA
+http://185.99.136.50:9981/stream/channelid/23629857?profile=pass
+#EXTINF:0 CUID="509" tvg-chno="null" tvg-name="U&EDEN" tvg-id="U.and.Eden.uk" tvg-logo="https://logo.m3uassets.com/uandeden.png" group-title="UK",U&EDEN
+http://185.99.136.50:9981/stream/channelid/607795469?profile=pass
+#EXTINF:0 CUID="504" tvg-chno="null" tvg-name="U&W" tvg-id="U.and.W.HD.uk" tvg-logo="https://logo.m3uassets.com/uandw.png" group-title="UK",U&W
+http://185.99.136.50:9981/stream/channelid/1510803961?profile=pass
+#EXTINF:0 CUID="508" tvg-chno="null" tvg-name="U&YESTERDAY" tvg-id="U.and.YESTERDAY.uk" tvg-logo="https://logo.m3uassets.com/uandyesterday.png" group-title="UK",U&YESTERDAY
+http://185.99.136.50:9981/stream/channelid/1076237312?profile=pass
+#EXTINF:0 CUID="491" tvg-chno="null" tvg-name="VIRGIN MEDIA FOUR" tvg-logo="https://logo.m3uassets.com/virginmediafour.png" group-title="UK",VIRGIN MEDIA FOUR
+http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
+#EXTINF:0 CUID="490" tvg-chno="null" tvg-name="VIRGIN MEDIA THREE" tvg-logo="https://logo.m3uassets.com/virginmediathree.png" group-title="UK",VIRGIN MEDIA THREE
+http://185.99.136.50:9981/stream/channelid/1547165180?profile=pass
+#EXTINF:0 CUID="489" tvg-chno="null" tvg-name="VIRGIN MEDIA TWO" tvg-logo="https://logo.m3uassets.com/virginmediatwo.png" group-title="UK",VIRGIN MEDIA TWO
+http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
+#EXTINF:0 CUID="518" tvg-chno="null" tvg-name="VIRIGIN MEDIA ONE" tvg-logo="https://logo.m3uassets.com/virginmediaone.png" group-title="UK",VIRIGIN MEDIA ONE
+http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
+#EXTINF:0 CUID="58" tvg-chno="null" tvg-name="WILD EARTH" tvg-id="WildEarth.uk" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="UK",WILD EARTH
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:0 CUID="59" tvg-chno="null" tvg-name="YAAAS!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.webp?itok=TOd-aCWI" group-title="UK",YAAAS!
+https://jmp2.uk/stvp-GB340000289
+#EXTINF:0 CUID="310" tvg-chno="null" tvg-name="5 STAR MAX" tvg-id="5starmax.us" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US",5 STAR MAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0 CUID="301" tvg-chno="null" tvg-name="A WEALTH OF ENTERTAINMENT (AWE)" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.m3uassets.com/awealthofentertainment.png" group-title="US",A WEALTH OF ENTERTAINMENT (AWE)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:0 CUID="103" tvg-chno="null" tvg-name="ABC" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://logo.m3uassets.com/abc.png" group-title="US",ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:0 CUID="104" tvg-chno="null" tvg-name="ABC NEWS LIVE" tvg-id="ABC.NEWS.us" tvg-logo="https://logo.m3uassets.com/abcnewslive.png" group-title="US",ABC NEWS LIVE
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 CUID="11" tvg-chno="null" tvg-name="ACC NETWORK" tvg-id="I612.111905.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/accnetwork.png" group-title="US",ACC NETWORK
+https://a1xs.vip/40000016
+#EXTINF:0 CUID="329" tvg-chno="null" tvg-name="ALTITUDE SPORTS" tvg-id="I413.65596.gracenote.com" tvg-logo="https://logo.m3uassets.com/altitudesports.png" group-title="US",ALTITUDE SPORTS
+https://a1xs.vip/40000048
+#EXTINF:0 CUID="14" tvg-chno="null" tvg-name="AMC (EAST)" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US",AMC (EAST)
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:0 CUID="291" tvg-chno="null" tvg-name="ANIMAL PLANET" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="US",ANIMAL PLANET
+https://a1xs.vip/300035
+#EXTINF:0 CUID="26" tvg-chno="null" tvg-name="BBC AMERICA (EAST)" tvg-id="BBC.America.-.East.us" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US",BBC AMERICA (EAST)
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0 CUID="522" tvg-chno="null" tvg-name="BBC NEWS" group-title="US",BBC NEWS
+https://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:0 CUID="117" tvg-chno="null" tvg-name="BIG TEN NETWORK" tvg-id="I610.56783.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US",BIG TEN NETWORK
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:0 CUID="118" tvg-chno="null" tvg-name="BLOOMBERG TELEVISION" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://logo.m3uassets.com/bloombergtelevision.png" group-title="US",BLOOMBERG TELEVISION
+https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/live/origin-contribution-m1-btv-plus-localnow.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n4=content_name&ads.v4=EPG%20%7C%20Bloomberg%20TV+&ads.n21=network_name&ads.v21=bloomberg-tv&ads.n22=content_provider&ads.v22=bloomberg-tv&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=channel_company_id&ads.v24=AMDP500129&ads.n25=device_model&ads.v25=&ads.n26=channel_language&ads.v26=en&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=ip&ads.v29=193.228.206.147&ads.n30=channel_name&ads.v30=EPG%20%20Bloomberg%20TV+&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=gpp&ads.v32=&ads.n33=device_make&ads.v33=&ads.n34=content_custom_1_param&ads.v34=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n35=app_store_url&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=us_privacy&ads.v37=1YNY&ads.n38=content_type&ads.v38=channel&ads.n39=app_bundle&ads.v39=&ads.n40=channel_ext_id&ads.v40=64a5746ac260a556f90c1bfc&ads.n41=content_producer_name&ads.v41=Bloomberg%20LP&ads.n42=h&ads.v42=1080&ads.n43=dnt&ads.v43=&ads.n44=app_version&ads.v44=0.0.0&ads.n45=pos&ads.v45=midroll&ads.n46=gpp_sid&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB012010&ads.n48=channel_title&ads.v48=EPG%20%20Bloomberg%20TV+&ads.n49=did&ads.v49=&ads.n50=app_name&ads.v50=&ads.n51=device_type&ads.v51=&ads.n52=channel_genre&ads.v52=News&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=ifa_type&ads.v54=&ads.n55=channel_brand_id&ads.v55=AMDB012010&ads.n56=content_livestream&ads.v56=1&ads.n57=channel_id&ads.v57=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n58=channel_corp&ads.v58=Bloomberg%20LP
+#EXTINF:0 CUID="298" tvg-chno="null" tvg-name="BOOMERANG" tvg-id="Boomerang.us" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="US",BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:0 CUID="119" tvg-chno="null" tvg-name="BOUNCE" tvg-id="I82.73067.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/bounce.png" group-title="US",BOUNCE
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:0 CUID="297" tvg-chno="null" tvg-name="CARTOON NETWORK" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="US",CARTOON NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0 CUID="105" tvg-chno="null" tvg-name="CBS SPORTS GOLAZO NETWORK" tvg-id="cbssportsgolazonetwork.us" tvg-logo="https://logo.m3uassets.com/cbssportsgolazonetwork.png" group-title="US",CBS SPORTS GOLAZO NETWORK
+https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F7f3Wv6f7QEKfQna22jHqLQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=193.228.206.147&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
+#EXTINF:0 CUID="106" tvg-chno="null" tvg-name="CHEDDAR NEWS" tvg-id="Cheddar.News.us" tvg-logo="https://logo.m3uassets.com/cheddarnews.png" group-title="US",CHEDDAR NEWS
+https://cheddar-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="125" tvg-chno="null" tvg-name="CNBC" tvg-id="I355.10139.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="US",CNBC
+https://a1xs.vip/300009
+#EXTINF:0 CUID="242" tvg-chno="null" tvg-name="CNN" tvg-id="cnn.us" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="US",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="126" tvg-chno="null" tvg-name="COMEDY CENTRAL (EAST)" tvg-id="I198.74906.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US",COMEDY CENTRAL (EAST)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 CUID="127" tvg-chno="null" tvg-name="COMET" tvg-id="I24.3.46785.gracenote.com" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US",COMET
+https://fl7.moveonjoy.com/COMET/index.m3u8
+#EXTINF:0 CUID="300" tvg-chno="null" tvg-name="COOKING CHANNEL" tvg-id="The.Cooking.Channel.us" tvg-logo="https://logo.m3uassets.com/cookingchannel.png" group-title="US",COOKING CHANNEL
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:0 CUID="128" tvg-chno="null" tvg-name="COURT TV" tvg-id="Court.TV.US.us" tvg-logo="https://logo.m3uassets.com/courttv.png" group-title="US",COURT TV
+https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=596E8325-B870-491C-8DF8-C279814C5538&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=596E8325-B870-491C-8DF8-C279814C5538&ads.n4=content_name&ads.v4=EPG%20%7C%20Court%20TV&ads.n21=channel_name&ads.v21=EPG%20%20Court%20TV&ads.n22=content_livestream&ads.v22=1&ads.n23=channel_company_id&ads.v23=AMDP500139&ads.n24=content_type&ads.v24=channel&ads.n25=content_producer_name&ads.v25=Katz%20Broadcasting%20LLC&ads.n26=content_custom_2_param&ads.v26=AMDB012021&ads.n27=content_custom_1_param&ads.v27=596E8325-B870-491C-8DF8-C279814C5538&ads.n28=channel_corp&ads.v28=Katz%20Broadcasting%20LLC&ads.n29=did&ads.v29=&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=app_name&ads.v31=&ads.n32=ifa_type&ads.v32=&ads.n33=device_model&ads.v33=&ads.n34=channel_ext_id&ads.v34=5ffced0c6048ec36fe4954d2&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=193.228.206.147&ads.n37=device_make&ads.v37=&ads.n38=channel_title&ads.v38=EPG%20%20Court%20TV&ads.n39=dnt&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=app_bundle&ads.v41=&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=device_type&ads.v43=&ads.n44=content_provider&ads.v44=court-tv&ads.n45=channel_id&ads.v45=596E8325-B870-491C-8DF8-C279814C5538&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=gpp_sid&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=channel_genre&ads.v49=Reality%20TV&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=network_name&ads.v51=court-tv&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_language&ads.v54=en&ads.n55=gpp&ads.v55=&ads.n56=pos&ads.v56=midroll&ads.n57=channel_brand_id&ads.v57=AMDB012021&ads.n58=h&ads.v58=1080
+#EXTINF:0 CUID="299" tvg-chno="null" tvg-name="DESTINATION AMERICA" tvg-id="Destination.America.us" tvg-logo="https://logo.m3uassets.com/destinationamerica.png" group-title="US",DESTINATION AMERICA
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:0 CUID="292" tvg-chno="null" tvg-name="DISCOVERY" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="US",DISCOVERY
+https://a1xs.vip/300034
+#EXTINF:0 CUID="25" tvg-chno="null" tvg-name="DISNEY XD" tvg-id="I234.110962.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/disneyxd.png" group-title="US",DISNEY XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:0 CUID="130" tvg-chno="null" tvg-name="E! ENTERTAINMENT" tvg-id="I274.101734.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="US",E! ENTERTAINMENT
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:0 CUID="289" tvg-chno="null" tvg-name="ESPN" tvg-id="ESPN.Alternate.us" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="US",ESPN
+https://a1xs.vip/40000011
+#EXTINF:0 CUID="290" tvg-chno="null" tvg-name="ESPN 2" tvg-id="ESPN2.us" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="US",ESPN 2
+https://a1xs.vip/40000012
+#EXTINF:0 CUID="131" tvg-chno="null" tvg-name="ESPN U" tvg-id="I208.45654.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/espnu.png" group-title="US",ESPN U
+https://a1xs.vip/40000013
+#EXTINF:0 CUID="132" tvg-chno="null" tvg-name="ESPNEWS" tvg-id="I207.16485.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/espnews.png" group-title="US",ESPNEWS
+https://a1xs.vip/40000014
+#EXTINF:0 CUID="22" tvg-chno="null" tvg-name="FOX NEWS CHANNEL" tvg-id="Fox.News.us" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="US",FOX NEWS CHANNEL
+https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:0 CUID="135" tvg-chno="null" tvg-name="FS1" tvg-id="I350.82541.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="US",FS1
+https://a1xs.vip/40000021
+#EXTINF:0 CUID="21" tvg-chno="null" tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="US",FS2
+https://a1xs.vip/40000022
+#EXTINF:0 CUID="137" tvg-chno="null" tvg-name="FX" tvg-id="I248.14321.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="US",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:0 CUID="138" tvg-chno="null" tvg-name="FXM" tvg-id="I258.14988.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fxm.png" group-title="US",FXM
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/e1074d51-e146-4054-af60-8179449c237c/36-90-1020.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n4=content_name&ads.v4=Free%20Movies%20Plus&ads.n21=network_name&ads.v21=free-movies-plus&ads.n22=channel_genre&ads.v22=Entertainment&ads.n23=channel_brand_id&ads.v23=AMDB013395&ads.n24=gpp&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=device_type&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=app_name&ads.v28=&ads.n29=app_store_url&ads.v29=&ads.n30=channel_ext_id&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=channel_id&ads.v32=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n33=channel_company_id&ads.v33=AMDP500517&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=ifa_type&ads.v35=&ads.n36=cust_devicename&ads.v36=desktop_web&ads.n37=channel_name&ads.v37=Free%20Movies%20Plus&ads.n38=channel_corp&ads.v38=OTT%20Studio%20LLC.&ads.n39=app_version&ads.v39=0.0.0&ads.n40=app_bundle&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=content_producer_name&ads.v42=OTT%20Studio%20LLC.&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=content_custom_2_param&ads.v44=AMDB013395&ads.n45=device_model&ads.v45=&ads.n46=gpp_sid&ads.v46=&ads.n47=did&ads.v47=&ads.n48=content_type&ads.v48=channel&ads.n49=channel_language&ads.v49=en&ads.n50=dnt&ads.v50=&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=content_provider&ads.v53=free-movies-plus&ads.n54=ip&ads.v54=193.228.206.147&ads.n55=pos&ads.v55=midroll&ads.n56=content_custom_1_param&ads.v56=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n57=channel_title&ads.v57=Free%20Movies%20Plus&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
+#EXTINF:0 CUID="139" tvg-chno="null" tvg-name="FXX" tvg-id="I259.17927.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="US",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:0 CUID="12" tvg-chno="null" tvg-name="GAME SHOW NETWORK (EAST)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="US",GAME SHOW NETWORK (EAST)
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:0 CUID="330" tvg-chno="null" tvg-name="GOL TV" tvg-id="I468.32161.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/goltv.png" group-title="US",GOL TV
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:0 CUID="20" tvg-chno="null" tvg-name="GOLF CHANNEL" tvg-id="Golf.Channel.USA.us" group-title="US",GOLF CHANNEL
+https://a1xs.vip/40000060
+#EXTINF:0 CUID="141" tvg-chno="null" tvg-name="HALLMARK CHANNEL" tvg-id="I312.11221.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hallmarkchannel.png" group-title="US",HALLMARK CHANNEL
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:0 CUID="309" tvg-chno="null" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:0 CUID="308" tvg-chno="null" tvg-name="HBO 2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:0 CUID="307" tvg-chno="null" tvg-name="HBO COMEDY" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US",HBO COMEDY
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:0 CUID="327" tvg-chno="null" tvg-name="HLN" tvg-id="I425.113876.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/hln.png" group-title="US",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="311" tvg-chno="null" tvg-name="KOMUCW" tvg-logo="https://logo.m3uassets.com/cw.png" group-title="US",KOMUCW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:0 CUID="313" tvg-chno="null" tvg-name="KOMUNBC" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="US",KOMUNBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:0 CUID="322" tvg-chno="null" tvg-name="KQFXFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",KQFXFOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:0 CUID="320" tvg-chno="null" tvg-name="KRCGCBS" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KRCGCBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:0 CUID="324" tvg-chno="null" tvg-name="KSHBNBC" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="US",KSHBNBC
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:0 CUID="122" tvg-chno="null" tvg-name="KSMOIND (CBS)" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KSMOIND (CBS)
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:0 CUID="321" tvg-chno="null" tvg-name="KTVOCBS" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US",KTVOCBS
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:0 CUID="326" tvg-chno="null" tvg-name="KYOUDT4 (CW)" tvg-logo="https://logo.m3uassets.com/cw.png" group-title="US",KYOUDT4 (CW)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:0 CUID="312" tvg-chno="null" tvg-name="KYOUFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",KYOUFOX
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:0 CUID="325" tvg-chno="null" tvg-name="KYOUNBC2" tvg-logo="https://logo.m3uassets.com/nbc2.png" group-title="US",KYOUNBC2
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:0 CUID="148" tvg-chno="null" tvg-name="LIFETIME MOVIE NETWORK (EAST)" tvg-id="I253.18480.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/lifetimemovienetwork.png" group-title="US",LIFETIME MOVIE NETWORK (EAST)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:0 CUID="153" tvg-chno="null" tvg-name="MLB NETWORK" tvg-id="I213.62079.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="US",MLB NETWORK
+https://a1xs.vip/40000030
+#EXTINF:0 CUID="305" tvg-chno="null" tvg-name="MORE MAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://logo.m3uassets.com/cinemaxmoremax.png" group-title="US",MORE MAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 CUID="154" tvg-chno="null" tvg-name="MSG" tvg-id="MSG.2.us" tvg-logo="https://logo.m3uassets.com/msg.png" group-title="US",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 CUID="328" tvg-chno="null" tvg-name="MSNBC" tvg-id="I356.16300.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="US",MSNBC
+https://a1xs.vip/300008
+#EXTINF:0 CUID="157" tvg-chno="null" tvg-name="MTV" tvg-id="I160.10986.gracenote.com" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="US",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:0 CUID="159" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC (EAST)" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="US",NATIONAL GEOGRAPHIC (EAST)
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:0 CUID="160" tvg-chno="null" tvg-name="NATIONAL GEOGRAPHIC WILD (EAST)" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="US",NATIONAL GEOGRAPHIC WILD (EAST)
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:0 CUID="161" tvg-chno="null" tvg-name="NBA TV" tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="US",NBA TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=83b0d798-ec29-41a9-b051-b2586bb02872&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:0 CUID="331" tvg-chno="null" tvg-name="NBC BAY AREA" tvg-logo="https://logo.m3uassets.com/nbcbayarea.png" group-title="US",NBC BAY AREA
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843&ads.afid=348208856&ads.sfid=17135549&ads.csid=xumo_web_NBCNBA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_vcid2=512116:e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3822&ads.xumo_contentName=NBCNBA&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA&ads.channelId=99951162&ads._fw_ifa_type=
+#EXTINF:0 CUID="332" tvg-chno="null" tvg-name="NESN" tvg-id="I434.35038.gracenote.com" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="US",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0 CUID="19" tvg-chno="null" tvg-name="NEWSMAX TV" tvg-id="NewsMax.TV.us" tvg-logo="https://logo.m3uassets.com/newsmaxtv.png" group-title="US",NEWSMAX TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:0 CUID="163" tvg-chno="null" tvg-name="NFL NETWORK" tvg-id="I212.34710.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US",NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="165" tvg-chno="null" tvg-name="NICK JR." tvg-id="I301.19211.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="US",NICK JR.
+https://fl7.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:0 CUID="18" tvg-chno="null" tvg-name="NICKELODEON" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="US",NICKELODEON
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:0 CUID="17" tvg-chno="null" tvg-name="NICKTOONS (EAST)" tvg-id="Nicktoons.-.East.us" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="US",NICKTOONS (EAST)
+https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:0 CUID="170" tvg-chno="null" tvg-name="PARAMOUNT NETWORK" tvg-id="I241.11163.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="US",PARAMOUNT NETWORK
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 CUID="314" tvg-chno="null" tvg-name="PBS" tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="US",PBS
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:0 CUID="296" tvg-chno="null" tvg-name="PBS KIDS" tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/pbskids.png" group-title="US",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0 CUID="334" tvg-chno="null" tvg-name="RACER TV" tvg-id="racer.us" group-title="US",RACER TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 CUID="173" tvg-chno="null" tvg-name="REELZ" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="US",REELZ
+https://fl7.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:0 CUID="174" tvg-chno="null" tvg-name="REVOLT" tvg-id="I384.83098.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/revolt.png" group-title="US",REVOLT
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:0 CUID="333" tvg-chno="null" tvg-name="SEC NETWORK" tvg-id="I611.89535.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US",SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:0 CUID="176" tvg-chno="null" tvg-name="SHOWTIME" tvg-id="I548.20622.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US",SHOWTIME
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:0 CUID="184" tvg-chno="null" tvg-name="STARZ" tvg-id="I525.12719.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US",STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0 CUID="304" tvg-chno="null" tvg-name="STARZ" tvg-id="Starz.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US",STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0 CUID="303" tvg-chno="null" tvg-name="STARZ CINEMA" tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starzcinema.png" group-title="US",STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:0 CUID="302" tvg-chno="null" tvg-name="STARZ COMEDY" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="US",STARZ COMEDY
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0 CUID="186" tvg-chno="null" tvg-name="SYFY" tvg-id="I244.11097.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0 CUID="268" tvg-chno="null" tvg-name="TBS (EAST)" tvg-id="I247.11867.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="US",TBS (EAST)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="267" tvg-chno="null" tvg-name="TCM (EAST)" tvg-id="I681.19246.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="US",TCM (EAST)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 CUID="295" tvg-chno="null" tvg-name="TELEMUDO FLORIDA" tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://logo.m3uassets.com/telemundo.png" group-title="US",TELEMUDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:0 CUID="187" tvg-chno="null" tvg-name="TENNIS CHANNEL" tvg-id="I217.33395.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="US",TENNIS CHANNEL
+https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:0 CUID="265" tvg-chno="null" tvg-name="TNT (EAST)" tvg-id="I245.11164.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="US",TNT (EAST)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="257" tvg-chno="null" tvg-name="TRU TV" tvg-id="I246.10153.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="US",TRU TV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="189" tvg-chno="null" tvg-name="VH1 (EAST)" tvg-id="I335.11218.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="US",VH1 (EAST)
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0 CUID="254" tvg-chno="null" tvg-name="VICE" tvg-id="I271.18822.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/vice.png" group-title="US",VICE
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0 CUID="323" tvg-chno="null" tvg-name="WDAFFOX" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="US",WDAFFOX
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:0 CUID="252" tvg-chno="null" tvg-name="WILLOW 2" tvg-id="willow2.us" tvg-logo="https://logo.m3uassets.com/willowxtra.png" group-title="US",WILLOW 2
+https://a1xs.vip/40000043
+#EXTINF:0 CUID="253" tvg-chno="null" tvg-name="WILLOW CRICKET" tvg-id="I625.80621.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/willow.png" group-title="US",WILLOW CRICKET
+https://a1xs.vip/40000042
+#EXTINF:0 CUID="251" tvg-chno="null" tvg-name="YES NETWORK" tvg-id="I1702.46275.gracenote.com" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US",YES NETWORK
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:0 CUID="523" tvg-chno="null" tvg-name="C•SPAN" group-title="US",C•SPAN
+https://fl7.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:0 CUID="133" tvg-chno="null" tvg-name="FOX BUSINESS NETWORK" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="US",FOX BUSINESS NETWORK
+https://fl7.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:0 CUID="10" tvg-chno="null" tvg-name="ASPIRE" tvg-logo="https://logo.m3uassets.com/aspiretv.png" group-title="US",ASPIRE
+https://fl7.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:0 CUID="15" tvg-chno="null" tvg-name="USA NETWORK" tvg-id="ACC.Network.us" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-title="US",USA NETWORK
+https://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:0 CUID="16" tvg-chno="null" tvg-name="TV LAND" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="US",TV LAND
+https://fl7.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:0 CUID="27" tvg-chno="null" tvg-name="AXS TV" tvg-logo="https://logo.m3uassets.com/axstv.png" group-title="US",AXS TV
+https://fl7.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:0 CUID="41" tvg-chno="null" tvg-name="BET (EAST)" tvg-logo="https://logo.m3uassets.com/bet.png" group-title="US",BET (EAST)
+https://fl7.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:0 CUID="107" tvg-chno="null" tvg-name="CNBC WORLD" tvg-id="CNBC.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/800px-CNBC_World_2024.svg.png" group-title="US",CNBC WORLD
+https://fl7.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:0 CUID="113" tvg-chno="null" tvg-name="BET GOSPEL" tvg-id="BET.Gospel.us" tvg-logo="https://logo.m3uassets.com/betgospel.png" group-title="US",BET GOSPEL
+https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:0 CUID="114" tvg-chno="null" tvg-name="BET HER (EAST)" tvg-id="BET.Her.us" tvg-logo="https://logo.m3uassets.com/bether.png" group-title="US",BET HER (EAST)
+https://fl7.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:0 CUID="115" tvg-chno="null" tvg-name="BET JAMS" tvg-logo="https://logo.m3uassets.com/betjams.png" group-title="US",BET JAMS
+https://fl7.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:0 CUID="116" tvg-chno="null" tvg-name="BET SOUL" tvg-id="BET.Soul.us" tvg-logo="https://logo.m3uassets.com/betsoul.png" group-title="US",BET SOUL
+https://fl7.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:0 CUID="120" tvg-chno="null" tvg-name="BRAVO (EAST)" tvg-logo="https://logo.m3uassets.com/bravo.png" group-title="US",BRAVO (EAST)
+https://fl7.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:0 CUID="123" tvg-chno="null" tvg-name="CBS SPORTS NETWORK" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="US",CBS SPORTS NETWORK
+https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:0 CUID="124" tvg-chno="null" tvg-name="CLEO TV" tvg-logo="https://logo.m3uassets.com/cleotv.png" group-title="US",CLEO TV
+https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:0 CUID="129" tvg-chno="null" tvg-name="DISNEY CHANNEL (EAST)" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="US",DISNEY CHANNEL (EAST)
+https://fl7.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:0 CUID="134" tvg-chno="null" tvg-name="FOX SOUL" tvg-logo="https://logo.m3uassets.com/foxsoul.png" group-title="US",FOX SOUL
+https://fl7.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:0 CUID="136" tvg-chno="null" tvg-name="FUSE" tvg-logo="https://logo.m3uassets.com/fuse.png" group-title="US",FUSE
+https://fl7.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:0 CUID="140" tvg-chno="null" tvg-name="GET TV" tvg-logo="https://logo.m3uassets.com/gettv.png" group-title="US",GET TV
+https://fl7.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:0 CUID="142" tvg-chno="null" tvg-name="HALLMARK DRAMA" group-title="US",HALLMARK DRAMA
+https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:0 CUID="143" tvg-chno="null" tvg-name="HALLMARK MOVIES & MYSTERY" tvg-logo="https://logo.m3uassets.com/hallmarkmovies&mysteries.png" group-title="US",HALLMARK MOVIES & MYSTERY
+https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:0 CUID="144" tvg-chno="null" tvg-name="HSN" tvg-id="HSN.2.us" tvg-logo="https://logo.m3uassets.com/hsn.png" group-title="US",HSN
+https://fl7.moveonjoy.com/HSN/index.m3u8
+#EXTINF:0 CUID="145" tvg-chno="null" tvg-name="INSP" tvg-logo="https://logo.m3uassets.com/insp.png" group-title="US",INSP
+https://fl7.moveonjoy.com/INSP/index.m3u8
+#EXTINF:0 CUID="146" tvg-chno="null" tvg-name="ION PLUS (EAST)" tvg-id="ION.Plus.TV.us" tvg-logo="https://logo.m3uassets.com/ionplus.png" group-title="US",ION PLUS (EAST)
+https://fl7.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:0 CUID="147" tvg-chno="null" tvg-name="LIFETIME (EAST)" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="US",LIFETIME (EAST)
+https://fl7.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:0 CUID="149" tvg-chno="null" tvg-name="LOVE NATURE" tvg-logo="https://logo.m3uassets.com/lovenature.png" group-title="US",LOVE NATURE
+https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:0 CUID="151" tvg-chno="null" tvg-name="MGM+" tvg-logo="https://logo.m3uassets.com/mgmplus.png" group-title="US",MGM+
+https://fl7.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:0 CUID="152" tvg-chno="null" tvg-name="MGM+ MARQUEE" tvg-logo="https://logo.m3uassets.com/mgmplusmarquee.png" group-title="US",MGM+ MARQUEE
+https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:0 CUID="155" tvg-chno="null" tvg-name="MTV 2" tvg-logo="https://logo.m3uassets.com/mtv2.png" group-title="US",MTV 2
+https://fl7.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:0 CUID="156" tvg-chno="null" tvg-name="MTV CLASSIC" tvg-id="MTV.Classic.-.East.us" tvg-logo="https://logo.m3uassets.com/mtvclassic.png" group-title="US",MTV CLASSIC
+https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:0 CUID="162" tvg-chno="null" tvg-name="NEWS NATION" tvg-logo="https://logo.m3uassets.com/newsnation.png" group-title="US",NEWS NATION
+https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:0 CUID="164" tvg-chno="null" tvg-name="NFL RED ZONE" tvg-id="NFL.RedZone.us" tvg-logo="https://logo.m3uassets.com/nflredzone.png" group-title="US",NFL RED ZONE
+https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:0 CUID="166" tvg-chno="null" tvg-name="OUTDOOR CHANNEL" tvg-id="Outdoor.Channel.US.us" tvg-logo="https://logo.m3uassets.com/outdoorchannel.png" group-title="US",OUTDOOR CHANNEL
+https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:0 CUID="169" tvg-chno="null" tvg-name="OXYGEN TRUE CRIME" tvg-logo="https://logo.m3uassets.com/oxygen.png" group-title="US",OXYGEN TRUE CRIME
+https://fl7.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:0 CUID="167" tvg-chno="null" tvg-name="OUTSIDE TV" tvg-logo="https://logo.m3uassets.com/outsidetv.png" group-title="US",OUTSIDE TV
+https://fl7.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:0 CUID="171" tvg-chno="null" tvg-name="PURSUIT CHANNEL" tvg-id="Pursuit.Channel.us" group-title="US",PURSUIT CHANNEL
+https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:0 CUID="172" tvg-chno="null" tvg-name="QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="US",QVC
+https://fl7.moveonjoy.com/QVC/index.m3u8
+#EXTINF:0 CUID="168" tvg-chno="null" tvg-name="OVATION" tvg-id="Ovation.us" tvg-logo="https://logo.m3uassets.com/ovation.png" group-title="US",OVATION
+https://fl7.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:0 CUID="175" tvg-chno="null" tvg-name="SHOWTIME 2" tvg-logo="https://logo.m3uassets.com/showtime2.png" group-title="US",SHOWTIME 2
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:0 CUID="177" tvg-chno="null" tvg-name="SHOWTIME NEXT" tvg-logo="https://logo.m3uassets.com/showtimenext.png" group-title="US",SHOWTIME NEXT
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:0 CUID="178" tvg-chno="null" tvg-name="SHOWTIME (WEST)" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US",SHOWTIME (WEST)
+https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:0 CUID="179" tvg-chno="null" tvg-name="SHOWTIME WOMEN" tvg-logo="https://logo.m3uassets.com/showtimewomen.png" group-title="US",SHOWTIME WOMEN
+https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:0 CUID="180" tvg-chno="null" tvg-name="SMITHSONIAN CHANNEL" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://logo.m3uassets.com/smithsonianchannel.png" group-title="US",SMITHSONIAN CHANNEL
+https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:0 CUID="181" tvg-chno="null" tvg-name="SPORTSMAN CHANNEL" tvg-id="Sportsman.Channel.us" tvg-logo="https://logo.m3uassets.com/sportsmanchannel.png" group-title="US",SPORTSMAN CHANNEL
+https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:0 CUID="182" tvg-chno="null" tvg-name="START TV" tvg-logo="https://logo.m3uassets.com/starttv.png" group-title="US",START TV
+https://fl7.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:0 CUID="183" tvg-chno="null" tvg-name="STARZ ENCORE CLASSIC" tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://logo.m3uassets.com/starzencoreclassic.png" group-title="US",STARZ ENCORE CLASSIC
+https://fl7.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:0 CUID="185" tvg-chno="null" tvg-name="SUNDANCE TV" tvg-logo="https://logo.m3uassets.com/sundancetv.png" group-title="US",SUNDANCE TV
+https://fl7.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:0 CUID="188" tvg-chno="null" tvg-name="UP TV" tvg-logo="https://logo.m3uassets.com/uptv.png" group-title="US",UP TV
+https://fl7.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:0 CUID="258" tvg-chno="null" tvg-name="TRAVEL CHANNEL" tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-title="US",TRAVEL CHANNEL
+https://fl7.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:0 CUID="259" tvg-chno="null" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="US",THE WEATHER CHANNEL
+https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:0 CUID="263" tvg-chno="null" tvg-name="TV ONE" tvg-logo="https://logo.m3uassets.com/tvone.png" group-title="US",TV ONE
+https://fl7.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:0 CUID="262" tvg-chno="null" tvg-name="TEEN NICK" tvg-logo="https://logo.m3uassets.com/teennick.png" group-title="US",TEEN NICK
+https://a1xs.vip/300031
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
