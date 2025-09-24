@@ -1,31 +1,28 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-24 12:52:01 UTC
+**Generated on:** 2025-09-24 18:36:58 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 1083 | 100% |
-| **✅ Working Streams** | 1063 | 98.2% |
-| **❌ Failed Streams** | 20 | 1.8% |
+| **Total Streams** | 1231 | 100% |
+| **✅ Working Streams** | 1216 | 98.8% |
+| **❌ Failed Streams** | 15 | 1.2% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 588 streams
+- `channel playlist.m3u`: 736 streams
 
-## 📋 Failure Analysis (20 total failures)
+## 📋 Failure Analysis (15 total failures)
 
 ### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
-| TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
-| TG 4 | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | AL MASHHAD | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | ALARABIYA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 1 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
@@ -36,25 +33,17 @@
 | MBC PERSIA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| TG 4 | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (1 streams)
+### ⏱️ Connection Timeouts (2 streams)
 *Server too slow to respond or overloaded*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | TG 4+1 | UK | channel playlist.m3u | Connection timeout | N/A |
-
-### ❓ Not Found (404) (6 streams)
-*Stream URL no longer exists*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| FS2 | US | channel playlist.m3u | Stream not found | 404 |
-| FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
-| HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
-| REELZ | US | channel playlist.m3u | Stream not found | 404 |
-| NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
-| MTV LIVE | US | channel playlist.m3u | Stream not found | 404 |
+| TNT SPORTS 2 | UK | channel playlist.m3u | Connection timeout | N/A |
 
 
 ## 📈 Geographic Notes
@@ -74,5 +63,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-24 12:52:01 UTC*
+*Last updated: 2025-09-24 18:36:58 UTC*
 *Report generated automatically by GitHub Actions*
