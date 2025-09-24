@@ -285,7 +285,7 @@ http://185.99.136.50:9981/stream/channelid/548411237?profile=pass
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:0 CUID="13" tvg-chno="null" tvg-name="NHL NETWORK" tvg-id="NHL.Network.USA.us" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US",NHL NETWORK
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="14" tvg-chno="null" tvg-name="AMC (EAST)" tvg-id="AMC+.us" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US",AMC (EAST)
+#EXTINF:0 CUID="14" tvg-chno="null" tvg-name="AMC (EAST)" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US",AMC (EAST)
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:0 CUID="17" tvg-chno="null" tvg-name="NICKTOONS (EAST)" tvg-id="Nicktoons.-.East.us" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="US",NICKTOONS (EAST)
 https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
