@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-24 06:39:47 UTC
+**Generated on:** 2025-09-24 12:52:01 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -18,7 +18,7 @@
 
 ## 📋 Failure Analysis (20 total failures)
 
-### 🚫 Access Denied (12 streams)
+### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
 
 | Channel Name | Group | File | Error Details | Code |
@@ -26,6 +26,7 @@
 | BLAZE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | TV WAREHOUSE | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | TG 4 | UK | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
+| AL MASHHAD | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | ALARABIYA | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 1 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | MBC 4 | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
@@ -51,16 +52,9 @@
 | FS2 | US | channel playlist.m3u | Stream not found | 404 |
 | FOX NEWS CHANNEL | US | channel playlist.m3u | Stream not found | 404 |
 | HBO SIGNATURE | US | channel playlist.m3u | Stream not found | 404 |
+| REELZ | US | channel playlist.m3u | Stream not found | 404 |
 | NICK JR. | US | channel playlist.m3u | Stream not found | 404 |
 | MTV LIVE | US | channel playlist.m3u | Stream not found | 404 |
-| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
-
-### 🔗 Connection Errors (1 streams)
-*Network connectivity issues*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| CTV | CA | channel playlist.m3u | Connection error | N/A |
 
 
 ## 📈 Geographic Notes
@@ -80,5 +74,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-24 06:39:47 UTC*
+*Last updated: 2025-09-24 12:52:01 UTC*
 *Report generated automatically by GitHub Actions*
