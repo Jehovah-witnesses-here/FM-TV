@@ -733,14 +733,30 @@ https://fl7.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
 https://a1xs.vip/1100021
 #EXTINF:0 CUID="714" tvg-chno="null" tvg-name="NESN UHD" group-title="USA",NESN UHD
 https://a1xs.vip/4000080
-#EXTINF:0 CUID="524" tvg-chno="null" tvg-name="FOX WEATHER" group-title="USA FAST",FOX WEATHER
+#EXTINF:0 CUID="524" tvg-chno="null" tvg-name="FOX WEATHER" tvg-logo="https://logo.m3uassets.com/foxweather.png" group-title="USA FAST",FOX WEATHER
 https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
-#EXTINF:0 CUID="636" tvg-chno="null" tvg-name="ABC7 CHICAGO" group-title="USA FAST",ABC7 CHICAGO
+#EXTINF:0 CUID="636" tvg-chno="null" tvg-name="ABC7 CHICAGO" tvg-logo="https://logo.m3uassets.com/chicagoabc7.png" group-title="USA FAST",ABC7 CHICAGO
 https://content-dtci.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=wls_live&ad.vast3=1&ad.description_url=https://abcnews.go.com&ad.networkID=21783347309&ad.adUnit=/WLS/xumo/web/fast-channel&ad.ppid=086828ff-46f7-40b3-bb5c-957626b68ff1&ad.correlator=1755836195321&ad.scor=1755836195321&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=086828ff-46f7-40b3-bb5c-957626b68ff1&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm=live&chan=abc&plt=ctv&refDomain=https://abcnews.go.com&vps=640x480&ppid=086828ff-46f7-40b3-bb5c-957626b68ff1&beacTy
-#EXTINF:0 CUID="637" tvg-chno="null" tvg-name="BBC EARTH" group-title="USA FAST",BBC EARTH
+#EXTINF:0 CUID="637" tvg-chno="null" tvg-name="BBC EARTH" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="USA FAST",BBC EARTH
 https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231&ads._fw_ifa_type=&ads._fw_did=c3f2ebf0-2521-432d-8921-
-#EXTINF:0 CUID="643" tvg-chno="null" tvg-name="TOP GEAR" group-title="USA FAST",TOP GEAR
+#EXTINF:0 CUID="643" tvg-chno="null" tvg-name="TOP GEAR" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="USA FAST",TOP GEAR
 https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8
+#EXTINF:0 CUID="719" tvg-chno="null" tvg-name="ALFRED HITCHCOCK PRESENTS" group-title="USA FAST",ALFRED HITCHCOCK PRESENTS
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256&ads.asnw=169843&ads.afid=380740685&ads.sfid=1
+#EXTINF:0 CUID="720" tvg-chno="null" tvg-name="FIFTH GEAR" tvg-logo="https://logo.m3uassets.com/fifthgear.png" group-title="USA FAST",FIFTH GEAR
+https://live-content.xumo.com/3867/content/XM06I6C90IE2BY/24889763/master.m3u8
+#EXTINF:0 CUID="721" tvg-chno="null" tvg-name="THE MASKED SINGER" group-title="USA FAST",THE MASKED SINGER
+https://live-manifest.production-public.tubi.io/live/0e38deb7-55a8-4ae3-a6a7-295b4fd8d0fc/playlist.m3u8
+#EXTINF:0 CUID="722" tvg-chno="null" tvg-name="CINEVAULT" group-title="USA FAST",CINEVAULT
+https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
+#EXTINF:0 CUID="723" tvg-chno="null" tvg-name="CINEVAULT: CLASSICS" group-title="USA FAST",CINEVAULT: CLASSICS
+https://live-manifest.production-public.tubi.io/live/29a5146e-2130-4f40-9418-9f66295689ae/playlist.m3u8
+#EXTINF:0 CUID="724" tvg-chno="null" tvg-name="CINEVAULT WESTERNS" tvg-logo="https://logo.m3uassets.com/cinevaultwesterns.png" group-title="USA FAST",CINEVAULT WESTERNS
+https://live-manifest.production-public.tubi.io/live/a753ad71-b253-4962-8121-dccdd87b8470/playlist.m3u8
+#EXTINF:0 CUID="725" tvg-chno="null" tvg-name="CLASSIC DOCTOR WHO" tvg-logo="https://logo.m3uassets.com/classicdoctorwho.png" group-title="USA FAST",CLASSIC DOCTOR WHO
+https://live-manifest.production-public.tubi.io/live/2bff0b10-6665-46f2-b205-bb384129c6c1/playlist.m3u8
+#EXTINF:0 CUID="726" tvg-chno="null" tvg-name="UFC" tvg-logo="https://logo.m3uassets.com/ufc.png" group-title="USA FAST",UFC
+https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
 #EXTINF:0 CUID="454" tvg-chno="null" tvg-name="2GB SYDNEY" group-title="AUS",2GB SYDNEY
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:0 CUID="455" tvg-chno="null" tvg-name="3AW MELBOURNE" group-title="AUS",3AW MELBOURNE
@@ -1205,6 +1221,26 @@ https://akmzed.cloud/_v1_akmzed/01fId2pQERnkFbKTpmc0DDT95urHLNunArkCRc25DYM=/aW5
 https://akmzed.cloud/_v1_akmzed/tfwQB~bXHk++GaTonKKDqV+sVMw4xyqWhm+O4EGUQEI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="421" tvg-name="Night Always Comes" tvg-logo="https://image.tmdb.org/t/p/w780/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg" group-title="NETFLIX",Night Always Comes
 https://akmzed.cloud/_v1_akmzed/0hPHY1qRBiii8bivvXodg~WAqFExqHY~JzmGMZ07W1I=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="471" tvg-name="How It Ends" group-title="NETFLIX",How It Ends
+https://akmzed.cloud/_v1_akmzed/Cxeg9UgqA0cfMsEPwlkF1qpQXjjPYKsYOPwMmkSawmo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="473" tvg-name="The Killer" group-title="NETFLIX",The Killer
+https://akmzed.cloud/_v1_akmzed/1eGUiipHw1RYe8QfPqql32biXBT5KJiYo8giUX2HosY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="474" tvg-name="6 Underground" group-title="NETFLIX",6 Underground
+https://akmzed.cloud/_v1_akmzed/OpGwwu5OlEkCevW2pNK~1iL4cdmQHtlXKQ38VxULhA0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="475" tvg-name="Murder Mystery" group-title="NETFLIX",Murder Mystery
+https://akmzed.cloud/_v1_akmzed/Y8uz2LntZp0Ll2wRf+Vz967xt804l2LPlOxm2GASq3k=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="476" tvg-name="Triple Frontier" group-title="NETFLIX",Triple Frontier
+https://akmzed.cloud/_v1_akmzed/X1lwyDKHXY+OYgSRZaph6xFf1SMpNPoNpuhnEHJ7dqE=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="477" tvg-name="The Christmas Chronicles" group-title="NETFLIX",The Christmas Chronicles
+https://akmzed.cloud/_v1_akmzed/FRRgzvkjQaOcpVPkGb7SqPq2juWUtU2NQFHVqaUOzcc=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="478" tvg-name="The Week Of" group-title="NETFLIX",The Week Of
+https://akmzed.cloud/_v1_akmzed/oeyb+8yCLao2+HP5gz8xmD+o5vn~taWqmsMSagG0dzk=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="479" tvg-name="Annihilation" group-title="NETFLIX",Annihilation
+https://akmzed.cloud/_v1_akmzed/wZ4IV3zAofpGFL3gAqELvUAC7nHkB5eiBcdmySg84WQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="480" tvg-name="Bright" group-title="NETFLIX",Bright
+https://akmzed.cloud/_v1_akmzed/YBDoslDBnCE~rtUGnjesrhDtlA3rTyo6BOi30RRv+VU=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="481" tvg-name="The Meyerowitz Stories (New and Selected)" group-title="NETFLIX",The Meyerowitz Stories (New and Selected)
+https://akmzed.cloud/_v1_akmzed/O~yXEKpjIDx3uGe18lD31phz5g4W9O8msHwSJvqNQr0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="4" tvg-name="The Fantastic Four: First Steps" tvg-logo="https://image.tmdb.org/t/p/w780/x26MtUlwtWD26d0G0FXcppxCJio.jpg" group-title="Disney+",The Fantastic Four: First Steps
 https://akmzed.cloud/_v1_akmzed/xF~TbifltRVOgbxbDQl1RtOqODynaTvgItgKiNpJq5M=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="5" tvg-name="Thunderbolts*" tvg-logo="https://image.tmdb.org/t/p/w780/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg" group-title="Disney+",Thunderbolts*
@@ -1395,6 +1431,18 @@ https://akmzed.cloud/_v1_akmzed/whKGThdu00AzjFrnAfgXwcTh0ZXI1WvbA34N8vYEWko=/aW5
 https://akmzed.cloud/_v1_akmzed/4BMP~FryV3SXkZCWFwEPYbDz7h~~TXlDs92b5s6U6a0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="464" tvg-name="Gulliver's Travels" tvg-logo="https://image.tmdb.org/t/p/w780/tazLyiF4q2w07jXjg4z4CQZgvY.jpg" group-title="Disney+",Gulliver's Travels
 https://akmzed.cloud/_v1_akmzed/s~idiUeSbOjBiXhRKhJl+NEkk77vbzPzevg69keUD60=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="482" tvg-name="Iron Man" group-title="Disney+",Iron Man
+https://akmzed.cloud/_v1_akmzed/bYck0hqLG~GmpS0boW3Mpv6Dxkd6A9cRqW6lyR9vscY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="485" tvg-name="Iron Man 2" group-title="Disney+",Iron Man 2
+https://akmzed.cloud/_v1_akmzed/WgVML6ne5W0e16iNFCQt2MjjU0L1IWictvdHA68fAiY=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="486" tvg-name="Thor" group-title="Disney+",Thor
+https://akmzed.cloud/_v1_akmzed/57phRSBULgmvhpekdEMcpmnsE4o00r1aUK6cWV~Ey4c=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="487" tvg-name="Captain America: The First Avenger" group-title="Disney+",Captain America: The First Avenger
+https://akmzed.cloud/_v1_akmzed/fRqNrjHosvA9C4Z7zMJq9Bujpa43WZcJTA6G2tCryMo=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="488" tvg-name="The Avengers" group-title="Disney+",The Avengers
+https://akmzed.cloud/_v1_akmzed/uCKGhyqRZ4ZGvOzj5I7IOt0hajSc~koxxqRkAXYcON0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="489" tvg-name="Marvel One-Shot: The Consultant" group-title="Disney+",Marvel One-Shot: The Consultant
+https://akmzed.cloud/_v1_akmzed/WUnYA7H9aFb9gfux0XL+9E7C7xMJBAT7hgEzCcmWf0c=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="14" tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="PRIME VIDEO",Road House (2024)
 https://akmzed.cloud/_v1_akmzed/CGANxHXMtuTAHfyi7J2ttVpd7Rpr4lNJHxpA+R5FUg0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="41" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="PRIME VIDEO",Air (2023)
@@ -1763,6 +1811,8 @@ https://akmzed.cloud/_v1_akmzed/oRohj20lYceWChP0ouDNvCBMxIbIYE3CDQU1Vdw6hlg=/aW5
 https://akmzed.cloud/_v1_akmzed/~PHsxtE+EnftSIGxjLt34T0NWbqbw2CuWTitdCyplOI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="469" tvg-name="King Kong" tvg-logo="https://image.tmdb.org/t/p/w780/qVCZtwBGls866wBb4PAfYtAjyr8.jpg" group-title="Peacock TV",King Kong
 https://akmzed.cloud/_v1_akmzed/RBhB4jWxjffJ3RG3i2D5XHi51LovX1z4RzbB0cXLZB0=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="483" tvg-name="The Incredible Hulk" group-title="Peacock TV",The Incredible Hulk
+https://akmzed.cloud/_v1_akmzed/zzK6cT2fhZ9urTqwHcA3G7taNXVPqybnyNHvAmf~FyI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="13" tvg-name="Smile 2" tvg-logo="https://image.tmdb.org/t/p/w780/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg" group-title="Paramount+",Smile 2
 https://akmzed.cloud/_v1_akmzed/fojybTAPAacIvzpyp9MEAWcdDfGwZoNSGYZpbuBLNKw=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="20" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w780/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Paramount+",The Godfather
@@ -2041,12 +2091,16 @@ https://akmzed.cloud/_v1_akmzed/47WKvhnPw1dzpxcr+09fhlZe7DVYedAAk7O7IJo~ReE=/aW5
 https://akmzed.cloud/_v1_akmzed/bHgDe+enPJTFCUEPgYRBoXnmBPl4x4BzvlZgJuzwo78=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="454" tvg-name="Borderlands" tvg-logo="https://image.tmdb.org/t/p/w780/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg" group-title="STARZ",Borderlands
 https://akmzed.cloud/_v1_akmzed/I3UjZAItu61SkZ2XnelK7hA5nJzngrypKIC8RvC8Cp4=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="484" tvg-name="Hulk vs. Wolverine" group-title="STARZ",Hulk vs. Wolverine
+https://akmzed.cloud/_v1_akmzed/O+XhewzUKi7UBv7mlfMnjnUSG1dL0NJFjyUTRmxH4ao=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="48" tvg-name="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w780/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="AMC+",Arcadian
 https://akmzed.cloud/_v1_akmzed/AnGu1WoP2NF3YsfxUXwx~hOdYJDam~Tp0n7O6~RQmZA=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="461" tvg-name="The D Train" tvg-logo="https://image.tmdb.org/t/p/w780/34sJQxmJT42jioSiabF5QobG0NC.jpg" group-title="AMC+",The D Train
 https://akmzed.cloud/_v1_akmzed/ib7F5Qpxcy3A6IajN6kWhIry2eDK17oFYa0uQR2NQEk=/aW5kZXgubTN1OA==.m3u8//#.mkv
 #EXTINF:0 CUID="442" tvg-name="Goodnight, Mister Tom" tvg-logo="https://image.tmdb.org/t/p/w780/qxlqWxL5dgZuSS2XicVt1WNRq8r.jpg" group-title="BritBox",Goodnight, Mister Tom
 https://akmzed.cloud/_v1_akmzed/j6EZ4+Kz~6XJHXoO5zoFnyieqC2zD4R7PgkMc9Qj4tA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="472" tvg-name="Wallace & Gromit: Vengeance Most Fowl" group-title="BritBox",Wallace & Gromit: Vengeance Most Fowl
+https://akmzed.cloud/_v1_akmzed/b9vZ6b~PqWTQRLwPOoUIQy4a87bBPkLIsyZjKyIMK4c=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="2" tvg-name="'71" tvg-logo="https://image.tmdb.org/t/p/w780/wbhqBocsP7QoX8SZLvCsGOWUAaQ.jpg" group-title="Studiocanal Presents",'71
 https://akmzed.cloud/_v1_akmzed/6XNNFxGNUiE+N6K8bQfq~7NifhhET4G5OrcnYxbZYS8=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="227" tvg-name="Terminator 2: Judgment Day" tvg-logo="https://image.tmdb.org/t/p/w780/weVXMD5QBGeQil4HEATZqAkXeEc.jpg" group-title="Studiocanal Presents",Terminator 2: Judgment Day
