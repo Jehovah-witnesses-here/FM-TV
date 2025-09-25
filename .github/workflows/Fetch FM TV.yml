@@ -17,12 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download VOD XML file
-        run: wget https://opop.pro/tNDLMbEKLUzN -O "vod playlist.xml"
-
-      - name: Download VOD M3U file
-        run: wget https://opop.pro/JpHvMzWhr5gNbDT -O "vod playlist.m3u"
-
       - name: Download Channel M3U file
         run: wget https://opop.pro/SWR3sgHR6bXeg -O "channel playlist.m3u"
 
@@ -31,8 +25,6 @@ jobs:
 
       - name: Add files to Git
         run: |
-          git add "vod playlist.xml"
-          git add "vod playlist.m3u"
           git add "channel playlist.m3u"
           git add "channel playlist.xml"
 
@@ -51,7 +43,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Updated playlist files (XML and M3U)"
+          git commit -m "Updated channel playlist files (XML and M3U)"
 
       - name: Force push changes if commit happened
         if: env.changes_detected == 'true'
