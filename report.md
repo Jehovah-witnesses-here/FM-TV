@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-25 10:12:11 UTC
+**Generated on:** 2025-09-25 12:57:42 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 1301 | 100% |
-| **✅ Working Streams** | 1279 | 98.3% |
-| **❌ Failed Streams** | 22 | 1.7% |
+| **✅ Working Streams** | 1269 | 97.5% |
+| **❌ Failed Streams** | 32 | 2.5% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 806 streams
 
-## 📋 Failure Analysis (22 total failures)
+## 📋 Failure Analysis (32 total failures)
 
 ### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
@@ -37,23 +37,33 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (1 streams)
+### ⏱️ Connection Timeouts (2 streams)
 *Server too slow to respond or overloaded*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | TG 4+1 | UNITED KINGDOM | channel playlist.m3u | Connection timeout | N/A |
+| CARTOON NETWORK | USA | channel playlist.m3u | Connection timeout | N/A |
 
-### ❓ Not Found (404) (5 streams)
+### ❓ Not Found (404) (14 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | ITV 3 | UNITED KINGDOM | channel playlist.m3u | Stream not found | 404 |
-| CARTOON NETWORK | USA | channel playlist.m3u | Stream not found | 404 |
-| FUSE | USA | channel playlist.m3u | Stream not found | 404 |
-| CTB PERTH | AUS | channel playlist.m3u | Stream not found | 404 |
-| CADENA 103 | AR | channel playlist.m3u | Stream not found | 404 |
+| AXS TV | USA | channel playlist.m3u | Stream not found | 404 |
+| CMT | USA | channel playlist.m3u | Stream not found | 404 |
+| FOX SOUL | USA | channel playlist.m3u | Stream not found | 404 |
+| FREE FORM | USA | channel playlist.m3u | Stream not found | 404 |
+| FYI | USA | channel playlist.m3u | Stream not found | 404 |
+| HALLMARK MOVIES & MYSTERY | USA | channel playlist.m3u | Stream not found | 404 |
+| QVC | USA | channel playlist.m3u | Stream not found | 404 |
+| SHOWTIME NEXT | USA | channel playlist.m3u | Stream not found | 404 |
+| SMITHSONIAN CHANNEL | USA | channel playlist.m3u | Stream not found | 404 |
+| SNY | USA | channel playlist.m3u | Stream not found | 404 |
+| START TV | USA | channel playlist.m3u | Stream not found | 404 |
+| STARZ ENCORE CLASSIC | USA | channel playlist.m3u | Stream not found | 404 |
+| TENNIS CHANNEL | USA | channel playlist.m3u | Stream not found | 404 |
 
 ### 🌍 Other HTTP Errors (3 streams)
 *Various HTTP status codes*
@@ -82,5 +92,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-25 10:12:11 UTC*
+*Last updated: 2025-09-25 12:57:42 UTC*
 *Report generated automatically by GitHub Actions*
