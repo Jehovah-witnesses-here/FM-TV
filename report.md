@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-25 06:42:27 UTC
+**Generated on:** 2025-09-25 10:12:11 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 1301 | 100% |
-| **✅ Working Streams** | 1281 | 98.5% |
-| **❌ Failed Streams** | 20 | 1.5% |
+| **✅ Working Streams** | 1279 | 98.3% |
+| **❌ Failed Streams** | 22 | 1.7% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 806 streams
 
-## 📋 Failure Analysis (20 total failures)
+## 📋 Failure Analysis (22 total failures)
 
 ### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
@@ -37,21 +37,23 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ❓ Not Found (404) (3 streams)
+### ⏱️ Connection Timeouts (1 streams)
+*Server too slow to respond or overloaded*
+
+| Channel Name | Group | File | Error Details | Code |
+|-------------|-------|------|---------------|------|
+| TG 4+1 | UNITED KINGDOM | channel playlist.m3u | Connection timeout | N/A |
+
+### ❓ Not Found (404) (5 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| AXS TV | USA | channel playlist.m3u | Stream not found | 404 |
+| ITV 3 | UNITED KINGDOM | channel playlist.m3u | Stream not found | 404 |
+| CARTOON NETWORK | USA | channel playlist.m3u | Stream not found | 404 |
+| FUSE | USA | channel playlist.m3u | Stream not found | 404 |
 | CTB PERTH | AUS | channel playlist.m3u | Stream not found | 404 |
-| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
-
-### 💥 Server Errors (5xx) (1 streams)
-*Server-side issues*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| Sportsnet Ontario HD | CA | channel playlist.m3u | Server error | 502 |
+| CADENA 103 | AR | channel playlist.m3u | Stream not found | 404 |
 
 ### 🌍 Other HTTP Errors (3 streams)
 *Various HTTP status codes*
@@ -80,5 +82,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-25 06:42:27 UTC*
+*Last updated: 2025-09-25 10:12:11 UTC*
 *Report generated automatically by GitHub Actions*
