@@ -1,6 +1,6 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-25 01:54:05 UTC
+**Generated on:** 2025-09-25 06:42:27 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
@@ -8,15 +8,15 @@
 | Metric | Count | Percentage |
 |--------|-------|------------|
 | **Total Streams** | 1301 | 100% |
-| **✅ Working Streams** | 1280 | 98.4% |
-| **❌ Failed Streams** | 21 | 1.6% |
+| **✅ Working Streams** | 1281 | 98.5% |
+| **❌ Failed Streams** | 20 | 1.5% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
 - `channel playlist.m3u`: 806 streams
 
-## 📋 Failure Analysis (21 total failures)
+## 📋 Failure Analysis (20 total failures)
 
 ### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
@@ -37,22 +37,21 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (4 streams)
-*Server too slow to respond or overloaded*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| TNT SPORTS 2 | UNITED KINGDOM | channel playlist.m3u | Connection timeout | N/A |
-| TNT SPORTS 3 | UNITED KINGDOM | channel playlist.m3u | Connection timeout | N/A |
-| FS1 | USA | channel playlist.m3u | Connection timeout | N/A |
-| FS2 | USA | channel playlist.m3u | Connection timeout | N/A |
-
-### ❓ Not Found (404) (1 streams)
+### ❓ Not Found (404) (3 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| CTB PERTH NEWS | AUS | channel playlist.m3u | Stream not found | 404 |
+| AXS TV | USA | channel playlist.m3u | Stream not found | 404 |
+| CTB PERTH | AUS | channel playlist.m3u | Stream not found | 404 |
+| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
+
+### 💥 Server Errors (5xx) (1 streams)
+*Server-side issues*
+
+| Channel Name | Group | File | Error Details | Code |
+|-------------|-------|------|---------------|------|
+| Sportsnet Ontario HD | CA | channel playlist.m3u | Server error | 502 |
 
 ### 🌍 Other HTTP Errors (3 streams)
 *Various HTTP status codes*
@@ -81,5 +80,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-25 01:54:05 UTC*
+*Last updated: 2025-09-25 06:42:27 UTC*
 *Report generated automatically by GitHub Actions*
