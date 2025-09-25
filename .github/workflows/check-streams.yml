@@ -150,7 +150,6 @@ jobs:
           
           # Your M3U files (update these to match your actual file names)
           m3u_files = [
-              'vod playlist.m3u',
               'channel playlist.m3u'
           ]
           
