@@ -52,7 +52,7 @@ http://185.99.136.50:9981/stream/channelid/548411237?profile=pass
 #EXTINF:0 CUID="40" tvg-chno="null" tvg-name="ITV 2" tvg-id="ITV2.HD.uk" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="UNITED KINGDOM",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:0 CUID="39" tvg-chno="null" tvg-name="ITV 3" tvg-id="ITV3.HD.uk" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="UNITED KINGDOM",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+https://a1xs.vip/1000013
 #EXTINF:0 CUID="520" tvg-chno="null" tvg-name="ITV 4" tvg-id="ITV4.HD.uk" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="UNITED KINGDOM",ITV 4
 http://185.99.136.50:9981/stream/channelid/2144361280?profile=pass
 #EXTINF:0 CUID="496" tvg-chno="null" tvg-name="ITV QUIZ" tvg-id="ITV.Quiz.uk" tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/e/e2/ITV_Quiz_2025_%28stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20250610212543&output=png" group-title="UNITED KINGDOM",ITV QUIZ
@@ -169,6 +169,12 @@ http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
 http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
 #EXTINF:0 CUID="632" tvg-chno="null" tvg-name="NOW 90'S & 00'S" group-title="UNITED KINGDOM",NOW 90'S & 00'S
 https://jmp2.uk/stvp-GB300033HI
+#EXTINF:0 CUID="713" tvg-chno="null" tvg-name="TNT SPORTS ULTIMATE" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="UNITED KINGDOM",TNT SPORTS ULTIMATE
+https://a1xs.vip/2000031
+#EXTINF:0 CUID="715" tvg-chno="null" tvg-name="DISCOVERY" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="UNITED KINGDOM",DISCOVERY
+https://a1xs.vip/1000033
+#EXTINF:0 CUID="716" tvg-chno="null" tvg-name="MTV" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="UNITED KINGDOM",MTV
+https://a1xs.vip/1000037
 #EXTINF:0 CUID="561" tvg-chno="null" tvg-name="&TV" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png&h=250" group-title="UK FAST",&TV
 https://jmp2.uk/stvp-GB3700007OZ
 #EXTINF:0 CUID="562" tvg-chno="null" tvg-name="5 COPS" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png&h=250" group-title="UK FAST",5 COPS
@@ -723,6 +729,10 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:0 CUID="634" tvg-chno="null" tvg-name="FANDUEL SPORTS NETWORK ARIZONA" tvg-logo="https://logo.m3uassets.com/fandueltv.png" group-title="USA",FANDUEL SPORTS NETWORK ARIZONA
 https://fl7.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
+#EXTINF:0 CUID="704" tvg-chno="null" tvg-name="PEACOCK PREMIER LEAGUE TV" group-title="USA",PEACOCK PREMIER LEAGUE TV
+https://a1xs.vip/1100021
+#EXTINF:0 CUID="714" tvg-chno="null" tvg-name="NESN UHD" group-title="USA",NESN UHD
+https://a1xs.vip/4000080
 #EXTINF:0 CUID="524" tvg-chno="null" tvg-name="FOX WEATHER" group-title="USA FAST",FOX WEATHER
 https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
 #EXTINF:0 CUID="636" tvg-chno="null" tvg-name="ABC7 CHICAGO" group-title="USA FAST",ABC7 CHICAGO
@@ -797,6 +807,18 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:0 CUID="486" tvg-chno="null" tvg-name="TVSN JEWELLERY" tvg-logo="https://logo.m3uassets.com/tvsn.png" group-title="AUS",TVSN JEWELLERY
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:0 CUID="693" tvg-chno="null" tvg-name="FOX SPORTS 501" group-title="AUS",FOX SPORTS 501
+https://a1xs.vip/700001
+#EXTINF:0 CUID="694" tvg-chno="null" tvg-name="FOX SPORTS 502" group-title="AUS",FOX SPORTS 502
+https://a1xs.vip/700002
+#EXTINF:0 CUID="695" tvg-chno="null" tvg-name="FOX SPORTS 503" tvg-logo="https://logo.m3uassets.com/foxsports503.png" group-title="AUS",FOX SPORTS 503
+https://a1xs.vip/700003
+#EXTINF:0 CUID="696" tvg-chno="null" tvg-name="FOX SPORTS 504" group-title="AUS",FOX SPORTS 504
+https://a1xs.vip/700004
+#EXTINF:0 CUID="697" tvg-chno="null" tvg-name="FOX SPORTS 505" tvg-logo="https://logo.m3uassets.com/foxsports505.png" group-title="AUS",FOX SPORTS 505
+https://a1xs.vip/700005
+#EXTINF:0 CUID="698" tvg-chno="null" tvg-name="FOX SPORTS 506" tvg-logo="https://logo.m3uassets.com/foxsports506.png" group-title="AUS",FOX SPORTS 506
+https://a1xs.vip/700006
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
@@ -815,6 +837,12 @@ http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
 #EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
+#EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
+https://a1xs.vip/6000002
+#EXTINF:0 CUID="700" tvg-chno="null" tvg-name="TSN 3" tvg-logo="https://logo.m3uassets.com/catsn3.png" group-title="CA",TSN 3
+https://a1xs.vip/6000003
+#EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
+https://a1xs.vip/6000004
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
@@ -1037,6 +1065,14 @@ http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:0 CUID="635" tvg-chno="null" tvg-name="THE MOVIE CHANNEL" group-title="INT",THE MOVIE CHANNEL
 https://e2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=CZhIoUCuCsp6sghYpqC5HQ&expires=1758756438&user_id=YjdVU2dsRGs0am1YdkJkb
+#EXTINF:0 CUID="702" tvg-chno="null" tvg-name="HUB PREMIER 1" tvg-logo="https://logo.m3uassets.com/hubpremier1.png" group-title="INT",HUB PREMIER 1
+https://a1xs.vip/1100041
+#EXTINF:0 CUID="703" tvg-chno="null" tvg-name="HUB PREMIER 2" group-title="INT",HUB PREMIER 2
+https://a1xs.vip/1100042
+#EXTINF:0 CUID="717" tvg-chno="null" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://logo.m3uassets.com/starsportsselect1.png" group-title="INT",STAR SPORTS SELECT 1
+https://a1xs.vip/8000011
+#EXTINF:0 CUID="718" tvg-chno="null" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://logo.m3uassets.com/starsportsselect2.png" group-title="INT",STAR SPORTS SELECT 2
+https://a1xs.vip/8000012
 #EXTINF:0 CUID="642" tvg-chno="null" tvg-name="PEACOCK PPV" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="USA PPV",PEACOCK PPV
 http://user.scalecdn.co:8080/live/26725074/92867131/696539.ts
 #EXTINF:0 CUID="644" tvg-chno="null" tvg-name="MLB 1" tvg-logo="https://logo.m3uassets.com/mlb.png" group-title="USA PPV",MLB 1
@@ -1137,6 +1173,22 @@ https://fl7.moveonjoy.com/PPV_4/index.m3u8
 https://fl7.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:0 CUID="692" tvg-chno="null" tvg-name="PPV 6" tvg-logo="https://logo.m3uassets.com/ppv02.png" group-title="USA PPV",PPV 6
 https://fl7.moveonjoy.com/PPV_6/index.m3u8
+#EXTINF:0 CUID="705" tvg-chno="null" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="https://logo.m3uassets.com/skysportpremierleague.png" group-title="NZ",SKY SPORT PREMIER LEAGUE
+https://a1xs.vip/700008
+#EXTINF:0 CUID="706" tvg-chno="null" tvg-name="SKY SPORT 1" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="NZ",SKY SPORT 1
+https://a1xs.vip/700031
+#EXTINF:0 CUID="707" tvg-chno="null" tvg-name="SKY SPORT 2" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="NZ",SKY SPORT 2
+https://a1xs.vip/700032
+#EXTINF:0 CUID="708" tvg-chno="null" tvg-name="SKY SPORT 3" tvg-logo="https://logo.m3uassets.com/skysport3.png" group-title="NZ",SKY SPORT 3
+https://a1xs.vip/700033
+#EXTINF:0 CUID="709" tvg-chno="null" tvg-name="SKY SPORT 4" tvg-logo="https://logo.m3uassets.com/skysport4.png" group-title="NZ",SKY SPORT 4
+https://a1xs.vip/700034
+#EXTINF:0 CUID="710" tvg-chno="null" tvg-name="SKY SPORT 5" tvg-logo="https://logo.m3uassets.com/skysport5.png" group-title="NZ",SKY SPORT 5
+https://a1xs.vip/700035
+#EXTINF:0 CUID="711" tvg-chno="null" tvg-name="SKY SPORT 6" tvg-logo="https://logo.m3uassets.com/skysport6.png" group-title="NZ",SKY SPORT 6
+https://a1xs.vip/700036
+#EXTINF:0 CUID="712" tvg-chno="null" tvg-name="SKY SPORT 7" tvg-logo="https://logo.m3uassets.com/skysport7.png" group-title="NZ",SKY SPORT 7
+https://a1xs.vip/700037
 #EXTINF:0 CUID="24" tvg-name="Happy Gilmore 2" tvg-logo="https://image.tmdb.org/t/p/w780/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="NETFLIX",Happy Gilmore 2
 https://akmzed.cloud/_v1_akmzed/BlcTmXUmf2DJgvIXxgIvpD9lf3vF~StWIF3kiT4ICP0=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="61" tvg-name="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="NETFLIX",That Christmas
