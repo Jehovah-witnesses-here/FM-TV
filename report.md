@@ -1,22 +1,22 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-25 12:57:42 UTC
+**Generated on:** 2025-09-25 18:53:28 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 1301 | 100% |
-| **✅ Working Streams** | 1269 | 97.5% |
-| **❌ Failed Streams** | 32 | 2.5% |
+| **Total Streams** | 1585 | 100% |
+| **✅ Working Streams** | 1537 | 97.0% |
+| **❌ Failed Streams** | 48 | 3.0% |
 
 ## 📁 Files Processed
 
 - `vod playlist.m3u`: 495 streams
-- `channel playlist.m3u`: 806 streams
+- `channel playlist.m3u`: 1090 streams
 
-## 📋 Failure Analysis (32 total failures)
+## 📋 Failure Analysis (48 total failures)
 
 ### 🚫 Access Denied (13 streams)
 *Likely geo-blocked or requires authentication*
@@ -37,33 +37,49 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ⏱️ Connection Timeouts (2 streams)
+### ⏱️ Connection Timeouts (1 streams)
 *Server too slow to respond or overloaded*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
 | TG 4+1 | UNITED KINGDOM | channel playlist.m3u | Connection timeout | N/A |
-| CARTOON NETWORK | USA | channel playlist.m3u | Connection timeout | N/A |
 
-### ❓ Not Found (404) (14 streams)
+### ❓ Not Found (404) (31 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| ITV 3 | UNITED KINGDOM | channel playlist.m3u | Stream not found | 404 |
-| AXS TV | USA | channel playlist.m3u | Stream not found | 404 |
-| CMT | USA | channel playlist.m3u | Stream not found | 404 |
-| FOX SOUL | USA | channel playlist.m3u | Stream not found | 404 |
-| FREE FORM | USA | channel playlist.m3u | Stream not found | 404 |
-| FYI | USA | channel playlist.m3u | Stream not found | 404 |
-| HALLMARK MOVIES & MYSTERY | USA | channel playlist.m3u | Stream not found | 404 |
-| QVC | USA | channel playlist.m3u | Stream not found | 404 |
-| SHOWTIME NEXT | USA | channel playlist.m3u | Stream not found | 404 |
-| SMITHSONIAN CHANNEL | USA | channel playlist.m3u | Stream not found | 404 |
-| SNY | USA | channel playlist.m3u | Stream not found | 404 |
-| START TV | USA | channel playlist.m3u | Stream not found | 404 |
-| STARZ ENCORE CLASSIC | USA | channel playlist.m3u | Stream not found | 404 |
-| TENNIS CHANNEL | USA | channel playlist.m3u | Stream not found | 404 |
+| CARTOON NETWORK | USA | channel playlist.m3u | Stream not found | 404 |
+| CTB PERTH | AUS | channel playlist.m3u | Stream not found | 404 |
+| MLB 1 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| MLB 2 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| MLB 3 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 1 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 11 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 13 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 2 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 3 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 4 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NBA 9 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NFL 15 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 1 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 10 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 11 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 13 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 2 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 3 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 4 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 5 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 6 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 7 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 8 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| NHL 9 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 1 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 2 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 3 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 4 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 5 | USA PPV | channel playlist.m3u | Stream not found | 404 |
+| PPV 6 | USA PPV | channel playlist.m3u | Stream not found | 404 |
 
 ### 🌍 Other HTTP Errors (3 streams)
 *Various HTTP status codes*
@@ -92,5 +108,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-25 12:57:42 UTC*
+*Last updated: 2025-09-25 18:53:28 UTC*
 *Report generated automatically by GitHub Actions*
