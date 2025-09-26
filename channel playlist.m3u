@@ -765,6 +765,8 @@ https://live-manifest.production-public.tubi.io/live/a753ad71-b253-4962-8121-dcc
 https://live-manifest.production-public.tubi.io/live/2bff0b10-6665-46f2-b205-bb384129c6c1/playlist.m3u8
 #EXTINF:0 CUID="726" tvg-chno="null" tvg-name="UFC" tvg-logo="https://logo.m3uassets.com/ufc.png" group-title="USA FAST",UFC
 https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
+#EXTINF:0 CUID="792" tvg-chno="null" tvg-name="SHOUT! MOVIES" group-title="USA FAST",SHOUT! MOVIES
+https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8?ads.deviceid=
 #EXTINF:0 CUID="642" tvg-chno="null" tvg-name="PEACOCK PPV" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="USA EVENTS",PEACOCK PPV
 http://user.scalecdn.co:8080/live/26725074/92867131/696539.ts
 #EXTINF:0 CUID="644" tvg-chno="null" tvg-name="MLB 1" tvg-logo="https://logo.m3uassets.com/mlb.png" group-title="USA EVENTS",MLB 1
@@ -1313,6 +1315,14 @@ https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 https://starmenajo.com/hls/yemenshabab/index.m3u8
 #EXTINF:0 CUID="752" tvg-chno="null" tvg-name="YEMEN TODAY TV" group-title="YE",YEMEN TODAY TV
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:0 CUID="788" tvg-chno="null" tvg-name="ABC" group-title="JP FAST",ABC
+https://mt01.utako.moe/abc/index.m3u8
+#EXTINF:0 CUID="789" tvg-chno="null" tvg-name="ANIMAX" group-title="JP FAST",ANIMAX
+https://ca01.utako.moe/Animax/index.m3u8
+#EXTINF:0 CUID="790" tvg-chno="null" tvg-name="BS 10 STAR CHANNEL" group-title="JP FAST",BS 10 STAR CHANNEL
+https://mt01.utako.moe/bs10_star/index.m3u8
+#EXTINF:0 CUID="791" tvg-chno="null" tvg-name="BS ASAHI" group-title="JP FAST",BS ASAHI
+https://mt01.utako.moe/bsasahi/index.m3u8
 #EXTINF:0 CUID="236" tvg-name=""Sr."" tvg-logo="https://image.tmdb.org/t/p/w780/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="NETFLIX","Sr."
 https://akmzed.cloud/_v1_akmzed/tfwQB~bXHk++GaTonKKDqV+sVMw4xyqWhm+O4EGUQEI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="474" tvg-name="6 Underground" tvg-logo="https://image.tmdb.org/t/p/w780/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="NETFLIX",6 Underground
