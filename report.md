@@ -1,21 +1,21 @@
 # 📺 M3U Stream Status Report
 
-**Generated on:** 2025-09-25 22:30:32 UTC
+**Generated on:** 2025-09-26 02:02:22 UTC
 **GitHub Actions Runner Location:** GitHub's infrastructure (global)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| **Total Streams** | 1236 | 100% |
-| **✅ Working Streams** | 1189 | 96.2% |
-| **❌ Failed Streams** | 47 | 3.8% |
+| **Total Streams** | 1339 | 100% |
+| **✅ Working Streams** | 1296 | 96.8% |
+| **❌ Failed Streams** | 43 | 3.2% |
 
 ## 📁 Files Processed
 
-- `channel playlist.m3u`: 1236 streams
+- `channel playlist.m3u`: 1339 streams
 
-## 📋 Failure Analysis (47 total failures)
+## 📋 Failure Analysis (43 total failures)
 
 ### 🚫 Access Denied (14 streams)
 *Likely geo-blocked or requires authentication*
@@ -37,12 +37,11 @@
 | SPACETOON ARABIC | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 | WANASAH | AE | channel playlist.m3u | Access denied (possibly geo-blocked) | 403 |
 
-### ❓ Not Found (404) (32 streams)
+### ❓ Not Found (404) (29 streams)
 *Stream URL no longer exists*
 
 | Channel Name | Group | File | Error Details | Code |
 |-------------|-------|------|---------------|------|
-| AXS TV | USA | channel playlist.m3u | Stream not found | 404 |
 | MLB 1 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
 | MLB 2 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
 | MLB 3 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
@@ -72,15 +71,6 @@
 | PPV 4 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
 | PPV 5 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
 | PPV 6 | USA EVENTS | channel playlist.m3u | Stream not found | 404 |
-| CTB PERTH | AUS | channel playlist.m3u | Stream not found | 404 |
-| CANAL 4 SAN JUAN | AR | channel playlist.m3u | Stream not found | 404 |
-
-### 💥 Server Errors (5xx) (1 streams)
-*Server-side issues*
-
-| Channel Name | Group | File | Error Details | Code |
-|-------------|-------|------|---------------|------|
-| Fubo sports 1 | CA | channel playlist.m3u | Server error | 502 |
 
 
 ## 📈 Geographic Notes
@@ -100,5 +90,5 @@
 - **Headers:** Include Accept-Language and Referer for better success rates
 
 ---
-*Last updated: 2025-09-25 22:30:32 UTC*
+*Last updated: 2025-09-26 02:02:22 UTC*
 *Report generated automatically by GitHub Actions*
