@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download Channel M3U file
-        run: wget https://opop.pro/SWR3sgHR6bXeg -O "channel playlist.m3u"
+        run: wget https://xapi-ie.cc/get.php?username=r85tsX9wXXQgj&password=TvkqQbzQUr2j&type=m3u_plus -O "channel playlist.m3u"
 
       - name: Download Channel XML file
         run: wget https://opop.pro/jGoejGCxMyUbBSt -O "channel playlist.xml"
