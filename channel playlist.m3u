@@ -974,7 +974,7 @@ http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/473384
 #EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
 http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
 #EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
 #EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
@@ -983,6 +983,8 @@ https://a1xs.vip/6000002
 https://a1xs.vip/6000003
 #EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
 https://a1xs.vip/6000004
+#EXTINF:0 CUID="786" tvg-chno="null" tvg-name="TSN 5" tvg-id="TSN5.ca" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="CA",TSN 5
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="755" tvg-chno="null" tvg-name="AFROBEATS" tvg-logo="https://logo.m3uassets.com/afrobeats.png" group-title="UK INT",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 CUID="756" tvg-chno="null" tvg-name="AKAAL CHANNEL" tvg-logo="https://logo.m3uassets.com/akaalchannel.png" group-title="UK INT",AKAAL CHANNEL
