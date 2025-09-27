@@ -1,36 +1,36 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-09-27 12:47:42 UTC  
-**⏱️ Duration:** 520.0 seconds  
+**📅 Generated on:** 2025-09-27 18:34:45 UTC  
+**⏱️ Duration:** 448.2 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 1624 streams (📡 581 Channels, 🎬 870 VODs, 🥊 53 PPV, 📺 120 FAST)
+- 📄 `channel playlist.m3u`: 1634 streams (📡 588 Channels, 🎬 873 VODs, 🥊 53 PPV, 📺 120 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 1624 | 100.0% |
-| **📡 Channels** | 581 | 35.8% |
-| **🎬 VODs** | 870 | 53.6% |
-| **🥊 PPV** | 53 | 3.3% |
-| **📺 FAST** | 120 | 7.4% |
-| **🔍 Checked Streams** | 581 | 35.8% |
-| **✅ Working Streams** | 476 | 81.9% |
-| **❌ Failed Streams** | 105 | 18.1% |
-| **⏭️ Skipped Streams** | 1043 | 64.2% |
+| **📺 Total Streams Found** | 1634 | 100.0% |
+| **📡 Channels** | 588 | 36.0% |
+| **🎬 VODs** | 873 | 53.4% |
+| **🥊 PPV** | 53 | 3.2% |
+| **📺 FAST** | 120 | 7.3% |
+| **🔍 Checked Streams** | 588 | 36.0% |
+| **✅ Working Streams** | 106 | 18.0% |
+| **❌ Failed Streams** | 482 | 82.0% |
+| **⏭️ Skipped Streams** | 1046 | 64.0% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 476 | ❌ 105 | 581 | 81.9% |
+| 📡 **Channels** | ✅ 106 | ❌ 482 | 588 | 18.0% |
 
-## 🚨 Failure Analysis (105 total failures)
+## 🚨 Failure Analysis (482 total failures)
 
-### 🚫 Connection Refused (81 streams)
+### 🚫 Connection Refused (54 streams)
 *Server actively refusing connections*
 
 | Channel | Group | Type | Error | Code | File |
@@ -46,16 +46,6 @@
 | BET SOUL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | BRAVO (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | CBS SPORTS NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| CLEO TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| CMT | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| CNBC WORLD | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| COMET | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| COZI TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| C•SPAN | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| DISCOVERY FAMILY | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| DISCOVERY LIFE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| DISCOVERY SCIENCE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| DISNEY CHANNEL (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | DISNEY JR. | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | FOOD NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | FOX BUSINESS NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
@@ -71,11 +61,6 @@
 | HBO FAMILY | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | HBO MOVIES | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | HGTV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| HSN | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| INSP | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| INVESTIGATION DISCOVERY (ID) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| ION PLUS (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| LIFETIME (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | LOVE NATURE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | MAGNOLIA NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | MGM+ | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
@@ -91,16 +76,6 @@
 | OUTSIDE TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | OVATION | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | OWN | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| OXYGEN TRUE CRIME | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| PURSUIT CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| QVC | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| REELZ | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SHOWTIME 2 | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SHOWTIME (WEST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SHOWTIME NEXT | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SHOWTIME WOMEN | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SMITHSONIAN CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SNY | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | SPORTSMAN CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | START TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | STARZ ENCORE CLASSIC | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
@@ -114,59 +89,461 @@
 | UP TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | USA NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | WILLOW 2 | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| ANTENNA TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FANDUEL SPORTS NETWORK ARIZONA | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (3 streams)
+### 🔍 Not Found (404) (10 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| BEATS RADIO | AR | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CANAL 21 TV | AR | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| INDO OZ TV | AUS | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| ESPN 2 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| CHALLENGE | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| DAYSTAR | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HGTV | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| ITV 4 | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| QUEST | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| QUEST RED | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| REALLY | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| S4C | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SKY ARTS | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (13 streams)
+### 🔒 Access Denied (403) (346 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| BLAZE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DISCOVERY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY ATLANTIC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ACTION | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ANIMATION | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA FAMILY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA GREATS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA HITS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA PREMIERE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA SCI-FI HORROR | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA SELECT | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA THRILLER | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY COMEDY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CRIME | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY HISTORY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY MAX | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY REPLAY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SCI-FI | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SHOWCASE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS CRICKET | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS F1 UHD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS GOLF | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT UHD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS NFL | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS PREMIER LEAGUE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS RACING | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS TENNIS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS+ | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY WITNESS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STV | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STV+1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TALK | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TBN UK | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TINY POP | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TJC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TLC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 2 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 3 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 4 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 5 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS ULTIMATE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TOGETHER TV | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TRT WORLD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV WAREHOUSE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&ALIBI | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&DAVE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&DRAMA | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&EDEN | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&GOLD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&W | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&YESTERDAY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PREMIER SPORTS 1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PREMIER SPORTS 2 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AMC | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Global TV | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CTV | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BAHAR TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Chekad TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CTV 2 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Citytv | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUNYA NAW TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Sportsnet 360 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ESLAH TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Fubo sports 1 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| IMAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KAYHAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Sportsnet Ontario HD | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CBC | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TSN 2 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA EDUCATION | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA NEWS | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TSN 3 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TSN 4 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA SPORT | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TSN 5 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TAMADON TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| USA Network | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABU DHABI ALOULA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABU DHABI EMIRATES | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABU DHABI SPORTS 2 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AJMAN TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL ARABIYA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL ARABIYA BUSINESS | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL ARABIYA PROGRAMS | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL DAFRAH TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | AL MASHHAD | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL QAMAR TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL SHALLAL TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL SHARQIYA MIN KABLA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL WOUSTA TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL YAUM TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | ALARABIYA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BAYNOUNAH TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CNBC ARABIYA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI ONE | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI RACING | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI RACING 2 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI RACING 3 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI SPORTS 1 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUBAI ZAMAN (NOT 24/7) | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FUJAIRAH TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| MAJID | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC 1 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC 4 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC 5 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| MBC ACTION | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC BOLLYWOOD | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC DRAMA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| MBC FM | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MBC PERSIA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NATIONAL GEOGRAPHIC ABU DHABI | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NOOR DUBAI | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NOUR TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PEACE TV BANGLA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PEACE TV CHINESE | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PEACE TV ENGLISH | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PEACE TV URDU | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PULSE95 RADIO | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SAMA DUBAI | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SHARJAH 2 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SHARJAH RADIO | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SHARJAH RADIO QURAN | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SHARJAH SPORTS | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SHARJAH TV | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS ARABIA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS ARABIA (PORTRAIT) | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | SPACETOON ARABIC | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | WANASAH | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| WATAR RADIO | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ALBKANALE MUSIC TV | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BANG BANG | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CNA | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CUFO | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NEWS 24 | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NEWS 24 ALBANIA | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ORA NEWS | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| REPORT TV | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| VIZION PLUS | AL | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ARMENIA 1 | AM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ARMENIA 2 | AM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ARTN TV | AM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FIRST CHANNEL NEWS | AM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SONGTV ARMENIA | AM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KK TV ANGOLA | AO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| MUZANGALA TV | AO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV ZIMBO | AO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 5TV CORRIENTES | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 13MAX TELEVISIÓN | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AIRE DE SANTA FE | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ALTERNA TV | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ARGENTINÍSIMA SATELITAL | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AZAHARES RADIO MULTIMEDIA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BEATS RADIO | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CABLE IMAGEN ARMSTRONG | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CADENA 103 | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 2 DE USHUAIA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 2 MISIONES | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 3 LA PAMPA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 3 LAS HERAS | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 4 POSADAS | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 4 SAN JUAN | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 5 DEL PUEBLO | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 5 PICO TRUNCADO | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 5 SANTA FE | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 6 POSADAS | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 7 SALTA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 7 SANTIAGO DEL ESTERO | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 9 LITORAL | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 9 RESISTENCIA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 11 DE LA COSTA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 13 LA RIOJA | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAL 21 TV | AR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 2GB SYDNEY | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 3AW MELBOURNE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 6PR PERTH | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 10 BOLD ADELAIDE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC AUSTRALIA | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC AUSTRALIA VIETNAM | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC KIDS | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC ME | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC NEWS | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV ADELAIDE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV BRISBANE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV CANBERRA | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV DARWIN | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV HOBART | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV MELBOURNE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV PERTH | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV PLUS | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ABC TV SYDNEY | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AUSBIZ TV | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BLOOMBERG TELEVISION AUSTRALIA | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| C31 MELBOURNE | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CHANNEL 44 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CTB PERTH | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CTB PERTH MOVIES | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CTB PERTH NEWS | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| EXPO CHANNEL | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| INDO OZ TV | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS EXTRA 1 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS EXTRA 2 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS EXTRA 3 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TVSN | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TVSN BEAUTY | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TVSN JEWELLERY | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 501 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 502 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 503 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 504 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 505 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS 506 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY RACING 1 | AUS | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A&E | BR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ADULT SWIM | BR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AMC | BR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SONY CHANNEL | BR | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN 2 | CN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT F1 | DE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT TOP EVENT | DE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV3+ | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV3 SPORT | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV3 MAX | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV2 ZULU | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV2 SPORT X | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV2 SPORT | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV2 | DK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NOW SPORTS 1 | HK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NOW SPORTS 2 | HK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTÈ 2 | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTÈ JR. | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTÈ NEWS | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTÈ ONE | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TG 4 | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| VIRGIN MEDIA FOUR | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| VIRGIN MEDIA THREE | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| VIRGIN MEDIA TWO | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| VIRIGIN MEDIA ONE | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PREMIER SPORTS 1 | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PREMIER SPORTS 2 | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STAR MOVIES SELECT | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STAR MOVIES | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STAR SPORTS SELECT 1 | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STAR SPORTS SELECT 2 | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DISCOVERY KIDS | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STAR GOLD THRILLS | IN | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 24/7 FAMILY GUY | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TRACE URBAN | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HUB PREMIER 1 | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HUB PREMIER 2 | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Afghanistan International | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FITE TV | INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT F1 | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT UNO | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA UNO | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA UNO+24 | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA SUSPENSE | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ROMANCE | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA FAMILY | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA DRAMA | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA COMEDY | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA COLLECTION | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ACTION | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SERIE | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| WARNER TV | IT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DISNEY CHANNEL | JP | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DISNEY JR. | JP | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TBS | JP | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HITS | NO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT PREMIER LEAGUE | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 1 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 2 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 3 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 4 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 5 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 6 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 7 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 9 | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT SELECT | NZ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| V SERIES | SE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV4 FOOTBALL | SE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AFROBEATS | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AKAAL CHANNEL | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ALBUK TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ALHIWAR TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ANAND TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BBC NEWS (NORTH AMERICA) | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BBC NEWS (ASIA PACIFIC) | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BBC NEWS (EUROPE) | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BLOOMBERG TV EUROPE | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BRIT ASIA TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CANAF54 TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CNBC EUROPE | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DEEN TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| EMAN CHANNEL | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FRECEUENCIA MUSICAL TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HADI TV FRENCH | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HADI TV INDONESIAN AND THAI | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HADI TV TURKISH AND KURDISH | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HALA LONDON | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ION TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| IRAN INTERNATIONAL | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| IRANEFARDA TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ISLAM CHANNEL URDU | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KALSAN TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KANSHI TV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KICCTV | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| MOONBUG | UK INT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL MASIRAH | YE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL MASIRAH MUBACHER | YE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AL-SAHAT TV | YE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| YEMEN SHABAB CHANNEL | YE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| YEMEN TODAY TV | YE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 1KZN TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CAPE TOWN TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FAITH TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SOWETO TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TSHWANE TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV BRICS AFRICA | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ANYTIME TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BOKTV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HOMEBASE TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| LN24SA | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| NUVIEW TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| REDEMPTION TV MINISTRY | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ROV TV | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SABC LEHAE | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SABC NEWS | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ZEE BOLLYMOVIES | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SUPERSPORT FOOTBALL | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SUPERSPORT GRANDSTAND | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SUPERSPORT VARIETY 1 | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SUPERSPORT RUGBY | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SUPERSPORT VARIETY 4 | ZA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| YADAH TV | ZW | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AZTECA 7 | MX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX SPORTS PREMUIM | MX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN 1 | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN 2 | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN 3 | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN 4 | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN F1 | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DAZN LALIGA | ES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (7 streams)
+### ⏰ Connection Timeouts (3 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| PEACOCK PREMIER LEAGUE TV | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY MAX | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY SHOWCASE | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY WITNESS | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| U&ALIBI | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| FOX SPORTS 504 | AUS | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| RTÈ 2 | IE | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| ESPN | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| ITV 3 | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| LFCTV | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🌐 DNS Failures (1 streams)
-*Domain name resolution failed*
+### 🚦 Rate Limited (69 streams)
+*Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| ABC AUSTRALIA VIETNAM | AUS | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
+| CINEMAX HITS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CLEO TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CMT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC WORLD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMEDY CENTRAL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMET | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COOKING CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COURT TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COZI TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| C•SPAN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DESTINATION AMERICA | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISCOVERY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISCOVERY FAMILY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISCOVERY LIFE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISCOVERY SCIENCE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISNEY CHANNEL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HSN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| IFC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| INSP | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| INVESTIGATION DISCOVERY (ID) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ION PLUS (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KOMUCW | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KOMUNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KQFXFOX | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KRCGCBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KSHBNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KSMOIND (CBS) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KTVOCBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KYOUDT4 (CW) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KYOUFOX | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KYOUNBC2 | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| LAFF | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| LIFETIME (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| OXYGEN TRUE CRIME | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PARAMOUNT NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PBS KIDS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PURSUIT CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| QVC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| RACER TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| REELZ | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| REVOLT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SEC NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SHOWTIME | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SHOWTIME 2 | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SHOWTIME (WEST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SHOWTIME NEXT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SHOWTIME WOMEN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SMITHSONIAN CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SNY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ANTENNA TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FANDUEL SPORTS NETWORK ARIZONA | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PEACOCK PREMIER LEAGUE TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NESN UHD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| THE MOVIE CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 5 USA | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| AL JAZEERA ENGLISH | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC ALBA | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC FOUR \| CBEEBIES | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC NEWS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC ONE LONDON | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC PARLIAMENT | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC SCOTLAND | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC THREE \| CBBC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC TWO | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BLAZE | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CARTOON NETWORK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
-## ⏭️ Skipped Streams (1043 total)
+## ⏭️ Skipped Streams (1046 total)
 
 ### 🥊 PPV/Event Channels (53 skipped)
 *Enable "🥊 Check PPV" in workflow dispatch to test these*
@@ -188,7 +565,7 @@
 | UK FAST | 102 |
 | USA FAST | 12 |
 
-### 🎬 VOD Files (870 skipped)
+### 🎬 VOD Files (873 skipped)
 *Enable "🎬 Check VODs" in workflow dispatch to test these*
 
 | Group | Count |
@@ -199,7 +576,7 @@
 | BritBox | 5 |
 | CBC Gem | 1 |
 | DOCPLAY | 1 |
-| Disney+ | 209 |
+| Disney+ | 211 |
 | FMTV+ | 3 |
 | HBO MAX | 111 |
 | Hallmark+ | 1 |
@@ -208,7 +585,7 @@
 | PBS | 2 |
 | PRIME VIDEO | 41 |
 | Paramount+ | 96 |
-| Peacock TV | 140 |
+| Peacock TV | 141 |
 | RTÈ PLAYER | 3 |
 | SONY Pictures Core | 83 |
 | SONY Pictures Core (Shows) | 12 |
@@ -235,5 +612,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-09-27 12:47:42 UTC*
+*📅 Last updated: 2025-09-27 18:34:45 UTC*
 *🤖 Report generated automatically by GitHub Actions*
