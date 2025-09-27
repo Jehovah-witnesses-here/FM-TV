@@ -593,10 +593,10 @@ http://185.99.136.50:9981/stream/channelid/1076237312?profile=pass
 https://world-proxifier.xyz/daddylive/p/Q1tWJUReI1ZBJSEnIT1MCVZDHkE9PVkPDRY=/index.m3u8
 #EXTINF:0 CUID="882" tvg-chno="null" tvg-name="PREMIER SPORTS 2" tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK",PREMIER SPORTS 2
 https://world-proxifier.xyz/daddylive/p/Q1tWJUReI1ZBJSEnIT1MCFZDHkE9PVkIDSk=/index.m3u8
-#EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
-http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="399" tvg-chno="null" tvg-name="AMC" group-title="AF",AMC
 https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:0 CUID="400" tvg-chno="null" tvg-name="BAHAR TV" group-title="AF",BAHAR TV
@@ -617,30 +617,30 @@ https://eslahtvhls.wns.live/hls/stream.m3u8
 http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/473384
 #EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
-#EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
-http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
 #EXTINF:0 CUID="405" tvg-chno="null" tvg-name="KAYHAN TV" group-title="AF",KAYHAN TV
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
+http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
 #EXTINF:0 CUID="406" tvg-chno="null" tvg-name="RTA" group-title="AF",RTA
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 #EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
 http://portal5458.com:8080/Y18QnUSTwM/52775199980/40758
-#EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 #EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-id="I401.18990.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
 https://a1xs.vip/6000002
+#EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 #EXTINF:0 CUID="408" tvg-chno="null" tvg-name="RTA NEWS" group-title="AF",RTA NEWS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
 #EXTINF:0 CUID="700" tvg-chno="null" tvg-name="TSN 3" tvg-id="I402.90118.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/catsn3.png" group-title="CA",TSN 3
 https://a1xs.vip/6000003
-#EXTINF:0 CUID="409" tvg-chno="null" tvg-name="RTA SPORT" group-title="AF",RTA SPORT
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-id="I403.90122.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
 https://a1xs.vip/6000004
-#EXTINF:0 CUID="410" tvg-chno="null" tvg-name="TAMADON TV" group-title="AF",TAMADON TV
-https://hls.tamadon.live/hls/stream.m3u8
+#EXTINF:0 CUID="409" tvg-chno="null" tvg-name="RTA SPORT" group-title="AF",RTA SPORT
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:0 CUID="786" tvg-chno="null" tvg-name="TSN 5" tvg-id="TSN5.ca" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="CA",TSN 5
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
+#EXTINF:0 CUID="410" tvg-chno="null" tvg-name="TAMADON TV" group-title="AF",TAMADON TV
+https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
 https://theariatv.github.io/channeldead.mp4
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
@@ -1503,8 +1503,24 @@ http://imediatv666.store:7777/lunarisports2913/sportsstuff29/110458
 http://imediatv666.store:7777/lunarisports2913/sportsstuff29/110461
 #EXTINF:0 CUID="821" tvg-chno="null" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="https://logo.m3uassets.com/supersportvariety4.png" group-title="ZA",SUPERSPORT VARIETY 4
 http://imediatv666.store:7777/lunarisports2913/sportsstuff29/110453
-#EXTINF:0 CUID="731" tvg-chno="null" tvg-name="YADAH TV" group-title="ZW",YADAH TV
+#EXTINF:0 CUID="731" tvg-chno="null" tvg-name="YADAH TV" tvg-logo="https://logo.m3uassets.com/yadahtv.png" group-title="ZW",YADAH TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
+#EXTINF:0 CUID="886" tvg-chno="null" tvg-name="AZTECA 7" tvg-logo="https://logo.m3uassets.com/azteca7.png" group-title="MX",AZTECA 7
+https://world-proxifier.xyz/daddylive/p/FCohUk1eSRBFGEhEPSBMDhUG/index.m3u8
+#EXTINF:0 CUID="887" tvg-chno="null" tvg-name="FOX SPORTS PREMUIM" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png" group-title="MX",FOX SPORTS PREMUIM
+https://world-proxifier.xyz/daddylive/p/ESEtRF0tKTUgIEFFJ09SUzBbRB1NRCA1SREHOw==/index.m3u8
+#EXTINF:0 CUID="888" tvg-chno="null" tvg-name="DAZN 1" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="ES",DAZN 1
+https://world-proxifier.xyz/daddylive/p/FxFPGVkMSVIkVltbRCA1SRUGAA==/index.m3u8
+#EXTINF:0 CUID="889" tvg-chno="null" tvg-name="DAZN 2" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="ES",DAZN 2
+https://world-proxifier.xyz/daddylive/p/FxFPGVkNSVIkVltbRCA1SRUGAQ==/index.m3u8
+#EXTINF:0 CUID="890" tvg-chno="null" tvg-name="DAZN 3" tvg-logo="https://logo.m3uassets.com/dazn3.png" group-title="ES",DAZN 3
+https://world-proxifier.xyz/daddylive/p/FxFPGVkOSVIkVltbRCA1SRUGAg==/index.m3u8
+#EXTINF:0 CUID="891" tvg-chno="null" tvg-name="DAZN 4" tvg-logo="https://logo.m3uassets.com/dazn4.png" group-title="ES",DAZN 4
+https://world-proxifier.xyz/daddylive/p/FxFPGVkPSVIkVltbRCA1SRUGAw==/index.m3u8
+#EXTINF:0 CUID="892" tvg-chno="null" tvg-name="DAZN F1" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="ES",DAZN F1
+https://world-proxifier.xyz/daddylive/p/FxFPGVkZCVYRQEE9PVkICxA=/index.m3u8
+#EXTINF:0 CUID="893" tvg-chno="null" tvg-name="DAZN LALIGA" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="ES",DAZN LALIGA
+https://world-proxifier.xyz/daddylive/p/FxFPGVkXWw1fXFNEPSBMDRQC/index.m3u8
 #EXTINF:0 CUID="236" tvg-name=""Sr."" tvg-logo="https://image.tmdb.org/t/p/w780/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="NETFLIX","Sr."
 https://akmzed.cloud/_v1_akmzed/tfwQB~bXHk++GaTonKKDqV+sVMw4xyqWhm+O4EGUQEI=/aW5kZXgubTN1OA==.m3u8/#.mkv
 #EXTINF:0 CUID="474" tvg-name="6 Underground" tvg-logo="https://image.tmdb.org/t/p/w780/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="NETFLIX",6 Underground
