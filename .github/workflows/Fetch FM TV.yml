@@ -25,8 +25,8 @@ jobs:
 
       - name: Transform URLs to wrapped format
         env:
-          IPTV_USERNAME: ${{ secrets.IPTV_USERNAME }}
-          IPTV_PASSWORD: ${{ secrets.IPTV_PASSWORD }}
+          # Pass the full M3U URL into the script's environment
+          IPTV_M3U_URL: ${{ secrets.IPTV_M3U_URL }}
         run: |
           python3 << 'EOF'
           import base64
@@ -39,18 +39,26 @@ jobs:
               """
               Reads an unwrapped M3U file and transforms stream URLs into the proxy-wrapped format.
               """
-              # Get credentials from environment variables
-              username = os.environ.get('IPTV_USERNAME')
-              password = os.environ.get('IPTV_PASSWORD')
-              
-              if not username or not password:
-                  print("Error: IPTV credentials not found in environment variables")
+              # Get the full M3U URL from environment variables
+              m3u_url = os.environ.get('IPTV_M3U_URL')
+              if not m3u_url:
+                  print("Error: IPTV_M3U_URL not found in environment variables.")
+                  return
+
+              # Parse the URL to extract username and password
+              try:
+                  parsed_url = urllib.parse.urlparse(m3u_url)
+                  query_params = urllib.parse.parse_qs(parsed_url.query)
+                  username = query_params['username'][0]
+                  password = query_params['password'][0]
+              except (KeyError, IndexError):
+                  print("Error: Could not parse 'username' and 'password' from the IPTV_M3U_URL secret.")
                   return
               
-              # Fixed parameters based on analysis and user credentials
+              # Construct the prefix dynamically using extracted credentials
               PREFIX = f"http://alt.xtream-ie.org/{username}/{password}/1"
               SUFFIX = "/fast"
-              
+
               # Groups that need /#.mkv added to URLs
               MKV_GROUPS = {
                   "NETFLIX", "Disney+", "PRIME VIDEO", "HBO MAX", "Peacock TV", 
@@ -59,10 +67,9 @@ jobs:
                   "Angel Studios", "PBS", "DOCPLAY", "CBC Gem", "Peacock TV (Shows)", 
                   "SONY Pictures Core (Shows)", "Stan.", "Studiocanal Presents"
               }
-              
-              # Regex to find the CUID value from the #EXTINF line
+
+              # Regex to find values from the #EXTINF line
               CUID_PATTERN = re.compile(r'CUID=\"(\d+)\"')
-              # Regex to find the group-title value
               GROUP_PATTERN = re.compile(r'group-title=\"([^\"]+)\"')
               
               print(f"Starting M3U transformation: {input_file} -> {output_file}")
@@ -71,46 +78,38 @@ jobs:
                   with open(input_file, 'r', encoding='utf-8') as infile, \
                        open(output_file, 'w', encoding='utf-8') as outfile:
                       
-                      # Read all lines
                       lines = infile.readlines()
                       
-                      # Check for M3U header and write it with EPG URL
+                      # Check for M3U header and write it with the EPG URL
                       if not lines or lines[0].strip() != "#EXTM3U":
                           print("Error: Input file is missing the '#EXTM3U' header.")
                           return
 
-                      # Write the header with EPG URL
-                      outfile.write('#EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"\n') 
+                      outfile.write('#EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"\n')
                       
                       i = 1 # Start processing from the second line
                       while i < len(lines):
                           extinf_line = lines[i].strip()
                           
-                          # If it's an #EXTINF line, the next line should be the URL
                           if extinf_line.startswith("#EXTINF"):
-                              # 1. Write the #EXTINF line immediately
                               outfile.write(extinf_line + '\n')
                               
-                              # Ensure a URL line exists before proceeding
                               if i + 1 >= len(lines):
-                                  print(f"Warning: Missing URL after {extinf_line}. Skipping.")
                                   i += 1
                                   continue
 
                               url_line = lines[i+1].strip()
                               
-                              # Skip empty URL lines
                               if not url_line:
                                   outfile.write(url_line + '\n')
                                   i += 2
                                   continue
                               
-                              # 2. Extract CUID and group-title
+                              # Extract CUID and group-title
                               cuid_match = CUID_PATTERN.search(extinf_line)
                               group_match = GROUP_PATTERN.search(extinf_line)
                               
                               if not cuid_match:
-                                  # If CUID is missing, write the original URL and continue
                                   outfile.write(url_line + '\n')
                                   i += 2
                                   continue
@@ -123,17 +122,17 @@ jobs:
                                   group_title = group_match.group(1)
                                   needs_mkv = group_title in MKV_GROUPS
                               
-                              # 3. Build the JSON payload: {"url":"<ORIGINAL_URL>","id":<CUID>}
+                              # Build the JSON payload
                               payload_data = {"url": url_line, "id": cuid}
                               payload_str = json.dumps(payload_data)
                               
-                              # 4. Base64 Encode the JSON payload
+                              # Base64 Encode the payload
                               encoded_payload = base64.b64encode(payload_str.encode('utf-8')).decode('utf-8')
                               
-                              # 5. URL-safe encode the result
+                              # URL-safe encode the result
                               url_safe_payload = encoded_payload.replace('=', '%3D')
                               
-                              # 6. Construct the wrapped URL with /#.mkv after /fast if needed
+                              # Construct the final wrapped URL
                               if needs_mkv:
                                   wrapped_url = f'{PREFIX}{url_safe_payload}{SUFFIX}/#.mkv'
                               else:
@@ -141,12 +140,11 @@ jobs:
                               
                               outfile.write(wrapped_url + '\n')
                               
-                              i += 2 # Move to the next #EXTINF line
+                              i += 2
                           else:
-                              # Write any other lines (like empty lines or other tags) as is
                               outfile.write(lines[i]) 
                               i += 1
-                              
+                          
                   print("Transformation complete.")
 
               except FileNotFoundError:
