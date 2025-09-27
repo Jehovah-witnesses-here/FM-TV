@@ -613,7 +613,7 @@ https://dunyanhls.wns.live/hls/stream.m3u8
 http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/175777
 #EXTINF:0 CUID="403" tvg-chno="null" tvg-name="ESLAH TV" group-title="AF",ESLAH TV
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0 CUID="556" tvg-chno="null" tvg-name="Fubo sports 1" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="CA",Fubo sports 1
+#EXTINF:0 CUID="556" tvg-chno="null" tvg-name="Fubo sports 1" tvg-id="Fubo.Sports.us" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="CA",Fubo sports 1
 http://shpcafgj.mexamo.xyz/G36YB21A/FKVUQE5L/473384
 #EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
@@ -623,26 +623,26 @@ http://shpcafgj.mexamo.xyz:80/G36YB21A/FKVUQE5L/175774
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 #EXTINF:0 CUID="406" tvg-chno="null" tvg-name="RTA" group-title="AF",RTA
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
-#EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
-https://theariatv.github.io/channeldead.mp4
-#EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 #EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
 http://portal5458.com:8080/Y18QnUSTwM/52775199980/40758
+#EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+#EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-id="I401.18990.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
+https://a1xs.vip/6000002
 #EXTINF:0 CUID="408" tvg-chno="null" tvg-name="RTA NEWS" group-title="AF",RTA NEWS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
-#EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
-https://a1xs.vip/6000002
+#EXTINF:0 CUID="700" tvg-chno="null" tvg-name="TSN 3" tvg-id="I402.90118.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/catsn3.png" group-title="CA",TSN 3
+https://a1xs.vip/6000003
 #EXTINF:0 CUID="409" tvg-chno="null" tvg-name="RTA SPORT" group-title="AF",RTA SPORT
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:0 CUID="700" tvg-chno="null" tvg-name="TSN 3" tvg-logo="https://logo.m3uassets.com/catsn3.png" group-title="CA",TSN 3
-https://a1xs.vip/6000003
+#EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-id="I403.90122.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
+https://a1xs.vip/6000004
 #EXTINF:0 CUID="410" tvg-chno="null" tvg-name="TAMADON TV" group-title="AF",TAMADON TV
 https://hls.tamadon.live/hls/stream.m3u8
-#EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
-https://a1xs.vip/6000004
 #EXTINF:0 CUID="786" tvg-chno="null" tvg-name="TSN 5" tvg-id="TSN5.ca" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="CA",TSN 5
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
+#EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 CUID="347" tvg-chno="null" tvg-name="ABU DHABI EMIRATES" group-title="AE",ABU DHABI EMIRATES
