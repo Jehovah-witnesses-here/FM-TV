@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-09-27 10:47:26 UTC  
-**⏱️ Duration:** 559.6 seconds  
+**📅 Generated on:** 2025-09-27 12:47:42 UTC  
+**⏱️ Duration:** 520.0 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 53 | 3.3% |
 | **📺 FAST** | 120 | 7.4% |
 | **🔍 Checked Streams** | 581 | 35.8% |
-| **✅ Working Streams** | 471 | 81.1% |
-| **❌ Failed Streams** | 110 | 18.9% |
+| **✅ Working Streams** | 476 | 81.9% |
+| **❌ Failed Streams** | 105 | 18.1% |
 | **⏭️ Skipped Streams** | 1043 | 64.2% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 471 | ❌ 110 | 581 | 81.1% |
+| 📡 **Channels** | ✅ 476 | ❌ 105 | 581 | 81.9% |
 
-## 🚨 Failure Analysis (110 total failures)
+## 🚨 Failure Analysis (105 total failures)
 
 ### 🚫 Connection Refused (81 streams)
 *Server actively refusing connections*
@@ -117,22 +117,14 @@
 | ANTENNA TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | FANDUEL SPORTS NETWORK ARIZONA | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (11 streams)
+### 🔍 Not Found (404) (3 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| ALTITUDE SPORTS | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| ESPN U | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| ESPNEWS | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| GOLF CHANNEL | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| MLB NETWORK | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| WILLOW CRICKET | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| PEACOCK PREMIER LEAGUE TV | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| SKY SPORTS NFL | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BEATS RADIO | AR | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| CANAL 21 TV | AR | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | INDO OZ TV | AUS | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| PREMIER SPORTS 2 | IE | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
 ### 🔒 Access Denied (403) (13 streams)
 *Geo-blocked or authentication required*
@@ -153,15 +145,18 @@
 | WANASAH | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TG 4 | IE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (4 streams)
+### ⏰ Connection Timeouts (7 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| EURONEWS ENGLISH | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| PEACOCK PREMIER LEAGUE TV | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY MAX | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SHOWCASE | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY WITNESS | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | U&ALIBI | UK | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| VIZION PLUS | AL | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 504 | AUS | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| RTÈ 2 | IE | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
 ### 🌐 DNS Failures (1 streams)
 *Domain name resolution failed*
@@ -240,5 +235,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-09-27 10:47:26 UTC*
+*📅 Last updated: 2025-09-27 12:47:42 UTC*
 *🤖 Report generated automatically by GitHub Actions*
