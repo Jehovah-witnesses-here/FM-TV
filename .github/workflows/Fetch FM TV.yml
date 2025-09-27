@@ -18,10 +18,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download Channel M3U file
-        run: wget https://opop.pro/YRHV3D5jWnbRhX -O "channel playlist.m3u"
+        run: wget https://opop.pro/SWR3sgHR6bXeg -O "channel playlist.m3u"
 
       - name: Download Channel XML file
-        run: wget https://opop.pro/UWdMpvUNVYKr -O "channel playlist.xml"
+        run: wget https://opop.pro/jGoejGCxMyUbBSt -O "channel playlist.xml"
 
       - name: Add files to Git
         run: |
