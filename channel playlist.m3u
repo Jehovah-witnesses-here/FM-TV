@@ -587,19 +587,25 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE4NS45OS4xMzYuNTA6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzE1MTA4MDM5NjE/cHJvZmlsZT1wYXNzIiwgImlkIjogNTA0fQ%3D%3D/fast
 #EXTINF:0 CUID="508" tvg-chno="null" tvg-name="U&YESTERDAY" tvg-id="U.and.YESTERDAY.uk" tvg-logo="https://logo.m3uassets.com/uandyesterday.png" group-title="UK",U&YESTERDAY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE4NS45OS4xMzYuNTA6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzEwNzYyMzczMTI/cHJvZmlsZT1wYXNzIiwgImlkIjogNTA4fQ%3D%3D/fast
-#EXTINF:0 CUID="900" tvg-chno="null" tvg-name="MTV MUSIC" group-title="UK",MTV MUSIC
+#EXTINF:0 CUID="900" tvg-chno="null" tvg-name="MTV MUSIC" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="UK",MTV MUSIC
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvMjIxL2luZGV4Lm0zdTgiLCAiaWQiOiA5MDB9/fast
-#EXTINF:0 CUID="902" tvg-chno="null" tvg-name="SKY CINEMA COMEDY" group-title="UK",SKY CINEMA COMEDY
+#EXTINF:0 CUID="902" tvg-chno="null" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://logo.m3uassets.com/skycinemacomedy.png" group-title="UK",SKY CINEMA COMEDY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA5L2luZGV4Lm0zdTgiLCAiaWQiOiA5MDJ9/fast
-#EXTINF:0 CUID="903" tvg-chno="null" tvg-name="SKY SPORTS FOOTBALL" group-title="UK",SKY SPORTS FOOTBALL
+#EXTINF:0 CUID="903" tvg-chno="null" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="UK",SKY SPORTS FOOTBALL
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81MDAvaW5kZXgubTN1OCIsICJpZCI6IDkwM30%3D/fast
-#EXTINF:0 CUID="904" tvg-chno="null" tvg-name="SKY SPORTS NEWS" group-title="UK",SKY SPORTS NEWS
+#EXTINF:0 CUID="904" tvg-chno="null" tvg-name="SKY SPORTS NEWS" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="UK",SKY SPORTS NEWS
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81MDEvaW5kZXgubTN1OCIsICJpZCI6IDkwNH0%3D/fast
-#EXTINF:0 CUID="905" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" group-title="UK",SKY SPORTS CRICKET
+#EXTINF:0 CUID="905" tvg-chno="null" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="UK",SKY SPORTS CRICKET
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81MDMvaW5kZXgubTN1OCIsICJpZCI6IDkwNX0%3D/fast
-#EXTINF:0 CUID="906" tvg-chno="null" tvg-name="SKY SPORTS MIX" group-title="UK",SKY SPORTS MIX
+#EXTINF:0 CUID="906" tvg-chno="null" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="UK",SKY SPORTS MIX
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81MDcvaW5kZXgubTN1OCIsICJpZCI6IDkwNn0%3D/fast
-#EXTINF:0 CUID="399" tvg-chno="null" tvg-name="AMC" group-title="AF",AMC
+#EXTINF:0 CUID="908" tvg-chno="null" tvg-name="BOOMERANG" group-title="UK",BOOMERANG
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC83MTIvaW5kZXgubTN1OCIsICJpZCI6IDkwOH0%3D/fast
+#EXTINF:0 CUID="909" tvg-chno="null" tvg-name="NICKTOONS" group-title="UK",NICKTOONS
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNzA1L2luZGV4Lm0zdTgiLCAiaWQiOiA5MDl9/fast
+#EXTINF:0 CUID="910" tvg-chno="null" tvg-name="NICK JR." group-title="UK",NICK JR.
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNzA0L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTB9/fast
+#EXTINF:0 CUID="399" tvg-chno="null" tvg-name="AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="AF",AMC
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWNobHMud25zLmxpdmUvaGxzL3N0cmVhbS5tM3U4IiwgImlkIjogMzk5fQ%3D%3D/fast
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzQxODMxODIwP3Byb2ZpbGU9cGFzcyIsICJpZCI6IDMxNn0%3D/fast
@@ -607,18 +613,18 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzc0MTE3NDEwNz9wcm9maWxlPXBhc3MiLCAiaWQiOiAzMTd9/fast
 #EXTINF:0 CUID="400" tvg-chno="null" tvg-name="BAHAR TV" group-title="AF",BAHAR TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81OWQzOTkwMGViZmI4LnN0cmVhbWxvY2submV0L2JhaGFydHYvYmFoYXJ0di9wbGF5bGlzdC5tM3U4IiwgImlkIjogNDAwfQ%3D%3D/fast
-#EXTINF:0 CUID="639" tvg-chno="null" tvg-name="CTV 2" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="CA",CTV 2
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3VzZXIuc2NhbGVjZG4uY286ODA4MC8yNjcyNTA3NC85Mjg2NzEzMS85MzAwOCIsICJpZCI6IDYzOX0%3D/fast
 #EXTINF:0 CUID="401" tvg-chno="null" tvg-name="Chekad TV" group-title="AF",Chekad TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9nbzVsbXF4anlhd2ItaGxzLWxpdmUuNWNlbnRzY2RuLmNvbS9DaGVrYWQvMjcxZGRmODI5YWZlZWNlNDRkODczMjc1N2ZiYTFhNjYuc2RwL2NodW5rcy5tM3U4IiwgImlkIjogNDAxfQ%3D%3D/fast
-#EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzIwMDkyMDI0NTE/cHJvZmlsZT1wYXNzIiwgImlkIjogMzE4fQ%3D%3D/fast
+#EXTINF:0 CUID="639" tvg-chno="null" tvg-name="CTV 2" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="CA",CTV 2
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3VzZXIuc2NhbGVjZG4uY286ODA4MC8yNjcyNTA3NC85Mjg2NzEzMS85MzAwOCIsICJpZCI6IDYzOX0%3D/fast
 #EXTINF:0 CUID="402" tvg-chno="null" tvg-name="DUNYA NAW TV" group-title="AF",DUNYA NAW TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kdW55YW5obHMud25zLmxpdmUvaGxzL3N0cmVhbS5tM3U4IiwgImlkIjogNDAyfQ%3D%3D/fast
-#EXTINF:0 CUID="403" tvg-chno="null" tvg-name="ESLAH TV" group-title="AF",ESLAH TV
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lc2xhaHR2aGxzLnducy5saXZlL2hscy9zdHJlYW0ubTN1OCIsICJpZCI6IDQwM30%3D/fast
+#EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzIwMDkyMDI0NTE/cHJvZmlsZT1wYXNzIiwgImlkIjogMzE4fQ%3D%3D/fast
 #EXTINF:0 CUID="555" tvg-chno="null" tvg-name="Sportsnet 360" tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20250924&channel_id=404765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qwl9vK69Lscmc07-zGKwhJKBcycFRk2_rV-5--v9oQ&s=10" group-title="CA",Sportsnet 360
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdqLm1leGFtby54eXovRzM2WUIyMUEvRktWVVFFNUwvMTc1Nzc3IiwgImlkIjogNTU1fQ%3D%3D/fast
+#EXTINF:0 CUID="403" tvg-chno="null" tvg-name="ESLAH TV" group-title="AF",ESLAH TV
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lc2xhaHR2aGxzLnducy5saXZlL2hscy9zdHJlYW0ubTN1OCIsICJpZCI6IDQwM30%3D/fast
 #EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLnJlbGVudGxlc3Npbm5vdmF0aW9ucy5uZXQ6MTkzNi9pbWFudHYvaW1hbnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA0MDR9/fast
 #EXTINF:0 CUID="556" tvg-chno="null" tvg-name="Fubo sports 1" tvg-id="Fubo.Sports.us" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="CA",Fubo sports 1
@@ -627,10 +633,10 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdq
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9wbGF5b3V0Mzk1LmxpdmVzdHJlYW1pbmdjZG4uY29tL2xpdmUvU3RyZWFtMS9wbGF5bGlzdC5tM3U4IiwgImlkIjogNDA1fQ%3D%3D/fast
 #EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdqLm1leGFtby54eXo6ODAvRzM2WUIyMUEvRktWVVFFNUwvMTc1Nzc0IiwgImlkIjogNjEzfQ%3D%3D/fast
-#EXTINF:0 CUID="406" tvg-chno="null" tvg-name="RTA" group-title="AF",RTA
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ydGF0di5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTL0xpdmUvY2hhbm5lbChSVEExKS9pbmRleC5tM3U4IiwgImlkIjogNDA2fQ%3D%3D/fast
 #EXTINF:0 CUID="641" tvg-chno="null" tvg-name="CBC" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="CA",CBC
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3BvcnRhbDU0NTguY29tOjgwODAvWTE4UW5VU1R3TS81Mjc3NTE5OTk4MC80MDc1OCIsICJpZCI6IDY0MX0%3D/fast
+#EXTINF:0 CUID="406" tvg-chno="null" tvg-name="RTA" group-title="AF",RTA
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ydGF0di5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTL0xpdmUvY2hhbm5lbChSVEExKS9pbmRleC5tM3U4IiwgImlkIjogNDA2fQ%3D%3D/fast
 #EXTINF:0 CUID="699" tvg-chno="null" tvg-name="TSN 2" tvg-id="I401.18990.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/catsn2.png" group-title="CA",TSN 2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC82MDAwMDAyIiwgImlkIjogNjk5fQ%3D%3D/fast
 #EXTINF:0 CUID="407" tvg-chno="null" tvg-name="RTA EDUCATION" group-title="AF",RTA EDUCATION
@@ -1481,20 +1487,72 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2NjY2LnN0b3JlOjc3NzcvbHVuYXJpc3BvcnRzMjkxMy9zcG9ydHNzdHVmZjI5LzExMDQ2MSIsICJpZCI6IDgyMH0%3D/fast
 #EXTINF:0 CUID="821" tvg-chno="null" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="https://logo.m3uassets.com/supersportvariety4.png" group-title="ZA",SUPERSPORT VARIETY 4
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2NjY2LnN0b3JlOjc3NzcvbHVuYXJpc3BvcnRzMjkxMy9zcG9ydHNzdHVmZjI5LzExMDQ1MyIsICJpZCI6IDgyMX0%3D/fast
+#EXTINF:0 CUID="911" tvg-chno="null" tvg-name="SUPERSPORT PREMIER LEAGUE" group-title="ZA",SUPERSPORT PREMIER LEAGUE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NjMvaW5kZXgubTN1OCIsICJpZCI6IDkxMX0%3D/fast
+#EXTINF:0 CUID="912" tvg-chno="null" tvg-name="SUPERSPORT LALIGA" group-title="ZA",SUPERSPORT LALIGA
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTY1L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTJ9/fast
 #EXTINF:0 CUID="731" tvg-chno="null" tvg-name="YADAH TV" tvg-logo="https://logo.m3uassets.com/yadahtv.png" group-title="ZW",YADAH TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWV3bWVkaWE3MjE5LmJvenp0di5jb20vd21lZGlhL3ZpZXdtZWRpYTEwMC93ZWJfMDE4L1N0cmVhbS9wbGF5bGlzdC5tM3U4IiwgImlkIjogNzMxfQ%3D%3D/fast
 #EXTINF:0 CUID="886" tvg-chno="null" tvg-name="AZTECA 7" tvg-logo="https://logo.m3uassets.com/azteca7.png" group-title="MX",AZTECA 7
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93b3JsZC1wcm94aWZpZXIueHl6L2RhZGR5bGl2ZS9wL0ZDb2hVazFlU1JCRkdFaEVQU0JNRGhVRy9pbmRleC5tM3U4IiwgImlkIjogODg2fQ%3D%3D/fast
 #EXTINF:0 CUID="887" tvg-chno="null" tvg-name="FOX SPORTS PREMUIM" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png" group-title="MX",FOX SPORTS PREMUIM
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93b3JsZC1wcm94aWZpZXIueHl6L2RhZGR5bGl2ZS9wL0VTRXRSRjB0S1RVZ0lFRkZKMDlTVXpCYlJCMU5SQ0ExU1JFSE93PT0vaW5kZXgubTN1OCIsICJpZCI6IDg4N30%3D/fast
-#EXTINF:0 CUID="897" tvg-chno="null" tvg-name="TELE 50" group-title="CD",TELE 50
+#EXTINF:0 CUID="897" tvg-chno="null" tvg-name="TELE 50" tvg-logo="https://logo.m3uassets.com/tele50.png" group-title="CD",TELE 50
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM3LjE4Ny4xMzguNDE6ODAvODAvaW5kZXgubTN1OCIsICJpZCI6IDg5N30%3D/fast
 #EXTINF:0 CUID="898" tvg-chno="null" tvg-name="DIGITAL CONGO" group-title="CD",DIGITAL CONGO
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM3LjE4Ny4xMzguNDE6ODAvODEvaW5kZXgubTN1OCIsICJpZCI6IDg5OH0%3D/fast
 #EXTINF:0 CUID="899" tvg-chno="null" tvg-name="BOSOLO TV" group-title="CD",BOSOLO TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM3LjE4Ny4xMzguNDE6ODAvODMvaW5kZXgubTN1OCIsICJpZCI6IDg5OX0%3D/fast
-#EXTINF:0 CUID="901" tvg-chno="null" tvg-name="TF1" group-title="FR",TF1
+#EXTINF:0 CUID="901" tvg-chno="null" tvg-name="TF1" tvg-logo="https://logo.m3uassets.com/tf1.png" group-title="FR",TF1
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzAxL2luZGV4Lm0zdTgiLCAiaWQiOiA5MDF9/fast
+#EXTINF:0 CUID="913" tvg-chno="null" tvg-name="M6" tvg-logo="https://logo.m3uassets.com/m6.png" group-title="FR",M6
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzA5L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTN9/fast
+#EXTINF:0 CUID="914" tvg-chno="null" tvg-name="RTL 9" tvg-logo="https://logo.m3uassets.com/rtl9.png" group-title="FR",RTL 9
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzA4L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTR9/fast
+#EXTINF:0 CUID="915" tvg-chno="null" tvg-name="TF1 SERIES FILMS" tvg-logo="https://logo.m3uassets.com/tf1seriesfilms.png" group-title="FR",TF1 SERIES FILMS
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM3LjE4Ny4xMzguNDE6ODAvVEYtdW4tc2VyaWUvaW5kZXgubTN1OCIsICJpZCI6IDkxNX0%3D/fast
+#EXTINF:0 CUID="916" tvg-chno="null" tvg-name="6TER" tvg-logo="https://logo.m3uassets.com/6ter.png" group-title="FR",6TER
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzE0L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTZ9/fast
+#EXTINF:0 CUID="917" tvg-chno="null" tvg-name="TFX" tvg-logo="https://logo.m3uassets.com/tfx.png" group-title="FR",TFX
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzE1L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTd9/fast
+#EXTINF:0 CUID="918" tvg-chno="null" tvg-name="M6 MUSIC" tvg-logo="https://logo.m3uassets.com/m6music.png" group-title="FR",M6 MUSIC
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzIwL2luZGV4Lm0zdTgiLCAiaWQiOiA5MTh9/fast
+#EXTINF:0 CUID="919" tvg-chno="null" tvg-name="W9" tvg-logo="https://logo.m3uassets.com/w9.png" group-title="FR",W9
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzMxL2luZGV4Lm0zdTgiLCAiaWQiOiA5MTl9/fast
+#EXTINF:0 CUID="920" tvg-chno="null" tvg-name="AB1" tvg-logo="https://logo.m3uassets.com/ab1.png" group-title="FR",AB1
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzMyL2luZGV4Lm0zdTgiLCAiaWQiOiA5MjB9/fast
+#EXTINF:0 CUID="921" tvg-chno="null" tvg-name="BET" tvg-logo="https://logo.m3uassets.com/bet.png" group-title="FR",BET
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzU5L2luZGV4Lm0zdTgiLCAiaWQiOiA5MjF9/fast
+#EXTINF:0 CUID="922" tvg-chno="null" tvg-name="TV5 MONDE" tvg-logo="https://logo.m3uassets.com/tv5monde.png" group-title="FR",TV5 MONDE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC8yMjUvaW5kZXgubTN1OCIsICJpZCI6IDkyMn0%3D/fast
+#EXTINF:0 CUID="923" tvg-chno="null" tvg-name="ARTE" tvg-logo="https://logo.m3uassets.com/arte.png" group-title="FR",ARTE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzAwL2luZGV4Lm0zdTgiLCAiaWQiOiA5MjN9/fast
+#EXTINF:0 CUID="924" tvg-chno="null" tvg-name="PARIS PREMIERE" tvg-logo="https://logo.m3uassets.com/parispremiere.png" group-title="FR",PARIS PREMIERE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzEyL2luZGV4Lm0zdTgiLCAiaWQiOiA5MjR9/fast
+#EXTINF:0 CUID="925" tvg-chno="null" tvg-name="CINE POLAR" tvg-logo="https://logo.m3uassets.com/cinepolar.png" group-title="FR",CINE POLAR
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC8zMTcvaW5kZXgubTN1OCIsICJpZCI6IDkyNX0%3D/fast
+#EXTINF:0 CUID="926" tvg-chno="null" tvg-name="13 EME RUE" tvg-logo="https://logo.m3uassets.com/13emerue.png" group-title="FR",13 EME RUE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC8zMTYvaW5kZXgubTN1OCIsICJpZCI6IDkyNn0%3D/fast
+#EXTINF:0 CUID="927" tvg-chno="null" tvg-name="CANAL+" group-title="FR",CANAL+
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvMzIyL2luZGV4Lm0zdTgiLCAiaWQiOiA5Mjd9/fast
+#EXTINF:0 CUID="928" tvg-chno="null" tvg-name="CANAL+ SPORT" tvg-logo="https://logo.m3uassets.com/canal+sport.png" group-title="FR",CANAL+ SPORT
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NDEvaW5kZXgubTN1OCIsICJpZCI6IDkyOH0%3D/fast
+#EXTINF:0 CUID="929" tvg-chno="null" tvg-name="CANAL+ PREMIER LEAGUE" tvg-logo="https://logo.m3uassets.com/canal+premierleague.png" group-title="FR",CANAL+ PREMIER LEAGUE
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NDIvaW5kZXgubTN1OCIsICJpZCI6IDkyOX0%3D/fast
+#EXTINF:0 CUID="930" tvg-chno="null" tvg-name="CANAL+ SPORT 2" tvg-logo="https://logo.m3uassets.com/canal+sport2.png" group-title="FR",CANAL+ SPORT 2
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NDQvaW5kZXgubTN1OCIsICJpZCI6IDkzMH0%3D/fast
+#EXTINF:0 CUID="931" tvg-chno="null" tvg-name="CANAL+ SPORT 3" tvg-logo="https://logo.m3uassets.com/canal+sport3.png" group-title="FR",CANAL+ SPORT 3
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NDUvaW5kZXgubTN1OCIsICJpZCI6IDkzMX0%3D/fast
+#EXTINF:0 CUID="932" tvg-chno="null" tvg-name="CANAL+ MOTOGP" tvg-logo="https://logo.m3uassets.com/canal+motogp.png" group-title="FR",CANAL+ MOTOGP
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC81NDcvaW5kZXgubTN1OCIsICJpZCI6IDkzMn0%3D/fast
+#EXTINF:0 CUID="933" tvg-chno="null" tvg-name="BEIN SPORTS 1" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="FR",BEIN SPORTS 1
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTU3L2luZGV4Lm0zdTgiLCAiaWQiOiA5MzN9/fast
+#EXTINF:0 CUID="934" tvg-chno="null" tvg-name="BEIN SPORTS 2" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="FR",BEIN SPORTS 2
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTU4L2luZGV4Lm0zdTgiLCAiaWQiOiA5MzR9/fast
+#EXTINF:0 CUID="935" tvg-chno="null" tvg-name="BEIN SPORTS 3" tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="FR",BEIN SPORTS 3
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTU5L2luZGV4Lm0zdTgiLCAiaWQiOiA5MzV9/fast
+#EXTINF:0 CUID="936" tvg-chno="null" tvg-name="CANAL+ SPORT 360" tvg-logo="https://logo.m3uassets.com/canal+sport360.png" group-title="FR",CANAL+ SPORT 360
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTYxL2luZGV4Lm0zdTgiLCAiaWQiOiA5MzZ9/fast
 #EXTINF:0 CUID="236" tvg-name=""Sr."" tvg-logo="https://image.tmdb.org/t/p/w780/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="NETFLIX","Sr."
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC90ZndRQn5iWEhrKytHYVRvbktLRHFWK3NWTXc0eHlxV2htK080RUdVUUVJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAyMzZ9/fast/#.mkv
 #EXTINF:0 CUID="474" tvg-name="6 Underground" tvg-logo="https://image.tmdb.org/t/p/w780/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="NETFLIX",6 Underground
