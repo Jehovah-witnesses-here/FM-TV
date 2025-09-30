@@ -16,7 +16,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NvcnMudHVu
 #EXTINF:0 CUID="291" tvg-chno="null" tvg-name="ANIMAL PLANET" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="USA",ANIMAL PLANET
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC8zMDAwMzUiLCAiaWQiOiAyOTF9/fast
 #EXTINF:0 CUID="10" tvg-chno="null" tvg-name="ASPIRE" tvg-id="I381.97409.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/aspiretv.png" group-title="USA",ASPIRE
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mbDcubW92ZW9uam95LmNvbS9Bc3BpcmUvaW5kZXgubTN1OCIsICJpZCI6IDEwfQ%3D%3D/fast
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mbDI1Lm1vdmVvbmpveS5jb20vQXNwaXJlL2luZGV4Lm0zdTgiLCAiaWQiOiAxMH0%3D/fast
 #EXTINF:0 CUID="27" tvg-chno="null" tvg-name="AXS TV" tvg-id="I340.28506.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/axstv.png" group-title="USA",AXS TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mbDcubW92ZW9uam95LmNvbS9BeHNfVFYvaW5kZXgubTN1OCIsICJpZCI6IDI3fQ%3D%3D/fast
 #EXTINF:0 CUID="26" tvg-chno="null" tvg-name="BBC AMERICA (EAST)" tvg-id="BBC.America.-.East.us" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="USA",BBC AMERICA (EAST)
@@ -605,14 +605,18 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4y
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNzA1L2luZGV4Lm0zdTgiLCAiaWQiOiA5MDl9/fast
 #EXTINF:0 CUID="910" tvg-chno="null" tvg-name="NICK JR." group-title="UK",NICK JR.
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNzA0L2luZGV4Lm0zdTgiLCAiaWQiOiA5MTB9/fast
+#EXTINF:0 CUID="937" tvg-chno="null" tvg-name="PREMIER SPORTS 2" group-title="UK",PREMIER SPORTS 2
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTQ5MDNjYTY5NWVkYjY0YmM3MmFlMjllYjg1YTUzMzNiYTAxMzk1MzcmcGlkPTQ3OSIsICJpZCI6IDkzN30%3D/fast
+#EXTINF:0 CUID="938" tvg-chno="null" tvg-name="PREMIER SPORTS 1" group-title="UK",PREMIER SPORTS 1
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTc1YTU2ODYzYjZmZTA0MDdhZDQzMDViNGQ3ZWU1NjQzYzM5MjM1NjUmcGlkPTQ4MCIsICJpZCI6IDkzOH0%3D/fast
 #EXTINF:0 CUID="399" tvg-chno="null" tvg-name="AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="AF",AMC
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWNobHMud25zLmxpdmUvaGxzL3N0cmVhbS5tM3U4IiwgImlkIjogMzk5fQ%3D%3D/fast
 #EXTINF:0 CUID="316" tvg-chno="null" tvg-name="Global TV" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="CA",Global TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzQxODMxODIwP3Byb2ZpbGU9cGFzcyIsICJpZCI6IDMxNn0%3D/fast
-#EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzc0MTE3NDEwNz9wcm9maWxlPXBhc3MiLCAiaWQiOiAzMTd9/fast
 #EXTINF:0 CUID="400" tvg-chno="null" tvg-name="BAHAR TV" group-title="AF",BAHAR TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81OWQzOTkwMGViZmI4LnN0cmVhbWxvY2submV0L2JhaGFydHYvYmFoYXJ0di9wbGF5bGlzdC5tM3U4IiwgImlkIjogNDAwfQ%3D%3D/fast
+#EXTINF:0 CUID="317" tvg-chno="null" tvg-name="CTV" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CA",CTV
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzc0MTE3NDEwNz9wcm9maWxlPXBhc3MiLCAiaWQiOiAzMTd9/fast
 #EXTINF:0 CUID="401" tvg-chno="null" tvg-name="Chekad TV" group-title="AF",Chekad TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9nbzVsbXF4anlhd2ItaGxzLWxpdmUuNWNlbnRzY2RuLmNvbS9DaGVrYWQvMjcxZGRmODI5YWZlZWNlNDRkODczMjc1N2ZiYTFhNjYuc2RwL2NodW5rcy5tM3U4IiwgImlkIjogNDAxfQ%3D%3D/fast
 #EXTINF:0 CUID="639" tvg-chno="null" tvg-name="CTV 2" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="CA",CTV 2
@@ -621,14 +625,14 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3VzZXIuc2Nh
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kdW55YW5obHMud25zLmxpdmUvaGxzL3N0cmVhbS5tM3U4IiwgImlkIjogNDAyfQ%3D%3D/fast
 #EXTINF:0 CUID="318" tvg-chno="null" tvg-name="Citytv" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="CA",Citytv
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzIwMDkyMDI0NTE/cHJvZmlsZT1wYXNzIiwgImlkIjogMzE4fQ%3D%3D/fast
-#EXTINF:0 CUID="555" tvg-chno="null" tvg-name="Sportsnet 360" tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20250924&channel_id=404765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qwl9vK69Lscmc07-zGKwhJKBcycFRk2_rV-5--v9oQ&s=10" group-title="CA",Sportsnet 360
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdqLm1leGFtby54eXovRzM2WUIyMUEvRktWVVFFNUwvMTc1Nzc3IiwgImlkIjogNTU1fQ%3D%3D/fast
 #EXTINF:0 CUID="403" tvg-chno="null" tvg-name="ESLAH TV" group-title="AF",ESLAH TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lc2xhaHR2aGxzLnducy5saXZlL2hscy9zdHJlYW0ubTN1OCIsICJpZCI6IDQwM30%3D/fast
-#EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLnJlbGVudGxlc3Npbm5vdmF0aW9ucy5uZXQ6MTkzNi9pbWFudHYvaW1hbnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA0MDR9/fast
+#EXTINF:0 CUID="555" tvg-chno="null" tvg-name="Sportsnet 360" tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20250924&channel_id=404765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qwl9vK69Lscmc07-zGKwhJKBcycFRk2_rV-5--v9oQ&s=10" group-title="CA",Sportsnet 360
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdqLm1leGFtby54eXovRzM2WUIyMUEvRktWVVFFNUwvMTc1Nzc3IiwgImlkIjogNTU1fQ%3D%3D/fast
 #EXTINF:0 CUID="556" tvg-chno="null" tvg-name="Fubo sports 1" tvg-id="Fubo.Sports.us" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="CA",Fubo sports 1
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3NocGNhZmdqLm1leGFtby54eXovRzM2WUIyMUEvRktWVVFFNUwvNDczMzg0IiwgImlkIjogNTU2fQ%3D%3D/fast
+#EXTINF:0 CUID="404" tvg-chno="null" tvg-name="IMAN TV" group-title="AF",IMAN TV
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLnJlbGVudGxlc3Npbm5vdmF0aW9ucy5uZXQ6MTkzNi9pbWFudHYvaW1hbnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA0MDR9/fast
 #EXTINF:0 CUID="405" tvg-chno="null" tvg-name="KAYHAN TV" group-title="AF",KAYHAN TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9wbGF5b3V0Mzk1LmxpdmVzdHJlYW1pbmdjZG4uY29tL2xpdmUvU3RyZWFtMS9wbGF5bGlzdC5tM3U4IiwgImlkIjogNDA1fQ%3D%3D/fast
 #EXTINF:0 CUID="613" tvg-chno="null" tvg-name="Sportsnet Ontario HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png" group-title="CA",Sportsnet Ontario HD
@@ -645,14 +649,14 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ydGF0di5h
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC82MDAwMDAzIiwgImlkIjogNzAwfQ%3D%3D/fast
 #EXTINF:0 CUID="408" tvg-chno="null" tvg-name="RTA NEWS" group-title="AF",RTA NEWS
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ydGF0di5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTL0xpdmUvY2hhbm5lbChSVEEyKS9pbmRleC5tM3U4IiwgImlkIjogNDA4fQ%3D%3D/fast
-#EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-id="I403.90122.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC82MDAwMDA0IiwgImlkIjogNzAxfQ%3D%3D/fast
 #EXTINF:0 CUID="409" tvg-chno="null" tvg-name="RTA SPORT" group-title="AF",RTA SPORT
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ydGF0di5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTL0xpdmUvY2hhbm5lbChSVEEzKS9pbmRleC5tM3U4IiwgImlkIjogNDA5fQ%3D%3D/fast
-#EXTINF:0 CUID="786" tvg-chno="null" tvg-name="TSN 5" tvg-id="TSN5.ca" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="CA",TSN 5
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzQxODMxODIwP3Byb2ZpbGU9cGFzcyIsICJpZCI6IDc4Nn0%3D/fast
+#EXTINF:0 CUID="701" tvg-chno="null" tvg-name="TSN 4" tvg-id="I403.90122.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tsn4.png" group-title="CA",TSN 4
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC82MDAwMDA0IiwgImlkIjogNzAxfQ%3D%3D/fast
 #EXTINF:0 CUID="410" tvg-chno="null" tvg-name="TAMADON TV" group-title="AF",TAMADON TV
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9obHMudGFtYWRvbi5saXZlL2hscy9zdHJlYW0ubTN1OCIsICJpZCI6IDQxMH0%3D/fast
+#EXTINF:0 CUID="786" tvg-chno="null" tvg-name="TSN 5" tvg-id="TSN5.ca" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="CA",TSN 5
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0My40OC4yMTI6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzQxODMxODIwP3Byb2ZpbGU9cGFzcyIsICJpZCI6IDc4Nn0%3D/fast
 #EXTINF:0 CUID="640" tvg-chno="null" tvg-name="USA Network" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="CA",USA Network
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90aGVhcmlhdHYuZ2l0aHViLmlvL2NoYW5uZWxkZWFkLm1wNCIsICJpZCI6IDY0MH0%3D/fast
 #EXTINF:0 CUID="346" tvg-chno="null" tvg-name="ABU DHABI ALOULA" tvg-logo="https://logo.m3uassets.com/abudhabitv.png" group-title="AE",ABU DHABI ALOULA
@@ -1497,6 +1501,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWV3bWVk
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93b3JsZC1wcm94aWZpZXIueHl6L2RhZGR5bGl2ZS9wL0ZDb2hVazFlU1JCRkdFaEVQU0JNRGhVRy9pbmRleC5tM3U4IiwgImlkIjogODg2fQ%3D%3D/fast
 #EXTINF:0 CUID="887" tvg-chno="null" tvg-name="FOX SPORTS PREMUIM" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png" group-title="MX",FOX SPORTS PREMUIM
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93b3JsZC1wcm94aWZpZXIueHl6L2RhZGR5bGl2ZS9wL0VTRXRSRjB0S1RVZ0lFRkZKMDlTVXpCYlJCMU5SQ0ExU1JFSE93PT0vaW5kZXgubTN1OCIsICJpZCI6IDg4N30%3D/fast
+#EXTINF:0 CUID="939" tvg-chno="null" tvg-name="LALIGA TV HYPERMOTION" group-title="ES",LALIGA TV HYPERMOTION
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTBmZTVhYjNmNWYxM2VmMjhiM2MzYWY1OTFlMDZhY2QyMjQ4NDIxZDMmcGlkPTU4OCIsICJpZCI6IDkzOX0%3D/fast
 #EXTINF:0 CUID="897" tvg-chno="null" tvg-name="TELE 50" tvg-logo="https://logo.m3uassets.com/tele50.png" group-title="CD",TELE 50
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM3LjE4Ny4xMzguNDE6ODAvODAvaW5kZXgubTN1OCIsICJpZCI6IDg5N30%3D/fast
 #EXTINF:0 CUID="898" tvg-chno="null" tvg-name="DIGITAL CONGO" group-title="CD",DIGITAL CONGO
@@ -1553,6 +1559,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzku
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTU5L2luZGV4Lm0zdTgiLCAiaWQiOiA5MzV9/fast
 #EXTINF:0 CUID="936" tvg-chno="null" tvg-name="CANAL+ SPORT 360" tvg-logo="https://logo.m3uassets.com/canal+sport360.png" group-title="FR",CANAL+ SPORT 360
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTYxL2luZGV4Lm0zdTgiLCAiaWQiOiA5MzZ9/fast
+#EXTINF:0 CUID="973" tvg-name="The Idea of You" tvg-logo="https://image.tmdb.org/t/p/w780/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg" group-title="TEST",The Idea of You
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly85ZGQuYXRsYXMtd2F2ZS5zaXRlL3A5bmUvYzQvYkp6TzlOWnowZDZrdmpzTm1NVWJNemhpb3VfdC1ScldvRnhJUjZPWlZlVnhFNEk4czBMYW5xcTVsNmRPQWVva3J6OEQ4Q2xPTS1ZME5mQzlyTExTNVl6RS9saXN0LFozci1hTTZwZUtFLWljNGxKa1BmbmxqcXM5UTBVUS5tM3U4LyMubWt2IiwgImlkIjogOTczfQ%3D%3D/fast
 #EXTINF:0 CUID="236" tvg-name=""Sr."" tvg-logo="https://image.tmdb.org/t/p/w780/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg" group-title="NETFLIX","Sr."
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC90ZndRQn5iWEhrKytHYVRvbktLRHFWK3NWTXc0eHlxV2htK080RUdVUUVJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAyMzZ9/fast/#.mkv
 #EXTINF:0 CUID="474" tvg-name="6 Underground" tvg-logo="https://image.tmdb.org/t/p/w780/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="NETFLIX",6 Underground
@@ -1615,6 +1623,10 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9oU0pybHNMQ1RPcktaVllqRzZwaWE2dCtUZ1Fkd2F6dCtRTnhsflhKdXlBPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MjV9/fast/#.mkv
 #EXTINF:0 CUID="948" tvg-name="White Noise" tvg-logo="https://image.tmdb.org/t/p/w780/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg" group-title="NETFLIX",White Noise
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9mNmZFQWdhZHBjZkpDZmNoM0xqdEpQN05CV001akJyaWFJaG1mS3g1M2NjPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NDh9/fast/#.mkv
+#EXTINF:0 CUID="977" tvg-name="The Wonderful Story of Henry Sugar and Three More" tvg-logo="https://image.tmdb.org/t/p/w780/8gBOtLTs0GNMEZnisAK132o5V67.jpg" group-title="NETFLIX",The Wonderful Story of Henry Sugar and Three More
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9kMHJXREhRTFNKbnM5U1JXUWZkYmVjM21mK3dNTzJqWFhWMlp2aVlnMlNNPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Nzd9/fast/#.mkv
+#EXTINF:0 CUID="984" tvg-name="Chicken Run: Dawn of the Nugget" group-title="NETFLIX",Chicken Run: Dawn of the Nugget
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9tRFU1akFFMkFrZ3poYzFlbkN3VU9zVjJNS1pSOHZxeDBhVlY5RGM4VFFjPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5ODR9/fast/#.mkv
 #EXTINF:0 CUID="237" tvg-name="(500) Days of Summer" tvg-logo="https://image.tmdb.org/t/p/w780/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg" group-title="Disney+",(500) Days of Summer
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9rZ3NsajgySysyVEp5OVFVVkpEUG5kbFFwT0hpYlo0RUw3dU5ZUEFFQUc4PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAyMzd9/fast/#.mkv
 #EXTINF:0 CUID="240" tvg-name="10 Things I Hate About You" tvg-logo="https://image.tmdb.org/t/p/w780/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg" group-title="Disney+",10 Things I Hate About You
@@ -2065,6 +2077,14 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9yMDV+OHpyV0Nzcnd4QWIwdTNKTGZjbGp0ekU2R3Jxdn5ofmFnR295QlJJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NDR9/fast/#.mkv
 #EXTINF:0 CUID="946" tvg-name="Lilo & Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg" group-title="Disney+",Lilo & Stitch (2025)
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiL192MV9ha216ZWQvRTFteGx1MG1veFBMMzZTQ2xITnIrckEyN343cCsycCtVQVhSamxORmJxYz0vYVc1a1pYZ3ViVE4xT0E9PS5tM3U4LyMubWt2IiwgImlkIjogOTQ2fQ%3D%3D/fast/#.mkv
+#EXTINF:0 CUID="959" tvg-name="Fright Night" tvg-logo="https://image.tmdb.org/t/p/w780/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg" group-title="Disney+",Fright Night
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9sRDFUcmkwZmtMK1dlYVdRUWJtejdWWnRWMmNUVUVoQWpocGFoZ0xiZTZ3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTl9/fast/#.mkv
+#EXTINF:0 CUID="975" tvg-name="Eddie the Eagle" tvg-logo="https://image.tmdb.org/t/p/w780/r562gvTRVHnDSvG7MrKHEECSn1V.jpg" group-title="Disney+",Eddie the Eagle
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC8wTG1hdGxySW0zRlNHb0lmYkdPSk9XN091flZ+V2o5KytYU1pDWn5+WUNzPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzV9/fast/#.mkv
+#EXTINF:0 CUID="976" tvg-name="The French Dispatch" tvg-logo="https://image.tmdb.org/t/p/w780/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg" group-title="Disney+",The French Dispatch
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC92Q1J5NHphc1VTbHFFSFVTdU9TV2tRTHBlamdlQXdsaThkdERsN2VoYkRBPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzZ9/fast/#.mkv
+#EXTINF:0 CUID="978" tvg-name="Isle of Dogs" tvg-logo="https://image.tmdb.org/t/p/w780/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg" group-title="Disney+",Isle of Dogs
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9OMWJrVlk3M3Q1WWEwbk1VeUpaSVRSUWpoZjBiTWZNeTR4bncxNW5GNXlJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Nzh9/fast/#.mkv
 #EXTINF:0 CUID="14" tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="PRIME VIDEO",Road House (2024)
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9DR0FOeEhYTXR1VEFIZnlpN0oydHRWcGQ3UnByNGxOSkh4cEErUjVGVWcwPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxNH0%3D/fast/#.mkv
 #EXTINF:0 CUID="41" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="PRIME VIDEO",Air (2023)
@@ -2161,6 +2181,10 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9HTWxYbDl6bVFIT0NFVUZZWkdxM0VXdDY4VEh6YU41bW9ZRm5YdXZmT29rPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MDZ9/fast/#.mkv
 #EXTINF:0 CUID="919" tvg-name="The Underdoggs" tvg-logo="https://image.tmdb.org/t/p/w780/haFB89tlAcex3WHuy3trtp1yhwt.jpg" group-title="PRIME VIDEO",The Underdoggs
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9sVk5IREdDbnJIUjZmN1dVM3oxQkVQVllyRGl4TEJFU2xhM2RLQ2s4dkEwPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MTl9/fast/#.mkv
+#EXTINF:0 CUID="962" tvg-name="The Graduate" tvg-logo="https://image.tmdb.org/t/p/w780/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg" group-title="PRIME VIDEO",The Graduate
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiL192MV9ha216ZWQvWm5uZlp4c21ZRHFRTitTeWpjQzk5UzNWbjhFTit5UlduYX45YkpUWHpnWT0vYVc1a1pYZ3ViVE4xT0E9PS5tM3U4LyMubWt2IiwgImlkIjogOTYyfQ%3D%3D/fast/#.mkv
+#EXTINF:0 CUID="980" tvg-name="Speechless" group-title="PRIME VIDEO",Speechless
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9udE1QU2RWemp4dW4rb3dCVytCUjhFNEIzS2NybVBSOEwyYk1TenN2U0xBPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5ODB9/fast/#.mkv
 #EXTINF:0 CUID="10" tvg-name="Weapons" tvg-logo="https://image.tmdb.org/t/p/w780/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg" group-title="HBO MAX",Weapons
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9qbFlIZzc1MW52NDFsSlJlRG0zZDJ0UktURVZXbjhoMjF6c0NTV0c0K3l3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxMH0%3D/fast/#.mkv
 #EXTINF:0 CUID="11" tvg-name="Final Destination Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w780/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="HBO MAX",Final Destination Bloodlines
@@ -2419,6 +2443,18 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9EZkVDOUdMNzhsVld4TFVGT3NuNVJjZWh0aEQxSmtZSjR3WUtRK0FkZEFBPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTN9/fast/#.mkv
 #EXTINF:0 CUID="954" tvg-name="Harry Potter and the Deathly Hallows: Part 2" tvg-logo="https://image.tmdb.org/t/p/w780/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="HBO MAX",Harry Potter and the Deathly Hallows: Part 2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9XT0liNmIraTVYT21hVWxuN0pvbFJydHpVV29rdkpZTGxZQVRITkNYS0tZPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTR9/fast/#.mkv
+#EXTINF:0 CUID="960" tvg-name="Bonnie and Clyde" tvg-logo="https://image.tmdb.org/t/p/w780/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg" group-title="HBO MAX",Bonnie and Clyde
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9RZmtFMWhpaHdQR0llZDVZd1dpNFhJQ01IYk5MeStzaFZYMFFGNGxGdH5RPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjB9/fast/#.mkv
+#EXTINF:0 CUID="961" tvg-name="Casablanca" tvg-logo="https://image.tmdb.org/t/p/w780/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg" group-title="HBO MAX",Casablanca
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9uVmJsUGxnZ0daQUw1cmlCQyt+fmloaG9VN3NrMHhyOGFwQVZGNWtDQUtFPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjF9/fast/#.mkv
+#EXTINF:0 CUID="964" tvg-name="Bullitt" tvg-logo="https://image.tmdb.org/t/p/w780/2ffzF1WmeXtH420fSUoCrecFvDA.jpg" group-title="HBO MAX",Bullitt
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9vWUZXQ1B4d05vZCtsdH5RU3NLR3BNc3YwbzNmblZrNUhGNElMREFxK2lRPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjR9/fast/#.mkv
+#EXTINF:0 CUID="971" tvg-name="Impractical Jokers: The Movie" tvg-logo="https://image.tmdb.org/t/p/w780/kTHzM6pPIjs4LHX33thyZpnKiOP.jpg" group-title="HBO MAX",Impractical Jokers: The Movie
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9YanBjVnVGTEM2V25yMnBKRTRVUThXNlkxQk5WREtUZVFGQTlxUXZySE0wPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzF9/fast/#.mkv
+#EXTINF:0 CUID="979" tvg-name="Superman II: The Richard Donner Cut" group-title="HBO MAX",Superman II: The Richard Donner Cut
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC91NlFGcDhXbEJOOTJtMzM4WFNBOExROWZwTlBWWlphSklzek9uQ2xvVUJjPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Nzl9/fast/#.mkv
+#EXTINF:0 CUID="981" tvg-name="The Flash" group-title="HBO MAX",The Flash
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9aWTVkcWJKNEJlSkVrUnRoNTdhSDUzTUw0bks4Z0Q5NnljYWo4RE15QjBJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5ODF9/fast/#.mkv
 #EXTINF:0 CUID="17" tvg-name="Drop" tvg-logo="https://image.tmdb.org/t/p/w780/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg" group-title="Peacock TV",Drop
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9PelRpQ0hsdGVkZHNzektNcFFyTmRKOFkxWU5qK0R1WXNkQ3A0bm5jb1p3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxN30%3D/fast/#.mkv
 #EXTINF:0 CUID="18" tvg-name="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/w780/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" group-title="Peacock TV",Speak No Evil
@@ -2727,6 +2763,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC91dEVEalFoWlAzRTdhckltc2NoODNPeHVBVzZOS3YrbWNWUVBPVFVoT2M0PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Mjd9/fast/#.mkv
 #EXTINF:0 CUID="931" tvg-name="Evan Almighty" tvg-logo="https://image.tmdb.org/t/p/w780/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg" group-title="Peacock TV",Evan Almighty
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9zM351clRiVll0MTV2OW9NMnNmcGV5bEdubnhwQnBaaXNuM2paOU03eE44PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MzF9/fast/#.mkv
+#EXTINF:0 CUID="974" tvg-name="Memory" tvg-logo="https://image.tmdb.org/t/p/w780/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg" group-title="Peacock TV",Memory
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9hV2FrZHIyWnNkRlp3UzAzdmlCYzVUc0N6S09tcCtpSENhWlBoZXMwSWw0PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzR9/fast/#.mkv
 #EXTINF:0 CUID="13" tvg-name="Smile 2" tvg-logo="https://image.tmdb.org/t/p/w780/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg" group-title="Paramount+",Smile 2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9mb2p5YlRBUEFhY0l2enB5cDlNRUFXY2REZkd3Wm9OU0dZWnBidUJMTkt3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxM30%3D/fast/#.mkv
 #EXTINF:0 CUID="20" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w780/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Paramount+",The Godfather
@@ -2929,6 +2967,18 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9icE9+cX5DQndQOEF6NWFZNGNycTl5b3RxaktFQTdwY1B0YjZMTW1BdHI4PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTJ9/fast/#.mkv
 #EXTINF:0 CUID="955" tvg-name="Rocketman" tvg-logo="https://image.tmdb.org/t/p/w780/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg" group-title="Paramount+",Rocketman
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9tdzRNVDI3bVUwWXpPWGRsYUlRakFVWUpZcndSRzVCVldObGJWc1FRMFhzPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTV9/fast/#.mkv
+#EXTINF:0 CUID="963" tvg-name="Don't Look Now" tvg-logo="https://image.tmdb.org/t/p/w780/mq3TW9GiF9MNlIEjnlL7D9X9tbx.jpg" group-title="Paramount+",Don't Look Now
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9LK1dCQnFoa1RqTmExZ3J5S35LeEU3bkJ4fjU5TFBnNEFTYWtBeGdjSkJnPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjN9/fast/#.mkv
+#EXTINF:0 CUID="965" tvg-name="Deep Impact" tvg-logo="https://image.tmdb.org/t/p/w780/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg" group-title="Paramount+",Deep Impact
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC83Wnc4V2xUMWMwZVFOdzVPNU0zYWRCellWflllZGFITmx6ODJQekN3ZlRFPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjV9/fast/#.mkv
+#EXTINF:0 CUID="966" tvg-name="Mission: Impossible II" tvg-logo="https://image.tmdb.org/t/p/w780/hfnrual76gPeNFduhD4xzHWpfTw.jpg" group-title="Paramount+",Mission: Impossible II
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC8zVzJybmV2WDRVczVUVEJLT0g2YTlUenpIR2pERjFKbEd5Y0MrYXE2Q2RnPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NjZ9/fast/#.mkv
+#EXTINF:0 CUID="967" tvg-name="Mission: Impossible - Rogue Nation" tvg-logo="https://image.tmdb.org/t/p/w780/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg" group-title="Paramount+",Mission: Impossible - Rogue Nation
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC8yY1lCSzRPYTZQTVA5V1hsUVh5fklHQWpIMkZDOU9QeUdIclRxam96RUI0PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Njd9/fast/#.mkv
+#EXTINF:0 CUID="968" tvg-name="Mission: Impossible" tvg-logo="https://image.tmdb.org/t/p/w780/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg" group-title="Paramount+",Mission: Impossible
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiL192MV9ha216ZWQvcytEVkJYRm5HVTdmK3VkV2hjU0h5V3dWWEc4aDBNV3RsdWl4bXdvR0Z2cz0vYVc1a1pYZ3ViVE4xT0E9PS5tM3U4LyMubWt2IiwgImlkIjogOTY4fQ%3D%3D/fast/#.mkv
+#EXTINF:0 CUID="970" tvg-name="Mission: Impossible - Fallout" tvg-logo="https://image.tmdb.org/t/p/w780/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="Paramount+",Mission: Impossible - Fallout
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC80dnc5WUxMcFhDcmkxcGZ4ejBzRXZHdUVxTWdTa1RxaG9BR3dXdkw0VE1NPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzB9/fast/#.mkv
 #EXTINF:0 CUID="62" tvg-name="The Garfield Movie" tvg-logo="https://image.tmdb.org/t/p/w780/xYduFGuch9OwbCOEUiamml18ZoB.jpg" group-title="SONY Pictures Core",The Garfield Movie
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9pQjd0WlJCWDhnVUFWZHZVTit4S0FEdkFMb051MGNZTHNOWWpHRVc4QXRJPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA2Mn0%3D/fast/#.mkv
 #EXTINF:0 CUID="64" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w780/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="SONY Pictures Core",Blade Runner 2049
@@ -3211,6 +3261,10 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9EODVXemU1RFV6dURKZzJlc0ZZeVZsUGxRfkZ4V1dMeGlJckJBbXY0VlN3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MzB9/fast/#.mkv
 #EXTINF:0 CUID="934" tvg-name="The Angriest Man in Brooklyn" tvg-logo="https://image.tmdb.org/t/p/w780/v0tiYRNhMYbefWlgWFmbhXiOwjr.jpg" group-title="STARZ",The Angriest Man in Brooklyn
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9rZlhybCt0YjhBSmFtU2FYbm5pU2luV2NpMzVyU2tHbEJ5WG5NYmlmdXR3PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5MzR9/fast/#.mkv
+#EXTINF:0 CUID="956" tvg-name="Wrong Turn" tvg-logo="https://image.tmdb.org/t/p/w780/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg" group-title="STARZ",Wrong Turn
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9GQjk1S2x6Z2xuTEVLWEJVUGg5bWtxZElZaVhvdHY0ZFg1UGJ+UG5aS1BnPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTZ9/fast/#.mkv
+#EXTINF:0 CUID="983" tvg-name="Early Man" group-title="STARZ",Early Man
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9rOEU4UGpLUUdwT35ma0IzREMwOHF5OFlwblFLT35qQkNHV0VNeWQ1eUdnPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5ODN9/fast/#.mkv
 #EXTINF:0 CUID="48" tvg-name="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w780/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="AMC+",Arcadian
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9Bbkd1MVdvUDJORjNZc2Z4VVh3eH5oT2RZSkRhbX5UcDBuN082flJRbVpBPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA0OH0%3D/fast/#.mkv
 #EXTINF:0 CUID="461" tvg-name="The D Train" tvg-logo="https://image.tmdb.org/t/p/w780/34sJQxmJT42jioSiabF5QobG0NC.jpg" group-title="AMC+",The D Train
@@ -3433,6 +3487,12 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9nb3kwNWlDOTVRfnBkT2VGbzVKMlRDRnAzbmNaRjA5RGN0ZFVHQUE1RXpjPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NDF9/fast/#.mkv
 #EXTINF:0 CUID="942" tvg-name="Sin City" tvg-logo="https://image.tmdb.org/t/p/w780/i66G50wATMmPrvpP95f0XP6ZdVS.jpg" group-title="Others",Sin City
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9Ya2NWRmtxb1FYMENvc3YyNUFiMmhDVlpnd1lRZ2I4bn5ZaTdyTFM4dElNPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NDJ9/fast/#.mkv
+#EXTINF:0 CUID="969" tvg-name="The Imitation Game" tvg-logo="https://image.tmdb.org/t/p/w780/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="Others",The Imitation Game
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC8zSXFrWUNMVUhFQmxVMEx2WDd3Z0RFWjZwRVFoNlJYbFQ3NTR3a2prUEpVPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5Njl9/fast/#.mkv
+#EXTINF:0 CUID="972" tvg-name="Immaculate" tvg-logo="https://image.tmdb.org/t/p/w780/zyopv7D5j7cfswG0NYiA14qAdPC.jpg" group-title="Others",Immaculate
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9TVXpzfmhuUlJuN0l1MFZ2Rm9JMUpvSG9XVFk5UUdROW5OM1NzTFBGa1FFPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NzJ9/fast/#.mkv
+#EXTINF:0 CUID="982" tvg-name="The Founder" group-title="Others",The Founder
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9XZEYzOU93eHZZM2xtZVFnOWdqa1NrdytRfktrbzZDVG9XR2JFOHVtc3JvPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5ODJ9/fast/#.mkv
 #EXTINF:0 CUID="117" tvg-name="A Dickens of a Holiday!" tvg-logo="https://image.tmdb.org/t/p/w780/rqm52nuyi19lxFEHz4DCVsCmA6v.jpg" group-title="Hallmark+",A Dickens of a Holiday!
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC82Znk3d3EwSE1TWEY2VzNVTEtYZ0EzTHRBMEVocWlRN2owWUtVQkw2Wm53PS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxMTd9/fast/#.mkv
 #EXTINF:0 CUID="133" tvg-name="True History of the Kelly Gang" tvg-logo="https://image.tmdb.org/t/p/w780/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg" group-title="Stan.",True History of the Kelly Gang
@@ -3461,6 +3521,10 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9PVmlsTFh2Qys5VW9Mc09qanBxVG80eHJTbFZrK1RoY3ZLbDVDMG5BVnVvPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA2Nzh9/fast/#.mkv
 #EXTINF:0 CUID="694" tvg-name="Goddess of Slide: The Forgotten Story of Ellen McIlwaine" tvg-logo="https://image.tmdb.org/t/p/w780/aFgXLstXjYzmoJA72AzObbNJbO1.jpg" group-title="CBC Gem",Goddess of Slide: The Forgotten Story of Ellen McIlwaine
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC8zaW5Bbm1qeEhTYTJQa3JQMGJJREhKQjVyYlU5UVBiZkpVWnU5WTQ0VFNnPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA2OTR9/fast/#.mkv
+#EXTINF:0 CUID="957" tvg-name="We Were Soldiers" tvg-logo="https://image.tmdb.org/t/p/w780/d5uupBAORxnFNbkNQ2G0Bi2cpY8.jpg" group-title="Icon Films",We Were Soldiers
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiL192MV9ha216ZWQvfmRNQlNiK21meVl4OEg4QlM4U2Q1YUZNSlE4SG5kV2h+ZDZEc2pDQW0waz0vYVc1a1pYZ3ViVE4xT0E9PS5tM3U4LyMubWt2IiwgImlkIjogOTU3fQ%3D%3D/fast
+#EXTINF:0 CUID="958" tvg-name="Apocalypto" tvg-logo="https://image.tmdb.org/t/p/w780/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg" group-title="Icon Films",Apocalypto
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9WaktJVHQydUlNQTRyRDQ0ZmVGT2hUQVh1OVhQR0hvOURKK3gyeXA0VWhzPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiA5NTh9/fast
 #EXTINF:0 CUID="1" tvg-name="Breaking Bad S01 E01 Pilot" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="SONY Pictures Core (Shows)",Breaking Bad S01 E01 Pilot
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ha216ZWQuY2xvdWQvX3YxX2FrbXplZC9rN2oyWlQzRjgwMWdEUkQ3VTN2NWpBfm9PVEZ+NTV6MkdON2hUcWxNN2NvPS9hVzVrWlhndWJUTjFPQT09Lm0zdTgvIy5ta3YiLCAiaWQiOiAxfQ%3D%3D/fast/#.mkv
 #EXTINF:0 CUID="2" tvg-name="Breaking Bad S01 E02 The Cat's in the Bag" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="SONY Pictures Core (Shows)",Breaking Bad S01 E02 The Cat's in the Bag
