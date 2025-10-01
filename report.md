@@ -1,113 +1,116 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-01 12:55:04 UTC  
-**⏱️ Duration:** 425.1 seconds  
+**📅 Generated on:** 2025-10-01 18:39:09 UTC  
+**⏱️ Duration:** 462.0 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 1776 streams (📡 609 Channels, 🎬 992 VODs, 🥊 55 PPV, 📺 120 FAST)
+- 📄 `channel playlist.m3u`: 1783 streams (📡 609 Channels, 🎬 999 VODs, 🥊 55 PPV, 📺 120 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 1776 | 100.0% |
-| **📡 Channels** | 609 | 34.3% |
-| **🎬 VODs** | 992 | 55.9% |
+| **📺 Total Streams Found** | 1783 | 100.0% |
+| **📡 Channels** | 609 | 34.2% |
+| **🎬 VODs** | 999 | 56.0% |
 | **🥊 PPV** | 55 | 3.1% |
-| **📺 FAST** | 120 | 6.8% |
-| **🔍 Checked Streams** | 609 | 34.3% |
-| **✅ Working Streams** | 123 | 20.2% |
-| **❌ Failed Streams** | 486 | 79.8% |
-| **⏭️ Skipped Streams** | 1167 | 65.7% |
+| **📺 FAST** | 120 | 6.7% |
+| **🔍 Checked Streams** | 609 | 34.2% |
+| **✅ Working Streams** | 172 | 28.2% |
+| **❌ Failed Streams** | 437 | 71.8% |
+| **⏭️ Skipped Streams** | 1174 | 65.8% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 123 | ❌ 486 | 609 | 20.2% |
+| 📡 **Channels** | ✅ 172 | ❌ 437 | 609 | 28.2% |
 
-## 🚨 Failure Analysis (486 total failures)
+## 🚨 Failure Analysis (437 total failures)
 
-### 🚫 Connection Refused (50 streams)
+### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| AXS TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BBC NEWS | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BEIN SPORTS | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BET (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BET GOSPEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BET HER (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BET JAMS | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BET SOUL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| BRAVO (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| CBS SPORTS NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FOOD NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FOX BUSINESS NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FOX NEWS CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FOX SOUL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FREE FORM | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FUSE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FYI | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| GET TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| GRIT TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| HALLMARK DRAMA | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| HALLMARK MOVIES & MYSTERY | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| HBO FAMILY | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| LOVE NATURE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MAGNOLIA NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MGM+ | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MGM+ MARQUEE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MOTOR TREND | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MTV 2 | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| MTV CLASSIC | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| NEWS NATION | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| NFL RED ZONE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| NICK JR. | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| NICKTOONS (EAST) | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| OUTDOOR CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| OUTSIDE TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| OVATION | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| OWN | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| STARZ ENCORE CLASSIC | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| SUNDANCE TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| TENNIS CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| THE WEATHER CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| TLC | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| TRAVEL CHANNEL | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| TV LAND | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| TV ONE | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| UP TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| USA NETWORK | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | WILLOW 2 | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| ANTENNA TV | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
-| FANDUEL SPORTS NETWORK ARIZONA | USA | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (10 streams)
+### 🔍 Not Found (404) (11 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | ESPN 2 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CHALLENGE | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| DAYSTAR | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| HGTV | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FS2 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| THE MOVIE CHANNEL | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| AL JAZEERA ENGLISH | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| BBC SCOTLAND | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | ITV 4 | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| QUEST | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| QUEST RED | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | REALLY | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | S4C | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY ARTS | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| U&DAVE | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| U&W | UK | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (317 streams)
+### 🔒 Access Denied (403) (368 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| NESN UHD | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | BLAZE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY ATLANTIC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ACTION | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA ANIMATION | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA FAMILY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA GREATS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA HITS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA PREMIERE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA SCI-FI HORROR | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA SELECT | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CINEMA THRILLER | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY COMEDY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY CRIME | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY MAX | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY NEWS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY REPLAY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SCI-FI | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SHOWCASE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS CRICKET | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS F1 UHD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS GOLF | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT UHD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS NFL | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS PREMIER LEAGUE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS RACING | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS TENNIS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS+ | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY WITNESS | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STV | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| STV+1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TALK | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TBN UK | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TINY POP | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TJC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TLC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 2 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 3 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 4 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS 5 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TNT SPORTS ULTIMATE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TOGETHER TV | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TRT WORLD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV WAREHOUSE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&ALIBI | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&DAVE | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&DRAMA | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&EDEN | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&GOLD | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| U&W | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | U&YESTERDAY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | MTV MUSIC | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | SKY CINEMA COMEDY | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -425,129 +428,77 @@
 | We Were Soldiers | Icon Films | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Apocalypto | Icon Films | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### 🌍 HTTP Errors (2 streams)
-*Other HTTP status errors*
+### ⏰ Connection Timeouts (12 streams)
+*Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| U&DRAMA | UK | 📡 Channel | HTTP 400 | 400 | channel playlist.m3u |
-| U&EDEN | UK | 📡 Channel | HTTP 400 | 400 | channel playlist.m3u |
+| BET SOUL | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| DISNEY CHANNEL (EAST) | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| ESPN | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SOUL | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| HALLMARK MOVIES & MYSTERY | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| HGTV | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SHOWTIME NEXT | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SHOWTIME WOMEN | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| START TV | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| STARZ ENCORE CLASSIC | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| TENNIS CHANNEL | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| TLC | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🚦 Rate Limited (107 streams)
+### 🚦 Rate Limited (45 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| CINEMAX HITS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CLEO TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CMT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC WORLD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| COMEDY CENTRAL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| COMET | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| COOKING CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| COURT TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| COZI TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| C•SPAN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DESTINATION AMERICA | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISCOVERY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISCOVERY FAMILY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISCOVERY LIFE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISCOVERY SCIENCE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISNEY CHANNEL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISNEY JR. | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HBO MOVIES | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HGTV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HLN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HSN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| IFC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| INSP | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| INVESTIGATION DISCOVERY (ID) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ION PLUS (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KOMUCW | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KOMUNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KQFXFOX | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KRCGCBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KSHBNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KSMOIND (CBS) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KTVOCBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KYOUDT4 (CW) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KYOUFOX | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KYOUNBC2 | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| LAFF | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| LIFETIME (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MTV CLASSIC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NATIONAL GEOGRAPHIC (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NATIONAL GEOGRAPHIC WILD (EAST | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBA TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBC BAY AREA | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NESN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NEWS NATION | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NEWSMAX TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NFL NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NFL RED ZONE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NHL NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NICK JR. | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NICKELODEON | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NICKTOONS (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| OUTDOOR CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| OUTSIDE TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| OVATION | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| OWN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | OXYGEN TRUE CRIME | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PARAMOUNT NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS KIDS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PURSUIT CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| RACER TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| REELZ | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| REVOLT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SEC NETWORK | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SHOWTIME | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SHOWTIME 2 | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SHOWTIME (WEST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SHOWTIME NEXT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SHOWTIME WOMEN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SMITHSONIAN CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SNY | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SPECTRUM SPORTSNET | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SPORTSMAN CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| START TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NESN UHD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| THE MOVIE CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| 5 USA | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| AL JAZEERA ENGLISH | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC ALBA | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC FOUR \| CBEEBIES | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC NEWS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC ONE LONDON | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC PARLIAMENT | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC SCOTLAND | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC THREE \| CBBC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MTV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MTV HITS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MUTV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NATIONAL GEOGRAPHIC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NATIONAL GEOGRAPHIC WILD | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NICK JR. | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NOW 70'S | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NOW 80'S | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NOW 90'S & 00'S | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NOW ROCK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| OIREACHTAS TV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| POP | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QUEST | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QUEST RED | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QUEST+1 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC BEAUTY | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS RACING | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS TENNIS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS+ | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY WITNESS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| STV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| STV+1 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TALK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TBN UK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TINY POP | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TJC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TLC | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS 1 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS 2 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS 3 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS 4 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS 5 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TNT SPORTS ULTIMATE | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TOGETHER TV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TRT WORLD | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TV WAREHOUSE | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CARTOON NETWORK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CHALLENGE | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CHANNEL 4 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CHANNEL 5 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC UK | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMEDY CENTRAL | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMEDY CENTRAL XTRA | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CRIME+INVESTIGATION | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DAYSTAR | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISCOVERY | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DMAX | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| E4 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| EURONEWS ENGLISH | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FILM4 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FRANCE 24 ENGLISH | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GB NEWS | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! MOVIES | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! ROMANCE | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HGTV | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HORSE & COUNTRY | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 1 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 2 | UK | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
-## ⏭️ Skipped Streams (1167 total)
+## ⏭️ Skipped Streams (1174 total)
 
 ### 🥊 PPV/Event Channels (55 skipped)
 *Enable "🥊 Check PPV" in workflow dispatch to test these*
@@ -569,7 +520,7 @@
 | UK FAST | 102 |
 | USA FAST | 12 |
 
-### 🎬 VOD Files (992 skipped)
+### 🎬 VOD Files (999 skipped)
 *Enable "🎬 Check VODs" in workflow dispatch to test these*
 
 | Group | Count |
@@ -582,14 +533,14 @@
 | DOCPLAY | 1 |
 | Disney+ | 229 |
 | FMTV+ | 3 |
-| HBO MAX | 135 |
+| HBO MAX | 139 |
 | Hallmark+ | 1 |
 | NETFLIX | 33 |
-| Others | 90 |
+| Others | 91 |
 | PBS | 2 |
 | PRIME VIDEO | 50 |
-| Paramount+ | 107 |
-| Peacock TV | 155 |
+| Paramount+ | 108 |
+| Peacock TV | 156 |
 | RTÈ PLAYER | 3 |
 | SONY Pictures Core | 98 |
 | SONY Pictures Core (Shows) | 12 |
@@ -616,5 +567,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-01 12:55:04 UTC*
+*📅 Last updated: 2025-10-01 18:39:09 UTC*
 *🤖 Report generated automatically by GitHub Actions*
