@@ -39,7 +39,7 @@ jobs:
           def wrap_m3u_urls(input_file, output_file):
               """
               Reads an unwrapped M3U file and transforms stream URLs into the proxy-wrapped format.
-              Enhanced with better parsing and error handling.
+              Enhanced with better parsing, error handling, and .mkv suffix preservation.
               """
               # Get the full M3U URL from environment variables
               m3u_url = os.environ.get('IPTV_M3U_URL')
@@ -131,6 +131,14 @@ jobs:
                                   i += 2
                                   continue
                               
+                              # Check if original URL ends with /#.mkv and preserve it
+                              original_has_mkv = url_line.endswith('/#.mkv')
+                              if original_has_mkv:
+                                  # Remove the suffix before encoding
+                                  url_to_encode = url_line[:-len('/#.mkv')]
+                              else:
+                                  url_to_encode = url_line
+                              
                               # Extract CUID and group-title
                               cuid_match = CUID_PATTERN.search(extinf_line)
                               group_match = GROUP_PATTERN.search(extinf_line)
@@ -145,14 +153,14 @@ jobs:
                               cuid = int(cuid_match.group(1))
                               
                               # Check if this channel belongs to a group that needs /#.mkv
-                              needs_mkv = False
+                              needs_mkv = original_has_mkv  # Preserve original .mkv suffix
                               if group_match:
                                   group_title = group_match.group(1)
-                                  needs_mkv = group_title in MKV_GROUPS
+                                  needs_mkv = needs_mkv or (group_title in MKV_GROUPS)
                               
                               # Build the JSON payload
                               try:
-                                  payload_data = {"url": url_line, "id": cuid}
+                                  payload_data = {"url": url_to_encode, "id": cuid}
                                   payload_str = json.dumps(payload_data, ensure_ascii=False)
                                   
                                   # Base64 Encode the payload
