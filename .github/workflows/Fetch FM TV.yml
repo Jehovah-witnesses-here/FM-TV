@@ -39,7 +39,7 @@ jobs:
           def wrap_m3u_urls(input_file, output_file):
               """
               Reads an unwrapped M3U file and transforms stream URLs into the proxy-wrapped format.
-              Enhanced with better parsing, error handling, and .mkv suffix preservation.
+              Enhanced with better parsing, error handling, and .mkv suffix preservation from original URLs.
               """
               # Get the full M3U URL from environment variables
               m3u_url = os.environ.get('IPTV_M3U_URL')
@@ -61,18 +61,8 @@ jobs:
               PREFIX = f"http://alt.xtream-ie.org/{username}/{password}/1"
               SUFFIX = "/fast"
 
-              # Groups that need /#.mkv added to URLs
-              MKV_GROUPS = {
-                  "NETFLIX", "Disney+", "PRIME VIDEO", "HBO MAX", "Peacock TV", 
-                  "Paramount+", "SONY Pictures Core", "STARZ", "AMC+", "BritBox", 
-                  "Apple TV+", "Others", "Hallmark+", "stan.", "FMTV+", "RTÈ PLAYER", 
-                  "Angel Studios", "PBS", "DOCPLAY", "CBC Gem", "Peacock TV (Shows)", 
-                  "SONY Pictures Core (Shows)", "Stan.", "Studiocanal Presents"
-              }
-
               # Regex to find values from the #EXTINF line
               CUID_PATTERN = re.compile(r'CUID=\"(\d+)\"')
-              GROUP_PATTERN = re.compile(r'group-title=\"([^\"]+)\"')
               
               print(f"Starting M3U transformation: {input_file} -> {output_file}")
 
@@ -139,9 +129,8 @@ jobs:
                               else:
                                   url_to_encode = url_line
                               
-                              # Extract CUID and group-title
+                              # Extract CUID
                               cuid_match = CUID_PATTERN.search(extinf_line)
-                              group_match = GROUP_PATTERN.search(extinf_line)
                               
                               if not cuid_match:
                                   print(f"Warning: No CUID found at line {i}, passing through unchanged")
@@ -151,12 +140,6 @@ jobs:
                                   continue
 
                               cuid = int(cuid_match.group(1))
-                              
-                              # Check if this channel belongs to a group that needs /#.mkv
-                              needs_mkv = original_has_mkv  # Preserve original .mkv suffix
-                              if group_match:
-                                  group_title = group_match.group(1)
-                                  needs_mkv = needs_mkv or (group_title in MKV_GROUPS)
                               
                               # Build the JSON payload
                               try:
@@ -171,7 +154,9 @@ jobs:
                                   
                                   # Construct the final wrapped URL
                                   wrapped_url = f'{PREFIX}{url_safe_payload}{SUFFIX}'
-                                  if needs_mkv:
+                                  
+                                  # Add /#.mkv only if the original URL had it
+                                  if original_has_mkv:
                                       wrapped_url += '/#.mkv'
                                   
                                   outfile.write(wrapped_url + '\n')
