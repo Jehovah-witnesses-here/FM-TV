@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+# This is an improved workflow for fetching and wrapping M3U files
 name: Fetch TV-FM Files
 
 on:
@@ -34,16 +34,18 @@ jobs:
           import json
           import urllib.parse
           import os
+          import traceback
 
           def wrap_m3u_urls(input_file, output_file):
               """
               Reads an unwrapped M3U file and transforms stream URLs into the proxy-wrapped format.
+              Enhanced with better parsing and error handling.
               """
               # Get the full M3U URL from environment variables
               m3u_url = os.environ.get('IPTV_M3U_URL')
               if not m3u_url:
                   print("Error: IPTV_M3U_URL not found in environment variables.")
-                  return
+                  return False
 
               # Parse the URL to extract username and password
               try:
@@ -51,9 +53,9 @@ jobs:
                   query_params = urllib.parse.parse_qs(parsed_url.query)
                   username = query_params['username'][0]
                   password = query_params['password'][0]
-              except (KeyError, IndexError):
-                  print("Error: Could not parse 'username' and 'password' from the IPTV_M3U_URL secret.")
-                  return
+              except (KeyError, IndexError) as e:
+                  print(f"Error: Could not parse 'username' and 'password' from IPTV_M3U_URL: {e}")
+                  return False
               
               # Construct the prefix dynamically using extracted credentials
               PREFIX = f"http://alt.xtream-ie.org/{username}/{password}/1"
@@ -75,33 +77,48 @@ jobs:
               print(f"Starting M3U transformation: {input_file} -> {output_file}")
 
               try:
-                  with open(input_file, 'r', encoding='utf-8') as infile, \
+                  with open(input_file, 'r', encoding='utf-8', errors='ignore') as infile, \
                        open(output_file, 'w', encoding='utf-8') as outfile:
                       
                       lines = infile.readlines()
                       
-                      # Check for M3U header and write it with the EPG URL
-                      if not lines or lines[0].strip() != "#EXTM3U":
-                          print("Error: Input file is missing the '#EXTM3U' header.")
-                          return
+                      # Check for M3U header and validate
+                      if not lines or not lines[0].strip().startswith("#EXTM3U"):
+                          print("Error: Input file is missing valid '#EXTM3U' header.")
+                          return False
 
+                      # Write header with the EPG URL
                       outfile.write('#EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"\n')
                       
                       i = 1 # Start processing from the second line
+                      processed_count = 0
+                      error_count = 0
+                      
                       while i < len(lines):
                           extinf_line = lines[i].strip()
                           
                           if extinf_line.startswith("#EXTINF"):
                               outfile.write(extinf_line + '\n')
                               
+                              # Safety check for next line
                               if i + 1 >= len(lines):
+                                  print(f"Warning: EXTINF at line {i} has no URL following")
                                   i += 1
                                   continue
 
                               url_line = lines[i+1].strip()
                               
+                              # Handle empty URL lines
                               if not url_line:
+                                  outfile.write('\n')
+                                  i += 2
+                                  continue
+                              
+                              # Validate URL format
+                              if not url_line.startswith('http'):
+                                  print(f"Warning: Invalid URL at line {i+1}: {url_line[:50]}")
                                   outfile.write(url_line + '\n')
+                                  error_count += 1
                                   i += 2
                                   continue
                               
@@ -110,7 +127,9 @@ jobs:
                               group_match = GROUP_PATTERN.search(extinf_line)
                               
                               if not cuid_match:
+                                  print(f"Warning: No CUID found at line {i}, passing through unchanged")
                                   outfile.write(url_line + '\n')
+                                  error_count += 1
                                   i += 2
                                   continue
 
@@ -123,37 +142,49 @@ jobs:
                                   needs_mkv = group_title in MKV_GROUPS
                               
                               # Build the JSON payload
-                              payload_data = {"url": url_line, "id": cuid}
-                              payload_str = json.dumps(payload_data)
-                              
-                              # Base64 Encode the payload
-                              encoded_payload = base64.b64encode(payload_str.encode('utf-8')).decode('utf-8')
-                              
-                              # URL-safe encode the result
-                              url_safe_payload = encoded_payload.replace('=', '%3D')
-                              
-                              # Construct the final wrapped URL
-                              if needs_mkv:
-                                  wrapped_url = f'{PREFIX}{url_safe_payload}{SUFFIX}/#.mkv'
-                              else:
+                              try:
+                                  payload_data = {"url": url_line, "id": cuid}
+                                  payload_str = json.dumps(payload_data, ensure_ascii=False)
+                                  
+                                  # Base64 Encode the payload
+                                  encoded_payload = base64.b64encode(payload_str.encode('utf-8')).decode('utf-8')
+                                  
+                                  # URL-safe encode the result
+                                  url_safe_payload = encoded_payload.replace('=', '%3D')
+                                  
+                                  # Construct the final wrapped URL
                                   wrapped_url = f'{PREFIX}{url_safe_payload}{SUFFIX}'
-                              
-                              outfile.write(wrapped_url + '\n')
+                                  if needs_mkv:
+                                      wrapped_url += '/#.mkv'
+                                  
+                                  outfile.write(wrapped_url + '\n')
+                                  processed_count += 1
+                                  
+                              except Exception as e:
+                                  print(f"Error encoding URL at line {i+1}: {e}")
+                                  outfile.write(url_line + '\n')
+                                  error_count += 1
                               
                               i += 2
                           else:
+                              # Pass through non-EXTINF lines (comments, etc.)
                               outfile.write(lines[i]) 
                               i += 1
-                          
-                  print("Transformation complete.")
+                      
+                      print(f"Transformation complete: {processed_count} URLs processed, {error_count} errors")
+                      return error_count == 0
 
               except FileNotFoundError:
                   print(f"Error: File {input_file} was not found.")
+                  return False
               except Exception as e:
                   print(f"An unexpected error occurred: {e}")
+                  traceback.print_exc()
+                  return False
 
           # Execute the transformation
-          wrap_m3u_urls('unwrapped.m3u', 'channel playlist.m3u')
+          success = wrap_m3u_urls('unwrapped.m3u', 'channel playlist.m3u')
+          exit(0 if success else 1)
           EOF
 
       - name: Add files to Git
