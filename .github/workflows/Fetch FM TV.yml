@@ -39,7 +39,8 @@ jobs:
           def wrap_m3u_urls(input_file, output_file):
               """
               Reads an unwrapped M3U file and transforms stream URLs into the proxy-wrapped format.
-              Enhanced with better parsing, error handling, and .mkv suffix preservation from original URLs.
+              Enhanced with better parsing and error handling.
+              URLs ending with /#.mkv are passed through unchanged.
               """
               # Get the full M3U URL from environment variables
               m3u_url = os.environ.get('IPTV_M3U_URL')
@@ -82,6 +83,7 @@ jobs:
                       
                       i = 1 # Start processing from the second line
                       processed_count = 0
+                      skipped_count = 0
                       error_count = 0
                       
                       while i < len(lines):
@@ -104,6 +106,14 @@ jobs:
                                   i += 2
                                   continue
                               
+                              # Check if URL ends with /#.mkv - if so, skip encoding and pass through
+                              if url_line.endswith('/#.mkv'):
+                                  print(f"Info: Skipping encoding for .mkv URL at line {i+1}")
+                                  outfile.write(url_line + '\n')
+                                  skipped_count += 1
+                                  i += 2
+                                  continue
+                              
                               # Check if URL is already wrapped (contains base64-like patterns or specific markers)
                               if url_line.startswith('/_v1_akmzed/') or not url_line.startswith('http'):
                                   # This appears to be an already-wrapped or malformed URL fragment
@@ -121,14 +131,6 @@ jobs:
                                   i += 2
                                   continue
                               
-                              # Check if original URL ends with /#.mkv and preserve it
-                              original_has_mkv = url_line.endswith('/#.mkv')
-                              if original_has_mkv:
-                                  # Remove the suffix before encoding
-                                  url_to_encode = url_line[:-len('/#.mkv')]
-                              else:
-                                  url_to_encode = url_line
-                              
                               # Extract CUID
                               cuid_match = CUID_PATTERN.search(extinf_line)
                               
@@ -143,7 +145,7 @@ jobs:
                               
                               # Build the JSON payload
                               try:
-                                  payload_data = {"url": url_to_encode, "id": cuid}
+                                  payload_data = {"url": url_line, "id": cuid}
                                   payload_str = json.dumps(payload_data, ensure_ascii=False)
                                   
                                   # Base64 Encode the payload
@@ -154,10 +156,6 @@ jobs:
                                   
                                   # Construct the final wrapped URL
                                   wrapped_url = f'{PREFIX}{url_safe_payload}{SUFFIX}'
-                                  
-                                  # Add /#.mkv only if the original URL had it
-                                  if original_has_mkv:
-                                      wrapped_url += '/#.mkv'
                                   
                                   outfile.write(wrapped_url + '\n')
                                   processed_count += 1
@@ -173,7 +171,7 @@ jobs:
                               outfile.write(lines[i]) 
                               i += 1
                       
-                      print(f"Transformation complete: {processed_count} URLs processed, {error_count} errors")
+                      print(f"Transformation complete: {processed_count} URLs encoded, {skipped_count} .mkv URLs skipped, {error_count} errors")
                       return error_count == 0
 
               except FileNotFoundError:
