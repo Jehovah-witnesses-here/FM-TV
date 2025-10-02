@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-02 12:48:04 UTC  
-**⏱️ Duration:** 316.0 seconds  
+**📅 Generated on:** 2025-10-02 18:35:44 UTC  
+**⏱️ Duration:** 291.1 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,19 +18,19 @@
 | **🥊 PPV** | 55 | 3.0% |
 | **📺 FAST** | 120 | 6.5% |
 | **🔍 Checked Streams** | 611 | 33.0% |
-| **✅ Working Streams** | 28 | 4.6% |
-| **❌ Failed Streams** | 583 | 95.4% |
+| **✅ Working Streams** | 35 | 5.7% |
+| **❌ Failed Streams** | 576 | 94.3% |
 | **⏭️ Skipped Streams** | 1239 | 67.0% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 28 | ❌ 583 | 611 | 4.6% |
+| 📡 **Channels** | ✅ 35 | ❌ 576 | 611 | 5.7% |
 
-## 🚨 Failure Analysis (583 total failures)
+## 🚨 Failure Analysis (576 total failures)
 
-### 🔍 Not Found (404) (8 streams)
+### 🔍 Not Found (404) (9 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
@@ -38,29 +38,18 @@
 | BET HER (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BRAVO (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CBS SPORTS NETWORK | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| DISNEY XD | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | ESPN | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | ESPNEWS | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FS1 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FS2 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| GAME SHOW NETWORK (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HALLMARK DRAMA | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (549 streams)
+### 🔒 Access Denied (403) (537 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| FUSE | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FX | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FXM | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FXX | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FYI | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GAME SHOW NETWORK (EAST) | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GET TV | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GOL TV | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GOLF CHANNEL | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GRIT TV | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| HALLMARK CHANNEL | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| HALLMARK DRAMA | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HALLMARK MOVIES & MYSTERY | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HBO | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HBO COMEDY | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -599,7 +588,7 @@
 | BALIKPAPAN TV | ID | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Suicide Squad - 4K TEST RU | 4K MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### 🌍 HTTP Errors (8 streams)
+### 🌍 HTTP Errors (9 streams)
 *Other HTTP status errors*
 
 | Channel | Group | Type | Error | Code | File |
@@ -607,13 +596,14 @@
 | ACC NETWORK | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ANIMAL PLANET | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | BET (EAST) | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
-| DISNEY JR. | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ESPN 2 | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ESPN U | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FOOD NETWORK | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FREE FORM | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+| FUSE | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+| FYI | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 
-### 🚦 Rate Limited (18 streams)
+### 🚦 Rate Limited (21 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -636,6 +626,9 @@
 | DISCOVERY LIFE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DISCOVERY SCIENCE | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DISNEY CHANNEL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISNEY JR. | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISNEY XD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| E! ENTERTAINMENT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (1239 total)
@@ -688,5 +681,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-02 12:48:04 UTC*
+*📅 Last updated: 2025-10-02 18:35:44 UTC*
 *🤖 Report generated automatically by GitHub Actions*
