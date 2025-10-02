@@ -1,60 +1,54 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-02 01:54:04 UTC  
-**⏱️ Duration:** 849.9 seconds  
+**📅 Generated on:** 2025-10-02 06:47:26 UTC  
+**⏱️ Duration:** 913.5 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 1815 streams (📡 1640 Channels, 🎬 0 VODs, 🥊 55 PPV, 📺 120 FAST)
+- 📄 `channel playlist.m3u`: 1861 streams (📡 1686 Channels, 🎬 0 VODs, 🥊 55 PPV, 📺 120 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 1815 | 100.0% |
-| **📡 Channels** | 1640 | 90.4% |
+| **📺 Total Streams Found** | 1861 | 100.0% |
+| **📡 Channels** | 1686 | 90.6% |
 | **🎬 VODs** | 0 | 0.0% |
 | **🥊 PPV** | 55 | 3.0% |
-| **📺 FAST** | 120 | 6.6% |
-| **🔍 Checked Streams** | 1640 | 90.4% |
-| **✅ Working Streams** | 32 | 2.0% |
-| **❌ Failed Streams** | 1608 | 98.0% |
-| **⏭️ Skipped Streams** | 175 | 9.6% |
+| **📺 FAST** | 120 | 6.4% |
+| **🔍 Checked Streams** | 1686 | 90.6% |
+| **✅ Working Streams** | 25 | 1.5% |
+| **❌ Failed Streams** | 1661 | 98.5% |
+| **⏭️ Skipped Streams** | 175 | 9.4% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 32 | ❌ 1608 | 1640 | 2.0% |
+| 📡 **Channels** | ✅ 25 | ❌ 1661 | 1686 | 1.5% |
 
-## 🚨 Failure Analysis (1608 total failures)
+## 🚨 Failure Analysis (1661 total failures)
 
-### 🔍 Not Found (404) (9 streams)
+### 🔍 Not Found (404) (8 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| ABC | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BET HER (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BRAVO (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CBS SPORTS NETWORK | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CMT | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CNBC | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DISCOVERY LIFE | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DISCOVERY SCIENCE | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DISNEY XD | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| ESPN | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| ESPNEWS | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (1590 streams)
+### 🔒 Access Denied (403) (1630 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| E! ENTERTAINMENT | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| ESPN | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| ESPN 2 | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| ESPN U | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| ESPNEWS | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOOD NETWORK | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX BUSINESS NETWORK | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX NEWS CHANNEL | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -64,7 +58,6 @@
 | FS2 | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FUSE | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FX | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FXM | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FXX | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FYI | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | GAME SHOW NETWORK (EAST) | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -630,6 +623,7 @@
 | 10 Things I Hate About You | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 10x10 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 12 Angry Men (1957) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| 12 Angry Men (1997) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 12 Strong | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 12 Years a Slave | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 12th Fail | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -659,6 +653,8 @@
 | 2012 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 2073 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | [REC] | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| [REC]³ Genesis | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Boy Called Christmas | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Boy. A Girl. A Dream | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Bronx Tale | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Bug's Life | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -674,6 +670,11 @@
 | A Million Ways to Die in the W | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Minecraft Movie | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Nightmare on Elm Street | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Nightmare on Elm Street 3: D | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Nightmare on Elm Street 4: T | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Nightmare on Elm Street (201 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Nightmare on Elm Street Part | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A Nightmare on Elm Street: The | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Real Pain | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Room with a View | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | A Sacrifice | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -712,7 +713,11 @@
 | Very Bad Day | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Very Bad Road Trip | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Alien | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Alien Resurrection | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Alien: Covenant | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Alien: Romulus | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Aliens | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Alien³ | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Alita: Battle Angel | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | All of Us Strangers | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | All the Way | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -724,15 +729,26 @@
 | Alvin and the Chipmunks: The S | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Ambulance | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | American Assassin | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Beauty | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | American Gangster | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | American History X | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Made | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | American Me | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Pie | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Pie 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | American Psycho | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Psycho II: All Americ | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Reunion | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| American Sniper | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Amsterdam | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Anchorman 2: The Legend Contin | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Anchorman: The Legend of Ron B | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Angel Has Fallen | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Angels & Demons | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Annabelle | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Annabelle Comes Home | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Annabelle: Creation | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Annie | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Annie (2014) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Annihilation | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Ant-Man | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -752,6 +768,8 @@
 | Atatürk 1881 - 1919 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Attack on Titan: THE LAST ATTA | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Austin Powers in Goldmember | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Austin Powers: International M | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Austin Powers: The Spy Who Sha | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Avatar | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Avatar: The Way of Water | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Avengers: Age of Ultron | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -764,9 +782,16 @@
 | Back to the Future Part II | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Back to the Future Part III | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Backdraft | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Backdraft 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bad Santa | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Bad Santa 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bandits | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Barbie | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Batman | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Batman & Robin | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Batman (1966) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Batman Forever | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Batman Returns | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Batman v Superman: Dawn of Jus | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bean | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Beethoven | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -778,6 +803,7 @@
 | Beverly Hills Cop: Axel F | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bicentennial Man | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Big Fish | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Big Momma's House | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Big Momma's House 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Like Son | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Birds of Prey (and the Fantabu | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -786,7 +812,11 @@
 | Black Panther | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Black Panther: Wakanda Forever | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Black Widow | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Blade | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Blade II | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Blade Runner | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Blade Runner 2049 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Blade: Trinity | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Blitz (2024) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Blue Beetle | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bo Burnham: Inside | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -797,6 +827,7 @@
 | Boyz n the Hood | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Breakaway Femmes | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Breaking Into Beautiful | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Bride of Chucky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bridge of Spies | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bridget Jones: Mad About the B | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bright | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -804,6 +835,8 @@
 | Broken Arrow | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Broken City | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Brothers | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Bugsy | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Bugsy Malone | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bullitt | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Bumblebee | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Butch Cassidy and the Sundance | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -850,7 +883,9 @@
 | Creed II | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Creed III | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Cruella | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Cult of Chucky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Go Wild | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Curse of Chucky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Daddy Day Camp | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Daddy's Home | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Daddy's Home 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -938,6 +973,9 @@
 | Ferdinand | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Ferrari | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Fight Club | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Final Destination 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Final Destination 3 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Final Destination 5 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Final Destination Bloodlines | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | First Man | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Fist Fight | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1101,6 +1139,7 @@
 | Kung Fu Panda 4 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Lady and the Tramp (2019) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Led Zeppelin: Celebration Day | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| LEGO: The Adventures of Clutch | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Lemony Snicket's A Series of U | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Les Misérables in Concert - Th | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Les Misérables: The Staged Con | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1114,6 +1153,7 @@
 | Little Fockers | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Live and Let Die | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Live Till I Die | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Living with Chucky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Stock and Two Smoking Barrels | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | London Has Fallen | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Lonesome | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1190,6 +1230,7 @@
 | Night School | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Nightmare Alley | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Non-Stop | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Norbit | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Nosferatu | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Novocaine | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Nutcrackers | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1271,6 +1312,7 @@
 | Scooby-Doo 2: Monsters Unleash | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Scream (2022) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Se7en | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Seed of Chucky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Selma | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Senior Year | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Senna | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1397,6 +1439,7 @@
 | The Fast and the Furious: Toky | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Fate of the Furious | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Favourite | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| The Final Destination | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Flash | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Flintstones | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Founder | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1612,10 +1655,6 @@
 | Zoolander No. 2 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zootopia\| Zootropolis | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | ¡Three Amigos! | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| 12 Angry Men (1997) | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| [REC]³ Genesis | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| A Boy Called Christmas | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| A Nightmare on Elm Street (201 | MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | The Suicide Squad - 4K TEST RU | 4K MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Breaking Bad S01 E01 Pilot | BREAKING BAD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Breaking Bad S01 E02 The Cat's | BREAKING BAD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -1646,9 +1685,9 @@
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| BUZZR | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FXM | USA | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🌍 HTTP Errors (8 streams)
+### 🌍 HTTP Errors (9 streams)
 *Other HTTP status errors*
 
 | Channel | Group | Type | Error | Code | File |
@@ -1656,11 +1695,31 @@
 | ACC NETWORK | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ANIMAL PLANET | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | BET (EAST) | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
-| C•SPAN | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | DISCOVERY | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | DISCOVERY FAMILY | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | DISNEY CHANNEL (EAST) | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | DISNEY JR. | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+| ESPN 2 | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+| ESPN U | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+
+### 🚦 Rate Limited (13 streams)
+*Too many requests*
+
+| Channel | Group | Type | Error | Code | File |
+|---------|-------|------|-------|------|---------|
+| CINEMAX HITS | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CLEO TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CMT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC WORLD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMEDY CENTRAL (EAST) | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMET | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COOKING CHANNEL | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COURT TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COZI TV | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| C•SPAN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DESTINATION AMERICA | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (175 total)
@@ -1704,5 +1763,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-02 01:54:04 UTC*
+*📅 Last updated: 2025-10-02 06:47:26 UTC*
 *🤖 Report generated automatically by GitHub Actions*
