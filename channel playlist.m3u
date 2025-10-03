@@ -7,7 +7,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWQzMTdhMDAzZTgwNDdkYTJjMzZhMmEyYmIyMjg5NTc4YzlhM2I3OWMmcGlkPTUzNyIsICJpZCI6IDc5Nn0%3D/fast
 #EXTINF:0 CUID="797" tvg-name="TNT SPORTS 1 • UK" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Sports",TNT SPORTS 1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVmYzYwY2ZlNWUzYTM0OWJhYTAyYmNjNDlmNjY0N2MyMWE5YzNjNWImcGlkPTEiLCAiaWQiOiA3OTd9/fast
-#EXTINF:0 CUID="798" tvg-name="HORSE & COUNTRY • AU" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Sports",HORSE & COUNTRY • AU
+#EXTINF:0 CUID="798" tvg-name="HORSE & COUNTRY • AU" tvg-logo="https://logo.m3uassets.com/horseandcountry.png" group-title="Sports",HORSE & COUNTRY • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9obmMtZnJlZS12aWV3bGlmdC5hbWFnaS50di9ITkNfQVVTVFJBTElBLm0zdTgiLCAiaWQiOiA3OTh9/fast
 #EXTINF:0 CUID="799" tvg-name="NBA TV • US" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="Sports",NBA TV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL05CQV9UVi9pbmRleC5tM3U4IiwgImlkIjogNzk5fQ%3D%3D/fast
@@ -71,52 +71,76 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4x
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1NFQ19ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mjh9/fast
 #EXTINF:0 CUID="829" tvg-name="Yes Network • US" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="Sports",Yes Network • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1lFU19ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mjl9/fast
-#EXTINF:0 CUID="1047" tvg-chno="null" tvg-name="ESPN • US" group-title="Sports",ESPN • US
+#EXTINF:0 CUID="1047" tvg-chno="null" tvg-name="ESPN • US" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="Sports",ESPN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS4xMjguMjcuMTI3Lzk5OTU4Lzk5OTU4LzkxOSIsICJpZCI6IDEwNDd9/fast
-#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" group-title="Sports",TNT Sports Ultimate • UK
+#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="Sports",TNT Sports Ultimate • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L3JzdFhJTnFoVGF2U3cwUlZ2Uy1ZQXRWRUdSUUs3Zi16X1dRSXRiSzE5dTQvdHMiLCAiaWQiOiAxMDQ4fQ%3D%3D/fast
-#EXTINF:0 CUID="1049" tvg-chno="null" tvg-name="TNT SPORTS 2 • UK" group-title="Sports",TNT SPORTS 2 • UK
+#EXTINF:0 CUID="1049" tvg-chno="null" tvg-name="TNT SPORTS 2 • UK" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="Sports",TNT SPORTS 2 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODQiLCAiaWQiOiAxMDQ5fQ%3D%3D/fast
-#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT Sports 3 • UK" group-title="Sports",TNT Sports 3 • UK
+#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT Sports 3 • UK" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="Sports",TNT Sports 3 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODgiLCAiaWQiOiAxMDUwfQ%3D%3D/fast
-#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT Sports 4 • UK" group-title="Sports",TNT Sports 4 • UK
+#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT Sports 4 • UK" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="Sports",TNT Sports 4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODkiLCAiaWQiOiAxMDUxfQ%3D%3D/fast
-#EXTINF:0 CUID="1052" tvg-chno="null" tvg-name="DAZN 2 • CH" group-title="Sports",DAZN 2 • CH
+#EXTINF:0 CUID="1052" tvg-chno="null" tvg-name="DAZN 2 • CH" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="Sports",DAZN 2 • CH
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE1OC41MS4xMjEuNjc6NjQwMTUvIiwgImlkIjogMTA1Mn0%3D/fast
-#EXTINF:0 CUID="1053" tvg-chno="null" tvg-name="FOX SPORTS 503 HD • AU" group-title="Sports",FOX SPORTS 503 HD • AU
+#EXTINF:0 CUID="1053" tvg-chno="null" tvg-name="FOX SPORTS 503 HD • AU" tvg-logo="https://logo.m3uassets.com/foxsports503.png" group-title="Sports",FOX SPORTS 503 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1NCIsICJpZCI6IDEwNTN9/fast
 #EXTINF:0 CUID="1054" tvg-chno="null" tvg-name="FOX SPORTS 504 HD • AU" group-title="Sports",FOX SPORTS 504 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1MyIsICJpZCI6IDEwNTR9/fast
-#EXTINF:0 CUID="1055" tvg-chno="null" tvg-name="FOX SPORTS 505 HD • AU" group-title="Sports",FOX SPORTS 505 HD • AU
+#EXTINF:0 CUID="1055" tvg-chno="null" tvg-name="FOX SPORTS 505 HD • AU" tvg-logo="https://logo.m3uassets.com/foxsports505.png" group-title="Sports",FOX SPORTS 505 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1MiIsICJpZCI6IDEwNTV9/fast
-#EXTINF:0 CUID="1056" tvg-chno="null" tvg-name="FOX SPORTS 506 HD • AU" group-title="Sports",FOX SPORTS 506 HD • AU
+#EXTINF:0 CUID="1056" tvg-chno="null" tvg-name="FOX SPORTS 506 HD • AU" tvg-logo="https://logo.m3uassets.com/foxsports506.png" group-title="Sports",FOX SPORTS 506 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1MSIsICJpZCI6IDEwNTZ9/fast
-#EXTINF:0 CUID="1057" tvg-chno="null" tvg-name="FOX SPORTS 507 HD • AU" group-title="Sports",FOX SPORTS 507 HD • AU
+#EXTINF:0 CUID="1057" tvg-chno="null" tvg-name="FOX SPORTS 507 HD • AU" tvg-logo="https://logo.m3uassets.com/foxsports507.png" group-title="Sports",FOX SPORTS 507 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1MCIsICJpZCI6IDEwNTd9/fast
 #EXTINF:0 CUID="1058" tvg-chno="null" tvg-name="FOX SPORTS 502 HD • AU" group-title="Sports",FOX SPORTS 502 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1NSIsICJpZCI6IDEwNTh9/fast
 #EXTINF:0 CUID="1059" tvg-chno="null" tvg-name="FOX SPORTS 501 HD • AU" group-title="Sports",FOX SPORTS 501 HD • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1NiIsICJpZCI6IDEwNTl9/fast
-#EXTINF:0 CUID="1060" tvg-chno="null" tvg-name="SKY SPORT 1 • NZ" group-title="Sports",SKY SPORT 1 • NZ
+#EXTINF:0 CUID="1060" tvg-chno="null" tvg-name="SKY SPORT 1 • NZ" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="Sports",SKY SPORT 1 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMjEiLCAiaWQiOiAxMDYwfQ%3D%3D/fast
-#EXTINF:0 CUID="1061" tvg-chno="null" tvg-name="SKY SPORT 2 • NZ" group-title="Sports",SKY SPORT 2 • NZ
+#EXTINF:0 CUID="1061" tvg-chno="null" tvg-name="SKY SPORT 2 • NZ" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="Sports",SKY SPORT 2 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMjAiLCAiaWQiOiAxMDYxfQ%3D%3D/fast
-#EXTINF:0 CUID="1062" tvg-chno="null" tvg-name="SKY SPORT 3 • NZ" group-title="Sports",SKY SPORT 3 • NZ
+#EXTINF:0 CUID="1062" tvg-chno="null" tvg-name="SKY SPORT 3 • NZ" tvg-logo="https://logo.m3uassets.com/skysport3.png" group-title="Sports",SKY SPORT 3 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTkiLCAiaWQiOiAxMDYyfQ%3D%3D/fast
-#EXTINF:0 CUID="1063" tvg-chno="null" tvg-name="SKY SPORT 4 • NZ" group-title="Sports",SKY SPORT 4 • NZ
+#EXTINF:0 CUID="1063" tvg-chno="null" tvg-name="SKY SPORT 4 • NZ" tvg-logo="https://logo.m3uassets.com/skysport4.png" group-title="Sports",SKY SPORT 4 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTgiLCAiaWQiOiAxMDYzfQ%3D%3D/fast
-#EXTINF:0 CUID="1064" tvg-chno="null" tvg-name="SKY SPORT 5 • NZ" group-title="Sports",SKY SPORT 5 • NZ
+#EXTINF:0 CUID="1064" tvg-chno="null" tvg-name="SKY SPORT 5 • NZ" tvg-logo="https://logo.m3uassets.com/skysport5.png" group-title="Sports",SKY SPORT 5 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTciLCAiaWQiOiAxMDY0fQ%3D%3D/fast
-#EXTINF:0 CUID="1065" tvg-chno="null" tvg-name="SKY SPORT 6 • NZ" group-title="Sports",SKY SPORT 6 • NZ
+#EXTINF:0 CUID="1065" tvg-chno="null" tvg-name="SKY SPORT 6 • NZ" tvg-logo="https://logo.m3uassets.com/skysport6.png" group-title="Sports",SKY SPORT 6 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTYiLCAiaWQiOiAxMDY1fQ%3D%3D/fast
-#EXTINF:0 CUID="1066" tvg-chno="null" tvg-name="SKY SPORT 7 • NZ" group-title="Sports",SKY SPORT 7 • NZ
+#EXTINF:0 CUID="1066" tvg-chno="null" tvg-name="SKY SPORT 7 • NZ" tvg-logo="https://logo.m3uassets.com/skysport7.png" group-title="Sports",SKY SPORT 7 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTUiLCAiaWQiOiAxMDY2fQ%3D%3D/fast
-#EXTINF:0 CUID="1067" tvg-chno="null" tvg-name="SKY SPORT PREMIER LEAGUE • NZ" group-title="Sports",SKY SPORT PREMIER LEAGUE • NZ
+#EXTINF:0 CUID="1067" tvg-chno="null" tvg-name="SKY SPORT PREMIER LEAGUE • NZ" tvg-logo="https://logo.m3uassets.com/skysportpremierleague.png" group-title="Sports",SKY SPORT PREMIER LEAGUE • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTQiLCAiaWQiOiAxMDY3fQ%3D%3D/fast
-#EXTINF:0 CUID="1068" tvg-chno="null" tvg-name="SKY SPORT 9 • NZ" group-title="Sports",SKY SPORT 9 • NZ
+#EXTINF:0 CUID="1068" tvg-chno="null" tvg-name="SKY SPORT 9 • NZ" tvg-logo="https://logo.m3uassets.com/skysport9.png" group-title="Sports",SKY SPORT 9 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTMiLCAiaWQiOiAxMDY4fQ%3D%3D/fast
-#EXTINF:0 CUID="1069" tvg-chno="null" tvg-name="SKY SPORT SELECT • NZ" group-title="Sports",SKY SPORT SELECT • NZ
+#EXTINF:0 CUID="1069" tvg-chno="null" tvg-name="SKY SPORT SELECT • NZ" tvg-logo="https://logo.m3uassets.com/skysportselect.png" group-title="Sports",SKY SPORT SELECT • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTIiLCAiaWQiOiAxMDY5fQ%3D%3D/fast
+#EXTINF:0 CUID="1070" tvg-chno="null" tvg-name="Sky Sports F1 • UK" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="Sports",Sky Sports F1 • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L2xDQUROdHUxd1JVbm1FcUZDNnJFV2ZOWm9yNE14N2tWWmFxTWtjUW5xZzAvdHMiLCAiaWQiOiAxMDcwfQ%3D%3D/fast
+#EXTINF:0 CUID="1071" tvg-chno="null" tvg-name="Sky Sports Golf • UK" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="Sports",Sky Sports Golf • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L09nb0tQQ0JwRkMyQXdZVWw0WUNVbmJmT3lpcGVsOVR1WnV1SlRzRXRaT1UvdHMiLCAiaWQiOiAxMDcxfQ%3D%3D/fast
+#EXTINF:0 CUID="1072" tvg-chno="null" tvg-name="Sky Sports Mix • UK" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="Sports",Sky Sports Mix • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzBSeU00dXVyalVYLVRMX2hMSkFlYWluYmFQMWx6aFh5WmlxX1NBM2gxNjgvdHMiLCAiaWQiOiAxMDcyfQ%3D%3D/fast
+#EXTINF:0 CUID="1073" tvg-chno="null" tvg-name="Sky Sports NFL • UK" tvg-logo="https://logo.m3uassets.com/skysportsnfl.png" group-title="Sports",Sky Sports NFL • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L0ZIanNjZTNfMG94SFRqYnZKeWRLTW5hVkNHckZvaVJQemFCbnhnX214OEkvdHMiLCAiaWQiOiAxMDczfQ%3D%3D/fast
+#EXTINF:0 CUID="1074" tvg-chno="null" tvg-name="Sky Sports Racing • UK" tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="Sports",Sky Sports Racing • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NvcmQtY3V0dGVyLm5ldDo4MDgwL2hxM3k0Ry8yMzQyNDcvNzY4NDIiLCAiaWQiOiAxMDc0fQ%3D%3D/fast
+#EXTINF:0 CUID="1075" tvg-chno="null" tvg-name="Sky Sports Tennis • UK" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="Sports",Sky Sports Tennis • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZCOVVncnpoV0VKeFctaC1NRHJQLXZKWjRFQ000Z2VLM3AwTm1LWmFGQmcvdHMiLCAiaWQiOiAxMDc1fQ%3D%3D/fast
+#EXTINF:0 CUID="1076" tvg-chno="null" tvg-name="Sky Sports News • UK" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="Sports",Sky Sports News • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZfb2g0Vnp4MUtCSy1EOWhBbklfaWZFV1ZhTGRuek1iWS1pOHhsMjBra0UvdHMiLCAiaWQiOiAxMDc2fQ%3D%3D/fast
+#EXTINF:0 CUID="1077" tvg-chno="null" tvg-name="ESPN 2 • US" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Sports",ESPN 2 • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS4xMjguMjcuMTI3Lzk5OTU4Lzk5OTU4LzkzMiIsICJpZCI6IDEwNzd9/fast
+#EXTINF:0 CUID="1078" tvg-chno="null" tvg-name="ESPNEWS • US" tvg-logo="https://logo.m3uassets.com/espnews.png" group-title="Sports",ESPNEWS • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS4xMjguMjcuMTI3Lzk5OTU4Lzk5OTU4LzkyMiIsICJpZCI6IDEwNzh9/fast
+#EXTINF:0 CUID="1079" tvg-chno="null" tvg-name="FOX SPORTS 1 (FS1) • US" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="Sports",FOX SPORTS 1 (FS1) • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS4xMjguMjcuMTI3Lzk5OTU4Lzk5OTU4LzkxNSIsICJpZCI6IDEwNzl9/fast
+#EXTINF:0 CUID="1080" tvg-chno="null" tvg-name="FOX SPORTS 2 (FS2) • US" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="Sports",FOX SPORTS 2 (FS2) • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS4xMjguMjcuMTI3Lzk5OTU4Lzk5OTU4LzkxNCIsICJpZCI6IDEwODB9/fast
+#EXTINF:0 CUID="1081" tvg-chno="null" tvg-name="SONY Sports 1 • IN" group-title="Sports",SONY Sports 1 • IN
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9taW5pLmFsbGlub25lcmVib3JuLm9ubGluZS9ldmVudHMvc3RyZWFtX3Byb3h5LnBocD91cmw9aHR0cHMlM0ElMkYlMkZkaXNobXQuc2xpdmNkbi5jb20lMkZobHMlMkZsaXZlJTJGMjAxMTc0NyUyRlRFTjFIRCUyRm1hc3Rlci5tM3U4JTNGaGRuZWElM0RleHAlM0QxNzU5NTU1MjA1fmFjbCUzRCUyRip+aWQlM0Q0ZDczZTRmMjk2Zjg0Mzg5OTU4MjZiN2NjMzZiZmNkOC0xNzU5NTExOTY4MTc2fmhtYWMlM0RiNzU4NjMwY2EzMjc0MDIzNDBiZjEwMmU2NmQyNGM3ZjRiNzE4NmZjY2U5ZGIwOGRlOTg4OTUyMDkxNmQ3YzE0IiwgImlkIjogMTA4MX0%3D/fast
 #EXTINF:0 CUID="830" tvg-name="GREAT! ROMANCE FAST • UK" group-title="Cinema",GREAT! ROMANCE FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MyLWxnLWdiLTE4MzIucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0Y2hyaXN0bWFzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMH0%3D/fast
 #EXTINF:0 CUID="831" tvg-name="GREAT! MOVIES FAST • UK" group-title="Cinema",GREAT! MOVIES FAST • UK
@@ -2661,51 +2685,5 @@ https://flashstream.cc/streamsvr/AJnl2TG194/0-5?e=dENZYVRHcGJTWmZ4N1RmOG9tT2JKQ2
 https://flashstream.cc/streamsvr/ivVhSzq5kR/0-3?e=UzNGNmk2UUFDdlVjKzdnQTRiaFpiVlI3R2tQTGZuQVBmY1NKalM4REs3Zz0O/#.mkv
 #EXTINF:0 CUID="1059" tvg-name="Caught Stealing" group-title="Movies (Server 1)",Caught Stealing
 https://flashstream.cc/streamsvr/G_sn_Cn2b4/0-0?e=dWgvWEdlWEdJNUJ3YVRKTmlnM3ZRRjZOTS9pK3dEaXp3d003QU1xM3hlTT0A/#.mkv
-#EXTINF:0 CUID="973" tvg-name="The Suicide Squad - 4K" tvg-logo="https://image.tmdb.org/t/p/w780/q61qEyssk2ku3okWICKArlAdhBn.jpg" group-title="Movies (Server 2)",The Suicide Squad - 4K
+#EXTINF:0 CUID="973" tvg-name="The Suicide Squad - Server 1" tvg-logo="https://image.tmdb.org/t/p/w780/q61qEyssk2ku3okWICKArlAdhBn.jpg" group-title="Movies (Server 2)",The Suicide Squad - Server 1
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kaXNjb3ZlcnNwZWVkLnNpdGUvdmlkZW8ubTN1OD9xPVNFRldaMmg2U1ZSS01rTTNabU5pYVZCR2R6bEJVVHBPY0hNeFZHWnZWRE5EWDFoMU1VdzRXSHAyUjJ3eFUzUlFXVVZqV1VsS1NWWkdWQzFzYm10cE9EWkxhM0pTWVhGS2JFUmFibkF4VDFocVkyMVFSMmgyZUZCM0xVUlNSRzUzV1ROd1lraDRUemhuU1VrMGR3IiwgImlkIjogOTczfQ%3D%3D/fast
-#EXTINF:0 CUID="1" tvg-name="Breaking Bad S01 E01 Pilot" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E01 Pilot
-https://akmzed.cloud/_v1_akmzed/k7j2ZT3F801gDRD7U3v5jA~oOTF~55z2GN7hTqlM7co=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="2" tvg-name="Breaking Bad S01 E02 The Cat's in the Bag" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E02 The Cat's in the Bag
-https://akmzed.cloud/_v1_akmzed/p1iaj0oWbgpc4Ll4lckfAcAOh7qApsnU1kANlhto4f0=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="3" tvg-name="Breaking Bad S01 E03 And the Bag's in the River" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E03 And the Bag's in the River
-https://akmzed.cloud/_v1_akmzed/JPQSgRwb~KVo0T~VvkbVcQC787VwAHqnWO++gh~5LWQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="4" tvg-name="Breaking Bad S01 E04 Cancer Man" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E04 Cancer Man
-https://akmzed.cloud/_v1_akmzed/oHmJMyWbwPq97Veur9dm5DMVwq9p10orsIONsF5S4Ds=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="5" tvg-name="Breaking Bad S01 E05 Gray Matter" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E05 Gray Matter
-https://akmzed.cloud/_v1_akmzed/q2a2XZFnqsrrg6HnGk2mPBjwVc3OJo~uZOpO+uYCdds=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="6" tvg-name="Breaking Bad S01 E06 Crazy Handful of Nothin'" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E06 Crazy Handful of Nothin'
-https://akmzed.cloud/_v1_akmzed/jzFIg0TeDloaxeBPehiTdNwyh+ORwOxiGUgAQ2zR32s=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="7" tvg-name="Breaking Bad S01 E07 A No-Rough-Stuff-Type Deal" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S01 E07 A No-Rough-Stuff-Type Deal
-https://akmzed.cloud/_v1_akmzed/lCJOf0STc1qY8Qhaalde8DJjaN8NjZ5OQJx1Yt8bjyo=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="8" tvg-name="Breaking Bad S02 E01 Seven Thirty-Seven" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E01 Seven Thirty-Seven
-https://akmzed.cloud/_v1_akmzed/O7wA3aliTK3JXWqoo1zJAHQXzZkaGqP8Y2~hJ7faDLM=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="9" tvg-name="Breaking Bad S02 E02 Grilled" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E02 Grilled
-https://akmzed.cloud/_v1_akmzed/RgWoYpbM17MA2ZKEqORe4JKFYNcKAC3AYEnG3YxtCAY=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="10" tvg-name="Breaking Bad S02 E03 Bit by a Dead Bee" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E03 Bit by a Dead Bee
-https://akmzed.cloud/_v1_akmzed/9Yr84jSjdjuVPR+77N6OO+XvdQOIwK6fydfVaU4oESk=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="11" tvg-name="Breaking Bad S02 E04 Down" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E04 Down
-https://akmzed.cloud/_v1_akmzed/YbnXSpxdfXX5636eBFt9iMvn2FcqhhgQBAvOMtSv4rQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="12" tvg-name="Breaking Bad S02 E05 Breakage" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E05 Breakage
-https://akmzed.cloud/_v1_akmzed/WDDT07RQIYvgHX06ZIBm0jkv6JOlKplxBEhUCuQHBzQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="16" tvg-name="Breaking Bad S02 E06 Peekaboo" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E06 Peekaboo
-https://akmzed.cloud/_v1_akmzed/m8Nww7BMk3x~c5zM~nlIbFXu29prXD+iFr7ZFXYsyno=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="17" tvg-name="Breaking Bad S02 E07 Negro y Azul" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E07 Negro y Azul
-https://akmzed.cloud/_v1_akmzed/Vf6WPMTf1xxdUw+khDsJbHBfVqvD+fyme~evkeni7UQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="18" tvg-name="Breaking Bad S02 E08 Better Call Saul" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E08 Better Call Saul
-https://akmzed.cloud/_v1_akmzed/vCPnYffofi71g9upiilQCa9YRwbyXc+6B5PE66f26NY=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="19" tvg-name="Breaking Bad S02 E09 4 Days Out" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E09 4 Days Out
-https://akmzed.cloud/_v1_akmzed/GCj~m0DelPK+e1vD0jiil0lpT~NaA~CrUZtLwyhUVXM=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="20" tvg-name="Breaking Bad S02 E10 Over" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E10 Over
-https://akmzed.cloud/_v1_akmzed/JXip09JybeOe3W~Toh8VpSR4pzYw83eyPZug3~PRLnQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="21" tvg-name="Breaking Bad S02 E11 Mandala" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E11 Mandala
-https://akmzed.cloud/_v1_akmzed/WelmqzuYBJDYxW0frQLPYlaqXoe9hLRlLQJz+~~uWxg=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="22" tvg-name="Breaking Bad S02 E12 Phoenix" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E12 Phoenix
-https://akmzed.cloud/_v1_akmzed/PxLCeKr6Bk7OIF6erPwrvshnb8S~S5MYasULaP6oH+I=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="23" tvg-name="Breaking Bad S02 E13 ABQ" tvg-logo="https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="BREAKING BAD",Breaking Bad S02 E13 ABQ
-https://akmzed.cloud/_v1_akmzed/fygA0t8WvqRvC44gvnCkdv+rMsF~17RgTKTXDm6M90Q=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="13" tvg-name="Alien: Earth S01 E01 Neverland" group-title="ALIEN: EARTH",Alien: Earth S01 E01 Neverland
-https://akmzed.cloud/_v1_akmzed/EcJlPVJqkxKZNorRSV4LkTBYr4xEHLGhk0oCr4WiXcY=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="14" tvg-name="Alien: Earth S01 E02 Mr. October" group-title="ALIEN: EARTH",Alien: Earth S01 E02 Mr. October
-https://akmzed.cloud/_v1_akmzed/DgwZXBmppYOMFzjgwWac7Thv0zWgcgxm99fWB1lxrNU=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="15" tvg-name="Alien: Earth S01 E03 Metamorphosis" group-title="ALIEN: EARTH",Alien: Earth S01 E03 Metamorphosis
-https://akmzed.cloud/_v1_akmzed/66qQ17rDwTynv4VC0Dledn30X7oEo6J4aquPQTi0GW8=/aW5kZXgubTN1OA==.m3u8/#.mkv
