@@ -1,36 +1,36 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-02 18:35:44 UTC  
-**⏱️ Duration:** 291.1 seconds  
+**📅 Generated on:** 2025-10-03 01:44:13 UTC  
+**⏱️ Duration:** 270.8 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 1850 streams (📡 611 Channels, 🎬 1064 VODs, 🥊 55 PPV, 📺 120 FAST)
+- 📄 `channel playlist.m3u`: 1861 streams (📡 619 Channels, 🎬 1067 VODs, 🥊 55 PPV, 📺 120 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 1850 | 100.0% |
-| **📡 Channels** | 611 | 33.0% |
-| **🎬 VODs** | 1064 | 57.5% |
+| **📺 Total Streams Found** | 1861 | 100.0% |
+| **📡 Channels** | 619 | 33.3% |
+| **🎬 VODs** | 1067 | 57.3% |
 | **🥊 PPV** | 55 | 3.0% |
-| **📺 FAST** | 120 | 6.5% |
-| **🔍 Checked Streams** | 611 | 33.0% |
-| **✅ Working Streams** | 35 | 5.7% |
-| **❌ Failed Streams** | 576 | 94.3% |
-| **⏭️ Skipped Streams** | 1239 | 67.0% |
+| **📺 FAST** | 120 | 6.4% |
+| **🔍 Checked Streams** | 619 | 33.3% |
+| **✅ Working Streams** | 38 | 6.1% |
+| **❌ Failed Streams** | 581 | 93.9% |
+| **⏭️ Skipped Streams** | 1242 | 66.7% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 35 | ❌ 576 | 611 | 5.7% |
+| 📡 **Channels** | ✅ 38 | ❌ 581 | 619 | 6.1% |
 
-## 🚨 Failure Analysis (576 total failures)
+## 🚨 Failure Analysis (581 total failures)
 
-### 🔍 Not Found (404) (9 streams)
+### 🔍 Not Found (404) (8 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
@@ -38,22 +38,17 @@
 | BET HER (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BRAVO (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CBS SPORTS NETWORK | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| ESPN | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | ESPNEWS | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FS1 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FS2 | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| GAME SHOW NETWORK (EAST) | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | HALLMARK DRAMA | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HBO FAMILY | USA | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (537 streams)
+### 🔒 Access Denied (403) (541 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| HALLMARK MOVIES & MYSTERY | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| HBO | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| HBO COMEDY | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| HBO FAMILY | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HBO HITS | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HBO MOVIES | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | HGTV | USA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -281,30 +276,30 @@
 | PREMIER SPORTS 2 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | PREMIER SPORTS 1 | UK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Global TV | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| AMC | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | CTV | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| BAHAR TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Chekad TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | CTV 2 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Citytv | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| DUNYA NAW TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| ESLAH TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Sportsnet 360 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| IMAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Fubo sports 1 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| KAYHAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Sportsnet Ontario HD | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | CBC | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| RTA | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TSN 2 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| RTA EDUCATION | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TSN 3 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| RTA NEWS | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| RTA SPORT | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TSN 4 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TSN 5 | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| TAMADON TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | USA Network | CA | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| AMC | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BAHAR TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Chekad TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| DUNYA NAW TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ESLAH TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| IMAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| KAYHAN TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA EDUCATION | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA NEWS | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| RTA SPORT | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TAMADON TV | AF | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | ABU DHABI ALOULA | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | ABU DHABI EMIRATES | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | ABU DHABI SPORTS 2 | AE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -586,7 +581,15 @@
 | CNBC INDONESIA | ID | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TVRI WORLD | ID | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | BALIKPAPAN TV | ID | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| The Suicide Squad - 4K TEST RU | 4K MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Geo News FHD | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| ARY NEWS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| HUM NEWS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| PTV SPORTS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TEN SPORTS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| GEO SUPER SPORTS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| A SPORTS | PK | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| The Suicide Squad - 4K | 4K MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Play Dirty - 4K | 4K MOVIES | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
 ### 🌍 HTTP Errors (9 streams)
 *Other HTTP status errors*
@@ -596,14 +599,14 @@
 | ACC NETWORK | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ANIMAL PLANET | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | BET (EAST) | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
-| ESPN 2 | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | ESPN U | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FOOD NETWORK | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FREE FORM | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FUSE | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 | FYI | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
+| HALLMARK MOVIES & MYSTERY | USA | 📡 Channel | HTTP 410 | 410 | channel playlist.m3u |
 
-### 🚦 Rate Limited (21 streams)
+### 🚦 Rate Limited (23 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -629,9 +632,11 @@
 | DISNEY JR. | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DISNEY XD | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | E! ENTERTAINMENT | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ESPN | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ESPN 2 | USA | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
-## ⏭️ Skipped Streams (1239 total)
+## ⏭️ Skipped Streams (1242 total)
 
 ### 🥊 PPV/Event Channels (55 skipped)
 *Enable "🥊 Check PPV" in workflow dispatch to test these*
@@ -653,14 +658,14 @@
 | UK FAST | 102 |
 | USA FAST | 12 |
 
-### 🎬 VOD Files (1064 skipped)
+### 🎬 VOD Files (1067 skipped)
 *Enable "🎬 Check VODs" in workflow dispatch to test these*
 
 | Group | Count |
 |-------|---------|
 | ALIEN: EARTH | 3 |
 | BREAKING BAD | 20 |
-| MOVIES | 1041 |
+| MOVIES | 1044 |
 
 
 ## ⚙️ Configuration Notes
@@ -681,5 +686,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-02 18:35:44 UTC*
+*📅 Last updated: 2025-10-03 01:44:13 UTC*
 *🤖 Report generated automatically by GitHub Actions*
