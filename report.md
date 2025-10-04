@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-04 12:45:45 UTC  
-**⏱️ Duration:** 367.6 seconds  
+**📅 Generated on:** 2025-10-04 18:34:03 UTC  
+**⏱️ Duration:** 362.1 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,41 +18,36 @@
 | **🥊 PPV** | 2 | 0.1% |
 | **📺 FAST** | 0 | 0.0% |
 | **🔍 Checked Streams** | 285 | 21.3% |
-| **✅ Working Streams** | 183 | 64.2% |
-| **❌ Failed Streams** | 102 | 35.8% |
+| **✅ Working Streams** | 179 | 62.8% |
+| **❌ Failed Streams** | 106 | 37.2% |
 | **⏭️ Skipped Streams** | 1050 | 78.7% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 183 | ❌ 102 | 285 | 64.2% |
+| 📡 **Channels** | ✅ 179 | ❌ 106 | 285 | 62.8% |
 
-## 🚨 Failure Analysis (102 total failures)
+## 🚨 Failure Analysis (106 total failures)
 
-### 🔍 Not Found (404) (8 streams)
+### 🔍 Not Found (404) (5 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| Sky Sports F1 • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| Sky Sports Golf • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| Sky Sports Mix • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| Sky Sports NFL • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| Sky Sports Tennis • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| TNT Sports Ultimate • UK | Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| National Geographic (Latin) •  | Documentary | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | Antiques Roadshow • UK | 24/7 | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | Sherlock • UK | 24/7 | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | Nickelodeon Pluto TV FAST • US | Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (5 streams)
+### 🔒 Access Denied (403) (3 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| FOX SPORTS 503 HD • AU | Sports | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | GREAT! christmas FAST • UK | Cinema | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| CNBC • ID | News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX NEWS CHANNEL • US | News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BLAZE • UK | Documentary | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV Warehouse • UK | Shopping | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
 ### 🖥️ Server Errors (1 streams)
@@ -62,22 +57,27 @@
 |---------|-------|------|-------|------|---------|
 | SONY Sports 1 • IN | Sports | 📡 Channel | Server error (502) | 502 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (5 streams)
+### ⏰ Connection Timeouts (6 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| SKY SPORTS CRICKET • UK | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY SPORTS+ • UK | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| TNT SPORTS 1 • UK | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Supersport Premier League • ZA | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORTS FOOTBALL • UK | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| FOX SPORTS 506 HD • AU | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| FOX SPORTS 501 HD • AU | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| USA Network (Latin) • US | Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 505 HD • AU | Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🚦 Rate Limited (83 streams)
+### 🚦 Rate Limited (91 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| STAR MOVIES SELECT HD • IN | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| STAR MOVIES HD • IN | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HBO HITS • US | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HBO FAMILY • US | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Sky Cinema Action • UK | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Sky Cinema Thriller • UK | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Sky Cinema Premiere • UK | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -90,15 +90,15 @@
 | My Time Movie Network FAST • U | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Popflix FAST • UK | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Rakuten TV Top Movies FAST • U | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Action Movies FAST  | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Comedy Movies FAST  | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Drama Movies FAST • | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Family Movies FAST  | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Romance Movies FAST | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rakuten TV Thrillers FAST • UK | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MovieSphere by Lionsgate FAST  | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Samuel Goldwyn Films • US | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Alfred Hitchcock Presents FAST | Cinema | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Cheddar News • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC • ID | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX BUSINESS NETWORK • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX NEWS CHANNEL • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX WEATHER • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| LiveNOW from FOX • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsmax 2 • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsmax TV • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsy • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Yahoo! Finance • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NBC NEWS NOW • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CBS NEWS 24/7 • US | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -110,29 +110,27 @@
 | CNN Headlines • UK | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DW • UK | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FRANCE 24 FAST • UK | News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Motor TV • FR | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BLAZE • UK | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| National Geographic • UK | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| WildEarth • UK | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Curiosity Now FAST • UK | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Red Bull TV • UK | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Court TV • US | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MOTORTREND • US | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| National Geographic (Latin) •  | Documentary | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Ice Road Truckers • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Mr. Bean Animated Series • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Ninja Warrior • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Pointless • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Top Gear • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Doctor Who Classic • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Masked Singer • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Midsomer Murders • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Murder She Wrote • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shaun the Sheep • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Walking Dead Universe • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| 8 out of 10 Cats • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Cash in the Attic • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Catfish • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 4 • UK | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Reality FAST • UK | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| AMC • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC AMERICA • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Comet • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBC Universo (West) • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| USA Network (Latin) • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CHARGE! • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| A WEALTH OF ENTERTAINMENT (AWE | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BET Pluto TV FAST • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BritBox Mystery FAST • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Samuel Goldwyn Classics FAST • | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Game Show Central • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Demand Drama FAST • UK | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FailArmy FAST • UK | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Bounce • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BUZZR • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Comedy Central • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| E! Entertainment • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FX • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FXX • US | Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Come Dine With Me • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Dennis and Gnasher • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Family Feud • US | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -140,18 +138,18 @@
 | Mr. Bean Live Action • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Poldark • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | River Monsters • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC • US | Shopping | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC 2 • US | Shopping | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| QVC 3 • US | Shopping | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MTV Hits • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Now 80's • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MTV Music • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TRACE • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Now 70's • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Now Rock • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| VEVO Hip-Hop and R&B FAST • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| VEVO Pop FAST • UK | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Now 90's 00's | Music | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Smurf TV • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sonic the Hedgehog • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Teletubbies • UK | 24/7 | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| POP • UK | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| tiny POP • UK | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nick Jr. • IN | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBeebies • Asia | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Disney Channel • IN | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Disney Jr. • IN | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Disney Jr. • JP | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Cartoon Network HD+ • IN | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| cula4 • IE | Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TBN • UK | Religious | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TBN • US | Religious | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TBN Inspire • US | Religious | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -161,6 +159,12 @@
 | iHeartRadio Alternative • US | Radio | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | GFN Soccer TV FAST • UK | Radio | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | KMIZABC (ABC) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KTVOABC (ABC) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KSMOIND (CBS) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KRCGCBS (CBS) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KTVOCBS (CBS) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KOMUCW (CW) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KYOUDT4 (CW) • US | Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (1050 total)
@@ -199,5 +203,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-04 12:45:45 UTC*
+*📅 Last updated: 2025-10-04 18:34:03 UTC*
 *🤖 Report generated automatically by GitHub Actions*
