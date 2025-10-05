@@ -1,271 +1,271 @@
 #EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"
 #EXTINF:0 CUID="991" tvg-name="Jio Events HD • IN" group-title="Events",Jio Events HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2ppb2V2ZW50c2hkL21hc3Rlci5tM3U4IiwgImlkIjogOTkxfQ%3D%3D/fast
+#EXTINF:0 CUID="911" tvg-name="BBC Earth • NO" tvg-id="USBD1700001RW" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="United Kingdom ",BBC Earth • NO
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LWZpcmV0di11cy00MDY3LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTExfQ%3D%3D/fast
 #EXTINF:0 CUID="814" tvg-chno="1" tvg-name="DFB Play TV FAST • UK" group-title="United Kingdom ",DFB Play TV FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNjAwMDExOFQiLCAiaWQiOiA4MTR9/fast
 #EXTINF:0 CUID="815" tvg-chno="2" tvg-name="FIFA+ FAST • UK" group-title="United Kingdom ",FIFA+ FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMDhZVyIsICJpZCI6IDgxNX0%3D/fast
-#EXTINF:0 CUID="1039" tvg-chno="3" tvg-name="GFN Soccer TV FAST • UK" group-title="United Kingdom ",GFN Soccer TV FAST • UK
+#EXTINF:0 CUID="1039" tvg-chno="3" tvg-name="GFN Soccer TV FAST • UK" tvg-id="GB2200002CC" group-title="United Kingdom ",GFN Soccer TV FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyMjAwMDAyQ0MiLCAiaWQiOiAxMDM5fQ%3D%3D/fast
 #EXTINF:0 CUID="803" tvg-chno="4" tvg-name="Mech+ • UK" group-title="United Kingdom ",Mech+ • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tZWNodHZsdGQtbWVjaHBsdXMtMS1nYi5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDgwM30%3D/fast
-#EXTINF:0 CUID="816" tvg-chno="5" tvg-name="MotorRacing FAST • UK" group-title="United Kingdom ",MotorRacing FAST • UK
+#EXTINF:0 CUID="816" tvg-chno="5" tvg-name="MotorRacing FAST • UK" tvg-id="FRBD4100013LN" group-title="United Kingdom ",MotorRacing FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTE1MDAwMDZINiIsICJpZCI6IDgxNn0%3D/fast
-#EXTINF:0 CUID="817" tvg-chno="6" tvg-name="RUGBYPASS TV FAST • UK" tvg-logo="https://logo.m3uassets.com/rugbypasstv.png" group-title="United Kingdom ",RUGBYPASS TV FAST • UK
+#EXTINF:0 CUID="817" tvg-chno="6" tvg-name="RUGBYPASS TV FAST • UK" tvg-id="US1000004YJ" tvg-logo="https://logo.m3uassets.com/rugbypasstv.png" group-title="United Kingdom ",RUGBYPASS TV FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMzAwMDAxNDQiLCAiaWQiOiA4MTd9/fast
-#EXTINF:0 CUID="818" tvg-name="Sky Sports Classics FAST • UK" group-title="United Kingdom ",Sky Sports Classics FAST • UK
+#EXTINF:0 CUID="818" tvg-name="Sky Sports Classics FAST • UK" tvg-id="GB2700012HS" group-title="United Kingdom ",Sky Sports Classics FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEySFMiLCAiaWQiOiA4MTh9/fast
-#EXTINF:0 CUID="795" tvg-name="SKY SPORTS CRICKET • UK" tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="United Kingdom ",SKY SPORTS CRICKET • UK
+#EXTINF:0 CUID="795" tvg-name="SKY SPORTS CRICKET • UK" tvg-id="I1079.51204.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="United Kingdom ",SKY SPORTS CRICKET • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTZkOTVlNGIwODkzZTE1NWNjNjc0Yjg0ZTA3NjMxNTBjNDQ1ZDNkZGQmcGlkPTUzNiIsICJpZCI6IDc5NX0%3D/fast
-#EXTINF:0 CUID="1070" tvg-chno="null" tvg-name="Sky Sports F1 • UK" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="United Kingdom ",Sky Sports F1 • UK
+#EXTINF:0 CUID="1070" tvg-chno="null" tvg-name="Sky Sports F1 • UK" tvg-id="I1081.87578.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="United Kingdom ",Sky Sports F1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L2xDQUROdHUxd1JVbm1FcUZDNnJFV2ZOWm9yNE14N2tWWmFxTWtjUW5xZzAvdHMiLCAiaWQiOiAxMDcwfQ%3D%3D/fast
-#EXTINF:0 CUID="821" tvg-name="SKY SPORTS FOOTBALL • UK" tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="United Kingdom ",SKY SPORTS FOOTBALL • UK
+#EXTINF:0 CUID="821" tvg-name="SKY SPORTS FOOTBALL • UK" tvg-id="I1085.104327.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="United Kingdom ",SKY SPORTS FOOTBALL • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPThkYmUyZDUxNWU5MTMxZmEzMTEzNTM1Mzc3MzZmOGM5NGJlOWIyNmQmcGlkPTY1NyIsICJpZCI6IDgyMX0%3D/fast
-#EXTINF:0 CUID="1071" tvg-chno="null" tvg-name="Sky Sports Golf • UK" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="United Kingdom ",Sky Sports Golf • UK
+#EXTINF:0 CUID="1071" tvg-chno="null" tvg-name="Sky Sports Golf • UK" tvg-id="I1088.87579.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="United Kingdom ",Sky Sports Golf • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L09nb0tQQ0JwRkMyQXdZVWw0WUNVbmJmT3lpcGVsOVR1WnV1SlRzRXRaT1UvdHMiLCAiaWQiOiAxMDcxfQ%3D%3D/fast
-#EXTINF:0 CUID="794" tvg-name="SKY SPORTS MAIN EVENT • UK" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="United Kingdom ",SKY SPORTS MAIN EVENT • UK
+#EXTINF:0 CUID="794" tvg-name="SKY SPORTS MAIN EVENT • UK" tvg-id="I1091.49609.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="United Kingdom ",SKY SPORTS MAIN EVENT • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVhYjdhZWVmMDIxOGNlOGIwNzUyZTU5NmU0NzkyYjY5ZWRhNGRmNWUmcGlkPTUzNSIsICJpZCI6IDc5NH0%3D/fast
-#EXTINF:0 CUID="1072" tvg-chno="null" tvg-name="Sky Sports Mix • UK" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="United Kingdom ",Sky Sports Mix • UK
+#EXTINF:0 CUID="1072" tvg-chno="null" tvg-name="Sky Sports Mix • UK" tvg-id="I1093.100265.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="United Kingdom ",Sky Sports Mix • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzBSeU00dXVyalVYLVRMX2hMSkFlYWluYmFQMWx6aFh5WmlxX1NBM2gxNjgvdHMiLCAiaWQiOiAxMDcyfQ%3D%3D/fast
-#EXTINF:0 CUID="1076" tvg-chno="null" tvg-name="Sky Sports News • UK" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="United Kingdom ",Sky Sports News • UK
+#EXTINF:0 CUID="1076" tvg-chno="null" tvg-name="Sky Sports News • UK" tvg-id="I1096.68347.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="United Kingdom ",Sky Sports News • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZfb2g0Vnp4MUtCSy1EOWhBbklfaWZFV1ZhTGRuek1iWS1pOHhsMjBra0UvdHMiLCAiaWQiOiAxMDc2fQ%3D%3D/fast
-#EXTINF:0 CUID="1073" tvg-chno="null" tvg-name="Sky Sports NFL • UK" tvg-logo="https://logo.m3uassets.com/skysportsnfl.png" group-title="United Kingdom ",Sky Sports NFL • UK
+#EXTINF:0 CUID="1073" tvg-chno="null" tvg-name="Sky Sports NFL • UK" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnfl.png" group-title="United Kingdom ",Sky Sports NFL • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L0ZIanNjZTNfMG94SFRqYnZKeWRLTW5hVkNHckZvaVJQemFCbnhnX214OEkvdHMiLCAiaWQiOiAxMDczfQ%3D%3D/fast
-#EXTINF:0 CUID="820" tvg-name="SKY SPORTS PREMIER LEAGUE • UK" tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="United Kingdom ",SKY SPORTS PREMIER LEAGUE • UK
+#EXTINF:0 CUID="820" tvg-name="SKY SPORTS PREMIER LEAGUE • UK" tvg-id="I1099.116645.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="United Kingdom ",SKY SPORTS PREMIER LEAGUE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVjNWVhYmUwMTQ0Y2NmZmZjMzM3ZTFkNjcwOGUyYWZiODFkMDYzOGUmcGlkPTY1NSIsICJpZCI6IDgyMH0%3D/fast
-#EXTINF:0 CUID="1074" tvg-chno="null" tvg-name="Sky Sports Racing • UK" tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="United Kingdom ",Sky Sports Racing • UK
+#EXTINF:0 CUID="1074" tvg-chno="null" tvg-name="Sky Sports Racing • UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="United Kingdom ",Sky Sports Racing • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NvcmQtY3V0dGVyLm5ldDo4MDgwL2hxM3k0Ry8yMzQyNDcvNzY4NDIiLCAiaWQiOiAxMDc0fQ%3D%3D/fast
-#EXTINF:0 CUID="819" tvg-name="Sky Sports Stories FAST • UK" group-title="United Kingdom ",Sky Sports Stories FAST • UK
+#EXTINF:0 CUID="819" tvg-name="Sky Sports Stories FAST • UK" tvg-id="GB2700013Y7" group-title="United Kingdom ",Sky Sports Stories FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEzWTciLCAiaWQiOiA4MTl9/fast
-#EXTINF:0 CUID="1075" tvg-chno="null" tvg-name="Sky Sports Tennis • UK" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="United Kingdom ",Sky Sports Tennis • UK
+#EXTINF:0 CUID="1075" tvg-chno="null" tvg-name="Sky Sports Tennis • UK" tvg-id="I1103.147889.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="United Kingdom ",Sky Sports Tennis • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZCOVVncnpoV0VKeFctaC1NRHJQLXZKWjRFQ000Z2VLM3AwTm1LWmFGQmcvdHMiLCAiaWQiOiAxMDc1fQ%3D%3D/fast
-#EXTINF:0 CUID="796" tvg-name="SKY SPORTS+ • UK" group-title="United Kingdom ",SKY SPORTS+ • UK
+#EXTINF:0 CUID="796" tvg-name="SKY SPORTS+ • UK" tvg-id="I1074.104322.schedulesdirect.org" group-title="United Kingdom ",SKY SPORTS+ • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWQzMTdhMDAzZTgwNDdkYTJjMzZhMmEyYmIyMjg5NTc4YzlhM2I3OWMmcGlkPTUzNyIsICJpZCI6IDc5Nn0%3D/fast
-#EXTINF:0 CUID="1035" tvg-name="talkSPORT • UK" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="United Kingdom ",talkSPORT • UK
+#EXTINF:0 CUID="1035" tvg-name="talkSPORT • UK" tvg-id="GB30003577" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="United Kingdom ",talkSPORT • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZjdhOGI0ZS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9URWN0WjJKZmRHRnNhMU5RVDFKVVgwaE1Vdy9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTAzNX0%3D/fast
-#EXTINF:0 CUID="804" tvg-name="Tennis Channel FAST • UK" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="United Kingdom ",Tennis Channel FAST • UK
+#EXTINF:0 CUID="804" tvg-name="Tennis Channel FAST • UK" tvg-id="ATBA2200008XN" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="United Kingdom ",Tennis Channel FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90ZW5uaXNjaGFubmVsaW50bC1yYWt1dGVuLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDR9/fast
 #EXTINF:0 CUID="805" tvg-name="Tennis+ FAST • UK" group-title="United Kingdom ",Tennis+ FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTkzNS1hbWcwMTkzNWMxLWFtZ3BsdDAxNjUucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDV9/fast
-#EXTINF:0 CUID="797" tvg-name="TNT SPORTS 1 • UK" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="United Kingdom ",TNT SPORTS 1 • UK
+#EXTINF:0 CUID="797" tvg-name="TNT SPORTS 1 • UK" tvg-id="I1241.82450.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="United Kingdom ",TNT SPORTS 1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVmYzYwY2ZlNWUzYTM0OWJhYTAyYmNjNDlmNjY0N2MyMWE5YzNjNWImcGlkPTEiLCAiaWQiOiA3OTd9/fast
-#EXTINF:0 CUID="1049" tvg-chno="null" tvg-name="TNT SPORTS 2 • UK" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="United Kingdom ",TNT SPORTS 2 • UK
+#EXTINF:0 CUID="1049" tvg-chno="null" tvg-name="TNT SPORTS 2 • UK" tvg-id="I1246.82451.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="United Kingdom ",TNT SPORTS 2 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODQiLCAiaWQiOiAxMDQ5fQ%3D%3D/fast
-#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT Sports 3 • UK" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="United Kingdom ",TNT Sports 3 • UK
+#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT Sports 3 • UK" tvg-id="I1248.95772.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="United Kingdom ",TNT Sports 3 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODgiLCAiaWQiOiAxMDUwfQ%3D%3D/fast
-#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT Sports 4 • UK" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="United Kingdom ",TNT Sports 4 • UK
+#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT Sports 4 • UK" tvg-id="I1250.64572.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="United Kingdom ",TNT Sports 4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODkiLCAiaWQiOiAxMDUxfQ%3D%3D/fast
-#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="United Kingdom ",TNT Sports Ultimate • UK
+#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="United Kingdom ",TNT Sports Ultimate • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L3JzdFhJTnFoVGF2U3cwUlZ2Uy1ZQXRWRUdSUUs3Zi16X1dRSXRiSzE5dTQvdHMiLCAiaWQiOiAxMDQ4fQ%3D%3D/fast
 #EXTINF:0 CUID="913" tvg-name="5 Cops FAST • UK" tvg-logo="https://logo.m3uassets.com/5cops.png" group-title="United Kingdom ",5 Cops FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDBBIiwgImlkIjogOTEzfQ%3D%3D/fast
-#EXTINF:0 CUID="914" tvg-name="5 Exploring Britain FAST • UK" tvg-logo="https://logo.m3uassets.com/5buildingbritain.png" group-title="United Kingdom ",5 Exploring Britain FAST • UK
+#EXTINF:0 CUID="914" tvg-name="5 Exploring Britain FAST • UK" tvg-id="GBAK3504501A" tvg-logo="https://logo.m3uassets.com/5buildingbritain.png" group-title="United Kingdom ",5 Exploring Britain FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDFBIiwgImlkIjogOTE0fQ%3D%3D/fast
 #EXTINF:0 CUID="920" tvg-name="5 • UK" group-title="United Kingdom ",5 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9jaGFubmVsNS9icm93c2VyLUhMUzgvY2hhbm5lbDUubTN1OCIsICJpZCI6IDkyMH0%3D/fast
-#EXTINF:0 CUID="978" tvg-name="8 out of 10 Cats • UK" group-title="United Kingdom ",8 out of 10 Cats • UK
+#EXTINF:0 CUID="978" tvg-name="8 out of 10 Cats • UK" tvg-id="GB1800002FA" group-title="United Kingdom ",8 out of 10 Cats • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxODAwMDAyRkEiLCAiaWQiOiA5Nzh9/fast
-#EXTINF:0 CUID="956" tvg-name="Antiques Roadshow • UK" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="United Kingdom ",Antiques Roadshow • UK
+#EXTINF:0 CUID="956" tvg-name="Antiques Roadshow • UK" tvg-id="USBC600018CF" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="United Kingdom ",Antiques Roadshow • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81Y2U0NDgxMGI0MjE3NDdhZTQ2N2I3Y2QvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1MiLCAiaWQiOiA5NTZ9/fast
-#EXTINF:0 CUID="918" tvg-name="BBC TWO • UK" tvg-logo="https://logo.m3uassets.com/bbctwo.png" group-title="United Kingdom ",BBC TWO • UK
+#EXTINF:0 CUID="918" tvg-name="BBC TWO • UK" tvg-id="50059" tvg-logo="https://logo.m3uassets.com/bbctwo.png" group-title="United Kingdom ",BBC TWO • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9iYmMyL2Jyb3dzZXItSExTOC9iYmMyLm0zdTgiLCAiaWQiOiA5MTh9/fast
-#EXTINF:0 CUID="901" tvg-name="BLAZE • UK" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="United Kingdom ",BLAZE • UK
+#EXTINF:0 CUID="901" tvg-name="BLAZE • UK" tvg-id="I279.101972.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/blaze.png" group-title="United Kingdom ",BLAZE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLWJsYXplLXNzYWkuc2ltcGxlc3RyZWFtY2RuLmNvbS92MS9tYXN0ZXIvNzc0ZDk3OWRkNjY3MDRhYmVhN2M1YjYyY2IzNGM2ODE1ZmRhMGQzNS9ibGF6ZS1saXZlLWJyb2FkY2FzdC1zY3RlL2luZGV4Lm0zdTgiLCAiaWQiOiA5MDF9/fast
-#EXTINF:0 CUID="979" tvg-name="Cash in the Attic • UK" group-title="United Kingdom ",Cash in the Attic • UK
+#EXTINF:0 CUID="979" tvg-name="Cash in the Attic • UK" tvg-id="GB1200004J4" group-title="United Kingdom ",Cash in the Attic • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA0SjQiLCAiaWQiOiA5Nzl9/fast
-#EXTINF:0 CUID="980" tvg-name="Catfish • UK" tvg-logo="https://logo.m3uassets.com/catfishtvshow.png" group-title="United Kingdom ",Catfish • UK
+#EXTINF:0 CUID="980" tvg-name="Catfish • UK" tvg-id="GBBA330003941" tvg-logo="https://logo.m3uassets.com/catfishtvshow.png" group-title="United Kingdom ",Catfish • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTMzMDAwMzk0MSIsICJpZCI6IDk4MH0%3D/fast
-#EXTINF:0 CUID="917" tvg-name="CHANNEL 4 • UK" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="United Kingdom ",CHANNEL 4 • UK
+#EXTINF:0 CUID="917" tvg-name="CHANNEL 4 • UK" tvg-id="I1021.50716.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="United Kingdom ",CHANNEL 4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9jaGFubmVsNC9icm93c2VyLUhMUzgvY2hhbm5lbDQubTN1OCIsICJpZCI6IDkxN30%3D/fast
-#EXTINF:0 CUID="981" tvg-name="Come Dine With Me • UK" group-title="United Kingdom ",Come Dine With Me • UK
+#EXTINF:0 CUID="981" tvg-name="Come Dine With Me • UK" tvg-id="GBBC9000062G" group-title="United Kingdom ",Come Dine With Me • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzkwMDAwNjJHIiwgImlkIjogOTgxfQ%3D%3D/fast
-#EXTINF:0 CUID="904" tvg-name="Curiosity Now FAST • UK" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="United Kingdom ",Curiosity Now FAST • UK
+#EXTINF:0 CUID="904" tvg-name="Curiosity Now FAST • UK" tvg-id="ATBA3300008ZT" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="United Kingdom ",Curiosity Now FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE3MC1jdXJpb3NpdHlzdHJlYW0tYW1nMDAxNzBjMy1yYWt1dGVuLXVzLTIyODkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwMTcwLWN1cmlvc2l0eXN0cmVhbWxsY2Zhc3QtY3VyaW9zaXR5bm93cm93LXJha3V0ZW51cy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA0fQ%3D%3D/fast
-#EXTINF:0 CUID="943" tvg-name="Demand Drama FAST • UK" group-title="United Kingdom ",Demand Drama FAST • UK
+#EXTINF:0 CUID="943" tvg-name="Demand Drama FAST • UK" tvg-id="GB900005KI" group-title="United Kingdom ",Demand Drama FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I5MDAwMDVLSSIsICJpZCI6IDk0M30%3D/fast
-#EXTINF:0 CUID="961" tvg-name="Eggheads • UK" group-title="United Kingdom ",Eggheads • UK
+#EXTINF:0 CUID="961" tvg-name="Eggheads • UK" tvg-id="GBBD3200002CG" group-title="United Kingdom ",Eggheads • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMjgtcmFrdXRlbi11ay01MzAyLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYxfQ%3D%3D/fast
-#EXTINF:0 CUID="962" tvg-name="Escape to the Country • UK" group-title="United Kingdom ",Escape to the Country • UK
+#EXTINF:0 CUID="962" tvg-name="Escape to the Country • UK" tvg-id="GB500006EX" group-title="United Kingdom ",Escape to the Country • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE0NS1hbWcwMDE0NWMxMS1yYWt1dGVuLXVrLTU0NTAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NjJ9/fast
 #EXTINF:0 CUID="944" tvg-name="FailArmy FAST • UK" tvg-logo="https://logo.m3uassets.com/failarmy.png" group-title="United Kingdom ",FailArmy FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSjQwMDAzNjQyIiwgImlkIjogOTQ0fQ%3D%3D/fast
-#EXTINF:0 CUID="1012" tvg-name="HobbyMaker • UK" tvg-logo="https://logo.m3uassets.com/hobbymaker.png" group-title="United Kingdom ",HobbyMaker • UK
+#EXTINF:0 CUID="1012" tvg-name="HobbyMaker • UK" tvg-id="HobbyMaker.uk" tvg-logo="https://logo.m3uassets.com/hobbymaker.png" group-title="United Kingdom ",HobbyMaker • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9sbzMuZ2VtcG9yaWEuY29tL2FicmhvYmJ5bWFrZXJ1a2dmeC9zbWlsOmxpdmVzdHJlYW1GdWxsSEQuc21pbC9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTAxMn0%3D/fast
-#EXTINF:0 CUID="966" tvg-name="Homes Under the Hammer • UK" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="United Kingdom ",Homes Under the Hammer • UK
+#EXTINF:0 CUID="966" tvg-name="Homes Under the Hammer • UK" tvg-id="GBBC900013K9" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="United Kingdom ",Homes Under the Hammer • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbGwzbWVkaWEtaG9tZXMtdW5kZXItdGhlLWhhbW1lci0xLWdiLnJha3V0ZW4ud3VybC50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTY2fQ%3D%3D/fast
-#EXTINF:0 CUID="922" tvg-name="ITV 2 • UK" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="United Kingdom ",ITV 2 • UK
+#EXTINF:0 CUID="922" tvg-name="ITV 2 • UK" tvg-id="I665.75178.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/itv2.png" group-title="United Kingdom ",ITV 2 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9pdHYyL2Jyb3dzZXItSExTOC9pdHYyLm0zdTgiLCAiaWQiOiA5MjJ9/fast
-#EXTINF:0 CUID="921" tvg-name="ITV 3 • UK" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="United Kingdom ",ITV 3 • UK
+#EXTINF:0 CUID="921" tvg-name="ITV 3 • UK" tvg-id="I670.79783.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/itv3.png" group-title="United Kingdom ",ITV 3 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9pdHYzL2Jyb3dzZXItSExTOC9pdHYzLm0zdTgiLCAiaWQiOiA5MjF9/fast
-#EXTINF:0 CUID="930" tvg-name="ITV 4 • UK" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="United Kingdom ",ITV 4 • UK
+#EXTINF:0 CUID="930" tvg-name="ITV 4 • UK" tvg-id="I674.69375.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/itv4.png" group-title="United Kingdom ",ITV 4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9pdHY0L2Jyb3dzZXItZGFzaC9pdHY0Lm1wZCIsICJpZCI6IDkzMH0%3D/fast
 #EXTINF:0 CUID="1005" tvg-name="Ketchup TV FAST • UK" tvg-logo="https://logo.m3uassets.com/ketchuptv.png" group-title="United Kingdom ",Ketchup TV FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9MTMxNzEiLCAiaWQiOiAxMDA1fQ%3D%3D/fast
 #EXTINF:0 CUID="984" tvg-name="MasterChef • UK" tvg-logo="https://logo.m3uassets.com/masterchef.png" group-title="United Kingdom ",MasterChef • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDI1MDAwMDE5TiIsICJpZCI6IDk4NH0%3D/fast
-#EXTINF:0 CUID="974" tvg-name="Midsomer Murders • UK" tvg-logo="https://logo.m3uassets.com/midsomermurders.png" group-title="United Kingdom ",Midsomer Murders • UK
+#EXTINF:0 CUID="974" tvg-name="Midsomer Murders • UK" tvg-id="USBC24000134A" tvg-logo="https://logo.m3uassets.com/midsomermurders.png" group-title="United Kingdom ",Midsomer Murders • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbGwzbWVkaWEtbWlkc29tZXItMS11cy54dW1vLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDk3NH0%3D/fast
-#EXTINF:0 CUID="919" tvg-name="MORE4 • UK" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="United Kingdom ",MORE4 • UK
+#EXTINF:0 CUID="919" tvg-name="MORE4 • UK" tvg-id="I748.82858.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="United Kingdom ",MORE4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9tb3JlNC9icm93c2VyLUhMUzgvbW9yZTQubTN1OCIsICJpZCI6IDkxOX0%3D/fast
-#EXTINF:0 CUID="1023" tvg-name="MTV Hits • UK" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="United Kingdom ",MTV Hits • UK
+#EXTINF:0 CUID="1023" tvg-name="MTV Hits • UK" tvg-id="I484.67787.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="United Kingdom ",MTV Hits • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1Ljg4LjkyLjMvdHIzX01UVkhpdHNfU0QvaW5kZXgubTN1OD90b2tlbj10ZXN0IiwgImlkIjogMTAyM30%3D/fast
-#EXTINF:0 CUID="1025" tvg-name="MTV Music • UK" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="United Kingdom ",MTV Music • UK
+#EXTINF:0 CUID="1025" tvg-name="MTV Music • UK" tvg-id="IN4900002RV" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="United Kingdom ",MTV Music • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvMjIxL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDI1fQ%3D%3D/fast
-#EXTINF:0 CUID="902" tvg-name="National Geographic • UK" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="United Kingdom ",National Geographic • UK
+#EXTINF:0 CUID="902" tvg-name="National Geographic • UK" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="United Kingdom ",National Geographic • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC80NDEvaW5kZXgubTN1OCIsICJpZCI6IDkwMn0%3D/fast
-#EXTINF:0 CUID="969" tvg-name="Ninja Warrior • UK" group-title="United Kingdom ",Ninja Warrior • UK
+#EXTINF:0 CUID="969" tvg-name="Ninja Warrior • UK" tvg-id="GB3900002DT" group-title="United Kingdom ",Ninja Warrior • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMjctcmFrdXRlbi11ay01Mjk1LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTY5fQ%3D%3D/fast
-#EXTINF:0 CUID="1027" tvg-name="Now 70's • UK" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="United Kingdom ",Now 70's • UK
+#EXTINF:0 CUID="1027" tvg-name="Now 70's • UK" tvg-id="GB300032DX" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="United Kingdom ",Now 70's • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saWdodG5pbmctbm93NzBzLXJha3V0ZW4uYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMjd9/fast
-#EXTINF:0 CUID="1024" tvg-name="Now 80's • UK" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="United Kingdom ",Now 80's • UK
+#EXTINF:0 CUID="1024" tvg-name="Now 80's • UK" tvg-id="I828.108488.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="United Kingdom ",Now 80's • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saWdodG5pbmctbm93ODBzLXNhbXN1bmduei5hbWFnaS50di9wbGF5bGlzdDcyMHAubTN1OCIsICJpZCI6IDEwMjR9/fast
-#EXTINF:0 CUID="1031" tvg-name="Now 90's 00's" group-title="United Kingdom ",Now 90's 00's
+#EXTINF:0 CUID="1031" tvg-name="Now 90's 00's" tvg-id="GB300033HI" group-title="United Kingdom ",Now 90's 00's
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMDAwMzNISSIsICJpZCI6IDEwMzF9/fast
-#EXTINF:0 CUID="1028" tvg-name="Now Rock • UK" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="United Kingdom ",Now Rock • UK
+#EXTINF:0 CUID="1028" tvg-name="Now Rock • UK" tvg-id="IN800003JE" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="United Kingdom ",Now Rock • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saWdodG5pbmctbm93OTBzLXJha3V0ZW4uYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMjh9/fast
 #EXTINF:0 CUID="970" tvg-name="Pointless • UK" group-title="United Kingdom ",Pointless • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MzNC1yYWt1dGVuLXVrLTQwMDUucGxheW91dHMubm93LmFtYWdpLnR2L21hc3Rlci5tM3U4IiwgImlkIjogOTcwfQ%3D%3D/fast
-#EXTINF:0 CUID="986" tvg-name="Poldark • UK" group-title="United Kingdom ",Poldark • UK
+#EXTINF:0 CUID="986" tvg-name="Poldark • UK" tvg-id="GB280000829" group-title="United Kingdom ",Poldark • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyODAwMDA4MjkiLCAiaWQiOiA5ODZ9/fast
 #EXTINF:0 CUID="1003" tvg-name="POP UP FAST • UK" group-title="United Kingdom ",POP UP FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYXJyYXRpdmUtZmFzdC1wb3B1cC1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvbmFycmF0aXZlLXBvcHVwLWxpdmUtYW1hZ2kvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMDN9/fast
-#EXTINF:0 CUID="1013" tvg-name="QVC Beauty • UK" tvg-logo="https://logo.m3uassets.com/qvcbeauty.png" group-title="United Kingdom ",QVC Beauty • UK
+#EXTINF:0 CUID="1013" tvg-name="QVC Beauty • UK" tvg-id="QVC.Beauty.uk" tvg-logo="https://logo.m3uassets.com/qvcbeauty.png" group-title="United Kingdom ",QVC Beauty • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmN1ay1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA5NzExMi9xYnkvbWFzdGVyLm0zdTgiLCAiaWQiOiAxMDEzfQ%3D%3D/fast
-#EXTINF:0 CUID="1014" tvg-name="QVC Extra • UK" tvg-logo="https://logo.m3uassets.com/qvcextra.png" group-title="United Kingdom ",QVC Extra • UK
+#EXTINF:0 CUID="1014" tvg-name="QVC Extra • UK" tvg-id="QVC.Extra.uk" tvg-logo="https://logo.m3uassets.com/qvcextra.png" group-title="United Kingdom ",QVC Extra • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmN1ay1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA5NzExMi9xZXgvbWFzdGVyLm0zdTgiLCAiaWQiOiAxMDE0fQ%3D%3D/fast
-#EXTINF:0 CUID="1015" tvg-name="QVC Style • UK" tvg-logo="https://logo.m3uassets.com/qvcstyle.png" group-title="United Kingdom ",QVC Style • UK
+#EXTINF:0 CUID="1015" tvg-name="QVC Style • UK" tvg-id="QVC.Style.HD.uk" tvg-logo="https://logo.m3uassets.com/qvcstyle.png" group-title="United Kingdom ",QVC Style • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmN1ay1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA5NzExMi9xc3QvbWFzdGVyLm0zdTgiLCAiaWQiOiAxMDE1fQ%3D%3D/fast
-#EXTINF:0 CUID="1011" tvg-name="QVC • UK" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="United Kingdom ",QVC • UK
+#EXTINF:0 CUID="1011" tvg-name="QVC • UK" tvg-id="I275.60222.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="United Kingdom ",QVC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmN1ay1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA5NzExMi9xdmMvbWFzdGVyLm0zdTgiLCAiaWQiOiAxMDExfQ%3D%3D/fast
 #EXTINF:0 CUID="931" tvg-name="Rakuten TV Reality FAST • UK" group-title="United Kingdom ",Rakuten TV Reality FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly82OGY2ZGZkMWYyYmQ0MTViOWM0MmYxZDM4MzAwNGI2OS5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYyMzMvbWFzdGVyLm0zdTgiLCAiaWQiOiA5MzF9/fast
-#EXTINF:0 CUID="905" tvg-name="Red Bull TV • UK" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="United Kingdom ",Red Bull TV • UK
+#EXTINF:0 CUID="905" tvg-name="Red Bull TV • UK" tvg-id="ATBD1500003ES" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="United Kingdom ",Red Bull TV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lN2M4ZjdkNS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9VbUZyZFhSbGJsUldMV2RpWDFKbFpFSjFiR3hVVmkweFgwaE1Vdy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA1fQ%3D%3D/fast
-#EXTINF:0 CUID="987" tvg-name="River Monsters • UK" group-title="United Kingdom ",River Monsters • UK
+#EXTINF:0 CUID="987" tvg-name="River Monsters • UK" tvg-id="GB2100006GK" group-title="United Kingdom ",River Monsters • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyMTAwMDA2R0siLCAiaWQiOiA5ODd9/fast
 #EXTINF:0 CUID="957" tvg-name="Sherlock • UK" tvg-logo="https://logo.m3uassets.com/plutotvsherlock.png" group-title="United Kingdom ",Sherlock • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81ZGMyYzAwYWJmZWQxMTAwMDlkOTcyNDMvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1MiLCAiaWQiOiA5NTd9/fast
-#EXTINF:0 CUID="926" tvg-name="Sky Atlantic • UK" tvg-logo="https://logo.m3uassets.com/skyatlantic.png" group-title="United Kingdom ",Sky Atlantic • UK
+#EXTINF:0 CUID="926" tvg-name="Sky Atlantic • UK" tvg-id="I995.70433.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skyatlantic.png" group-title="United Kingdom ",Sky Atlantic • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDExL2luZGV4Lm0zdTgiLCAiaWQiOiA5MjZ9/fast
-#EXTINF:0 CUID="925" tvg-name="Sky Showcase • UK" tvg-logo="https://logo.m3uassets.com/skyshowcase.png" group-title="United Kingdom ",Sky Showcase • UK
+#EXTINF:0 CUID="925" tvg-name="Sky Showcase • UK" tvg-id="I1063.16235.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skyshowcase.png" group-title="United Kingdom ",Sky Showcase • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA0L2luZGV4Lm0zdTgiLCAiaWQiOiA5MjV9/fast
-#EXTINF:0 CUID="916" tvg-name="STV • UK" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="United Kingdom ",STV • UK
+#EXTINF:0 CUID="916" tvg-name="STV • UK" tvg-id="STV.Central.uk" tvg-logo="https://logo.m3uassets.com/stv.png" group-title="United Kingdom ",STV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jc20tZS1zdHYtZWIudGxzMS55b3NwYWNlLmNvbS9jc20vZXh0bGl2ZS9zdHYwMSxwcmQtbWwtc3R2LWVkaS1zdWJzLm0zdTgiLCAiaWQiOiA5MTZ9/fast
-#EXTINF:0 CUID="878" tvg-name="TALK • UK" group-title="United Kingdom ",TALK • UK
+#EXTINF:0 CUID="878" tvg-name="TALK • UK" tvg-id="GB1200006IV" group-title="United Kingdom ",TALK • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLXRhbGt0di1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvdGFsa3R2LWxpdmUvaW5kZXgubTN1OCIsICJpZCI6IDg3OH0%3D/fast
-#EXTINF:0 CUID="1032" tvg-name="TBN • UK" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="United Kingdom ",TBN • UK
+#EXTINF:0 CUID="1032" tvg-name="TBN • UK" tvg-id="TBN.UK.uk" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="United Kingdom ",TBN • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLXRibi1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvdGJuLWxpdmUvbWFuaWZlc3QubTN1OCIsICJpZCI6IDEwMzJ9/fast
-#EXTINF:0 CUID="963" tvg-name="The Graham Norton Show • UK" group-title="United Kingdom ",The Graham Norton Show • UK
+#EXTINF:0 CUID="963" tvg-name="The Graham Norton Show • UK" tvg-id="AT500002TW" group-title="United Kingdom ",The Graham Norton Show • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMzUtcmFrdXRlbi1nYi03NTk4LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYzfQ%3D%3D/fast
-#EXTINF:0 CUID="1006" tvg-name="The Lego Channel FAST • UK" tvg-logo="https://logo.m3uassets.com/legochannel.png" group-title="United Kingdom ",The Lego Channel FAST • UK
+#EXTINF:0 CUID="1006" tvg-name="The Lego Channel FAST • UK" tvg-id="USBA2300001S8" tvg-logo="https://logo.m3uassets.com/legochannel.png" group-title="United Kingdom ",The Lego Channel FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzQzMDAwMDVBTCIsICJpZCI6IDEwMDZ9/fast
-#EXTINF:0 CUID="1016" tvg-name="TJC • UK" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="United Kingdom ",TJC • UK
+#EXTINF:0 CUID="1016" tvg-name="TJC • UK" tvg-id="113589" tvg-logo="https://logo.m3uassets.com/tjc.png" group-title="United Kingdom ",TJC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tc2hvcC1sYy0wMS5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTX0hMUy9MaXZlL2NoYW5uZWwoVEpDT1RUKS9pbmRleC5tM3U4IiwgImlkIjogMTAxNn0%3D/fast
-#EXTINF:0 CUID="971" tvg-name="Top Gear • UK" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="United Kingdom ",Top Gear • UK
+#EXTINF:0 CUID="971" tvg-name="Top Gear • UK" tvg-id="USBC2400027NG" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="United Kingdom ",Top Gear • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M1LWZpcmV0di11cy00MDY4LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTcxfQ%3D%3D/fast
 #EXTINF:0 CUID="1026" tvg-name="TRACE • UK" group-title="United Kingdom ",TRACE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi90cmFjZS11ay9lbmNyeXB0ZWQubTN1OCIsICJpZCI6IDEwMjZ9/fast
-#EXTINF:0 CUID="1017" tvg-name="TV Warehouse • UK" tvg-logo="https://logo.m3uassets.com/tvwarehouse.png" group-title="United Kingdom ",TV Warehouse • UK
+#EXTINF:0 CUID="1017" tvg-name="TV Warehouse • UK" tvg-id="TV.Warehouse.uk" tvg-logo="https://logo.m3uassets.com/tvwarehouse.png" group-title="United Kingdom ",TV Warehouse • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dndhcmVob3VzZS5yLndvcmxkc3NsLm5ldC9teXN0cmVhbS5tM3U4IiwgImlkIjogMTAxN30%3D/fast
 #EXTINF:0 CUID="1029" tvg-name="VEVO Hip-Hop and R&B FAST • UK" group-title="United Kingdom ",VEVO Hip-Hop and R&B FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDA1Ni1hbWcwMDA1NmMyNi1yYWt1dGVuLXVrLTMyMzYucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiAxMDI5fQ%3D%3D/fast
 #EXTINF:0 CUID="1030" tvg-name="VEVO Pop FAST • UK" group-title="United Kingdom ",VEVO Pop FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDA1Ni1hbWcwMDA1NmM2LXJha3V0ZW4tdWstMzIzNS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMzB9/fast
-#EXTINF:0 CUID="903" tvg-name="WildEarth • UK" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="United Kingdom ",WildEarth • UK
+#EXTINF:0 CUID="903" tvg-name="WildEarth • UK" tvg-id="US3800007CR" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="United Kingdom ",WildEarth • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93aWxkZWFydGgtb25vLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxMjkwLXdpbGRlYXJ0aC1vYW5kby9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTAzfQ%3D%3D/fast
 #EXTINF:0 CUID="1004" tvg-name="YAAAS! FAST • UK" group-title="United Kingdom ",YAAAS! FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzNDAwMDAyODkiLCAiaWQiOiAxMDA0fQ%3D%3D/fast
-#EXTINF:0 CUID="859" tvg-name="British Screen Classics FAST • UK" group-title="United Kingdom ",British Screen Classics FAST • UK
+#EXTINF:0 CUID="859" tvg-name="British Screen Classics FAST • UK" tvg-id="GB32000024G" group-title="United Kingdom ",British Screen Classics FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMjAwMDAyNEciLCAiaWQiOiA4NTl9/fast
-#EXTINF:0 CUID="832" tvg-name="FILM4 • UK" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="United Kingdom ",FILM4 • UK
+#EXTINF:0 CUID="832" tvg-name="FILM4 • UK" tvg-id="I489.68051.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="United Kingdom ",FILM4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9maWxtNC9icm93c2VyLUhMUzgvZmlsbTQubTN1OCIsICJpZCI6IDgzMn0%3D/fast
 #EXTINF:0 CUID="846" tvg-name="FILMZIE • UK" group-title="United Kingdom ",FILMZIE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9maWxtemllLWZpbG16aWUtMS1ldS5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0Nn0%3D/fast
-#EXTINF:0 CUID="860" tvg-name="GREAT! christmas FAST • UK" group-title="United Kingdom ",GREAT! christmas FAST • UK
+#EXTINF:0 CUID="860" tvg-name="GREAT! christmas FAST • UK" tvg-id="GB3000370X" group-title="United Kingdom ",GREAT! christmas FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMDAwMzcwWCIsICJpZCI6IDg2MH0%3D/fast
-#EXTINF:0 CUID="831" tvg-name="GREAT! MOVIES FAST • UK" group-title="United Kingdom ",GREAT! MOVIES FAST • UK
+#EXTINF:0 CUID="831" tvg-name="GREAT! MOVIES FAST • UK" tvg-id="GBBC900007Q5" group-title="United Kingdom ",GREAT! MOVIES FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MzLWxnLWdiLTE4MzMucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0bW92aWVzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMX0%3D/fast
-#EXTINF:0 CUID="830" tvg-name="GREAT! ROMANCE FAST • UK" group-title="United Kingdom ",GREAT! ROMANCE FAST • UK
+#EXTINF:0 CUID="830" tvg-name="GREAT! ROMANCE FAST • UK" tvg-id="GBBC900008L9" group-title="United Kingdom ",GREAT! ROMANCE FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MyLWxnLWdiLTE4MzIucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0Y2hyaXN0bWFzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMH0%3D/fast
-#EXTINF:0 CUID="861" tvg-name="Grjngo - Western Movies FAST • UK" tvg-logo="https://logo.m3uassets.com/grjngowesternmovies.png" group-title="United Kingdom ",Grjngo - Western Movies FAST • UK
+#EXTINF:0 CUID="861" tvg-name="Grjngo - Western Movies FAST • UK" tvg-id="GBBD500007TG" tvg-logo="https://logo.m3uassets.com/grjngowesternmovies.png" group-title="United Kingdom ",Grjngo - Western Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDUwMDAwN1RHIiwgImlkIjogODYxfQ%3D%3D/fast
 #EXTINF:0 CUID="862" tvg-name="Icon Film Channel Classics FAST • UK" group-title="United Kingdom ",Icon Film Channel Classics FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA1MkYiLCAiaWQiOiA4NjJ9/fast
-#EXTINF:0 CUID="856" tvg-name="MovieSphere by Lionsgate FAST • UK" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="United Kingdom ",MovieSphere by Lionsgate FAST • UK
+#EXTINF:0 CUID="856" tvg-name="MovieSphere by Lionsgate FAST • UK" tvg-id="DE4000002I3" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="United Kingdom ",MovieSphere by Lionsgate FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tb3ZpZXNwaGVyZXVrLXNhbXN1bmd1ay5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODU2fQ%3D%3D/fast
-#EXTINF:0 CUID="847" tvg-name="My Time Movie Network FAST • UK" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="United Kingdom ",My Time Movie Network FAST • UK
+#EXTINF:0 CUID="847" tvg-name="My Time Movie Network FAST • UK" tvg-id="ATBA3300021BW" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="United Kingdom ",My Time Movie Network FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hcHBsZXRyZWUtbXl0aW1ldWstcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODQ3fQ%3D%3D/fast
 #EXTINF:0 CUID="848" tvg-name="Popflix FAST • UK" group-title="United Kingdom ",Popflix FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zaWduYXR1cmVlbnRlcnRhaW5tZW50LXBvcGZsaXgtMS1nYi5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0OH0%3D/fast
-#EXTINF:0 CUID="850" tvg-name="Rakuten TV Action Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Action Movies FAST • UK
+#EXTINF:0 CUID="850" tvg-name="Rakuten TV Action Movies FAST • UK" tvg-id="GB2600015OS" group-title="United Kingdom ",Rakuten TV Action Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81NDA0NWYwYzQwZmQ0NDJjOGIwNmRmMDc2YWFmMWU4NS5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYwNjUvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTB9/fast
-#EXTINF:0 CUID="851" tvg-name="Rakuten TV Comedy Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Comedy Movies FAST • UK
+#EXTINF:0 CUID="851" tvg-name="Rakuten TV Comedy Movies FAST • UK" tvg-id="GB2600020OP" group-title="United Kingdom ",Rakuten TV Comedy Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly85YmU3ODNkNjUyY2Q0YjA5OWNmNjNlMWRjMTM0YzRhMy5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYxODEvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTF9/fast
-#EXTINF:0 CUID="852" tvg-name="Rakuten TV Drama Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Drama Movies FAST • UK
+#EXTINF:0 CUID="852" tvg-name="Rakuten TV Drama Movies FAST • UK" tvg-id="GB2600012R3" group-title="United Kingdom ",Rakuten TV Drama Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mZWUwOWZkNjY1ODE0ZjUxYjkzOWI2ZDEwNmNmNWY2Ni5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYwOTMvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTJ9/fast
 #EXTINF:0 CUID="853" tvg-name="Rakuten TV Family Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Family Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lMzIwNzU2OGI3MjY0MDE5OTVjMjU2NzBmYWFmMzJlNC5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYyMDMvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTN9/fast
-#EXTINF:0 CUID="854" tvg-name="Rakuten TV Romance Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Romance Movies FAST • UK
+#EXTINF:0 CUID="854" tvg-name="Rakuten TV Romance Movies FAST • UK" tvg-id="GB2600014LQ" group-title="United Kingdom ",Rakuten TV Romance Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8yYzg4ZWQ4YzRkZjk0NzlhYTBjNzEzOGRjNDIxMTVlMi5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYxOTQvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTR9/fast
 #EXTINF:0 CUID="855" tvg-name="Rakuten TV Thrillers FAST • UK" group-title="United Kingdom ",Rakuten TV Thrillers FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90aHJpbGxlci1yYWt1dGVuLXR2LXVrLmZhc3QucmFrdXRlbi50di92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTY0ODIvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTV9/fast
-#EXTINF:0 CUID="849" tvg-name="Rakuten TV Top Movies FAST • UK" group-title="United Kingdom ",Rakuten TV Top Movies FAST • UK
+#EXTINF:0 CUID="849" tvg-name="Rakuten TV Top Movies FAST • UK" tvg-id="GB2600018PD" group-title="United Kingdom ",Rakuten TV Top Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8wMTQ1NDUxOTc1YTY0YjM1ODY2MTcwZmQyZThmYTQ4Ni5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTU5ODcvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NDl9/fast
-#EXTINF:0 CUID="838" tvg-name="Sky Cinema Action • UK" tvg-logo="https://logo.m3uassets.com/skycinemaaction.png" group-title="United Kingdom ",Sky Cinema Action • UK
+#EXTINF:0 CUID="838" tvg-name="Sky Cinema Action • UK" tvg-id="I997.61177.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaaction.png" group-title="United Kingdom ",Sky Cinema Action • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAxL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mzh9/fast
-#EXTINF:0 CUID="844" tvg-name="Sky Cinema Comedy • UK" tvg-logo="https://logo.m3uassets.com/skycinemacomedy.png" group-title="United Kingdom ",Sky Cinema Comedy • UK
+#EXTINF:0 CUID="844" tvg-name="Sky Cinema Comedy • UK" tvg-id="I1002.61182.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemacomedy.png" group-title="United Kingdom ",Sky Cinema Comedy • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA5L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDR9/fast
-#EXTINF:0 CUID="842" tvg-name="Sky Cinema Family • UK" tvg-logo="https://logo.m3uassets.com/skycinemafamily.png" group-title="United Kingdom ",Sky Cinema Family • UK
+#EXTINF:0 CUID="842" tvg-name="Sky Cinema Family • UK" tvg-id="I1005.24040.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemafamily.png" group-title="United Kingdom ",Sky Cinema Family • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA2L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDJ9/fast
-#EXTINF:0 CUID="841" tvg-name="Sky Cinema Greats • UK" tvg-logo="https://logo.m3uassets.com/skycinemagreats.png" group-title="United Kingdom ",Sky Cinema Greats • UK
+#EXTINF:0 CUID="841" tvg-name="Sky Cinema Greats • UK" tvg-id="I1008.61180.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemagreats.png" group-title="United Kingdom ",Sky Cinema Greats • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA1L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDF9/fast
-#EXTINF:0 CUID="840" tvg-name="Sky Cinema Premiere • UK" tvg-logo="https://logo.m3uassets.com/skycinemapremiere.png" group-title="United Kingdom ",Sky Cinema Premiere • UK
+#EXTINF:0 CUID="840" tvg-name="Sky Cinema Premiere • UK" tvg-id="I1011.21107.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemapremiere.png" group-title="United Kingdom ",Sky Cinema Premiere • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAzL2luZGV4Lm0zdTgiLCAiaWQiOiA4NDB9/fast
-#EXTINF:0 CUID="843" tvg-name="Sky Cinema Sci-Fi Horror • UK" tvg-logo="https://logo.m3uassets.com/skycinemasciandhorror.png" group-title="United Kingdom ",Sky Cinema Sci-Fi Horror • UK
+#EXTINF:0 CUID="843" tvg-name="Sky Cinema Sci-Fi Horror • UK" tvg-id="I1014.61178.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemasciandhorror.png" group-title="United Kingdom ",Sky Cinema Sci-Fi Horror • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA3L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDN9/fast
-#EXTINF:0 CUID="845" tvg-name="Sky Cinema Select • UK" tvg-logo="https://logo.m3uassets.com/skycinemaselect.png" group-title="United Kingdom ",Sky Cinema Select • UK
+#EXTINF:0 CUID="845" tvg-name="Sky Cinema Select • UK" tvg-id="I1015.49139.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaselect.png" group-title="United Kingdom ",Sky Cinema Select • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDEwL2luZGV4Lm0zdTgiLCAiaWQiOiA4NDV9/fast
-#EXTINF:0 CUID="839" tvg-name="Sky Cinema Thriller • UK" tvg-logo="https://logo.m3uassets.com/skycinemathriller.png" group-title="United Kingdom ",Sky Cinema Thriller • UK
+#EXTINF:0 CUID="839" tvg-name="Sky Cinema Thriller • UK" tvg-id="I1018.50176.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemathriller.png" group-title="United Kingdom ",Sky Cinema Thriller • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAyL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mzl9/fast
-#EXTINF:0 CUID="871" tvg-name="Al Jazeera English • UK" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="United Kingdom ",Al Jazeera English • UK
+#EXTINF:0 CUID="871" tvg-name="Al Jazeera English • UK" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="United Kingdom ",Al Jazeera English • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDM1L2luZGV4Lm0zdTgiLCAiaWQiOiA4NzF9/fast
-#EXTINF:0 CUID="867" tvg-name="BBC NEWS • UK" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="United Kingdom ",BBC NEWS • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9iYmN3b3JsZC9icm93c2VyLUhMUzgvYmJjd29ybGQubTN1OCIsICJpZCI6IDg2N30%3D/fast
-#EXTINF:0 CUID="982" tvg-name="Dennis and Gnasher • UK" group-title="United Kingdom ",Dennis and Gnasher • UK
+#EXTINF:0 CUID="982" tvg-name="Dennis and Gnasher • UK" tvg-id="GBBD1100011V3" group-title="United Kingdom ",Dennis and Gnasher • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMTFWMyIsICJpZCI6IDk4Mn0%3D/fast
+#EXTINF:0 CUID="867" tvg-name="BBC NEWS • UK" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="United Kingdom ",BBC NEWS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9iYmN3b3JsZC9icm93c2VyLUhMUzgvYmJjd29ybGQubTN1OCIsICJpZCI6IDg2N30%3D/fast
 #EXTINF:0 CUID="968" tvg-name="Mr. Bean Animated Series • UK" group-title="United Kingdom ",Mr. Bean Animated Series • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MyOC1yYWt1dGVuLXVrLTM5ODQucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwNjI3LWJhbmlqYXlmYXN0LW1yYmVhbnVrY2MtcmFrdXRlbnVrL3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5Njh9/fast
-#EXTINF:0 CUID="881" tvg-name="CNBC • ID" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="United Kingdom ",CNBC • ID
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OCIsICJpZCI6IDg4MX0%3D/fast
-#EXTINF:0 CUID="868" tvg-name="CNBC • UK" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="United Kingdom ",CNBC • UK
+#EXTINF:0 CUID="868" tvg-name="CNBC • UK" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="United Kingdom ",CNBC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9jbmJjL2Jyb3dzZXItSExTOC9jbmJjLm0zdTgiLCAiaWQiOiA4Njh9/fast
-#EXTINF:0 CUID="985" tvg-name="Mr. Bean Live Action • UK" group-title="United Kingdom ",Mr. Bean Live Action • UK
+#EXTINF:0 CUID="985" tvg-name="Mr. Bean Live Action • UK" tvg-id="GB4000008O5" group-title="United Kingdom ",Mr. Bean Live Action • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I0MDAwMDA4TzUiLCAiaWQiOiA5ODV9/fast
-#EXTINF:0 CUID="992" tvg-name="POP • UK" group-title="United Kingdom ",POP • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE3NTMtbmFycmF0aXZlZW50ZXJ0LXBvcGtpZHMtbGdnYi9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTkyfQ%3D%3D/fast
-#EXTINF:0 CUID="897" tvg-name="CNN Headlines • UK" group-title="United Kingdom ",CNN Headlines • UK
+#EXTINF:0 CUID="897" tvg-name="CNN Headlines • UK" tvg-id="ATBD190000101" group-title="United Kingdom ",CNN Headlines • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDE5MDAwMDhPMyIsICJpZCI6IDg5N30%3D/fast
-#EXTINF:0 CUID="896" tvg-name="CNN • UK" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="United Kingdom ",CNN • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDgwMDAwMTZOIiwgImlkIjogODk2fQ%3D%3D/fast
-#EXTINF:0 CUID="976" tvg-name="Shaun the Sheep • UK" tvg-logo="https://logo.m3uassets.com/kidsshaunthesheep.png" group-title="United Kingdom ",Shaun the Sheep • UK
+#EXTINF:0 CUID="992" tvg-name="POP • UK" tvg-id="GBBC430000128" group-title="United Kingdom ",POP • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE3NTMtbmFycmF0aXZlZW50ZXJ0LXBvcGtpZHMtbGdnYi9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTkyfQ%3D%3D/fast
+#EXTINF:0 CUID="976" tvg-name="Shaun the Sheep • UK" tvg-id="US2200006FS" tvg-logo="https://logo.m3uassets.com/kidsshaunthesheep.png" group-title="United Kingdom ",Shaun the Sheep • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hYXItc2hhdW4teHVtby5vdHRlcmF2aXNpb24uY29tL2Fhci9zaGF1bi9zaGF1bi5tM3U4IiwgImlkIjogOTc2fQ%3D%3D/fast
-#EXTINF:0 CUID="988" tvg-name="Smurf TV • UK" group-title="United Kingdom ",Smurf TV • UK
+#EXTINF:0 CUID="896" tvg-name="CNN • UK" tvg-id="ATBD800001VA" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="United Kingdom ",CNN • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDgwMDAwMTZOIiwgImlkIjogODk2fQ%3D%3D/fast
+#EXTINF:0 CUID="988" tvg-name="Smurf TV • UK" tvg-id="GBBD1300001WA" group-title="United Kingdom ",Smurf TV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDEzMDAwMDFXQSIsICJpZCI6IDk4OH0%3D/fast
 #EXTINF:0 CUID="898" tvg-name="DW • UK" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="United Kingdom ",DW • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMzAwMDAxUlgiLCAiaWQiOiA4OTh9/fast
 #EXTINF:0 CUID="892" tvg-name="Euronews English • UK" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="United Kingdom ",Euronews English • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZldHYtZmEudHViaS52aWRlby9ldXJvbmV3czIvZXVyb25ld3MtZW4ubTN1OCIsICJpZCI6IDg5Mn0%3D/fast
-#EXTINF:0 CUID="989" tvg-name="Sonic the Hedgehog • UK" group-title="United Kingdom ",Sonic the Hedgehog • UK
+#EXTINF:0 CUID="989" tvg-name="Sonic the Hedgehog • UK" tvg-id="USBD3300020PM" group-title="United Kingdom ",Sonic the Hedgehog • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzNzAwMDAzNjkiLCAiaWQiOiA5ODl9/fast
-#EXTINF:0 CUID="990" tvg-name="Teletubbies • UK" tvg-logo="https://logo.m3uassets.com/teletubbies.png" group-title="United Kingdom ",Teletubbies • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNDAwMDA3RkEiLCAiaWQiOiA5OTB9/fast
 #EXTINF:0 CUID="899" tvg-name="FRANCE 24 FAST • UK" group-title="United Kingdom ",FRANCE 24 FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMDJMNSIsICJpZCI6IDg5OX0%3D/fast
+#EXTINF:0 CUID="990" tvg-name="Teletubbies • UK" tvg-id="USBD3500015R5" tvg-logo="https://logo.m3uassets.com/teletubbies.png" group-title="United Kingdom ",Teletubbies • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNDAwMDA3RkEiLCAiaWQiOiA5OTB9/fast
 #EXTINF:0 CUID="866" tvg-name="GB News • UK" tvg-logo="https://logo.m3uassets.com/gbnews.png" group-title="United Kingdom ",GB News • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tZ2JuZXdzbnotc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4NjZ9/fast
-#EXTINF:0 CUID="993" tvg-name="tiny POP • UK" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="United Kingdom ",tiny POP • UK
+#EXTINF:0 CUID="993" tvg-name="tiny POP • UK" tvg-id="GBBD3200003T6" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="United Kingdom ",tiny POP • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MxLWxnLWdiLTE4MzAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLXRpbnlwb3AtbGdnYi9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTkzfQ%3D%3D/fast
-#EXTINF:0 CUID="865" tvg-name="Sky News • UK" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="United Kingdom ",Sky News • UK
+#EXTINF:0 CUID="865" tvg-name="Sky News • UK" tvg-id="USBB52000022Q" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="United Kingdom ",Sky News • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saW5lYXI0MTctZ2ItaGxzMS1wcmQtYWsuY2RuLnNreWNkcC5jb20vMTAwZS9Db250ZW50L0hMU18wMDFfMTA4MF8zMC9MaXZlL2NoYW5uZWwoc2t5bmV3cykvaW5kZXhfMTA4MC0zMC5tM3U4IiwgImlkIjogODY1fQ%3D%3D/fast
 #EXTINF:0 CUID="799" tvg-name="NBA TV • US" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="United States ",NBA TV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL05CQV9UVi9pbmRleC5tM3U4IiwgImlkIjogNzk5fQ%3D%3D/fast
@@ -567,11 +567,11 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzku
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIwMi44MC4yMjIuMjAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDYvMTAyNC5tM3U4IiwgImlkIjogOTk1fQ%3D%3D/fast
 #EXTINF:0 CUID="869" tvg-name="IRIB News • IR" group-title="Misc ( needs sorted )",IRIB News • IR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS41MC42Ni4zOjEwMDA0LyIsICJpZCI6IDg2OX0%3D/fast
-#EXTINF:0 CUID="911" tvg-name="BBC Earth • NO" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Misc ( needs sorted )",BBC Earth • NO
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LWZpcmV0di11cy00MDY3LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTExfQ%3D%3D/fast
+#EXTINF:0 CUID="881" tvg-name="CNBC • ID" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="Misc ( needs sorted )",CNBC • ID
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OCIsICJpZCI6IDg4MX0%3D/fast
 #EXTINF:0 CUID="923" tvg-name="[adult swim] • MX" group-title="Misc ( needs sorted )",[adult swim] • MX
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIwMC4xMjUuMTcwLjEyMjo4MDAwL3BsYXkvYTBjdCIsICJpZCI6IDkyM30%3D/fast
-#EXTINF:0 CUID="998" tvg-name="Disney Jr. • JP" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Misc ( needs sorted )",Disney Jr. • JP
+#EXTINF:0 CUID="998" tvg-name="Disney Jr. • JP" tvg-id="I289.74796.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Misc ( needs sorted )",Disney Jr. • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9wcm94eS51dGFrby5tb2UvcGgucGhwPyZpc3A9MSZpZD1jczIzIiwgImlkIjogOTk4fQ%3D%3D/fast
 #EXTINF:0 CUID="37" tvg-name="Don't Look Up" group-title="• NETFLIX",Don't Look Up
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly85ZGQuYXBleC1mb3JnZS5zaXRlL3B5ZTcvYzQvYkp6TzlOWnowZDZrdmpzTm1ORmlEM0IzdzVmd3ZVcnIyRHdvS3JLRlVkMG9IOVowbGdMUy10YUltX3RlSVB0VnloSV90RzBmQTdNOEllandnY2E2a2NnLzQvYUd4ekx6RXdPREF2TVRBNE1BLFozci1hTTZwZUtFLWljNGxKa1BmbmxqcXM5UTBVUS5tM3U4IiwgImlkIjogMzd9/fast
