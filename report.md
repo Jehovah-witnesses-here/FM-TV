@@ -1,34 +1,34 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-05 01:55:17 UTC  
-**⏱️ Duration:** 355.7 seconds  
+**📅 Generated on:** 2025-10-05 06:37:06 UTC  
+**⏱️ Duration:** 457.4 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 368 streams (📡 366 Channels, 🎬 0 VODs, 🥊 2 PPV, 📺 0 FAST)
+- 📄 `channel playlist.m3u`: 442 streams (📡 440 Channels, 🎬 0 VODs, 🥊 2 PPV, 📺 0 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 368 | 100.0% |
-| **📡 Channels** | 366 | 99.5% |
+| **📺 Total Streams Found** | 442 | 100.0% |
+| **📡 Channels** | 440 | 99.5% |
 | **🎬 VODs** | 0 | 0.0% |
 | **🥊 PPV** | 2 | 0.5% |
 | **📺 FAST** | 0 | 0.0% |
-| **🔍 Checked Streams** | 366 | 99.5% |
-| **✅ Working Streams** | 231 | 63.1% |
-| **❌ Failed Streams** | 135 | 36.9% |
+| **🔍 Checked Streams** | 440 | 99.5% |
+| **✅ Working Streams** | 275 | 62.5% |
+| **❌ Failed Streams** | 165 | 37.5% |
 | **⏭️ Skipped Streams** | 2 | 0.5% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 231 | ❌ 135 | 366 | 63.1% |
+| 📡 **Channels** | ✅ 275 | ❌ 165 | 440 | 62.5% |
 
-## 🚨 Failure Analysis (135 total failures)
+## 🚨 Failure Analysis (165 total failures)
 
 ### 🔍 Not Found (404) (3 streams)
 *Stream URL no longer exists*
@@ -44,9 +44,9 @@
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| GREAT! christmas FAST • UK | United Kingdom  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| BLAZE • UK | United Kingdom  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV Warehouse • UK | United Kingdom  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX NEWS CHANNEL • US | United States  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
 ### 🖥️ Server Errors (1 streams)
 *Server-side technical issues*
@@ -55,71 +55,61 @@
 |---------|-------|------|-------|------|---------|
 | SONY Sports 1 • IN | India | 📡 Channel | Server error (502) | 502 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (2 streams)
+### ⏰ Connection Timeouts (3 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| SKY SPORTS+ • UK | United Kingdom  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| Supersport Premier League • ZA | United Kingdom  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| Jio Exclusive HD • IN | India | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| STAR MOVIES SELECT HD • IN | India | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY SPORT SELECT • NZ | New Zealand  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 📡 Stream Errors (1 streams)
-*Stream exists but not readable*
-
-| Channel | Group | Type | Error | Code | File |
-|---------|-------|------|-------|------|---------|
-| cula4 • IE | United Kingdom  | 📡 Channel | Empty stream response | 200 | channel playlist.m3u |
-
-### 🚦 Rate Limited (125 streams)
+### 🚦 Rate Limited (155 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| GB News • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC NEWS • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| IRIB News • IR | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY NEWS WEATHER • AU | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Al Jazeera English • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| France Info • FR | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ABC Australia • AU | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sky News Extra 1 • AU | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sky News Extra 2 • AU | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sky News Extra 3 • AU | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Oireachtas TV • IE | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TALK • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC • ID | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Euronews English • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN Headlines • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DW • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FRANCE 24 FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Motor TV • FR | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BLAZE • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Mr. Bean Animated Series • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Ninja Warrior • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Pointless • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Top Gear • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Midsomer Murders • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shaun the Sheep • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| 8 out of 10 Cats • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Cash in the Attic • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Catfish • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Come Dine With Me • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Dennis and Gnasher • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Curiosity Now FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Demand Drama FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Eggheads • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Escape to the Country • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FailArmy FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HobbyMaker • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Homes Under the Hammer • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 2 • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 3 • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ITV 4 • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ketchup TV FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MasterChef • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Mr. Bean Live Action • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Poldark • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| River Monsters • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Smurf TV • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sonic the Hedgehog • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Teletubbies • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| POP • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| tiny POP • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBeebies • Asia | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DAZN Ringside FAST • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FANDUEL TV EXTRA • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NFL Channel Tubi • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Midsomer Murders • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MORE4 • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MTV Hits • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MTV Music • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| National Geographic • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ninja Warrior • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Now 70's • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Now 80's • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FILMZIE • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! christmas FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! MOVIES FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! ROMANCE FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Grjngo - Western Movies FAST • | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Icon Film Channel Classics FAS | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MovieSphere by Lionsgate FAST  | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| My Time Movie Network FAST • U | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Popflix FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Action Movies FAST  | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Comedy Movies FAST  | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Drama Movies FAST • | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Family Movies FAST  | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Romance Movies FAST | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Thrillers FAST • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rakuten TV Top Movies FAST • U | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Cinema Action • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Cinema Comedy • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Cinema Family • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Cinema Greats • UK | United Kingdom  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ACC Digital Network FAST • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BIG TEN NETWORK • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MSG • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -138,12 +128,12 @@
 | ESPNEWS • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FOX SPORTS 1 (FS1) • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXM • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TBN • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TBN Inspire • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX NEWS RADIO • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| iHeartRadio 90s • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| iHeartRadio Alternative • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBCLX • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX SPORTS 2 (FS2) • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TCM • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ABC News • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Cheddar News • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX BUSINESS NETWORK • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX NEWS CHANNEL • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | gusto.tv FAST • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CNN Originals FAST • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HLN • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -159,16 +149,22 @@
 | BritBox Mystery FAST • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Samuel Goldwyn Classics FAST • | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Game Show Central • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 2 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 3 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 4 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 5 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 6 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT PREMIER LEAGUE • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 9 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT SELECT • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Bounce • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BUZZR • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Comedy Central • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| E! Entertainment • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FX • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FXX • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Paramount Network • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Syfy • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| tbs • US | United States  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Disney Jr. • JP | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Don't Look Up | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Steve | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Murder Mystery 2 | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Red Notice | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Night Always Comes | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Marriage Story | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Aliens | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Alien | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Die Hard | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -178,28 +174,56 @@
 | Star Wars: Episode VII - The F | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Martian | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Bohemian Rhapsody | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Incredibles | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Brave | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Monsters University | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| No Exit | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Deadpool 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Frozen | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ratatouille | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Coco | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Missouri | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Jojo Rabbit | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Fantastic Four: First Step | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Freakier Friday | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Empire of Light | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Avatar: The Way of Water | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Inception | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Interstellar | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Mad Max: Fury Road | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Batman Begins | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Dunkirk | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Dune (2021) | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Happy Feet | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Dark Knight | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Thing | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Jurassic Park | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Fabelmans | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Mummy Returns | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Inglourious Basterds | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shrek | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Madagascar | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Despicable Me | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sing | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Monsters vs. Aliens | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Megamind | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Over the Hedge | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Chicken Run | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shark Tale | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Bee Movie | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Joker | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sinners | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Old | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Happy Death Day | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Get Out | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 1917 | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Split | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Jurassic World: Rebirth | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Skyfall | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | No Time to Die | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Play Dirty | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Account² | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Creed III | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Angels & Demons | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Terminator 3: Rise of the Mach | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Fury | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Hancock | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Men in Black³ | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man: Into the Spider-Ve | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Monster House | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Surf's Up | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Open Season | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man: Homecoming | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man: Far from Home | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Caught Stealing | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Hacksaw Ridge | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| John Wick: Chapter 4 | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Mr. Burton | • ICON FILM | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (2 total)
@@ -231,5 +255,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-05 01:55:17 UTC*
+*📅 Last updated: 2025-10-05 06:37:06 UTC*
 *🤖 Report generated automatically by GitHub Actions*
