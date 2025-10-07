@@ -97,6 +97,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9z
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODkiLCAiaWQiOiAxMDUxfQ%3D%3D/fast
 #EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="UK | Sports",TNT Sports Ultimate • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L3JzdFhJTnFoVGF2U3cwUlZ2Uy1ZQXRWRUdSUUs3Zi16X1dRSXRiSzE5dTQvdHMiLCAiaWQiOiAxMDQ4fQ%3D%3D/fast
+#EXTINF:0 CUID="1087" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENTS UHD" group-title="UK | Sports",SKY SPORTS MAIN EVENTS UHD
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS81NTQ2ODMwNDMiLCAiaWQiOiAxMDg3fQ%3D%3D/fast
 #EXTINF:0 CUID="832" tvg-name="FILM4 • UK" tvg-id="I489.68051.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="UK | Movies",FILM4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9maWxtNC9icm93c2VyLUhMUzgvZmlsbTQubTN1OCIsICJpZCI6IDgzMn0%3D/fast
 #EXTINF:0 CUID="846" tvg-name="FILMZIE • UK" group-title="UK | Movies",FILMZIE • UK
@@ -335,6 +337,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8yNDd3bGl2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwNC4yNTUuODguMTU1L21vdG9ydHJlbmQvaW5kZXgubTN1OCIsICJpZCI6IDkwN30%3D/fast
 #EXTINF:0 CUID="889" tvg-name="Yahoo! Finance • US" tvg-id="yahoofinance.us" tvg-logo="https://logo.m3uassets.com/yahoo!finance.png" group-title="US | Entertainment",Yahoo! Finance • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMWV3Y3RudmN3dnZ2dS5jbG91ZGZyb250Lm5ldC9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg5fQ%3D%3D/fast
+#EXTINF:0 CUID="909" tvg-name="NBCLX • US" tvg-logo="https://logo.m3uassets.com/nbclx.png" group-title="US | Entertainment",NBCLX • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYmN1bG9jYWxsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzA5Ni9seC91c2UxLm0zdTgiLCAiaWQiOiA5MDl9/fast
 #EXTINF:0 CUID="808" tvg-name="BEIN SPORTS XTRA • US" tvg-id="beinsportsxtra.us" tvg-logo="https://logo.m3uassets.com/beinsportsxtra.png" group-title="US | Sports",BEIN SPORTS XTRA • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9iZWluLWJlaW54dHJhc3BvcnRzLWZpcmV0di5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODA4fQ%3D%3D/fast
 #EXTINF:0 CUID="822" tvg-name="BIG TEN NETWORK • US" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US | Sports",BIG TEN NETWORK • US
@@ -409,6 +413,12 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ubXhsaXZl
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ubXgxb3RhLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjEwNzAxMC9MaXZlXzEvaW5kZXgubTN1OCIsICJpZCI6IDg4N30%3D/fast
 #EXTINF:0 CUID="888" tvg-name="Newsy • US" tvg-id="Newsy.us2" tvg-logo="https://logo.m3uassets.com/newsy.png" group-title="US | News",Newsy • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81NDdmNzJlNjY1MjM3MWMzLm1lZGlhcGFja2FnZS51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9vdXQvdjEvZTNlNmUyOTA5NTg0NGM0YmE3ZDg4N2YwMWU0NGE1ZWYvaW5kZXgubTN1OCIsICJpZCI6IDg4OH0%3D/fast
+#EXTINF:0 CUID="882" tvg-name="FOX BUSINESS NETWORK • US" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="US | News",FOX BUSINESS NETWORK • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQxLjIwNS45My4xNTQvRk9YQlVTSU5FU1MvaW5kZXgubTN1OCIsICJpZCI6IDg4Mn0%3D/fast
+#EXTINF:0 CUID="1036" tvg-name="FOX NEWS RADIO • US" tvg-logo="https://logo.m3uassets.com/foxnewsradio.png" group-title="US | News",FOX NEWS RADIO • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYWRpb3ZpZC5mb3huZXdzLmNvbS9obHMvbGl2ZS82NjE1NDcvUkFESU9WSUQvaW5kZXgubTN1OCIsICJpZCI6IDEwMzZ9/fast
+#EXTINF:0 CUID="885" tvg-name="LiveNOW from FOX • US" tvg-logo="https://logo.m3uassets.com/livenowfox.png" group-title="US | News",LiveNOW from FOX • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mb3gtZm94bmV3c25vdy12aXppby5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg1fQ%3D%3D/fast
 #EXTINF:0 CUID="1040" tvg-name="KMIZABC (ABC) • US" tvg-id="abccolumbusoh.us" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQGk08XAUBTUtA/company-logo_200_200/company-logo_200_200/0/1652981450372/kmiz_tv_news_press_gazette_logo?e=2147483647&v=beta&t=-qTsV6fwmQIdk8tnt-SjX8118BiJSrfLI5ggSSEXCiE" group-title="US | Locals",KMIZABC (ABC) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2YWxsZXkubmV0L2hscy9LTUlaQUJDL0tNSVpBQkMubTN1OCIsICJpZCI6IDEwNDB9/fast
 #EXTINF:0 CUID="1045" tvg-name="KOMUCW (CW) • US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Mj61sWXu2ZU-wyG2W3qd_-MIoVBgFMYYwWDUfPxbZk1W7h9m7c9yMts&s=10" group-title="US | Locals",KOMUCW (CW) • US
@@ -421,6 +431,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2YWxsZXkubmV0L2hscy9LVFZPQUJDL0tUVk9BQkMubTN1OCIsICJpZCI6IDEwNDF9/fast
 #EXTINF:0 CUID="1044" tvg-name="KTVOCBS (CBS) • US" tvg-logo="https://play-lh.googleusercontent.com/sU34PqRAGjVaUvjITJLHFDWmoLkBKFtOsK7gYN2N6wdv4-koovT-7DiEnLeYcp9weA" group-title="US | Locals",KTVOCBS (CBS) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2YWxsZXkubmV0L2hscy9LVFZPQ0JTL0tUVk9DQlMubTN1OCIsICJpZCI6IDEwNDR9/fast
+#EXTINF:0 CUID="935" tvg-name="NBC Universo (West) • US" tvg-logo="https://logo.m3uassets.com/nbcuniverso.png" group-title="US | Locals",NBC Universo (West) • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5MC4xMS4yMjUuMTI0OjUwMDAvbGl2ZS91bml2ZXJzb19oZC9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTM1fQ%3D%3D/fast
 #EXTINF:0 CUID="813" tvg-name="ACC Digital Network FAST • US" tvg-logo="https://logo.m3uassets.com/accdigitalnetwork.png" group-title="US | Fast",ACC Digital Network FAST • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby5hbWFnaS50di9pbmdyZXNzL2xpbmVhci9hbWcwMTI1OC1yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby9wbGF5bGlzdC5tM3U4IiwgImlkIjogODEzfQ%3D%3D/fast
 #EXTINF:0 CUID="809" tvg-name="DAZN Ringside FAST • US" tvg-logo="https://logo.m3uassets.com/daznfast.png" group-title="US | Fast",DAZN Ringside FAST • US
@@ -465,16 +477,6 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kYnJiNDlw
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zYW11ZWxnb2xkd3luLWNsYXNzaWNzLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NDF9/fast
 #EXTINF:0 CUID="973" tvg-name="The Masked Singer • US" group-title="US | Fast",The Masked Singer • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZldHYtZmEudHViaS52aWRlby9tYXNrZWQtc2luZ2VyL2luZGV4Lm0zdTgiLCAiaWQiOiA5NzN9/fast
-#EXTINF:0 CUID="882" tvg-name="FOX BUSINESS NETWORK • US" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="United States ",FOX BUSINESS NETWORK • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQxLjIwNS45My4xNTQvRk9YQlVTSU5FU1MvaW5kZXgubTN1OCIsICJpZCI6IDg4Mn0%3D/fast
-#EXTINF:0 CUID="1036" tvg-name="FOX NEWS RADIO • US" tvg-logo="https://logo.m3uassets.com/foxnewsradio.png" group-title="United States ",FOX NEWS RADIO • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYWRpb3ZpZC5mb3huZXdzLmNvbS9obHMvbGl2ZS82NjE1NDcvUkFESU9WSUQvaW5kZXgubTN1OCIsICJpZCI6IDEwMzZ9/fast
-#EXTINF:0 CUID="885" tvg-name="LiveNOW from FOX • US" tvg-logo="https://logo.m3uassets.com/livenowfox.png" group-title="United States ",LiveNOW from FOX • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mb3gtZm94bmV3c25vdy12aXppby5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg1fQ%3D%3D/fast
-#EXTINF:0 CUID="935" tvg-name="NBC Universo (West) • US" tvg-logo="https://logo.m3uassets.com/nbcuniverso.png" group-title="United States ",NBC Universo (West) • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5MC4xMS4yMjUuMTI0OjUwMDAvbGl2ZS91bml2ZXJzb19oZC9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTM1fQ%3D%3D/fast
-#EXTINF:0 CUID="909" tvg-name="NBCLX • US" tvg-logo="https://logo.m3uassets.com/nbclx.png" group-title="United States ",NBCLX • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYmN1bG9jYWxsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzA5Ni9seC91c2UxLm0zdTgiLCAiaWQiOiA5MDl9/fast
 #EXTINF:0 CUID="833" tvg-name="Jio Exclusive HD • IN" group-title="India",Jio Exclusive HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2ppb2V4Y2x1c2l2ZWhkL21hc3Rlci5tM3U4IiwgImlkIjogODMzfQ%3D%3D/fast
 #EXTINF:0 CUID="834" tvg-name="STAR MOVIES SELECT HD • IN" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="India",STAR MOVIES SELECT HD • IN
@@ -491,6 +493,8 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRp
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2Rpc25leWp1bmlvci9tYXN0ZXIubTN1OCIsICJpZCI6IDk5N30%3D/fast
 #EXTINF:0 CUID="999" tvg-name="Cartoon Network HD+ • IN" group-title="India",Cartoon Network HD+ • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9taW5pLmFsbGlub25lcmVib3JuLm9ubGluZS9qaW90di13dy9hcHAvdHNfbGl2ZV8xMDc5Lm0zdTgiLCAiaWQiOiA5OTl9/fast
+#EXTINF:0 CUID="1083" tvg-chno="null" tvg-name="IN| Nick+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="India",IN| Nick+
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS81ODkzNDYyMzQiLCAiaWQiOiAxMDgzfQ%3D%3D/fast
 #EXTINF:0 CUID="1060" tvg-chno="null" tvg-name="SKY SPORT 1 • NZ" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand ",SKY SPORT 1 • NZ
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMjEiLCAiaWQiOiAxMDYwfQ%3D%3D/fast
 #EXTINF:0 CUID="1061" tvg-chno="null" tvg-name="SKY SPORT 2 • NZ" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="New Zealand ",SKY SPORT 2 • NZ
@@ -547,6 +551,12 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMzN6YWg1
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzc4LjE2LjIyMi4yMjo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMjEzNTcxMDY2ND90aWNrZXQ9OTA2N0I4Nzk1MDMwNUQ5NTI0ODM4QjdDMTgyRDdCODFCNjEwMUM1MyZwcm9maWxlPXBhc3MiLCAiaWQiOiAxMDAwfQ%3D%3D/fast
 #EXTINF:0 CUID="1001" tvg-name="RTÈ JR. • IE" tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="Ireland ",RTÈ JR. • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzc4LjE2LjIyMi4yMjo5OTgxL3N0cmVhbS9jaGFubmVsaWQvNTQ4NzY0Nzg5P3RpY2tldD1GNjczNjVFNzY3MEIyMDVGRDYyOUY4MzA1Q0Y1RUE5QUJBODRBRjFEJnByb2ZpbGU9cGFzcyIsICJpZCI6IDEwMDF9/fast
+#EXTINF:0 CUID="1084" tvg-chno="null" tvg-name="TG4" tvg-logo="https://media.info/l/f/1/115.1388406133.png" group-title="Ireland ",TG4
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS80MzEwODk0NiIsICJpZCI6IDEwODR9/fast
+#EXTINF:0 CUID="1085" tvg-chno="null" tvg-name="RTÉ One" group-title="Ireland ",RTÉ One
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS8xNzE2Mzk2NDI2IiwgImlkIjogMTA4NX0%3D/fast
+#EXTINF:0 CUID="1086" tvg-chno="null" tvg-name="RTÉ Two" group-title="Ireland ",RTÉ Two
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS8zODYzMTgzMzYiLCAiaWQiOiAxMDg2fQ%3D%3D/fast
 #EXTINF:0 CUID="800" tvg-name="CANAL+ FOOT • FR" tvg-logo="https://logo.m3uassets.com/canal+foot.png" group-title="France ",CANAL+ FOOT • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvNTU2L2luZGV4Lm0zdTgiLCAiaWQiOiA4MDB9/fast
 #EXTINF:0 CUID="872" tvg-name="France Info • FR" group-title="France ",France Info • FR
