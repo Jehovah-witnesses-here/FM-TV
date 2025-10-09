@@ -1,64 +1,51 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-09 02:01:05 UTC  
-**⏱️ Duration:** 1157.5 seconds  
+**📅 Generated on:** 2025-10-09 06:48:52 UTC  
+**⏱️ Duration:** 888.5 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 1194 streams (📡 1111 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 80 FAST)
+- 📄 `channel playlist.m3u`: 1196 streams (📡 1113 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 80 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 1194 | 100.0% |
-| **📡 Channels** | 1111 | 93.0% |
+| **📺 Total Streams Found** | 1196 | 100.0% |
+| **📡 Channels** | 1113 | 93.1% |
 | **🎬 VODs** | 0 | 0.0% |
 | **🥊 PPV** | 3 | 0.3% |
 | **📺 FAST** | 80 | 6.7% |
-| **🔍 Checked Streams** | 1111 | 93.0% |
-| **✅ Working Streams** | 682 | 61.4% |
-| **❌ Failed Streams** | 429 | 38.6% |
-| **⏭️ Skipped Streams** | 83 | 7.0% |
+| **🔍 Checked Streams** | 1113 | 93.1% |
+| **✅ Working Streams** | 628 | 56.4% |
+| **❌ Failed Streams** | 485 | 43.6% |
+| **⏭️ Skipped Streams** | 83 | 6.9% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 682 | ❌ 429 | 1111 | 61.4% |
+| 📡 **Channels** | ✅ 628 | ❌ 485 | 1113 | 56.4% |
 
-## 🚨 Failure Analysis (429 total failures)
+## 🚨 Failure Analysis (485 total failures)
 
-### 🔍 Not Found (404) (1 streams)
+### 🔍 Not Found (404) (2 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| Virgin Media One | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (43 streams)
+### 🔒 Access Denied (403) (33 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV Warehouse • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| What's Your Number? | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| What Happens in Vegas | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| What Lies Beneath | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| West Side Story (2021) | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| War for the Planet of the Apes | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| War Horse | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Wall Street | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Wall Street: Money Never Sleep | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| WALL·E | • DISNEY+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Inception | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Interstellar | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Mad Max: Fury Road | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Batman Begins | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | We're the Millers | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | We Met in Virtual Reality | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | We Are Marshall | • HBO MAX | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -72,21 +59,25 @@
 | Waterworld | • PEACOCK TV | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | War of the Worlds (2025) | • PEACOCK TV | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Warcraft | • PEACOCK TV | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Walking Tall | • PRIME VIDEO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Mission: Impossible III | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Jack Reacher | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Shutter Island | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Saving Private Ryan | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Indiana Jones and the Raiders  | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| The Godfather | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Forrest Gump | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Skyfall | • PRIME VIDEO | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Angels & Demons | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Terminator 3: Rise of the Mach | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Whatever Works | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| When a Stranger Calls | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| We Own the Night | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| War Room | • SONY PICTURES CORE | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Whatever Lola Wants | • INDEPENDENT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| What Just Happened | • INDEPENDENT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| We'll Never Have Paris | • INDEPENDENT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| We Live in Time | • INDEPENDENT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Warfare | • INDEPENDENT | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | What Women Want | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | We Love Dad's Army | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Watchmen: Chapter I | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Watchmen: Chapter II | • PARAMOUNT+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | We Were Soldiers | • ICON FILM | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (18 streams)
+### ⏰ Connection Timeouts (16 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
@@ -94,10 +85,10 @@
 | SKY SPORTS CRICKET • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports F1 • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Golf • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Mix • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports News • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY SPORTS PREMIER LEAGUE • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Tennis • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | TNT Sports Ultimate • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
@@ -107,24 +98,15 @@
 | FOX SPORTS 507 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| cula4 • IE | Ireland  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| Supersport Premier League • ZA | South Africa  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-
-### 🌐 DNS Failures (1 streams)
-*Domain name resolution failed*
-
-| Channel | Group | Type | Error | Code | File |
-|---------|-------|------|-------|------|---------|
-| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 
 ### 📡 Stream Errors (1 streams)
 *Stream exists but not readable*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| RTÉ One | Ireland  | 📡 Channel | Stream not readable | 200 | channel playlist.m3u |
+| IN\| Nick+ | India | 📡 Channel | Stream not readable | 200 | channel playlist.m3u |
 
-### 🌍 HTTP Errors (5 streams)
+### 🌍 HTTP Errors (6 streams)
 *Other HTTP status errors*
 
 | Channel | Group | Type | Error | Code | File |
@@ -134,8 +116,9 @@
 | STAR MOVIES HD • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Nick Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Disney Channel • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
+| Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 
-### 🚦 Rate Limited (359 streams)
+### 🚦 Rate Limited (425 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -156,10 +139,10 @@
 | FXX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Game Show Central • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HLN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MSG • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HSN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio Alternative • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NFL Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NHL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -173,86 +156,120 @@
 | Samuel Goldwyn Films • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TCM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nick Jr. • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Disney Jr. • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Cartoon Network HD+ • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| IN\| Nick+ | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 1 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 2 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 3 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 4 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 5 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 6 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT PREMIER LEAGUE • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 9 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Thelma the Unicorn | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Theo Von: Regular People | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wrath of God | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wonder | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wonder Weeks | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wonderful Story of Henry S | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wonderful Story of Henry S | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The White Tiger | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Week Of | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Unforgivable | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Union | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Unauthorized Bash Brothers | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Truth About Jussie Smollet | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Trapped 13: How We Survive | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Trial of the Chicago 7 | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Thursday Murder Club | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Toy Story 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Inc. | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Finding Dory | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Moana | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Trolls | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rio 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Rio | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Bolt | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Robots | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Meet the Robinsons | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Chicken Little | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Garfield | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Iron Man | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Swiped | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Star Wars: Episode IX - The Ri | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Amateur | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| A Complete Unknown | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Captain America: Brave New Wor | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Home Alone | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Home Alone 2: Lost in New York | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Night at the Museum | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| the Witch and the Wardrobe | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Live Free or Die Hard | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Zootropolis\| Zootopia | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Z-O-M-B-I-E-S | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Z-O-M-B-I-E-S 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: Days of Future Past | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: First Class | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: The Last Stand | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X2: X-Men United | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men Origins: Wolverine | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: Apocalypse | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Wrong Turn 2: Dead End | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Wrong Turn 3: Left for Dead | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Wrong Turn 4: Bloody Beginning | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nickelodeon • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nickelodeon Pluto TV FAST • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ABC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBS NEWS 24/7 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Cheddar News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBC NEWS NOW • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DAZN LIGUE 1 1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HISTOIRE TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NOVELAS TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Supersport Premier League • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Supersport Football • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBeebies • Asia | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| IRIB News • IR | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| adult swim • MX | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Disney Jr. • JP | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC Earth • NO | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Don't Look Up | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Steve | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Murder Mystery 2 | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Red Notice | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Night Always Comes | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Marriage Story | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spenser Confidential | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Happy Gilmore 2 | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Your Place or Mine | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Taming of the Shrewd | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Takeover | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Strays | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The SpongeBob Movie: Sponge on | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Soccer Football Movie | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Social Dilemma | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Sea Beast | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Rat Catcher | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Prom | • NETFLIX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Aliens | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Alien | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Die Hard | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| National Treasure | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Logan | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Deadpool | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Star Wars: Episode VII - The F | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Martian | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Bohemian Rhapsody | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Incredibles | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Brave | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Monsters University | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Toy Story 3 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Deadpool 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Frozen | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ratatouille | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Coco | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Missouri | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Jojo Rabbit | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Fantastic Four: First Step | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Freakier Friday | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Empire of Light | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Avatar: The Way of Water | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spy | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| (500) Days of Summer | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Borat | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Minority Report | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| A Good Day to Die Hard | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Lilo & Stitch (2025) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Banshees of Inisherin | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ford v Ferrari | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Star Wars: Episode VI - Return | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Solo: A Star Wars Story | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Star Wars: Episode I - The Pha | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Rogue One: A Star Wars Story | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Willow: Behind the Magic | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wilson | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wild Hogs | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wild Life | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wild Yellowstone | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Widows | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Why Him? | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Who Framed Roger Rabbit | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| White Men Can't Jump (2023) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Where the Heart Is | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Where the Heart Is (2000) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| When in Rome | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| What's Your Number? | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| What Happens in Vegas | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| What Lies Beneath | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| West Side Story (2021) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| War for the Planet of the Apes | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| War Horse | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wall Street | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wall Street: Money Never Sleep | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| WALL·E | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Walt Disney Treasures: The Chr | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Walk the Line | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Vacation Friends | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Vacation Friends 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Us Again | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Up | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unstoppable (2010) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unfinished Business | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unfaithful | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Under the Helmet: The Legacy o | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Under Wraps 2 | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Underdog | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unbreakable | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Turner & Hooch | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Turning Red | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Turbo | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Tristan + Isolde | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Titanic | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tinker Bell and the Great Fair | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tinker Bell | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tiger (2024) | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tigerland | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thunderbolts* \| The New Avenge | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thor: Love and Thunder | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thor: The Dark World | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Those Magnificent Men in Their | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| This Means War | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thirteen | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Young Black Stallion | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The X Files: I Want to Believe | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Wolverine | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Wedding Planner | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Way Way Back | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Watch | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Waterboy | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -261,15 +278,15 @@
 | The Truth About Cats & Dogs | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Transporter | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Tigger Movie | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Thin Red Line | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Three Stooges | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Swap | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Simpsons in Plusaversary | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Simpsons Movie | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Shaggy Dog | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Shape of Water | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Sentinel | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Sessions | • DISNEY+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Interstellar | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Mad Max: Fury Road | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Batman Begins | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Dunkirk | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Dune (2021) | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Happy Feet | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Dark Knight | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Joker | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sinners | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Companion | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Weapons | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Godzilla vs. Kong | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -284,10 +301,10 @@
 | Superman | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Batman | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Shaft (2019) | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shazam! | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Pacific Rim | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Godzilla | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Man of Steel | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Charlie and the Chocolate Fact | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Harry Potter and the Prisoner  | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Harry Potter 20th Anniversary: | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Fantastic Beasts and Where to  | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Ocean's Eleven | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | You've Got Mail | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Yogi Bear | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -323,12 +340,12 @@
 | Those Who Wish Me Dead | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | This Place Rules | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Thirteen Days | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Chicken Run | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Shark Tale | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Bee Movie | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Nobody 2 | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Black Bag | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Drop | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| This Boy's Life | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Them! | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| There Is No I in Threesome | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Witches | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Weeknd: Live at SoFi Stadi | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Wedding | • HBO MAX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Knock at the Cabin | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Cocaine Bear | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Downton Abbey: The Grand Final | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -341,16 +358,16 @@
 | Split | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Jurassic World: Rebirth | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Renfield | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Violent Night | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Van Helsing | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Us | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| United 93 | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Undercover Brother | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Undercover Brother 2 | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unbroken | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Unbroken: Path to Redemption | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| UglyDolls | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Two for the Money | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Fast & Furious Presents: Hobbs | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Identity Thief | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| About Time | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Hot Fuzz | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ted | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Bourne Identity | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| American Made | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Oblivion | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Casino | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Scarface | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Twist | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Trolls Band Together | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Trolls Holiday | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -358,94 +375,124 @@
 | Trolls World Tour | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Triple 9 | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Tremors | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Scorpion King | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Scorpion King 2: Rise of a | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Scorpion King 3: Battle fo | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Scorpion King 4: Quest for | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Scorpion King: Book of Sou | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Rundown | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Riot Club | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Questor Tapes | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Purge | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Purge: Anarchy | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Purge: Election Year | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Prince of Egypt | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Skyfall | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| No Time to Die | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Play Dirty | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors 3: Back to Perfection | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors 4: The Legend Begins | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors 5: Bloodlines | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors II: Aftershocks | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors: A Cold Day in Hell | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tremors: Shrieker Island | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Traffic | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Trainwreck | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tower Heist | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Ticket to Paradise | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Three O'Clock High | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thomas & Friends: Big World! B | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thomas & Friends: Journey Beyo | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thomas & Friends: The Adventur | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thomas & Friends: The Great Ra | • PEACOCK TV | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Accountant² | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Creed III | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Covenant | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Woman in Red | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Weeknd x the Dawn FM Exper | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Usual Suspects | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Underdoggs | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Tomorrow War | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Town That Dreaded Sundown | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Thomas Crown Affair | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Terminator | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Silence of the Lambs | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Secret of NIMH 2: Timmy to | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Angels & Demons | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Terminator 3: Rise of the Mach | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Fury | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Hancock | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Men in Black³ | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Spider-Man: Into the Spider-Ve | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Monster House | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| You Don't Mess with the Zohan | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Year One | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| xXx | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| xXx: State of the Union | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Wind Chill | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Whitney Houston: I Wanna Dance | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| White Boy Rick | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| White Chicks | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| White House Down | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Whiplash | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Whatever Works | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| When a Stranger Calls | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| We Own the Night | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| War Room | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Venom: Let There Be Carnage | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Venom: The Last Dance | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Vantage Point | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Until Dawn | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Replacement Killers | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Raid 2 | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Raid: Redemption | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Punisher (2004) | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Pursuit of Happyness | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Wallace & Gromit: A Matter of  | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Zog | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Zog and the Flying Doctors | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Williams | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| United | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Tristram Shandy | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Top Gear: The Perfect Road Tri | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Top Gear: The Perfect Road Tri | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Thomas and the Magic Railroad | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| This Is England | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Young Offenders | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Zone of Interest | • BRITBOX | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Idea of You | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Challengers | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Saltburn | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| One Flew Over the Cuckoo's Nes | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 2001: A Space Odyssey | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Apocalypse Now | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Casino Royale | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Mine & Ours | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| You Only Live Twice | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wrath of Man | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wonder Wheel | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wonderstruck | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Without Remorse | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Windtalkers | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wicker Park | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| When Harry Met Sally... | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| What's the Worst That Could Ha | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Walking Tall | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Van Wilder: The Rise of Taj | • PRIME VIDEO | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man: Homecoming | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man: Far from Home | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Caught Stealing | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 28 Years Later | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Venom | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Passengers | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Escape Room: Tournament of Cha | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Karate Kid: Legends | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Morbius | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Bloodshot | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 21 Jump Street | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Looper | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 2012 | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Zombieland | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Hellboy | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Fifth Element | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Once Upon a Time in Hollywood | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Taxi Driver | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Spider-Man | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Karate Kid (2010) | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Pirates! Band of Misfits | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Planet 51 | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Uncharted | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Trapped | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Total Recall (2012) | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| This Is the End | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Think Like a Man | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Think Like a Man Too | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Thir13en Ghosts | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Woman King | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The White Countess | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Wedding Ringer | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Walk | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Unholy | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Ugly Truth | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Tourist | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Taking of Pelham 123 | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Sweetest Thing | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Tailor of Panama | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Social Network | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Smurfs | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Smurfs 2 | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Smurfs: A Christmas Carol | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Smurfs: The Legend of Smur | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Shepherd | • SONY PICTURES CORE | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Your Sister's Sister | • AMC+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Why Stop Now? | • AMC+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| White Elephant | • AMC+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tornado | • AMC+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Trip to Italy | • AMC+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sportsville | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Ledge (2022) | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Materialists | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Whale | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Conclave | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Apprentice | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Brutalist | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Assessment | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Parker | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Your Name. | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| X (2022) | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Winter's Bone | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Wind River | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Winnie the Pooh: Blood and Hon | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Winnie-the-Pooh: Blood and Hon | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Willy's Wonderland | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Wild America | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | White Noise 2: The Light | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| While We're Young | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Whatever Lola Wants | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| What Just Happened | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| We'll Never Have Paris | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| We Live in Time | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Warfare | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Walkaway Joe | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Waiting... | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Victoria | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Vice (2018) | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Vengeance: A Love Story | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| USS Indianapolis: Men of Coura | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Upgrade | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Take | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Substance | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Ron Clark Story | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Quiet Ones | • INDEPENDENT | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| War of the Worlds | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Mission: Impossible III | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Jack Reacher | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Shutter Island | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Saving Private Ryan | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Indiana Jones and the Raiders  | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Godfather | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Forrest Gump | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| World War Z | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Transformers | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Pulp Fiction | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Mission: Impossible - The Fina | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -455,14 +502,14 @@
 | Scream VI | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Scream 3 | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Bumblebee | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Transformers: Revenge of the F | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Transformers: Dark of the Moon | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Lara Croft: Tomb Raider | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Collateral | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Babylon | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Wolf of Wall Street | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Truman Show | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Reservoir Dogs | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Transformers: Age of Extinctio | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Transformers: Rise of the Beas | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Transformers: The Last Knight | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Top Gun | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Top Gun: Maverick | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Timeline | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Things We Lost in the Fire | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| They | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | There Will Be Blood | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Yards | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Woman in Black | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -477,10 +524,10 @@
 | The Soloist | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Ring | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Ring Two | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Quiet American | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Prophecy 3: The Ascent | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Prophecy II | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| The Prophecy: Forsaken | • PARAMOUNT+ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Hurry Up Tomorrow | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Hateful Eight | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Django Unchained | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Hunger Games: Catching Fir | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | The Hunger Games: Mockingjay - | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Early Man | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Zeros and Ones | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -499,6 +546,8 @@
 | War | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Vice (2015) | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Venom (2005) | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Vanquish | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Vampire Killers | • STARZ | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (83 total)
@@ -538,5 +587,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-09 02:01:05 UTC*
+*📅 Last updated: 2025-10-09 06:48:52 UTC*
 *🤖 Report generated automatically by GitHub Actions*
