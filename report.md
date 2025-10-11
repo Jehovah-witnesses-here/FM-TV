@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-11 01:45:29 UTC  
-**⏱️ Duration:** 427.4 seconds  
+**📅 Generated on:** 2025-10-11 06:36:51 UTC  
+**⏱️ Duration:** 425.1 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,24 @@
 | **🥊 PPV** | 3 | 0.9% |
 | **📺 FAST** | 80 | 25.0% |
 | **🔍 Checked Streams** | 237 | 74.1% |
-| **✅ Working Streams** | 152 | 64.1% |
-| **❌ Failed Streams** | 85 | 35.9% |
+| **✅ Working Streams** | 151 | 63.7% |
+| **❌ Failed Streams** | 86 | 36.3% |
 | **⏭️ Skipped Streams** | 83 | 25.9% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 152 | ❌ 85 | 237 | 64.1% |
+| 📡 **Channels** | ✅ 151 | ❌ 86 | 237 | 63.7% |
 
-## 🚨 Failure Analysis (85 total failures)
+## 🚨 Failure Analysis (86 total failures)
+
+### 🚫 Connection Refused (1 streams)
+*Server actively refusing connections*
+
+| Channel | Group | Type | Error | Code | File |
+|---------|-------|------|-------|------|---------|
+| 10 COMEDY | Australia  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
 ### 🔍 Not Found (404) (2 streams)
 *Stream URL no longer exists*
@@ -38,21 +45,15 @@
 | Virgin Media One | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (3 streams)
+### 🔒 Access Denied (403) (4 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV Warehouse • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-
-### 🖥️ Server Errors (1 streams)
-*Server-side technical issues*
-
-| Channel | Group | Type | Error | Code | File |
-|---------|-------|------|-------|------|---------|
-| 10 COMEDY | Australia  | 📡 Channel | Server error (503) | 503 | channel playlist.m3u |
 
 ### ⏰ Connection Timeouts (14 streams)
 *Server slow/overloaded or PPV preparing*
@@ -117,7 +118,7 @@
 | HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HSN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio Alternative • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NFL Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NHL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -193,5 +194,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-11 01:45:29 UTC*
+*📅 Last updated: 2025-10-11 06:36:51 UTC*
 *🤖 Report generated automatically by GitHub Actions*
