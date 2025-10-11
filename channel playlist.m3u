@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"
 #EXTINF:0 CUID="991" tvg-name="Jio Events HD • IN" group-title="Events",Jio Events HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2ppb2V2ZW50c2hkL21hc3Rlci5tM3U4IiwgImlkIjogOTkxfQ%3D%3D/fast
-#EXTINF:0 CUID="1113" tvg-chno="null" tvg-name="SKY SPORTS UHD 1 • UK" group-title="Events",SKY SPORTS UHD 1 • UK
+#EXTINF:0 CUID="1113" tvg-chno="null" tvg-name="SKY SPORTS UHD 1 • UK" tvg-logo="https://logo.m3uassets.com/skysport.png" group-title="Events",SKY SPORTS UHD 1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2NjY2LnN0b3JlOjc3NzcvbGl2ZS9sdW5hcmlzcG9ydHMyOTEzL3Nwb3J0c3N0dWZmMjkvMTYwMzYxLnRzIiwgImlkIjogMTExM30%3D/fast
 #EXTINF:0 CUID="920" tvg-name="5 • UK" tvg-id="channel5.uk" group-title="UK | Entertainment ",5 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9jaGFubmVsNS9icm93c2VyLUhMUzgvY2hhbm5lbDUubTN1OCIsICJpZCI6IDkyMH0%3D/fast
@@ -639,3 +639,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9wcm94eS51
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LWZpcmV0di11cy00MDY3LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTExfQ%3D%3D/fast
 #EXTINF:0 CUID="881" tvg-name="CNBC • ID" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="Misc ( needs sorted )",CNBC • ID
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OCIsICJpZCI6IDg4MX0%3D/fast
+#EXTINF:0 CUID="1119" tvg-chno="null" tvg-name="Peacock ppv" group-title="Peacock ppv",Peacock ppv
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3VzZXIuc2NhbGVjZG4uY286ODA4MC9saXZlLzI2NzI1MDc0LzkyODY3MTMxLzY5NjUzOS50cyIsICJpZCI6IDExMTl9/fast
+#EXTINF:0 CUID="1120" tvg-chno="null" tvg-name="Peacock ppv 2" group-title="Peacock ppv",Peacock ppv 2
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3VzZXIuc2NhbGVjZG4uY286ODA4MC9saXZlLzI2NzI1MDc0LzkyODY3MTMxLzY5NjU0MC50cyIsICJpZCI6IDExMjB9/fast
