@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-12 06:35:32 UTC  
-**⏱️ Duration:** 325.3 seconds  
+**📅 Generated on:** 2025-10-12 12:46:10 UTC  
+**⏱️ Duration:** 360.7 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 3 | 0.9% |
 | **📺 FAST** | 80 | 25.0% |
 | **🔍 Checked Streams** | 237 | 74.1% |
-| **✅ Working Streams** | 145 | 61.2% |
-| **❌ Failed Streams** | 92 | 38.8% |
+| **✅ Working Streams** | 146 | 61.6% |
+| **❌ Failed Streams** | 91 | 38.4% |
 | **⏭️ Skipped Streams** | 83 | 25.9% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 145 | ❌ 92 | 237 | 61.2% |
+| 📡 **Channels** | ✅ 146 | ❌ 91 | 237 | 61.6% |
 
-## 🚨 Failure Analysis (92 total failures)
+## 🚨 Failure Analysis (91 total failures)
 
 ### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
@@ -37,12 +37,11 @@
 |---------|-------|------|-------|------|---------|
 | 10 COMEDY | Australia  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (3 streams)
+### 🔍 Not Found (404) (2 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| FOX BUSINESS NETWORK • US | US \| News | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | Virgin Media One | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
@@ -51,22 +50,25 @@
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| TV Warehouse • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (7 streams)
+### ⏰ Connection Timeouts (10 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | Sky Sports Tennis • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| TNT SPORTS 1 • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | TNT Sports Ultimate • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY SPORT 4 • NZ | New Zealand  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY SPORTS F1 UHD • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 505 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 506 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 507 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
 ### 📡 Stream Errors (1 streams)
 *Stream exists but not readable*
@@ -87,7 +89,7 @@
 | Disney Channel • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 
-### 🚦 Rate Limited (68 streams)
+### 🚦 Rate Limited (66 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -102,10 +104,6 @@
 | Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORTS PREMIER LEAGUE • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Sky Sports Racing • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Euronews English • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| GB News • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Sky News • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TALK • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | A WEALTH OF ENTERTAINMENT (AWE | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | AMC • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Bounce • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -121,12 +119,12 @@
 | HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HSN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NFL Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NHL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| RACER TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SEC NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio Alternative • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| LIFETIME • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| National Geographic (Latin) •  | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Paramount Network • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| QVC 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| QVC 3 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Tennis Channel • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Yes Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -144,8 +142,10 @@
 | Cheddar News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NBC NEWS NOW • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| beIN Sports 3 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| W9 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NEWS 12 NEW YORK • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsmax 2 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsmax TV • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Newsy • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -199,5 +199,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-12 06:35:32 UTC*
+*📅 Last updated: 2025-10-12 12:46:10 UTC*
 *🤖 Report generated automatically by GitHub Actions*
