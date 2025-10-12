@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-11 18:34:06 UTC  
-**⏱️ Duration:** 446.9 seconds  
+**📅 Generated on:** 2025-10-12 01:52:25 UTC  
+**⏱️ Duration:** 394.0 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -45,7 +45,7 @@
 | Virgin Media One | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (4 streams)
+### 🔒 Access Denied (403) (3 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
@@ -53,20 +53,16 @@
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV Warehouse • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (12 streams)
+### ⏰ Connection Timeouts (9 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| Sky Sports Mix • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| Sky Sports News • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Tennis • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | TNT Sports Ultimate • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| National Geographic (Latin) •  | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | USA Network (Latin) • US | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 505 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 506 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 507 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
@@ -99,7 +95,7 @@
 | Disney Channel • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 
-### 🚦 Rate Limited (51 streams)
+### 🚦 Rate Limited (54 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -109,6 +105,10 @@
 | Sky Sports Golf • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORTS MAIN EVENT • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORTS MAIN EVENTS UHD | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Sports Mix • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Sports News • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SKY SPORTS PREMIER LEAGUE • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Euronews English • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | GB News • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Sky News • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -123,7 +123,6 @@
 | E! Entertainment • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Game Show Central • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nickelodeon • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nickelodeon Pluto TV FAST • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -194,5 +193,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-11 18:34:06 UTC*
+*📅 Last updated: 2025-10-12 01:52:25 UTC*
 *🤖 Report generated automatically by GitHub Actions*
