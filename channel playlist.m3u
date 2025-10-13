@@ -639,3 +639,13 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9wcm94eS51
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LWZpcmV0di11cy00MDY3LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTExfQ%3D%3D/fast
 #EXTINF:0 CUID="881" tvg-name="CNBC • ID" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="Misc ( needs sorted )",CNBC • ID
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OCIsICJpZCI6IDg4MX0%3D/fast
+#EXTINF:0 CUID="1121" tvg-chno="null" tvg-name="Astro oasis" tvg-logo="https://logo.m3uassets.com/astrooasis.png" group-title="Malaysia ",Astro oasis
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTAwOS8iLCAiaWQiOiAxMTIxfQ%3D%3D/fast
+#EXTINF:0 CUID="1122" tvg-chno="null" tvg-name="Astro Chinese" tvg-logo="https://logo.m3uassets.com/astroch100.png" group-title="Malaysia ",Astro Chinese
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTAyNy8iLCAiaWQiOiAxMTIyfQ%3D%3D/fast
+#EXTINF:0 CUID="1123" tvg-chno="null" tvg-name="Tv alhijrah" group-title="Malaysia ",Tv alhijrah
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA0NC8iLCAiaWQiOiAxMTIzfQ%3D%3D/fast
+#EXTINF:0 CUID="1124" tvg-chno="null" tvg-name="TNT sports 1 Asia" group-title="Malaysia ",TNT sports 1 Asia
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA1Ni8iLCAiaWQiOiAxMTI0fQ%3D%3D/fast
+#EXTINF:0 CUID="1125" tvg-chno="null" tvg-name="Astro premier league" group-title="Malaysia ",Astro premier league
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA2MC8iLCAiaWQiOiAxMTI1fQ%3D%3D/fast
