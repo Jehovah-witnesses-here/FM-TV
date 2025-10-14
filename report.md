@@ -1,34 +1,34 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-13 18:38:29 UTC  
-**⏱️ Duration:** 433.2 seconds  
+**📅 Generated on:** 2025-10-14 01:49:58 UTC  
+**⏱️ Duration:** 447.3 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 320 streams (📡 237 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 80 FAST)
+- 📄 `channel playlist.m3u`: 325 streams (📡 242 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 80 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 320 | 100.0% |
-| **📡 Channels** | 237 | 74.1% |
+| **📺 Total Streams Found** | 325 | 100.0% |
+| **📡 Channels** | 242 | 74.5% |
 | **🎬 VODs** | 0 | 0.0% |
 | **🥊 PPV** | 3 | 0.9% |
-| **📺 FAST** | 80 | 25.0% |
-| **🔍 Checked Streams** | 237 | 74.1% |
-| **✅ Working Streams** | 146 | 61.6% |
-| **❌ Failed Streams** | 91 | 38.4% |
-| **⏭️ Skipped Streams** | 83 | 25.9% |
+| **📺 FAST** | 80 | 24.6% |
+| **🔍 Checked Streams** | 242 | 74.5% |
+| **✅ Working Streams** | 154 | 63.6% |
+| **❌ Failed Streams** | 88 | 36.4% |
+| **⏭️ Skipped Streams** | 83 | 25.5% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 146 | ❌ 91 | 237 | 61.6% |
+| 📡 **Channels** | ✅ 154 | ❌ 88 | 242 | 63.6% |
 
-## 🚨 Failure Analysis (91 total failures)
+## 🚨 Failure Analysis (88 total failures)
 
 ### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
@@ -56,7 +56,7 @@
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (14 streams)
+### ⏰ Connection Timeouts (15 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
@@ -69,6 +69,7 @@
 | Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Tennis • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | TNT Sports Ultimate • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| SKY SPORT 9 • NZ | New Zealand  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 505 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 506 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
@@ -76,14 +77,14 @@
 | FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🌐 DNS Failures (1 streams)
-*Domain name resolution failed*
+### 📡 Stream Errors (1 streams)
+*Stream exists but not readable*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
+| IN\| Nick+ | India | 📡 Channel | Stream not readable | 200 | channel playlist.m3u |
 
-### 🌍 HTTP Errors (5 streams)
+### 🌍 HTTP Errors (6 streams)
 *Other HTTP status errors*
 
 | Channel | Group | Type | Error | Code | File |
@@ -93,8 +94,9 @@
 | STAR MOVIES HD • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Nick Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Disney Channel • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
+| Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 
-### 🚦 Rate Limited (62 streams)
+### 🚦 Rate Limited (56 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -114,11 +116,11 @@
 | FX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Game Show Central • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FANDUEL TV EXTRA • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MSG • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HLN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HSN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| iHeartRadio Alternative • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NFL Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NHL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -132,21 +134,10 @@
 | Samuel Goldwyn Films • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TCM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nick Jr. • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Disney Jr. • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Cartoon Network HD+ • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| IN\| Nick+ | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 1 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 2 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 3 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 4 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 5 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 6 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT PREMIER LEAGUE • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 9 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT SELECT • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DAZN 2 • CH | China | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HORSE & COUNTRY • AU | Australia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nickelodeon • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nickelodeon Pluto TV FAST • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ABC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -161,6 +152,11 @@
 | Disney Jr. • JP | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BBC Earth • NO | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CNBC • ID | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Astro oasis | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Astro Chinese | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tv alhijrah | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TNT sports 1 Asia | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Astro premier league | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (83 total)
@@ -200,5 +196,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-13 18:38:29 UTC*
+*📅 Last updated: 2025-10-14 01:49:58 UTC*
 *🤖 Report generated automatically by GitHub Actions*
