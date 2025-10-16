@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-16 06:41:11 UTC  
-**⏱️ Duration:** 484.9 seconds  
+**📅 Generated on:** 2025-10-16 12:56:51 UTC  
+**⏱️ Duration:** 509.0 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 3 | 0.9% |
 | **📺 FAST** | 80 | 23.6% |
 | **🔍 Checked Streams** | 256 | 75.5% |
-| **✅ Working Streams** | 157 | 61.3% |
-| **❌ Failed Streams** | 99 | 38.7% |
+| **✅ Working Streams** | 162 | 63.3% |
+| **❌ Failed Streams** | 94 | 36.7% |
 | **⏭️ Skipped Streams** | 83 | 24.5% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 157 | ❌ 99 | 256 | 61.3% |
+| 📡 **Channels** | ✅ 162 | ❌ 94 | 256 | 63.3% |
 
-## 🚨 Failure Analysis (99 total failures)
+## 🚨 Failure Analysis (94 total failures)
 
 ### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
@@ -46,22 +46,14 @@
 | Dennis and Gnasher • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | Virgin Media One | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (4 streams)
+### 🔒 Access Denied (403) (3 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV WAREHOUSE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| SKY SPORTS MAIN EVENT • UK | UK \| Sports | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-
-### 🖥️ Server Errors (1 streams)
-*Server-side technical issues*
-
-| Channel | Group | Type | Error | Code | File |
-|---------|-------|------|-------|------|---------|
-| RTÉ Two | Ireland  | 📡 Channel | Server error (502) | 502 | channel playlist.m3u |
 
 ### ⏰ Connection Timeouts (15 streams)
 *Server slow/overloaded or PPV preparing*
@@ -113,7 +105,7 @@
 | Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Claro Sports | Mexico | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 
-### 🚦 Rate Limited (58 streams)
+### 🚦 Rate Limited (54 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -134,8 +126,8 @@
 | FX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Game Show Central • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HLN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FANDUEL TV EXTRA • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MSG • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -154,8 +146,6 @@
 | Nick Jr. • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nickelodeon • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Nickelodeon Pluto TV FAST • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ABC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -174,8 +164,6 @@
 | Tv alhijrah | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TNT sports 1 Asia | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Astro premier league | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SBS GOLF | South Korea | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Disney Jr. • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (83 total)
@@ -215,5 +203,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-16 06:41:11 UTC*
+*📅 Last updated: 2025-10-16 12:56:51 UTC*
 *🤖 Report generated automatically by GitHub Actions*
