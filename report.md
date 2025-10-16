@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-16 01:51:18 UTC  
-**⏱️ Duration:** 455.4 seconds  
+**📅 Generated on:** 2025-10-16 06:41:11 UTC  
+**⏱️ Duration:** 484.9 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 3 | 0.9% |
 | **📺 FAST** | 80 | 23.6% |
 | **🔍 Checked Streams** | 256 | 75.5% |
-| **✅ Working Streams** | 152 | 59.4% |
-| **❌ Failed Streams** | 104 | 40.6% |
+| **✅ Working Streams** | 157 | 61.3% |
+| **❌ Failed Streams** | 99 | 38.7% |
 | **⏭️ Skipped Streams** | 83 | 24.5% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 152 | ❌ 104 | 256 | 59.4% |
+| 📡 **Channels** | ✅ 157 | ❌ 99 | 256 | 61.3% |
 
-## 🚨 Failure Analysis (104 total failures)
+## 🚨 Failure Analysis (99 total failures)
 
 ### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
@@ -53,8 +53,15 @@
 |---------|-------|------|-------|------|---------|
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV WAREHOUSE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| SKY SPORTS MAIN EVENT • UK | UK \| Sports | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+
+### 🖥️ Server Errors (1 streams)
+*Server-side technical issues*
+
+| Channel | Group | Type | Error | Code | File |
+|---------|-------|------|-------|------|---------|
+| RTÉ Two | Ireland  | 📡 Channel | Server error (502) | 502 | channel playlist.m3u |
 
 ### ⏰ Connection Timeouts (15 streams)
 *Server slow/overloaded or PPV preparing*
@@ -69,19 +76,20 @@
 | Sky Sports NFL • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | Sky Sports Tennis • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | TNT Sports Ultimate • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| National Geographic (Latin) •  | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| USA Network (Latin) • US | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 503 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 505 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 506 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 507 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
-### 🌐 DNS Failures (2 streams)
+### 🌐 DNS Failures (3 streams)
 *Domain name resolution failed*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 | SONY Sports 1 • IN | India | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 | Cartoon Network HD+ • IN | India | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 
@@ -105,7 +113,7 @@
 | Disney Jr. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | Claro Sports | Mexico | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 
-### 🚦 Rate Limited (66 streams)
+### 🚦 Rate Limited (58 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -128,32 +136,26 @@
 | Game Show Central • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HLN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HSN 2 • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HSN • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| iHeartRadio 90s • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| iHeartRadio Alternative • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MSG • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NFL Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NHL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| RACER TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SEC NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Tennis Channel • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Yes Network • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FXM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HBO FAMILY • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HBO HITS • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Samuel Goldwyn Films • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TCM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Nick Jr. • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nickelodeon • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Nickelodeon Pluto TV FAST • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ABC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBC News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBS NEWS 24/7 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Cheddar News • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBC NEWS NOW • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NEWS 12 NEW YORK • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Newsmax 2 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Newsmax TV • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Newsy • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX BUSINESS NETWORK • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX NEWS RADIO • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| LiveNOW from FOX • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KMIZABC (ABC) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KOMUCW (CW) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KRCGCBS (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KSMOIND (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KTVOABC (ABC) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| KTVOCBS (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBC Universo (West) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -174,8 +176,6 @@
 | Astro premier league | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SBS GOLF | South Korea | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Disney Jr. • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| J SPORTS 1 | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| J SPORTS 2 | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (83 total)
@@ -215,5 +215,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-16 01:51:18 UTC*
+*📅 Last updated: 2025-10-16 06:41:11 UTC*
 *🤖 Report generated automatically by GitHub Actions*
