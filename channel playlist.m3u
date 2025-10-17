@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/FMTV-L1VE-EPG-XML"
-#EXTINF:0 CUID="991" tvg-name="Jio Events HD • IN" group-title="Events",Jio Events HD • IN
+#EXTINF:0 CUID="991" tvg-name="JIO EVENTS • IN" group-title="Events",JIO EVENTS • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2ppb2V2ZW50c2hkL21hc3Rlci5tM3U4IiwgImlkIjogOTkxfQ%3D%3D/fast
 #EXTINF:0 CUID="1113" tvg-chno="null" tvg-name="SKY SPORTS UHD 1 • UK" tvg-logo="https://logo.m3uassets.com/skysport.png" group-title="Events",SKY SPORTS UHD 1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2NjY2LnN0b3JlOjc3NzcvbGl2ZS9sdW5hcmlzcG9ydHMyOTEzL3Nwb3J0c3N0dWZmMjkvMTYwMzYxLnRzIiwgImlkIjogMTExM30%3D/fast
@@ -21,9 +21,9 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rp
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9pdHY0L2Jyb3dzZXItZGFzaC9pdHY0Lm1wZCIsICJpZCI6IDkzMH0%3D/fast
 #EXTINF:0 CUID="919" tvg-name="MORE4 • UK" tvg-id="I748.82858.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="UK | Entertainment ",MORE4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9tb3JlNC9icm93c2VyLUhMUzgvbW9yZTQubTN1OCIsICJpZCI6IDkxOX0%3D/fast
-#EXTINF:0 CUID="1023" tvg-name="MTV Hits • UK" tvg-id="I484.67787.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="UK | Entertainment ",MTV Hits • UK
+#EXTINF:0 CUID="1023" tvg-name="MTV HITS • UK" tvg-id="I484.67787.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="UK | Entertainment ",MTV HITS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1Ljg4LjkyLjMvdHIzX01UVkhpdHNfU0QvaW5kZXgubTN1OD90b2tlbj10ZXN0IiwgImlkIjogMTAyM30%3D/fast
-#EXTINF:0 CUID="1025" tvg-name="MTV Music • UK" tvg-id="IN4900002RV" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="UK | Entertainment ",MTV Music • UK
+#EXTINF:0 CUID="1025" tvg-name="MTV MUSIC • UK" tvg-id="IN4900002RV" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="UK | Entertainment ",MTV MUSIC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvMjIxL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDI1fQ%3D%3D/fast
 #EXTINF:0 CUID="902" tvg-name="NATIONAL GEOGRAPHIC • UK" tvg-id="I276.24959.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="UK | Entertainment ",NATIONAL GEOGRAPHIC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC80NDEvaW5kZXgubTN1OCIsICJpZCI6IDkwMn0%3D/fast
@@ -53,51 +53,57 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLXRi
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tc2hvcC1sYy0wMS5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvSExTX0hMUy9MaXZlL2NoYW5uZWwoVEpDT1RUKS9pbmRleC5tM3U4IiwgImlkIjogMTAxNn0%3D/fast
 #EXTINF:0 CUID="1017" tvg-name="TV WAREHOUSE • UK" tvg-id="TV.Warehouse.uk" tvg-logo="https://logo.m3uassets.com/tvwarehouse.png" group-title="UK | Entertainment ",TV WAREHOUSE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dndhcmVob3VzZS5yLndvcmxkc3NsLm5ldC9teXN0cmVhbS5tM3U4IiwgImlkIjogMTAxN30%3D/fast
-#EXTINF:0 CUID="903" tvg-name="WildEarth • UK" tvg-id="US3800007CR" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="UK | Entertainment ",WildEarth • UK
+#EXTINF:0 CUID="903" tvg-name="WILDEARTH• UK" tvg-id="US3800007CR" tvg-logo="https://logo.m3uassets.com/wildearth.png" group-title="UK | Entertainment ",WILDEARTH• UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly93aWxkZWFydGgtb25vLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxMjkwLXdpbGRlYXJ0aC1vYW5kby9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTAzfQ%3D%3D/fast
 #EXTINF:0 CUID="1011" tvg-name="QVC • UK" tvg-id="I275.60222.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="UK | Entertainment ",QVC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmN1ay1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA5NzExMi9xdmMvbWFzdGVyLm0zdTgiLCAiaWQiOiAxMDExfQ%3D%3D/fast
 #EXTINF:0 CUID="1115" tvg-chno="null" tvg-name="CLUBLAND • UK" tvg-logo="https://logo.m3uassets.com/clublandtv.png" group-title="UK | Entertainment ",CLUBLAND • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5My4yMzcuMjIwLjEzNTo1NTU1NS9DbHVibGFuZCUyMFRWIiwgImlkIjogMTExNX0%3D/fast
-#EXTINF:0 CUID="1117" tvg-chno="null" tvg-name="Together TV • UK" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK | Entertainment ",Together TV • UK
+#EXTINF:0 CUID="1117" tvg-chno="null" tvg-name="TOGETHER TV • UK" tvg-logo="https://logo.m3uassets.com/togethertv.png" group-title="UK | Entertainment ",TOGETHER TV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE4NS45OS4xMzYuNTA6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzk0NDY0NzAyNz9wcm9maWxlPXBhc3MiLCAiaWQiOiAxMTE3fQ%3D%3D/fast
+#EXTINF:0 CUID="1012" tvg-name="HOBBYMAKER • UK" tvg-id="HobbyMaker.uk" tvg-logo="https://logo.m3uassets.com/hobbymaker.png" group-title="UK | Entertainment ",HOBBYMAKER • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9sbzMuZ2VtcG9yaWEuY29tL2FicmhvYmJ5bWFrZXJ1a2dmeC9zbWlsOmxpdmVzdHJlYW1GdWxsSEQuc21pbC9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTAxMn0%3D/fast
+#EXTINF:0 CUID="943" tvg-name="DEMAND DRAMA • UK" tvg-id="GB900005KI" group-title="UK | Entertainment ",DEMAND DRAMA • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I5MDAwMDVLSSIsICJpZCI6IDk0M30%3D/fast
+#EXTINF:0 CUID="904" tvg-name="CURIOSITY NOW • UK" tvg-id="ATBA3300008ZT" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="UK | Entertainment ",CURIOSITY NOW • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE3MC1jdXJpb3NpdHlzdHJlYW0tYW1nMDAxNzBjMy1yYWt1dGVuLXVzLTIyODkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwMTcwLWN1cmlvc2l0eXN0cmVhbWxsY2Zhc3QtY3VyaW9zaXR5bm93cm93LXJha3V0ZW51cy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA0fQ%3D%3D/fast
 #EXTINF:0 CUID="795" tvg-name="SKY SPORTS CRICKET • UK" tvg-id="I1079.51204.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="UK | Sports",SKY SPORTS CRICKET • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTZkOTVlNGIwODkzZTE1NWNjNjc0Yjg0ZTA3NjMxNTBjNDQ1ZDNkZGQmcGlkPTUzNiIsICJpZCI6IDc5NX0%3D/fast
-#EXTINF:0 CUID="1070" tvg-chno="null" tvg-name="Sky Sports F1 • UK" tvg-id="I1081.87578.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="UK | Sports",Sky Sports F1 • UK
+#EXTINF:0 CUID="1070" tvg-chno="null" tvg-name="SKY SPORTS F1 • UK" tvg-id="I1081.87578.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="UK | Sports",SKY SPORTS F1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L2xDQUROdHUxd1JVbm1FcUZDNnJFV2ZOWm9yNE14N2tWWmFxTWtjUW5xZzAvdHMiLCAiaWQiOiAxMDcwfQ%3D%3D/fast
 #EXTINF:0 CUID="821" tvg-name="SKY SPORTS FOOTBALL • UK" tvg-id="I1085.104327.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="UK | Sports",SKY SPORTS FOOTBALL • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPThkYmUyZDUxNWU5MTMxZmEzMTEzNTM1Mzc3MzZmOGM5NGJlOWIyNmQmcGlkPTY1NyIsICJpZCI6IDgyMX0%3D/fast
-#EXTINF:0 CUID="1071" tvg-chno="null" tvg-name="Sky Sports Golf • UK" tvg-id="I1088.87579.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="UK | Sports",Sky Sports Golf • UK
+#EXTINF:0 CUID="1071" tvg-chno="null" tvg-name="SKY SPORTS GOLF • UK" tvg-id="I1088.87579.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="UK | Sports",SKY SPORTS GOLF • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L09nb0tQQ0JwRkMyQXdZVWw0WUNVbmJmT3lpcGVsOVR1WnV1SlRzRXRaT1UvdHMiLCAiaWQiOiAxMDcxfQ%3D%3D/fast
 #EXTINF:0 CUID="794" tvg-name="SKY SPORTS MAIN EVENT • UK" tvg-id="I1091.49609.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="UK | Sports",SKY SPORTS MAIN EVENT • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVhYjdhZWVmMDIxOGNlOGIwNzUyZTU5NmU0NzkyYjY5ZWRhNGRmNWUmcGlkPTUzNSIsICJpZCI6IDc5NH0%3D/fast
-#EXTINF:0 CUID="1087" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENTS UHD" tvg-id="I1091.49609.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="UK | Sports",SKY SPORTS MAIN EVENTS UHD
+#EXTINF:0 CUID="1087" tvg-chno="null" tvg-name="SKY SPORTS MAIN EVENTS UHD • UK" tvg-id="I1091.49609.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="UK | Sports",SKY SPORTS MAIN EVENTS UHD • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hMXhzLnZpcC8yMDAwMDE1IiwgImlkIjogMTA4N30%3D/fast
-#EXTINF:0 CUID="1072" tvg-chno="null" tvg-name="Sky Sports Mix • UK" tvg-id="I1093.100265.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="UK | Sports",Sky Sports Mix • UK
+#EXTINF:0 CUID="1072" tvg-chno="null" tvg-name="SKY SPORTS MIX • UK" tvg-id="I1093.100265.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="UK | Sports",SKY SPORTS MIX • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzBSeU00dXVyalVYLVRMX2hMSkFlYWluYmFQMWx6aFh5WmlxX1NBM2gxNjgvdHMiLCAiaWQiOiAxMDcyfQ%3D%3D/fast
-#EXTINF:0 CUID="1076" tvg-chno="null" tvg-name="Sky Sports News • UK" tvg-id="I1096.68347.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="UK | Sports",Sky Sports News • UK
+#EXTINF:0 CUID="1076" tvg-chno="null" tvg-name="SKY SPORTS NEWS • UK" tvg-id="I1096.68347.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="UK | Sports",SKY SPORTS NEWS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZfb2g0Vnp4MUtCSy1EOWhBbklfaWZFV1ZhTGRuek1iWS1pOHhsMjBra0UvdHMiLCAiaWQiOiAxMDc2fQ%3D%3D/fast
-#EXTINF:0 CUID="1073" tvg-chno="null" tvg-name="Sky Sports NFL • UK" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnfl.png" group-title="UK | Sports",Sky Sports NFL • UK
+#EXTINF:0 CUID="1073" tvg-chno="null" tvg-name="SKY SPORTS NFL • UK" tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://logo.m3uassets.com/skysportsnfl.png" group-title="UK | Sports",SKY SPORTS NFL • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L0ZIanNjZTNfMG94SFRqYnZKeWRLTW5hVkNHckZvaVJQemFCbnhnX214OEkvdHMiLCAiaWQiOiAxMDczfQ%3D%3D/fast
 #EXTINF:0 CUID="820" tvg-name="SKY SPORTS PREMIER LEAGUE • UK" tvg-id="I1099.116645.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="UK | Sports",SKY SPORTS PREMIER LEAGUE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVjNWVhYmUwMTQ0Y2NmZmZjMzM3ZTFkNjcwOGUyYWZiODFkMDYzOGUmcGlkPTY1NSIsICJpZCI6IDgyMH0%3D/fast
-#EXTINF:0 CUID="1074" tvg-chno="null" tvg-name="Sky Sports Racing • UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="UK | Sports",Sky Sports Racing • UK
+#EXTINF:0 CUID="1074" tvg-chno="null" tvg-name="SKY SPORTS RACING • UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="UK | Sports",SKY SPORTS RACING • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NvcmQtY3V0dGVyLm5ldDo4MDgwL2hxM3k0Ry8yMzQyNDcvNzY4NDIiLCAiaWQiOiAxMDc0fQ%3D%3D/fast
-#EXTINF:0 CUID="1075" tvg-chno="null" tvg-name="Sky Sports Tennis • UK" tvg-id="I1103.147889.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK | Sports",Sky Sports Tennis • UK
+#EXTINF:0 CUID="1075" tvg-chno="null" tvg-name="SKY SPORTS TENNIS • UK" tvg-id="I1103.147889.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="UK | Sports",SKY SPORTS TENNIS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5LzZCOVVncnpoV0VKeFctaC1NRHJQLXZKWjRFQ000Z2VLM3AwTm1LWmFGQmcvdHMiLCAiaWQiOiAxMDc1fQ%3D%3D/fast
 #EXTINF:0 CUID="796" tvg-name="SKY SPORTS+ • UK" tvg-id="I1074.104322.schedulesdirect.org" group-title="UK | Sports",SKY SPORTS+ • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWQzMTdhMDAzZTgwNDdkYTJjMzZhMmEyYmIyMjg5NTc4YzlhM2I3OWMmcGlkPTUzNyIsICJpZCI6IDc5Nn0%3D/fast
-#EXTINF:0 CUID="1035" tvg-name="talkSPORT • UK" tvg-id="GB30003577" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="UK | Sports",talkSPORT • UK
+#EXTINF:0 CUID="1035" tvg-name="TALKSPORT • UK" tvg-id="GB30003577" tvg-logo="https://logo.m3uassets.com/talksport.png" group-title="UK | Sports",TALKSPORT • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZjdhOGI0ZS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9URWN0WjJKZmRHRnNhMU5RVDFKVVgwaE1Vdy9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTAzNX0%3D/fast
 #EXTINF:0 CUID="797" tvg-name="TNT SPORTS 1 • UK" tvg-id="I1241.82450.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="UK | Sports",TNT SPORTS 1 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPWVmYzYwY2ZlNWUzYTM0OWJhYTAyYmNjNDlmNjY0N2MyMWE5YzNjNWImcGlkPTEiLCAiaWQiOiA3OTd9/fast
 #EXTINF:0 CUID="1049" tvg-chno="null" tvg-name="TNT SPORTS 2 • UK" tvg-id="I1246.82451.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="UK | Sports",TNT SPORTS 2 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODQiLCAiaWQiOiAxMDQ5fQ%3D%3D/fast
-#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT Sports 3 • UK" tvg-id="I1248.95772.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="UK | Sports",TNT Sports 3 • UK
+#EXTINF:0 CUID="1050" tvg-chno="null" tvg-name="TNT SPORTS 3 • UK" tvg-id="I1248.95772.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="UK | Sports",TNT SPORTS 3 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODgiLCAiaWQiOiAxMDUwfQ%3D%3D/fast
-#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT Sports 4 • UK" tvg-id="I1250.64572.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="UK | Sports",TNT Sports 4 • UK
+#EXTINF:0 CUID="1051" tvg-chno="null" tvg-name="TNT SPORTS 4 • UK" tvg-id="I1250.64572.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="UK | Sports",TNT SPORTS 4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2x1Y2lkaG9zdGluZy54eXo6ODIvc2VhbnIvYW55dGhpbmcxMzU3LzI2ODkiLCAiaWQiOiAxMDUxfQ%3D%3D/fast
-#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT Sports Ultimate • UK" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="UK | Sports",TNT Sports Ultimate • UK
+#EXTINF:0 CUID="1048" tvg-chno="null" tvg-name="TNT SPORTS ULTIMATE • UK" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="UK | Sports",TNT SPORTS ULTIMATE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0MS45NC4xOTIuNTg6ODA4MC9wbGF5L3JzdFhJTnFoVGF2U3cwUlZ2Uy1ZQXRWRUdSUUs3Zi16X1dRSXRiSzE5dTQvdHMiLCAiaWQiOiAxMDQ4fQ%3D%3D/fast
 #EXTINF:0 CUID="1105" tvg-chno="null" tvg-name="MUTV • UK" tvg-logo="https://logo.m3uassets.com/mutv.png" group-title="UK | Sports",MUTV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9zdXBlcnNvbmljc3RyZWFtcy9jVWV3Wm9sdmVVOEpoMThqazM0QkRKLzIyNDIiLCAiaWQiOiAxMTA1fQ%3D%3D/fast
@@ -107,138 +113,152 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yZXN0cmVh
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9zdXBlcnNvbmljc3RyZWFtcy9jVWV3Wm9sdmVVOEpoMThqazM0QkRKLzg5MDkwIiwgImlkIjogMTEwN30%3D/fast
 #EXTINF:0 CUID="1112" tvg-chno="null" tvg-name="SKY SPORTS F1 UHD • UK" tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="UK | Sports",SKY SPORTS F1 UHD • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2ltZWRpYXR2NjY2LnN0b3JlOjc3NzcvbGl2ZS9sdW5hcmlzcG9ydHMyOTEzL3Nwb3J0c3N0dWZmMjkvMTYwMzYwLnRzIiwgImlkIjogMTExMn0%3D/fast
+#EXTINF:0 CUID="1039" tvg-chno="3" tvg-name="GFN SOCCER TV • UK" tvg-id="GB2200002CC" group-title="UK | Sports",GFN SOCCER TV • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyMjAwMDAyQ0MiLCAiaWQiOiAxMDM5fQ%3D%3D/fast
+#EXTINF:0 CUID="819" tvg-name="SKY SPORTS STORIES • UK" tvg-id="GB2700013Y7" group-title="UK | Sports",SKY SPORTS STORIES • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEzWTciLCAiaWQiOiA4MTl9/fast
+#EXTINF:0 CUID="805" tvg-name="TENNIS+ • UK" group-title="UK | Sports",TENNIS+ • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTkzNS1hbWcwMTkzNWMxLWFtZ3BsdDAxNjUucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDV9/fast
+#EXTINF:0 CUID="817" tvg-chno="6" tvg-name="RUGBYPASS TV • UK" tvg-id="US1000004YJ" tvg-logo="https://logo.m3uassets.com/rugbypasstv.png" group-title="UK | Sports",RUGBYPASS TV • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMzAwMDAxNDQiLCAiaWQiOiA4MTd9/fast
+#EXTINF:0 CUID="814" tvg-chno="1" tvg-name="DFB PLAY TV • UK" group-title="UK | Sports",DFB PLAY TV • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNjAwMDExOFQiLCAiaWQiOiA4MTR9/fast
+#EXTINF:0 CUID="818" tvg-name="SKY SPORTS CLASSICS FAST • UK" tvg-id="GB2700012HS" group-title="UK | Sports",SKY SPORTS CLASSICS FAST • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEySFMiLCAiaWQiOiA4MTh9/fast
+#EXTINF:0 CUID="1116" tvg-chno="null" tvg-name="F1 CHANNEL • UK" group-title="UK | Sports",F1 CHANNEL • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3BsdS02NWM2OWVlM2Q3N2Q0NTAwMDhjODA0MzgubTN1OCIsICJpZCI6IDExMTZ9/fast
+#EXTINF:0 CUID="804" tvg-name="TENNIS CHANNEL • UK" tvg-id="ATBA2200008XN" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="UK | Sports",TENNIS CHANNEL • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90ZW5uaXNjaGFubmVsaW50bC1yYWt1dGVuLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDR9/fast
+#EXTINF:0 CUID="905" tvg-name="RED BULL TV • UK" tvg-id="ATBD1500003ES" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="UK | Sports",RED BULL TV • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lN2M4ZjdkNS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9VbUZyZFhSbGJsUldMV2RpWDFKbFpFSjFiR3hVVmkweFgwaE1Vdy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA1fQ%3D%3D/fast
+#EXTINF:0 CUID="816" tvg-chno="5" tvg-name="MOTORRACING • UK" tvg-id="FRBD4100013LN" group-title="UK | Sports",MOTORRACING • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTE1MDAwMDZINiIsICJpZCI6IDgxNn0%3D/fast
+#EXTINF:0 CUID="815" tvg-chno="2" tvg-name="FIFA+ • UK" group-title="UK | Sports",FIFA+ • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMDhZVyIsICJpZCI6IDgxNX0%3D/fast
 #EXTINF:0 CUID="832" tvg-name="FILM4 • UK" tvg-id="I489.68051.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/film4.png" group-title="UK | Movies",FILM4 • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9maWxtNC9icm93c2VyLUhMUzgvZmlsbTQubTN1OCIsICJpZCI6IDgzMn0%3D/fast
-#EXTINF:0 CUID="838" tvg-name="Sky Cinema Action • UK" tvg-id="I997.61177.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaaction.png" group-title="UK | Movies",Sky Cinema Action • UK
+#EXTINF:0 CUID="838" tvg-name="SKY CINEMA ACTION • UK" tvg-id="I997.61177.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaaction.png" group-title="UK | Movies",SKY CINEMA ACTION • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAxL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mzh9/fast
-#EXTINF:0 CUID="844" tvg-name="Sky Cinema Comedy • UK" tvg-id="I1002.61182.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemacomedy.png" group-title="UK | Movies",Sky Cinema Comedy • UK
+#EXTINF:0 CUID="844" tvg-name="SKY CINEMA COMEDY • UK" tvg-id="I1002.61182.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemacomedy.png" group-title="UK | Movies",SKY CINEMA COMEDY • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA5L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDR9/fast
-#EXTINF:0 CUID="842" tvg-name="Sky Cinema Family • UK" tvg-id="I1005.24040.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemafamily.png" group-title="UK | Movies",Sky Cinema Family • UK
+#EXTINF:0 CUID="842" tvg-name="SKY CINEMA FAMILY • UK" tvg-id="I1005.24040.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemafamily.png" group-title="UK | Movies",SKY CINEMA FAMILY • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA2L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDJ9/fast
-#EXTINF:0 CUID="841" tvg-name="Sky Cinema Greats • UK" tvg-id="I1008.61180.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemagreats.png" group-title="UK | Movies",Sky Cinema Greats • UK
+#EXTINF:0 CUID="841" tvg-name="SKY CINEMA GREATS • UK" tvg-id="I1008.61180.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemagreats.png" group-title="UK | Movies",SKY CINEMA GREATS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA1L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDF9/fast
-#EXTINF:0 CUID="840" tvg-name="Sky Cinema Premiere • UK" tvg-id="I1011.21107.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemapremiere.png" group-title="UK | Movies",Sky Cinema Premiere • UK
+#EXTINF:0 CUID="840" tvg-name="SKY CINEMA PREMIERE • UK" tvg-id="I1011.21107.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemapremiere.png" group-title="UK | Movies",SKY CINEMA PREMIERE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAzL2luZGV4Lm0zdTgiLCAiaWQiOiA4NDB9/fast
-#EXTINF:0 CUID="843" tvg-name="Sky Cinema Sci-Fi Horror • UK" tvg-id="I1014.61178.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemasciandhorror.png" group-title="UK | Movies",Sky Cinema Sci-Fi Horror • UK
+#EXTINF:0 CUID="843" tvg-name="SKY CINEMA SCI-FI HORROR • UK" tvg-id="I1014.61178.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemasciandhorror.png" group-title="UK | Movies",SKY CINEMA SCI-FI HORROR • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDA3L2luZGV4Lm0zdTgiLCAiaWQiOiA4NDN9/fast
-#EXTINF:0 CUID="845" tvg-name="Sky Cinema Select • UK" tvg-id="I1015.49139.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaselect.png" group-title="UK | Movies",Sky Cinema Select • UK
+#EXTINF:0 CUID="845" tvg-name="SKY CINEMA SELECT • UK" tvg-id="I1015.49139.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemaselect.png" group-title="UK | Movies",SKY CINEMA SELECT • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDEwL2luZGV4Lm0zdTgiLCAiaWQiOiA4NDV9/fast
-#EXTINF:0 CUID="839" tvg-name="Sky Cinema Thriller • UK" tvg-id="I1018.50176.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemathriller.png" group-title="UK | Movies",Sky Cinema Thriller • UK
+#EXTINF:0 CUID="839" tvg-name="SKY CINEMA THRILLER • UK" tvg-id="I1018.50176.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/skycinemathriller.png" group-title="UK | Movies",SKY CINEMA THRILLER • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDAyL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mzl9/fast
-#EXTINF:0 CUID="982" tvg-name="Dennis and Gnasher • UK" tvg-id="GBBD1100011V3" group-title="UK | Kids",Dennis and Gnasher • UK
+#EXTINF:0 CUID="860" tvg-name="GREAT! CHRISTMAS • UK" tvg-id="GB3000370X" group-title="UK | Movies",GREAT! CHRISTMAS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMDAwMzcwWCIsICJpZCI6IDg2MH0%3D/fast
+#EXTINF:0 CUID="830" tvg-name="GREAT! ROMANCE • UK" tvg-id="GBBC900008L9" group-title="UK | Movies",GREAT! ROMANCE • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MyLWxnLWdiLTE4MzIucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0Y2hyaXN0bWFzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMH0%3D/fast
+#EXTINF:0 CUID="847" tvg-name="MY TIME MOVIE NETWORK • UK" tvg-id="ATBA3300021BW" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="UK | Movies",MY TIME MOVIE NETWORK • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hcHBsZXRyZWUtbXl0aW1ldWstcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODQ3fQ%3D%3D/fast
+#EXTINF:0 CUID="856" tvg-name="MOVIESPHERE BY LIONSGATE • UK" tvg-id="DE4000002I3" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="UK | Movies",MOVIESPHERE BY LIONSGATE • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tb3ZpZXNwaGVyZXVrLXNhbXN1bmd1ay5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODU2fQ%3D%3D/fast
+#EXTINF:0 CUID="846" tvg-name="FILMZIE • UK" group-title="UK | Movies",FILMZIE • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9maWxtemllLWZpbG16aWUtMS1ldS5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0Nn0%3D/fast
+#EXTINF:0 CUID="831" tvg-name="GREAT! MOVIES • UK" tvg-id="GBBC900007Q5" group-title="UK | Movies",GREAT! MOVIES • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MzLWxnLWdiLTE4MzMucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0bW92aWVzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMX0%3D/fast
+#EXTINF:0 CUID="848" tvg-name="POPFLIX • UK" group-title="UK | Movies",POPFLIX • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zaWduYXR1cmVlbnRlcnRhaW5tZW50LXBvcGZsaXgtMS1nYi5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0OH0%3D/fast
+#EXTINF:0 CUID="862" tvg-name="ICON FILM CHANNEL • UK" group-title="UK | Movies",ICON FILM CHANNEL • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA1MkYiLCAiaWQiOiA4NjJ9/fast
+#EXTINF:0 CUID="861" tvg-name="GRJNGO - WESTERNS • UK" tvg-id="GBBD500007TG" tvg-logo="https://logo.m3uassets.com/grjngowesternmovies.png" group-title="UK | Movies",GRJNGO - WESTERNS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDUwMDAwN1RHIiwgImlkIjogODYxfQ%3D%3D/fast
+#EXTINF:0 CUID="859" tvg-name="BRITISH SCREEN CLASSICS • UK" tvg-id="GB32000024G" group-title="UK | Movies",BRITISH SCREEN CLASSICS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMjAwMDAyNEciLCAiaWQiOiA4NTl9/fast
+#EXTINF:0 CUID="982" tvg-name="DENNIS AND GNASHER • UK" tvg-id="GBBD1100011V3" group-title="UK | Kids",DENNIS AND GNASHER • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMTFWMyIsICJpZCI6IDk4Mn0%3D/fast
-#EXTINF:0 CUID="968" tvg-name="Mr. Bean Animated Series • UK" group-title="UK | Kids",Mr. Bean Animated Series • UK
+#EXTINF:0 CUID="968" tvg-name="MR. BEAN ANIMATED SERIES • UK" group-title="UK | Kids",MR. BEAN ANIMATED SERIES • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MyOC1yYWt1dGVuLXVrLTM5ODQucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwNjI3LWJhbmlqYXlmYXN0LW1yYmVhbnVrY2MtcmFrdXRlbnVrL3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5Njh9/fast
-#EXTINF:0 CUID="985" tvg-name="Mr. Bean Live Action • UK" tvg-id="GB4000008O5" group-title="UK | Kids",Mr. Bean Live Action • UK
+#EXTINF:0 CUID="985" tvg-name="MR. BEAN LIVE ACTION • UK" tvg-id="GB4000008O5" group-title="UK | Kids",MR. BEAN LIVE ACTION • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I0MDAwMDA4TzUiLCAiaWQiOiA5ODV9/fast
 #EXTINF:0 CUID="992" tvg-name="POP • UK" tvg-id="GBBC430000128" group-title="UK | Kids",POP • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE3NTMtbmFycmF0aXZlZW50ZXJ0LXBvcGtpZHMtbGdnYi9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTkyfQ%3D%3D/fast
-#EXTINF:0 CUID="976" tvg-name="Shaun the Sheep • UK" tvg-id="US2200006FS" tvg-logo="https://logo.m3uassets.com/kidsshaunthesheep.png" group-title="UK | Kids",Shaun the Sheep • UK
+#EXTINF:0 CUID="976" tvg-name="SHAUN THE SHEEP • UK" tvg-id="US2200006FS" tvg-logo="https://logo.m3uassets.com/kidsshaunthesheep.png" group-title="UK | Kids",SHAUN THE SHEEP • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hYXItc2hhdW4teHVtby5vdHRlcmF2aXNpb24uY29tL2Fhci9zaGF1bi9zaGF1bi5tM3U4IiwgImlkIjogOTc2fQ%3D%3D/fast
-#EXTINF:0 CUID="988" tvg-name="Smurf TV • UK" tvg-id="GBBD1300001WA" group-title="UK | Kids",Smurf TV • UK
+#EXTINF:0 CUID="988" tvg-name="SMURF TV • UK" tvg-id="GBBD1300001WA" group-title="UK | Kids",SMURF TV • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDEzMDAwMDFXQSIsICJpZCI6IDk4OH0%3D/fast
-#EXTINF:0 CUID="989" tvg-name="Sonic the Hedgehog • UK" tvg-id="USBD3300020PM" group-title="UK | Kids",Sonic the Hedgehog • UK
+#EXTINF:0 CUID="989" tvg-name="SONIC THE HEDGEHOG • UK" tvg-id="USBD3300020PM" group-title="UK | Kids",SONIC THE HEDGEHOG • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzNzAwMDAzNjkiLCAiaWQiOiA5ODl9/fast
-#EXTINF:0 CUID="990" tvg-name="Teletubbies • UK" tvg-id="USBD3500015R5" tvg-logo="https://logo.m3uassets.com/teletubbies.png" group-title="UK | Kids",Teletubbies • UK
+#EXTINF:0 CUID="990" tvg-name="TELETUBBIES • UK" tvg-id="USBD3500015R5" tvg-logo="https://logo.m3uassets.com/teletubbies.png" group-title="UK | Kids",TELETUBBIES • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNDAwMDA3RkEiLCAiaWQiOiA5OTB9/fast
-#EXTINF:0 CUID="993" tvg-name="tiny POP • UK" tvg-id="GBBD3200003T6" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK | Kids",tiny POP • UK
+#EXTINF:0 CUID="993" tvg-name="TINY POP • UK" tvg-id="GBBD3200003T6" tvg-logo="https://logo.m3uassets.com/tinypop.png" group-title="UK | Kids",TINY POP • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MxLWxnLWdiLTE4MzAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLXRpbnlwb3AtbGdnYi9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTkzfQ%3D%3D/fast
-#EXTINF:0 CUID="1005" tvg-name="Ketchup TV FAST • UK" tvg-logo="https://logo.m3uassets.com/ketchuptv.png" group-title="UK | Kids",Ketchup TV FAST • UK
+#EXTINF:0 CUID="1005" tvg-name="KETCHUP TV KIDS CHANNEL • UK" tvg-logo="https://logo.m3uassets.com/ketchuptv.png" group-title="UK | Kids",KETCHUP TV KIDS CHANNEL • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9MTMxNzEiLCAiaWQiOiAxMDA1fQ%3D%3D/fast
-#EXTINF:0 CUID="1004" tvg-name="YAAAS! FAST • UK" group-title="UK | Kids",YAAAS! FAST • UK
+#EXTINF:0 CUID="1004" tvg-name="YAAAS! • UK" group-title="UK | Kids",YAAAS! • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzNDAwMDAyODkiLCAiaWQiOiAxMDA0fQ%3D%3D/fast
-#EXTINF:0 CUID="871" tvg-name="Al Jazeera English • UK" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK | News",Al Jazeera English • UK
+#EXTINF:0 CUID="1141" tvg-chno="null" tvg-name="MOONBUG KIDS • UK" group-title="UK | Kids",MOONBUG KIDS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tb29uYnVnLXJva3V1cy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTE0MX0%3D/fast
+#EXTINF:0 CUID="1003" tvg-name="POP UP • UK" group-title="UK | Kids",POP UP • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYXJyYXRpdmUtZmFzdC1wb3B1cC1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvbmFycmF0aXZlLXBvcHVwLWxpdmUtYW1hZ2kvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMDN9/fast
+#EXTINF:0 CUID="1006" tvg-name="THE LEGO CHANNEL • UK" tvg-id="USBA2300001S8" tvg-logo="https://logo.m3uassets.com/legochannel.png" group-title="UK | Kids",THE LEGO CHANNEL • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzQzMDAwMDVBTCIsICJpZCI6IDEwMDZ9/fast
+#EXTINF:0 CUID="871" tvg-name="AL JAZEERA ENGLISH • UK" tvg-id="Al.Jazeera.HD.uk" tvg-logo="https://logo.m3uassets.com/aljazeeraenglish.png" group-title="UK | News",AL JAZEERA ENGLISH • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0OS4yMDIuNzQuMTM2OjgwODAvNDM1L2luZGV4Lm0zdTgiLCAiaWQiOiA4NzF9/fast
 #EXTINF:0 CUID="867" tvg-name="BBC NEWS • UK" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK | News",BBC NEWS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9iYmN3b3JsZC9icm93c2VyLUhMUzgvYmJjd29ybGQubTN1OCIsICJpZCI6IDg2N30%3D/fast
 #EXTINF:0 CUID="868" tvg-name="CNBC • UK" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="UK | News",CNBC • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy9jbmJjL2Jyb3dzZXItSExTOC9jbmJjLm0zdTgiLCAiaWQiOiA4Njh9/fast
-#EXTINF:0 CUID="897" tvg-name="CNN Headlines • UK" tvg-id="ATBD190000101" group-title="UK | News",CNN Headlines • UK
+#EXTINF:0 CUID="897" tvg-name="CNN HEADLINES • UK" tvg-id="ATBD190000101" group-title="UK | News",CNN HEADLINES • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDE5MDAwMDhPMyIsICJpZCI6IDg5N30%3D/fast
 #EXTINF:0 CUID="896" tvg-name="CNN • UK" tvg-id="ATBD800001VA" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="UK | News",CNN • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDgwMDAwMTZOIiwgImlkIjogODk2fQ%3D%3D/fast
 #EXTINF:0 CUID="898" tvg-name="DW • UK" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="UK | News",DW • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMzAwMDAxUlgiLCAiaWQiOiA4OTh9/fast
-#EXTINF:0 CUID="892" tvg-name="Euronews English • UK" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK | News",Euronews English • UK
+#EXTINF:0 CUID="892" tvg-name="EURONEWS ENGLISH • UK" tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="UK | News",EURONEWS ENGLISH • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZldHYtZmEudHViaS52aWRlby9ldXJvbmV3czIvZXVyb25ld3MtZW4ubTN1OCIsICJpZCI6IDg5Mn0%3D/fast
-#EXTINF:0 CUID="866" tvg-name="GB News • UK" tvg-logo="https://logo.m3uassets.com/gbnews.png" group-title="UK | News",GB News • UK
+#EXTINF:0 CUID="866" tvg-name="GB NEWS • UK" tvg-logo="https://logo.m3uassets.com/gbnews.png" group-title="UK | News",GB NEWS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tZ2JuZXdzbnotc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4NjZ9/fast
-#EXTINF:0 CUID="865" tvg-name="Sky News • UK" tvg-id="USBB52000022Q" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="UK | News",Sky News • UK
+#EXTINF:0 CUID="865" tvg-name="SKY NEWS • UK" tvg-id="USBB52000022Q" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="UK | News",SKY NEWS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saW5lYXI0MTctZ2ItaGxzMS1wcmQtYWsuY2RuLnNreWNkcC5jb20vMTAwZS9Db250ZW50L0hMU18wMDFfMTA4MF8zMC9MaXZlL2NoYW5uZWwoc2t5bmV3cykvaW5kZXhfMTA4MC0zMC5tM3U4IiwgImlkIjogODY1fQ%3D%3D/fast
 #EXTINF:0 CUID="878" tvg-name="TALK • UK" tvg-id="GB1200006IV" group-title="UK | News",TALK • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLXRhbGt0di1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvdGFsa3R2LWxpdmUvaW5kZXgubTN1OCIsICJpZCI6IDg3OH0%3D/fast
-#EXTINF:0 CUID="1138" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH" group-title="UK | News",FRANCE 24 ENGLISH
+#EXTINF:0 CUID="1138" tvg-chno="null" tvg-name="FRANCE 24 ENGLISH • UK" group-title="UK | News",FRANCE 24 ENGLISH • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjE4L0YyNF9FTl9ISV9ITFMvbWFzdGVyXzUwMDAubTN1OCIsICJpZCI6IDExMzh9/fast
-#EXTINF:0 CUID="913" tvg-name="5 Cops FAST • UK" tvg-logo="https://logo.m3uassets.com/5cops.png" group-title="UK | Fast",5 Cops FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDBBIiwgImlkIjogOTEzfQ%3D%3D/fast
-#EXTINF:0 CUID="914" tvg-name="5 Exploring Britain FAST • UK" tvg-id="GBAK3504501A" tvg-logo="https://logo.m3uassets.com/5buildingbritain.png" group-title="UK | Fast",5 Exploring Britain FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDFBIiwgImlkIjogOTE0fQ%3D%3D/fast
-#EXTINF:0 CUID="978" tvg-name="8 out of 10 Cats • UK" tvg-id="GB1800002FA" group-title="UK | Fast",8 out of 10 Cats • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxODAwMDAyRkEiLCAiaWQiOiA5Nzh9/fast
-#EXTINF:0 CUID="956" tvg-name="Antiques Roadshow • UK" tvg-id="USBC600018CF" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="UK | Fast",Antiques Roadshow • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81Y2U0NDgxMGI0MjE3NDdhZTQ2N2I3Y2QvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1MiLCAiaWQiOiA5NTZ9/fast
-#EXTINF:0 CUID="859" tvg-name="British Screen Classics FAST • UK" tvg-id="GB32000024G" group-title="UK | Fast",British Screen Classics FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMjAwMDAyNEciLCAiaWQiOiA4NTl9/fast
-#EXTINF:0 CUID="979" tvg-name="Cash in the Attic • UK" tvg-id="GB1200004J4" group-title="UK | Fast",Cash in the Attic • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA0SjQiLCAiaWQiOiA5Nzl9/fast
-#EXTINF:0 CUID="980" tvg-name="Catfish • UK" tvg-id="GBBA330003941" tvg-logo="https://logo.m3uassets.com/catfishtvshow.png" group-title="UK | Fast",Catfish • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTMzMDAwMzk0MSIsICJpZCI6IDk4MH0%3D/fast
-#EXTINF:0 CUID="981" tvg-name="Come Dine With Me • UK" tvg-id="GBBC9000062G" group-title="UK | Fast",Come Dine With Me • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzkwMDAwNjJHIiwgImlkIjogOTgxfQ%3D%3D/fast
-#EXTINF:0 CUID="904" tvg-name="Curiosity Now FAST • UK" tvg-id="ATBA3300008ZT" tvg-logo="https://logo.m3uassets.com/curiositynow.png" group-title="UK | Fast",Curiosity Now FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE3MC1jdXJpb3NpdHlzdHJlYW0tYW1nMDAxNzBjMy1yYWt1dGVuLXVzLTIyODkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwMTcwLWN1cmlvc2l0eXN0cmVhbWxsY2Zhc3QtY3VyaW9zaXR5bm93cm93LXJha3V0ZW51cy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA0fQ%3D%3D/fast
-#EXTINF:0 CUID="943" tvg-name="Demand Drama FAST • UK" tvg-id="GB900005KI" group-title="UK | Fast",Demand Drama FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I5MDAwMDVLSSIsICJpZCI6IDk0M30%3D/fast
-#EXTINF:0 CUID="814" tvg-chno="1" tvg-name="DFB Play TV FAST • UK" group-title="UK | Fast",DFB Play TV FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNjAwMDExOFQiLCAiaWQiOiA4MTR9/fast
-#EXTINF:0 CUID="961" tvg-name="Eggheads • UK" tvg-id="GBBD3200002CG" group-title="UK | Fast",Eggheads • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMjgtcmFrdXRlbi11ay01MzAyLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYxfQ%3D%3D/fast
-#EXTINF:0 CUID="962" tvg-name="Escape to the Country • UK" tvg-id="GB500006EX" group-title="UK | Fast",Escape to the Country • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE0NS1hbWcwMDE0NWMxMS1yYWt1dGVuLXVrLTU0NTAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NjJ9/fast
-#EXTINF:0 CUID="944" tvg-name="FailArmy FAST • UK" tvg-logo="https://logo.m3uassets.com/failarmy.png" group-title="UK | Fast",FailArmy FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSjQwMDAzNjQyIiwgImlkIjogOTQ0fQ%3D%3D/fast
-#EXTINF:0 CUID="815" tvg-chno="2" tvg-name="FIFA+ FAST • UK" group-title="UK | Fast",FIFA+ FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMDhZVyIsICJpZCI6IDgxNX0%3D/fast
-#EXTINF:0 CUID="899" tvg-name="FRANCE 24 FAST • UK" group-title="UK | Fast",FRANCE 24 FAST • UK
+#EXTINF:0 CUID="899" tvg-name="FRANCE 24 FAST • UK" group-title="UK | News",FRANCE 24 FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDExMDAwMDJMNSIsICJpZCI6IDg5OX0%3D/fast
-#EXTINF:0 CUID="1039" tvg-chno="3" tvg-name="GFN Soccer TV FAST • UK" tvg-id="GB2200002CC" group-title="UK | Fast",GFN Soccer TV FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyMjAwMDAyQ0MiLCAiaWQiOiAxMDM5fQ%3D%3D/fast
-#EXTINF:0 CUID="860" tvg-name="GREAT! christmas FAST • UK" tvg-id="GB3000370X" group-title="UK | Fast",GREAT! christmas FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMDAwMzcwWCIsICJpZCI6IDg2MH0%3D/fast
-#EXTINF:0 CUID="831" tvg-name="GREAT! MOVIES FAST • UK" tvg-id="GBBC900007Q5" group-title="UK | Fast",GREAT! MOVIES FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MzLWxnLWdiLTE4MzMucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0bW92aWVzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMX0%3D/fast
-#EXTINF:0 CUID="830" tvg-name="GREAT! ROMANCE FAST • UK" tvg-id="GBBC900008L9" group-title="UK | Fast",GREAT! ROMANCE FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTc1My1uYXJyYXRpdmV1ay1hbWcwMTc1M2MyLWxnLWdiLTE4MzIucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNzUzLW5hcnJhdGl2ZXVrLWdyZWF0Y2hyaXN0bWFzLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgzMH0%3D/fast
-#EXTINF:0 CUID="861" tvg-name="Grjngo - Western Movies FAST • UK" tvg-id="GBBD500007TG" tvg-logo="https://logo.m3uassets.com/grjngowesternmovies.png" group-title="UK | Fast",Grjngo - Western Movies FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDUwMDAwN1RHIiwgImlkIjogODYxfQ%3D%3D/fast
-#EXTINF:0 CUID="1012" tvg-name="HobbyMaker • UK" tvg-id="HobbyMaker.uk" tvg-logo="https://logo.m3uassets.com/hobbymaker.png" group-title="UK | Fast",HobbyMaker • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9sbzMuZ2VtcG9yaWEuY29tL2FicmhvYmJ5bWFrZXJ1a2dmeC9zbWlsOmxpdmVzdHJlYW1GdWxsSEQuc21pbC9wbGF5bGlzdC5tM3U4IiwgImlkIjogMTAxMn0%3D/fast
-#EXTINF:0 CUID="966" tvg-name="Homes Under the Hammer • UK" tvg-id="GBBC900013K9" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="UK | Fast",Homes Under the Hammer • UK
+#EXTINF:0 CUID="913" tvg-name="5 COPS • UK" tvg-logo="https://logo.m3uassets.com/5cops.png" group-title="UK | Fast",5 COPS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDBBIiwgImlkIjogOTEzfQ%3D%3D/fast
+#EXTINF:0 CUID="914" tvg-name="5 EXPLORING BRITAIN • UK" tvg-id="GBAK3504501A" tvg-logo="https://logo.m3uassets.com/5buildingbritain.png" group-title="UK | Fast",5 EXPLORING BRITAIN • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSzM1MDQ1MDFBIiwgImlkIjogOTE0fQ%3D%3D/fast
+#EXTINF:0 CUID="978" tvg-name="8 OUT OF 10 CATS • UK" tvg-id="GB1800002FA" group-title="UK | Fast",8 OUT OF 10 CATS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxODAwMDAyRkEiLCAiaWQiOiA5Nzh9/fast
+#EXTINF:0 CUID="956" tvg-name="ANTIQUES ROADSHOW • UK" tvg-id="USBC600018CF" tvg-logo="https://logo.m3uassets.com/antiquesroadshowuk.png" group-title="UK | Fast",ANTIQUES ROADSHOW • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81Y2U0NDgxMGI0MjE3NDdhZTQ2N2I3Y2QvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1MiLCAiaWQiOiA5NTZ9/fast
+#EXTINF:0 CUID="979" tvg-name="CASH IN THE ATTIC • UK" tvg-id="GB1200004J4" group-title="UK | Fast",CASH IN THE ATTIC • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA0SjQiLCAiaWQiOiA5Nzl9/fast
+#EXTINF:0 CUID="980" tvg-name="CATFISH • UK" tvg-id="GBBA330003941" tvg-logo="https://logo.m3uassets.com/catfishtvshow.png" group-title="UK | Fast",CATFISH • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTMzMDAwMzk0MSIsICJpZCI6IDk4MH0%3D/fast
+#EXTINF:0 CUID="981" tvg-name="COME DINE WITH ME • UK" tvg-id="GBBC9000062G" group-title="UK | Fast",COME DINE WITH ME • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzkwMDAwNjJHIiwgImlkIjogOTgxfQ%3D%3D/fast
+#EXTINF:0 CUID="961" tvg-name="EGGHEADS • UK" tvg-id="GBBD3200002CG" group-title="UK | Fast",EGGHEADS • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMjgtcmFrdXRlbi11ay01MzAyLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYxfQ%3D%3D/fast
+#EXTINF:0 CUID="962" tvg-name="ESCAPE TO THE COUNTRY • UK" tvg-id="GB500006EX" group-title="UK | Fast",ESCAPE TO THE COUNTRY • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE0NS1hbWcwMDE0NWMxMS1yYWt1dGVuLXVrLTU0NTAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NjJ9/fast
+#EXTINF:0 CUID="944" tvg-name="FAILARMY • UK" tvg-logo="https://logo.m3uassets.com/failarmy.png" group-title="UK | Fast",FAILARMY • UK
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JBSjQwMDAzNjQyIiwgImlkIjogOTQ0fQ%3D%3D/fast
+#EXTINF:0 CUID="966" tvg-name="HOMES UNDER THE HAMMER • UK" tvg-id="GBBC900013K9" tvg-logo="https://logo.m3uassets.com/homesunderhammer.png" group-title="UK | Fast",HOMES UNDER THE HAMMER • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbGwzbWVkaWEtaG9tZXMtdW5kZXItdGhlLWhhbW1lci0xLWdiLnJha3V0ZW4ud3VybC50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTY2fQ%3D%3D/fast
-#EXTINF:0 CUID="862" tvg-name="Icon Film Channel Classics FAST • UK" group-title="UK | Fast",Icon Film Channel Classics FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IxMjAwMDA1MkYiLCAiaWQiOiA4NjJ9/fast
-#EXTINF:0 CUID="984" tvg-name="MasterChef • UK" tvg-logo="https://logo.m3uassets.com/masterchef.png" group-title="UK | Fast",MasterChef • UK
+#EXTINF:0 CUID="984" tvg-name="MASTERCHEF • UK" tvg-logo="https://logo.m3uassets.com/masterchef.png" group-title="UK | Fast",MASTERCHEF • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCRDI1MDAwMDE5TiIsICJpZCI6IDk4NH0%3D/fast
-#EXTINF:0 CUID="803" tvg-chno="4" tvg-name="Mech+ • UK" group-title="UK | Fast",Mech+ • UK
+#EXTINF:0 CUID="803" tvg-chno="4" tvg-name="MECH+ • UK" group-title="UK | Fast",MECH+ • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tZWNodHZsdGQtbWVjaHBsdXMtMS1nYi5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDgwM30%3D/fast
-#EXTINF:0 CUID="974" tvg-name="Midsomer Murders • UK" tvg-id="USBC24000134A" tvg-logo="https://logo.m3uassets.com/midsomermurders.png" group-title="UK | Fast",Midsomer Murders • UK
+#EXTINF:0 CUID="974" tvg-name="MIDSOMER MURDERS • UK" tvg-id="USBC24000134A" tvg-logo="https://logo.m3uassets.com/midsomermurders.png" group-title="UK | Fast",MIDSOMER MURDERS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbGwzbWVkaWEtbWlkc29tZXItMS11cy54dW1vLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDk3NH0%3D/fast
-#EXTINF:0 CUID="816" tvg-chno="5" tvg-name="MotorRacing FAST • UK" tvg-id="FRBD4100013LN" group-title="UK | Fast",MotorRacing FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQTE1MDAwMDZINiIsICJpZCI6IDgxNn0%3D/fast
-#EXTINF:0 CUID="856" tvg-name="MovieSphere by Lionsgate FAST • UK" tvg-id="DE4000002I3" tvg-logo="https://logo.m3uassets.com/moviesphere.png" group-title="UK | Fast",MovieSphere by Lionsgate FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9tb3ZpZXNwaGVyZXVrLXNhbXN1bmd1ay5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODU2fQ%3D%3D/fast
-#EXTINF:0 CUID="847" tvg-name="My Time Movie Network FAST • UK" tvg-id="ATBA3300021BW" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="UK | Fast",My Time Movie Network FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hcHBsZXRyZWUtbXl0aW1ldWstcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODQ3fQ%3D%3D/fast
-#EXTINF:0 CUID="969" tvg-name="Ninja Warrior • UK" tvg-id="GB3900002DT" group-title="UK | Fast",Ninja Warrior • UK
+#EXTINF:0 CUID="969" tvg-name="NINJA WARRIOR • UK" tvg-id="GB3900002DT" group-title="UK | Fast",NINJA WARRIOR • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMjctcmFrdXRlbi11ay01Mjk1LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTY5fQ%3D%3D/fast
-#EXTINF:0 CUID="970" tvg-name="Pointless • UK" group-title="UK | Fast",Pointless • UK
+#EXTINF:0 CUID="970" tvg-name="POINTLESS • UK" group-title="UK | Fast",POINTLESS • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MzNC1yYWt1dGVuLXVrLTQwMDUucGxheW91dHMubm93LmFtYWdpLnR2L21hc3Rlci5tM3U4IiwgImlkIjogOTcwfQ%3D%3D/fast
-#EXTINF:0 CUID="986" tvg-name="Poldark • UK" tvg-id="GB280000829" group-title="UK | Fast",Poldark • UK
+#EXTINF:0 CUID="986" tvg-name="POLDARK • UK" tvg-id="GB280000829" group-title="UK | Fast",POLDARK • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyODAwMDA4MjkiLCAiaWQiOiA5ODZ9/fast
-#EXTINF:0 CUID="1003" tvg-name="POP UP FAST • UK" group-title="UK | Fast",POP UP FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYXJyYXRpdmUtZmFzdC1wb3B1cC1zc2FpLnNpbXBsZXN0cmVhbWNkbi5jb20vdjEvbWFzdGVyLzc3NGQ5NzlkZDY2NzA0YWJlYTdjNWI2MmNiMzRjNjgxNWZkYTBkMzUvbmFycmF0aXZlLXBvcHVwLWxpdmUtYW1hZ2kvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMDN9/fast
-#EXTINF:0 CUID="848" tvg-name="Popflix FAST • UK" group-title="UK | Fast",Popflix FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zaWduYXR1cmVlbnRlcnRhaW5tZW50LXBvcGZsaXgtMS1nYi5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0OH0%3D/fast
 #EXTINF:0 CUID="850" tvg-name="Rakuten TV Action Movies FAST • UK" tvg-id="GB2600015OS" group-title="UK | Fast",Rakuten TV Action Movies FAST • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81NDA0NWYwYzQwZmQ0NDJjOGIwNmRmMDc2YWFmMWU4NS5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTYwNjUvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTB9/fast
 #EXTINF:0 CUID="851" tvg-name="Rakuten TV Comedy Movies FAST • UK" tvg-id="GB2600020OP" group-title="UK | Fast",Rakuten TV Comedy Movies FAST • UK
@@ -257,36 +277,18 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90aHJpbGxl
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8wMTQ1NDUxOTc1YTY0YjM1ODY2MTcwZmQyZThmYTQ4Ni5tZWRpYXRhaWxvci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTU5ODcvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NDl9/fast
 #EXTINF:0 CUID="987" tvg-name="River Monsters • UK" tvg-id="GB2100006GK" group-title="UK | Fast",River Monsters • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyMTAwMDA2R0siLCAiaWQiOiA5ODd9/fast
-#EXTINF:0 CUID="817" tvg-chno="6" tvg-name="RUGBYPASS TV FAST • UK" tvg-id="US1000004YJ" tvg-logo="https://logo.m3uassets.com/rugbypasstv.png" group-title="UK | Fast",RUGBYPASS TV FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IzMzAwMDAxNDQiLCAiaWQiOiA4MTd9/fast
-#EXTINF:0 CUID="957" tvg-name="Sherlock • UK" tvg-logo="https://logo.m3uassets.com/plutotvsherlock.png" group-title="UK | Fast",Sherlock • UK
+#EXTINF:0 CUID="957" tvg-name="SHERLOCK • UK" tvg-logo="https://logo.m3uassets.com/plutotvsherlock.png" group-title="UK | Fast",SHERLOCK • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81ZGMyYzAwYWJmZWQxMTAwMDlkOTcyNDMvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1MiLCAiaWQiOiA5NTd9/fast
-#EXTINF:0 CUID="818" tvg-name="Sky Sports Classics FAST • UK" tvg-id="GB2700012HS" group-title="UK | Fast",Sky Sports Classics FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEySFMiLCAiaWQiOiA4MTh9/fast
-#EXTINF:0 CUID="819" tvg-name="Sky Sports Stories FAST • UK" tvg-id="GB2700013Y7" group-title="UK | Fast",Sky Sports Stories FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0IyNzAwMDEzWTciLCAiaWQiOiA4MTl9/fast
-#EXTINF:0 CUID="804" tvg-name="Tennis Channel FAST • UK" tvg-id="ATBA2200008XN" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="UK | Fast",Tennis Channel FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90ZW5uaXNjaGFubmVsaW50bC1yYWt1dGVuLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDR9/fast
-#EXTINF:0 CUID="805" tvg-name="Tennis+ FAST • UK" group-title="UK | Fast",Tennis+ FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMTkzNS1hbWcwMTkzNWMxLWFtZ3BsdDAxNjUucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4MDV9/fast
-#EXTINF:0 CUID="963" tvg-name="The Graham Norton Show • UK" tvg-id="AT500002TW" group-title="UK | Fast",The Graham Norton Show • UK
+#EXTINF:0 CUID="963" tvg-name="THE GRAHAM NORTON SHOW • UK" tvg-id="AT500002TW" group-title="UK | Fast",THE GRAHAM NORTON SHOW • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDY1NC1pdHYtYW1nMDA2NTRjMzUtcmFrdXRlbi1nYi03NTk4LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYzfQ%3D%3D/fast
-#EXTINF:0 CUID="1006" tvg-name="The Lego Channel FAST • UK" tvg-id="USBA2300001S8" tvg-logo="https://logo.m3uassets.com/legochannel.png" group-title="UK | Fast",The Lego Channel FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0JCQzQzMDAwMDVBTCIsICJpZCI6IDEwMDZ9/fast
-#EXTINF:0 CUID="971" tvg-name="Top Gear • UK" tvg-id="USBC2400027NG" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="UK | Fast",Top Gear • UK
+#EXTINF:0 CUID="971" tvg-name="TOP GEAR • UK" tvg-id="USBC2400027NG" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="UK | Fast",TOP GEAR • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M1LWZpcmV0di11cy00MDY4LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTcxfQ%3D%3D/fast
-#EXTINF:0 CUID="1029" tvg-name="VEVO Hip-Hop and R&B FAST • UK" group-title="UK | Fast",VEVO Hip-Hop and R&B FAST • UK
+#EXTINF:0 CUID="1029" tvg-name="VEVO HIP-HOP AND R&B • UK" group-title="UK | Fast",VEVO HIP-HOP AND R&B • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDA1Ni1hbWcwMDA1NmMyNi1yYWt1dGVuLXVrLTMyMzYucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiAxMDI5fQ%3D%3D/fast
-#EXTINF:0 CUID="1030" tvg-name="VEVO Pop FAST • UK" group-title="UK | Fast",VEVO Pop FAST • UK
+#EXTINF:0 CUID="1030" tvg-name="VEVO POP • UK" group-title="UK | Fast",VEVO POP • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDA1Ni1hbWcwMDA1NmM2LXJha3V0ZW4tdWstMzIzNS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMzB9/fast
-#EXTINF:0 CUID="846" tvg-name="FILMZIE • UK" group-title="UK | Fast",FILMZIE • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9maWxtemllLWZpbG16aWUtMS1ldS5yYWt1dGVuLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDg0Nn0%3D/fast
 #EXTINF:0 CUID="1026" tvg-name="TRACE • UK" group-title="UK | Fast",TRACE • UK
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi90cmFjZS11ay9lbmNyeXB0ZWQubTN1OCIsICJpZCI6IDEwMjZ9/fast
-#EXTINF:0 CUID="905" tvg-name="Red Bull TV • UK" tvg-id="ATBD1500003ES" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="UK | Fast",Red Bull TV • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9lN2M4ZjdkNS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9VbUZyZFhSbGJsUldMV2RpWDFKbFpFSjFiR3hVVmkweFgwaE1Vdy9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTA1fQ%3D%3D/fast
-#EXTINF:0 CUID="1116" tvg-chno="null" tvg-name="F1 Channel FAST • UK" group-title="UK | Fast",F1 Channel FAST • UK
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3BsdS02NWM2OWVlM2Q3N2Q0NTAwMDhjODA0MzgubTN1OCIsICJpZCI6IDExMTZ9/fast
 #EXTINF:0 CUID="938" tvg-name="A WEALTH OF ENTERTAINMENT (AWE) • US" tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-logo="https://logo.m3uassets.com/awealthofentertainment.png" group-title="US | Entertainment",A WEALTH OF ENTERTAINMENT (AWE) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hLWNkbi5rbG93ZHR2LmNvbS9saXZlMS9hd2VfNzIwcC9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTM4fQ%3D%3D/fast
 #EXTINF:0 CUID="932" tvg-name="AMC • US" tvg-id="AMC.HD.us2" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US | Entertainment",AMC • US
@@ -297,17 +299,17 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4x
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX0JVWlpSL2luZGV4Lm0zdTgiLCAiaWQiOiA5NDZ9/fast
 #EXTINF:0 CUID="937" tvg-name="CHARGE! • US" tvg-id="CHARGE!.us2" tvg-logo="https://logo.m3uassets.com/charge.png" group-title="US | Entertainment",CHARGE! • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mYXN0LWNoYW5uZWxzLnNpbmNsYWlyc3RvcnlsaW5lLmNvbS9DSEFSR0UvaW5kZXgubTN1OCIsICJpZCI6IDkzN30%3D/fast
-#EXTINF:0 CUID="947" tvg-name="Comedy Central • US" tvg-id="Comedy.Central.HD.us2" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US | Entertainment",Comedy Central • US
+#EXTINF:0 CUID="947" tvg-name="COMEDY CENTRAL • US" tvg-id="Comedy.Central.HD.us2" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US | Entertainment",COMEDY CENTRAL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX0NPTUVEWV9DRU5UUkFML2luZGV4Lm0zdTgiLCAiaWQiOiA5NDd9/fast
-#EXTINF:0 CUID="934" tvg-name="Comet • US" tvg-id="Comet.us2" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US | Entertainment",Comet • US
+#EXTINF:0 CUID="934" tvg-name="COMET • US" tvg-id="Comet.us2" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="US | Entertainment",COMET • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mYXN0LWNoYW5uZWxzLnNpbmNsYWlyc3RvcnlsaW5lLmNvbS9DT01FVC9pbmRleC5tM3U4IiwgImlkIjogOTM0fQ%3D%3D/fast
-#EXTINF:0 CUID="948" tvg-name="E! Entertainment • US" tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="US | Entertainment",E! Entertainment • US
+#EXTINF:0 CUID="948" tvg-name="E! ENTERTAINMENT • US" tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="US | Entertainment",E! ENTERTAINMENT • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX0UvaW5kZXgubTN1OCIsICJpZCI6IDk0OH0%3D/fast
 #EXTINF:0 CUID="949" tvg-name="FX • US" tvg-id="FX.HD.us2" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="US | Entertainment",FX • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX0ZYL2luZGV4Lm0zdTgiLCAiaWQiOiA5NDl9/fast
 #EXTINF:0 CUID="950" tvg-name="FXX • US" tvg-id="FXX.HD.us2" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="US | Entertainment",FXX • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX0ZYWC9pbmRleC5tM3U4IiwgImlkIjogOTUwfQ%3D%3D/fast
-#EXTINF:0 CUID="942" tvg-name="Game Show Central • US" tvg-id="Game.Show.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/gameshowcentral.png" group-title="US | Entertainment",Game Show Central • US
+#EXTINF:0 CUID="942" tvg-name="GAME SHOW CENTRAL • US" tvg-id="Game.Show.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/gameshowcentral.png" group-title="US | Entertainment",GAME SHOW CENTRAL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby81NWM0ZTk2Yy1lMzQ1LTQ4NmMtOGY2MS04MzIwYjYxZDczNGQvcGxheWxpc3QubTN1OCIsICJpZCI6IDk0Mn0%3D/fast
 #EXTINF:0 CUID="915" tvg-name="HLN • US" tvg-id="HLN.HD.us2" tvg-logo="https://logo.m3uassets.com/hln.png" group-title="US | Entertainment",HLN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS81ODY0OTYvY25uZ28vaGxuL1ZJREVPXzBfMzU2NDAwMC5tM3U4IiwgImlkIjogOTE1fQ%3D%3D/fast
@@ -315,15 +317,15 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJs
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzaHNuMnVzL21hc3Rlci5tM3U4IiwgImlkIjogMTAxOX0%3D/fast
 #EXTINF:0 CUID="1018" tvg-name="HSN • US" tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/hsn.png" group-title="US | Entertainment",HSN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzaHNuMXVzL21hc3Rlci5tM3U4IiwgImlkIjogMTAxOH0%3D/fast
-#EXTINF:0 CUID="1037" tvg-name="iHeartRadio 90s • US" tvg-id="dummy-682184" tvg-logo="https://logo.m3uassets.com/iheart90s.png" group-title="US | Entertainment",iHeartRadio 90s • US
+#EXTINF:0 CUID="1037" tvg-name="IHEART RADIO 90'S • US" tvg-id="dummy-682184" tvg-logo="https://logo.m3uassets.com/iheart90s.png" group-title="US | Entertainment",IHEART RADIO 90'S • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9paGVhcnQtaWhlYXJ0OTBzLTEtdXMueHVtby53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiAxMDM3fQ%3D%3D/fast
-#EXTINF:0 CUID="1038" tvg-name="iHeartRadio Alternative • US" tvg-id="dummy-682180" group-title="US | Entertainment",iHeartRadio Alternative • US
+#EXTINF:0 CUID="1038" tvg-name="IHEART RADIO ALTERNATIVE • US" tvg-id="dummy-682180" group-title="US | Entertainment",IHEART RADIO ALTERNATIVE • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9paGVhcnQtaWhlYXJ0YWx0cmFkaW8tMS11cy54dW1vLnd1cmwudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDEwMzh9/fast
 #EXTINF:0 CUID="924" tvg-name="LIFETIME • US" tvg-id="Lifetime.HD.us2" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="US | Entertainment",LIFETIME • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL0xJRkVUSU1FL2luZGV4Lm0zdTgiLCAiaWQiOiA5MjR9/fast
-#EXTINF:0 CUID="908" tvg-name="National Geographic (Latin) • US" tvg-id="National.Geographic.HD.us2" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="US | Entertainment",National Geographic (Latin) • US
+#EXTINF:0 CUID="908" tvg-name="NATIONAL GEOGRAPHIC (LATINA) • US" tvg-id="National.Geographic.HD.us2" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="US | Entertainment",NATIONAL GEOGRAPHIC (LATINA) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jb3JzLXByb3h5LmNvb2tzLmZ5aS9odHRwczovL3N0cmVhbWVyMS5uZXhnZW4uYnovTkFUX0dFTy9pbmRleC5tM3U4IiwgImlkIjogOTA4fQ%3D%3D/fast
-#EXTINF:0 CUID="951" tvg-name="Paramount Network • US" tvg-id="Paramount.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="US | Entertainment",Paramount Network • US
+#EXTINF:0 CUID="951" tvg-name="PARAMOUNT NETWORK • US" tvg-id="Paramount.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="US | Entertainment",PARAMOUNT NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1BBUkFNT1VOVF9ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA5NTF9/fast
 #EXTINF:0 CUID="1021" tvg-name="QVC 2 • US" tvg-id="QVC2.us2" tvg-logo="https://logo.m3uassets.com/qvc2.png" group-title="US | Entertainment",QVC 2 • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzcXZjMnVzL21hc3Rlci5tM3U4IiwgImlkIjogMTAyMX0%3D/fast
@@ -331,32 +333,38 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1k
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzcXZjM3VzL21hc3Rlci5tM3U4IiwgImlkIjogMTAyMn0%3D/fast
 #EXTINF:0 CUID="1020" tvg-name="QVC • US" tvg-id="QVC.HD.us2" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="US | Entertainment",QVC • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzcXZjMXVzL21hc3Rlci5tM3U4IiwgImlkIjogMTAyMH0%3D/fast
-#EXTINF:0 CUID="952" tvg-name="Syfy • US" tvg-id="Syfy.HD.us2" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US | Entertainment",Syfy • US
+#EXTINF:0 CUID="952" tvg-name="SYFY • US" tvg-id="Syfy.HD.us2" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US | Entertainment",SYFY • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1NZRlkvaW5kZXgubTN1OCIsICJpZCI6IDk1Mn0%3D/fast
-#EXTINF:0 CUID="1034" tvg-name="TBN Inspire • US" tvg-id="TBN.Inspire.us2" tvg-logo="https://logo.m3uassets.com/tbninspire.png" group-title="US | Entertainment",TBN Inspire • US
+#EXTINF:0 CUID="1034" tvg-name="TBN INSPIRE • US" tvg-id="TBN.Inspire.us2" tvg-logo="https://logo.m3uassets.com/tbninspire.png" group-title="US | Entertainment",TBN INSPIRE • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlY2RuLnVzZTEtMDAwNC5qd3BsaXZlLmNvbS9saXZlL3NpdGVzL1lhbDhjbXlPL21lZGlhL3lmRkk4M1h6L2xpdmUuaXNtbC8ubTN1OCIsICJpZCI6IDEwMzR9/fast
 #EXTINF:0 CUID="1033" tvg-name="TBN • US" tvg-id="tbn.us" tvg-logo="https://logo.m3uassets.com/tbn.png" group-title="US | Entertainment",TBN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlY2RuLnVzZTEtMDAwNC5qd3BsaXZlLmNvbS9saXZlL3NpdGVzL1lhbDhjbXlPL21lZGlhL2ZDR2Y2Uk9rL2xpdmUuaXNtbC8ubTN1OCIsICJpZCI6IDEwMzN9/fast
-#EXTINF:0 CUID="953" tvg-name="tbs • US" tvg-id="TBS.HD.us2" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="US | Entertainment",tbs • US
+#EXTINF:0 CUID="953" tvg-name="TBS • US" tvg-id="TBS.HD.us2" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="US | Entertainment",TBS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS8yMDIzMTcyL3Ric2Vhc3Qvc2xhdGUvVklERU9fMF8zNTY0MDAwLm0zdTgiLCAiaWQiOiA5NTN9/fast
 #EXTINF:0 CUID="954" tvg-name="TNT • US" tvg-id="TNT.HD.us2" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="US | Entertainment",TNT • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS8yMDIzMTY4L3RudGVhc3Qvc2xhdGUvVklERU9fMF8zNTY0MDAwLm0zdTgiLCAiaWQiOiA5NTR9/fast
-#EXTINF:0 CUID="955" tvg-name="truTV • US" tvg-id="truTV.HD.us2" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="US | Entertainment",truTV • US
+#EXTINF:0 CUID="955" tvg-name="TRUTV • US" tvg-id="truTV.HD.us2" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="US | Entertainment",TRUTV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS8yMDIzMTc2L3RydWVhc3Qvc2xhdGUvVklERU9fMF8zNTY0MDAwLm0zdTgiLCAiaWQiOiA5NTV9/fast
-#EXTINF:0 CUID="936" tvg-name="USA Network (Latin) • US" tvg-id="My.Network.us2" group-title="US | Entertainment",USA Network (Latin) • US
+#EXTINF:0 CUID="936" tvg-name="USA NETWORK (LATINA) • US" tvg-id="My.Network.us2" group-title="US | Entertainment",USA NETWORK (LATINA) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jb3JzLXByb3h5LmNvb2tzLmZ5aS9odHRwczovL3N0cmVhbWVyMS5uZXhnZW4uYnovU1lGWS9pbmRleC5tM3U4IiwgImlkIjogOTM2fQ%3D%3D/fast
-#EXTINF:0 CUID="895" tvg-name="CNN Headlines • US" tvg-id="cnnheadlines.us" group-title="US | Entertainment",CNN Headlines • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kYnJiNDlwam95bWc0LmNsb3VkZnJvbnQubmV0LzEwMDAxLzk5OTUxMzg2L2hscy9wbGF5bGlzdC5tM3U4P2Fkcy54dW1vX2NoYW5uZWxJZD05OTk1MTM4NiZhZHMuX2Z3X2lmYV90eXBlPSZhZHMuX2Z3X2RpZD0iLCAiaWQiOiA4OTV9/fast
-#EXTINF:0 CUID="906" tvg-name="Court TV • US" tvg-id="Court.TV.us2" tvg-logo="https://logo.m3uassets.com/courttv.png" group-title="US | Entertainment",Court TV • US
+#EXTINF:0 CUID="906" tvg-name="COURT TV • US" tvg-id="Court.TV.us2" tvg-logo="https://logo.m3uassets.com/courttv.png" group-title="US | Entertainment",COURT TV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC82YzBiZDBmOTRiMWQ0NTI2YTk4Njc2ZTk2OTlhMTBlZi5tM3U4IiwgImlkIjogOTA2fQ%3D%3D/fast
-#EXTINF:0 CUID="884" tvg-name="FOX WEATHER • US" tvg-id="foxweather.us" tvg-logo="https://logo.m3uassets.com/foxweather.png" group-title="US | Entertainment",FOX WEATHER • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8yNDd3bGl2ZS5mb3h3ZWF0aGVyLmNvbS9zdHJlYW0vaW5kZXgubTN1OCIsICJpZCI6IDg4NH0%3D/fast
 #EXTINF:0 CUID="907" tvg-name="MOTORTREND • US" tvg-id="MOTORTREND.HD.us2" tvg-logo="https://logo.m3uassets.com/motortrend.png" group-title="US | Entertainment",MOTORTREND • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwNC4yNTUuODguMTU1L21vdG9ydHJlbmQvaW5kZXgubTN1OCIsICJpZCI6IDkwN30%3D/fast
-#EXTINF:0 CUID="889" tvg-name="Yahoo! Finance • US" tvg-id="yahoofinance.us" tvg-logo="https://logo.m3uassets.com/yahoo!finance.png" group-title="US | Entertainment",Yahoo! Finance • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMWV3Y3RudmN3dnZ2dS5jbG91ZGZyb250Lm5ldC9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg5fQ%3D%3D/fast
 #EXTINF:0 CUID="909" tvg-name="NBCLX • US" tvg-logo="https://logo.m3uassets.com/nbclx.png" group-title="US | Entertainment",NBCLX • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9uYmN1bG9jYWxsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzA5Ni9seC91c2UxLm0zdTgiLCAiaWQiOiA5MDl9/fast
+#EXTINF:0 CUID="1143" tvg-chno="null" tvg-name="LOVE NATURE • US" group-title="US | Entertainment",LOVE NATURE • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zNWhvc3QyLmxvY2Fsbm93LmFwaS5jbXMuYW1kdmlkcy5jb20vdjEvbWFzdGVyL2MxODk2NjFmZWJhOTYxYzE5YmM1ZmI2MGI1Nzg3OWVlOWI4NDU0OGEvY29uZmlnNi9wbGF5bGlzdC5tM3U4P2Fkcy5jZG5ob3N0PXM1aG9zdDIubG9jYWxub3cuYXBpLmNtcy5hbWR2aWRzLmNvbSZhZHMucGxheWJhY2tpZD02MDAzNzhBQi0zMTlDLTQ2MDMtQUE2NS1ERDY0NzI3OUM2MzQmYWRzLm4xPXJ1bGVfaWQmYWRzLnYxPUU3QkI3QkExLUQ5MzItNEU2NS1CRDlGLTkzNzMxRTZFODdDNS0xNzQ0MDU0NTkyJmFkcy5uMz1xcF9jb250ZW50X2lkJmFkcy52Mz02MDAzNzhBQi0zMTlDLTQ2MDMtQUE2NS1ERDY0NzI3OUM2MzQmYWRzLm40PWNvbnRlbnRfbmFtZSZhZHMudjQ9RVBHJTIwJTdDJTIwTG92ZSUyME5hdHVyZSUyMENoYW5uZWwmYWRzLm4yMT1jb250ZW50X3Byb2R1Y2VyX25hbWUmYWRzLnYyMT1CbHVlJTIwU2t5ZSUyMEVudGVydGFpbm1lbnQlMjAlMjhVUyUyOSUyMExMQyZhZHMubjIyPWlwJmFkcy52MjI9MTk1LjE3OS4yMDAuODAmYWRzLm4yMz1uZXR3b3JrX25hbWUmYWRzLnYyMz1sb3ZlLW5hdHVyZS1jaGFubmVsJmFkcy5uMjQ9Y2hhbm5lbF9nZW5yZSZhZHMudjI0PU5hdHVyZSYiLCAiaWQiOiAxMTQzfQ%3D%3D/fast
+#EXTINF:0 CUID="933" tvg-name="BBC AMERICA • US" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US | Entertainment",BBC AMERICA • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC83ZjVlYzE2ZDEwMmY0YjVkOTJlOGUyN2JjOTVmZjQyNC91cy1lYXN0LTEvNjI0MDczMTMwODAwMS9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTMzfQ%3D%3D/fast
+#EXTINF:0 CUID="910" tvg-name="GUSTO.TV • US" tvg-logo="https://logo.m3uassets.com/gustotv.png" group-title="US | Entertainment",GUSTO.TV • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ndXN0by14dW1vLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5MTB9/fast
+#EXTINF:0 CUID="939" tvg-name="BET PLUTO TV • US" tvg-logo="https://logo.m3uassets.com/betplutotv.png" group-title="US | Entertainment",BET PLUTO TV • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNWNhNjcwZjY1OTNhNWQ3OGYwZTg1YWVkL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNzFjYjItMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTllNGRmZTkwLTAyMjgtNGJiYi1iN2NkLTFlNDIyYTBlN2NiYiIsICJpZCI6IDkzOX0%3D/fast
+#EXTINF:0 CUID="940" tvg-name="BRITBOX MYSTERIES • US" tvg-logo="https://logo.m3uassets.com/britboxmysteries.png" group-title="US | Entertainment",BRITBOX MYSTERIES • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjBmNWQzODk5ODVhMGMwMDA3MzU3MzA0L21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNzQzYzktMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTdkZjc0MDBlLTFkMjEtNGQyYy05NTM0LWRiMWM2ZDg0N2E0MiIsICJpZCI6IDk0MH0%3D/fast
+#EXTINF:0 CUID="941" tvg-name="SAMUEL GOLDWYN CLASSICS • US" group-title="US | Entertainment",SAMUEL GOLDWYN CLASSICS • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zYW11ZWxnb2xkd3luLWNsYXNzaWNzLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NDF9/fast
 #EXTINF:0 CUID="808" tvg-name="BEIN SPORTS XTRA • US" tvg-id="beinsportsxtra.us" tvg-logo="https://logo.m3uassets.com/beinsportsxtra.png" group-title="US | Sports",BEIN SPORTS XTRA • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9iZWluLWJlaW54dHJhc3BvcnRzLWZpcmV0di5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODA4fQ%3D%3D/fast
 #EXTINF:0 CUID="822" tvg-name="BIG TEN NETWORK • US" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US | Sports",BIG TEN NETWORK • US
@@ -381,7 +389,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4x
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL05CQV9UVi9pbmRleC5tM3U4IiwgImlkIjogNzk5fQ%3D%3D/fast
 #EXTINF:0 CUID="824" tvg-name="NESN • US" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="US | Sports",NESN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05FU04vaW5kZXgubTN1OCIsICJpZCI6IDgyNH0%3D/fast
-#EXTINF:0 CUID="825" tvg-name="NFL Network • US" tvg-id="NFL.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US | Sports",NFL Network • US
+#EXTINF:0 CUID="825" tvg-name="NFL NETWORK • US" tvg-id="NFL.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US | Sports",NFL NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05GTF9ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4MjV9/fast
 #EXTINF:0 CUID="826" tvg-name="NHL NETWORK • US" tvg-id="NHL.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US | Sports",NHL NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05ITF9ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4MjZ9/fast
@@ -389,35 +397,45 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4x
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX01BVl9UVi9pbmRleC5tM3U4IiwgImlkIjogODI3fQ%3D%3D/fast
 #EXTINF:0 CUID="828" tvg-name="SEC NETWORK • US" tvg-id="SEC.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US | Sports",SEC NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1NFQ19ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mjh9/fast
-#EXTINF:0 CUID="807" tvg-name="Tennis Channel • US" tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="US | Sports",Tennis Channel • US
+#EXTINF:0 CUID="807" tvg-name="TENNIS CHANNEL • US" tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="US | Sports",TENNIS CHANNEL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE0NDQtdGVubmlzY2hhbm5lbHRoLXRlbm5pc2NobmxpbnRsLWxnZ2IvcGxheWxpc3QubTN1OCIsICJpZCI6IDgwN30%3D/fast
-#EXTINF:0 CUID="829" tvg-name="Yes Network • US" tvg-id="Yes.Network.us2" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US | Sports",Yes Network • US
+#EXTINF:0 CUID="829" tvg-name="YES NETWORK • US" tvg-id="Yes.Network.us2" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US | Sports",YES NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX1lFU19ORVRXT1JLL2luZGV4Lm0zdTgiLCAiaWQiOiA4Mjl9/fast
+#EXTINF:0 CUID="1142" tvg-chno="null" tvg-name="CBS SPORTS GOLAZO NETWORK • US" group-title="US | Sports",CBS SPORTS GOLAZO NETWORK • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWQtbWVkaWF0b3ItZW9scTN0azRsYS11ay5hLnJ1bi5hcHAvY2JzL21hcC5tM3U4P2ltYWZ3X19md191c19wcml2YWN5PTFZTlkmYXR0bWFzPW5vdF9kZXRlcm1pbmVkJmFtLm9yaWdpblVybD1odHRwcyUzQSUyRiUyRmRhaS5nb29nbGUuY29tJTJGbGluZWFyJTJGaGxzJTJGZXZlbnQlMkY3ZjNXdjZmN1FFS2ZRbmEyMmpIcUxRJTJGbWFzdGVyLm0zdTgmaW1hZndfY3NpZD1kZXNrdG9wX3dlYiZpbWFmd19fZndfZGlkPSZpbWFmd19fZndfaXNfbGF0PSZpbWFmd19fZndfdmNpZDI9JmltYWZ3X19md19hcHBfYnVuZGxlPSZhcHBfdmVyc2lvbj0wLjAuMCZoZWlnaHQ9MTA4MCZpcF9hZGRyPTE5NS4xNzkuMjAwLjgwJnBhZ2VfdXJsPWh0dHBzJTI1MjUzQSUyNTI1MkYlMjUyNTJGbG9jYWxub3cuY29tJTI1MjUyRmNoYW5uZWxzJTI1MjUyRmNicy1uZXdzLWNoaWNhZ28taHlwZXJsb2NhbCZ1YT1Nb3ppbGxhJTJGNS4wJTIwJTI4V2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0JTI5JTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAlMjhLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyUyOSUyMENocm9tZSUyRjEyMi4wLjAuMCUyMFNhZmFyaSUyRjUzNy4zNiZ3aWR0aD0iLCAiaWQiOiAxMTQyfQ%3D%3D/fast
+#EXTINF:0 CUID="811" tvg-name="NFL CHANNEL (TUBI)  • US" tvg-logo="https://logo.m3uassets.com/nflchannel.png" group-title="US | Sports",NFL CHANNEL (TUBI)  • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby80MjM3OTczZS05ZThjLTRlYzYtOTViMy1iNzM2M2NlMzk0NzAvcGxheWxpc3QubTN1OCIsICJpZCI6IDgxMX0%3D/fast
+#EXTINF:0 CUID="812" tvg-name="UFC FAST • US" tvg-logo="https://logo.m3uassets.com/ufc.png" group-title="US | Sports",UFC FAST • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby9hNzhlYTI4My04NjY2LTQ0YTEtYTBmNi1mZGU1ZDIyOWFjMjEvcGxheWxpc3QubTN1OCIsICJpZCI6IDgxMn0%3D/fast
+#EXTINF:0 CUID="809" tvg-name="DAZN RINGSIDE • US" tvg-logo="https://logo.m3uassets.com/daznfast.png" group-title="US | Sports",DAZN RINGSIDE • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby9iZmFkMjllMi01YmVlLTQ0ZjMtODI1Ni0xMjczMjRlOGIxMDYvcGxheWxpc3QubTN1OCIsICJpZCI6IDgwOX0%3D/fast
+#EXTINF:0 CUID="813" tvg-name="ACC DIGITAL NETWORK • US" tvg-logo="https://logo.m3uassets.com/accdigitalnetwork.png" group-title="US | Sports",ACC DIGITAL NETWORK • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby5hbWFnaS50di9pbmdyZXNzL2xpbmVhci9hbWcwMTI1OC1yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby9wbGF5bGlzdC5tM3U4IiwgImlkIjogODEzfQ%3D%3D/fast
 #EXTINF:0 CUID="863" tvg-name="FXM • US" tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://logo.m3uassets.com/fxm.png" group-title="US | Movies",FXM • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zOGhvc3QyLmxvY2Fsbm93LmFwaS5jbXMuYW1kdmlkcy5jb20vdjEvbWFzdGVyL2MxODk2NjFmZWJhOTYxYzE5YmM1ZmI2MGI1Nzg3OWVlOWI4NDU0OGEvY29uZmlnMTAvZTEwNzRkNTEtZTE0Ni00MDU0LWFmNjAtODE3OTQ0OWMyMzdjLzM2LTkwLTEwMjAubTN1OD9hZHMuY2RuaG9zdD1zOGhvc3QyLmxvY2Fsbm93LmFwaS5jbXMuYW1kdmlkcy5jb20mYWRzLnBsYXliYWNraWQ9NkQzMDE3MEMtRDdCMy00NkEyLThDMUYtMzAyRDgzOTlGNDREJmFkcy5uMT1ydWxlX2lkJmFkcy52MT1FN0JCN0JBMS1EOTMyLTRFNjUtQkQ5Ri05MzczMUU2RTg3QzUtMTc0NDA1NDU5MiZhZHMubjM9cXBfY29udGVudF9pZCZhZHMudjM9NkQzMDE3MEMtRDdCMy00NkEyLThDMUYtMzAyRDgzOTlGNDREJmFkcy5uND1jb250ZW50X25hbWUmYWRzLnY0PUZyZWUlMjBNb3ZpZXMlMjBQbHVzJmFkcy5uMjE9bmV0d29ya19uYW1lJmFkcy52MjE9ZnJlZS1tb3ZpZXMtcGx1cyZhZHMubjIyPWNoYW5uZWxfZ2VucmUmYWRzLnYyMj1FbnRlcnRhaW5tZW50JmFkcy5uMjM9Y2hhbm5lbF9icmFuZF9pZCZhZHMudjIzPUFNREIwMTMzOTUmYWRzLm4yND1ncHAmYWRzLnYyND0mYWRzLm4yNT13JmFkcy52MjU9MTkyMCZhZHMubjI2PWRldmljZV90eXBlJmFkcy52MjY9JmFkcy5uMjc9aCZhZHMudjI3PTEwODAmYWRzLm4yOD1hcHBfbmFtZSZhZHMudjI4PSZhZHMubjI5PWFwcF9zdG9yZV91cmwmYWRzLnYyOT0mYWRzLm4zMD1jaGFubmVsX2V4dF9pZCZhZHMudjMwPSZhZHMubjMxPWRldmljZV9tYWtlJmFkcy52MzE9JmFkcy5uMzI9Y2hhbm5lbF9pZCZhZHMudjMyPTZEMzAxNzBDLUQ3QjMtNDZBMi04QzFGLTMwMkQ4Mzk5RjQ0RCZhZHMubjMzPWNoYW5uZWxfY29tcGFueV9pZCZhZHMudjMzPUFNRFA1MDA1MTcmYWRzLm4zND11cmwmYWRzLnYzND1odHRwcyUyNTI1M0ElMjUyNTJGJTI1MjUyRmxvY2Fsbm93LmNvbSUyNTI1MkZjaGFubmVscyUyNTI1MkZjYnMtbmV3cy1jaGljYWdvLWh5cGVybG9jYWwmYWRzLm4zNT1pZmFfdHlwZSZhZHMudjM1PSZhZHMubjM2PWN1c3RfZGV2aWNlbmFtZSZhZHMudjM2PWRlc2t0b3Bfd2ViJmFkcy5uMzc9Y2hhbm5lbF9uYW1lJmFkcy52Mzc9RnJlZSUyME1vdmllcyUyMFBsdXMmYWRzLm4zOD1jaGFubmVsX2NvcnAmYWRzLnYzOD1PVFQlMjBTdHVkaW8lMjBMTEMuJmFkcy5uMzk9YXBwX3ZlcnNpb24mYWRzLnYzOT0wLjAuMCZhZHMubjQwPWFwcF9idW5kbGUmYWRzLnY0MD0mYWRzLm40MT11c19wcml2YWN5JmFkcy52NDE9MVlOWSZhZHMubjQyPWNvbnRlbnRfcHJvZHVjZXJfbmFtZSZhZHMudjQyPU9UVCUyMFN0dWRpbyUyMExMQy4mYWRzLm40Mz1jb250ZW50X2N1c3RvbV8zX3BhcmFtJmFkcy52NDM9Y2hhbm5lbCZhZHMubjQ0PWNvbnRlbnRfY3VzdG9tXzJfcGFyYW0mYWRzLnY0ND1BTURCMDEzMzk1JmFkcy5uNDU9ZGV2aWNlX21vZGVsJmFkcy52NDU9JmFkcy5uNDY9Z3BwX3NpZCZhZHMudjQ2PSZhZHMubjQ3PWRpZCZhZHMudjQ3PSZhZHMubjQ4PWNvbnRlbnRfdHlwZSZhZHMudjQ4PWNoYW5uZWwmYWRzLm40OT1jaGFubmVsX2xhbmd1YWdlJmFkcy52NDk9ZW4mYWRzLm41MD1kbnQmYWRzLnY1MD0mYWRzLm41MT1jaGFubmVsX3JhdGluZyZhZHMudjUxPVRWLVBHJmFkcy5uNTI9Y29udGVudF9saXZlc3RyZWFtJmFkcy52NTI9MSZhZHMubjUzPWNvbnRlbnRfcHJvdmlkZXImYWRzLnY1Mz1mcmVlLW1vdmllcy1wbHVzJmFkcy5uNTQ9aXAmYWRzLnY1ND0xOTMuMjI4LjIwNi4xNDcmYWRzLm41NT1wb3MmYWRzLnY1NT1taWRyb2xsJmFkcy5uNTY9Y29udGVudF9jdXN0b21fMV9wYXJhbSZhZHMudjU2PTZEMzAxNzBDLUQ3QjMtNDZBMi04QzFGLTMwMkQ4Mzk5RjQ0RCZhZHMubjU3PWNoYW5uZWxfdGl0bGUmYWRzLnY1Nz1GcmVlJTIwTW92aWVzJTIwUGx1cyZhZHMubjU4PXVhJmFkcy52NTg9TW96aWxsYSUyRjUuMCUyMCUyOFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBDaHJvbWUlMkYxMjIuMC4wLjAlMjBTYWZhcmklMkY1MzcuMzYiLCAiaWQiOiA4NjN9/fast
 #EXTINF:0 CUID="837" tvg-name="HBO FAMILY • US" tvg-id="hbofamily.us" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="US | Movies",HBO FAMILY • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL0hCT19GQU1JTFkvaW5kZXgubTN1OCIsICJpZCI6IDgzN30%3D/fast
 #EXTINF:0 CUID="836" tvg-name="HBO HITS • US" tvg-id="HBO.Hits.us2" tvg-logo="https://logo.m3uassets.com/hbohits.png" group-title="US | Movies",HBO HITS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL0hCT18yL2luZGV4Lm0zdTgiLCAiaWQiOiA4MzZ9/fast
-#EXTINF:0 CUID="857" tvg-name="Samuel Goldwyn Films • US" tvg-id="dummy-682358" tvg-logo="https://logo.m3uassets.com/samuelgoldwynchannel.png" group-title="US | Movies",Samuel Goldwyn Films • US
+#EXTINF:0 CUID="857" tvg-name="SAMUEL GOLDWYN FILMS • US" tvg-id="dummy-682358" tvg-logo="https://logo.m3uassets.com/samuelgoldwynchannel.png" group-title="US | Movies",SAMUEL GOLDWYN FILMS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zYW11ZWxnb2xkd3luLWZpbG1zLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA4NTd9/fast
 #EXTINF:0 CUID="864" tvg-name="TCM • US" tvg-id="tcm.us" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="US | Movies",TCM • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS8yMDIzMTg2L3RjbWVhc3Qvbm9zbGF0ZS9WSURFT18xXzUxMjgwMDAubTN1OCIsICJpZCI6IDg2NH0%3D/fast
-#EXTINF:0 CUID="1002" tvg-name="Nick Jr. • US" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="US | Kids",Nick Jr. • US
+#EXTINF:0 CUID="1002" tvg-name="NICK JR. • US" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="US | Kids",NICK JR. • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIxMi4xMDIuNjAuMjMxL05JQ0tfSlIvaW5kZXgubTN1OCIsICJpZCI6IDEwMDJ9/fast
-#EXTINF:0 CUID="1007" tvg-name="Nickelodeon • US" tvg-id="Nickelodeon.HD.us2" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="US | Kids",Nickelodeon • US
+#EXTINF:0 CUID="1007" tvg-name="NICKELODEON • US" tvg-id="Nickelodeon.HD.us2" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="US | Kids",NICKELODEON • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05JQ0tFTE9ERU9OL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDA3fQ%3D%3D/fast
 #EXTINF:0 CUID="1008" tvg-name="PBS KIDS • US" tvg-id="PBS.KIDS.HD.us2" tvg-logo="https://logo.m3uassets.com/pbskids.png" group-title="US | Kids",PBS KIDS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlc3RyZWFtLnBic2tpZHMub3JnL291dC92MS8xNDUwN2Q5MzFiYmU0OGE2OTI4N2U0ODUwZTUzNDQzYy9lc3QubTN1OCIsICJpZCI6IDEwMDh9/fast
-#EXTINF:0 CUID="1009" tvg-name="Nickelodeon Pluto TV FAST • US" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/1/1b/FeaturedImage.jpg/revision/latest?cb=20240914145334" group-title="US | Kids",Nickelodeon Pluto TV FAST • US
+#EXTINF:0 CUID="1009" tvg-name="NICKELODEON PLUTO TV • US" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/1/1b/FeaturedImage.jpg/revision/latest?cb=20240914145334" group-title="US | Kids",NICKELODEON PLUTO TV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jZG4uYnJvYWRiYW5kdHZuZXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wOC8xNDExMTYxMi9OaWNrLVBsdW8tVFYuanBnIiwgImlkIjogMTAwOX0%3D/fast
-#EXTINF:0 CUID="879" tvg-name="ABC News • US" tvg-id="ABC.News.Live.us2" tvg-logo="https://logo.m3uassets.com/abcnews.png" group-title="US | News",ABC News • US
+#EXTINF:0 CUID="879" tvg-name="ABC NEWS • US" tvg-id="ABC.News.Live.us2" tvg-logo="https://logo.m3uassets.com/abcnews.png" group-title="US | News",ABC NEWS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC8zMzI0ZjI0NjdjNDE0MzI5YjNiMGNjNWNkOTg3YjZiZS5tM3U4IiwgImlkIjogODc5fQ%3D%3D/fast
-#EXTINF:0 CUID="894" tvg-name="CBC News • US" tvg-id="555130" tvg-logo="https://play-lh.googleusercontent.com/sU34PqRAGjVaUvjITJLHFDWmoLkBKFtOsK7gYN2N6wdv4-koovT-7DiEnLeYcp9weA" group-title="US | News",CBC News • US
+#EXTINF:0 CUID="894" tvg-name="CBC NEWS • US" tvg-id="555130" tvg-logo="https://play-lh.googleusercontent.com/sU34PqRAGjVaUvjITJLHFDWmoLkBKFtOsK7gYN2N6wdv4-koovT-7DiEnLeYcp9weA" group-title="US | News",CBC NEWS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc4OC1jYmMtYW1nMDA3ODhjNC14dW1vLXVzLTMwNDUucGxheW91dHMubm93LmFtYWdpLnR2L21hc3Rlci5tM3U4IiwgImlkIjogODk0fQ%3D%3D/fast
 #EXTINF:0 CUID="891" tvg-name="CBS NEWS 24/7 • US" tvg-id="dummy-1133182" tvg-logo="https://logo.m3uassets.com/cbsnews247.png" group-title="US | News",CBS NEWS 24/7 • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jYnNuLXVzLmNic25zdHJlYW0uY2JzbmV3cy5jb20vb3V0L3YxLzU1YTg2NDhlOGYxMzRlODJhNDcwZjgzZDU2MmRlZWNhL21hc3Rlci5tM3U4IiwgImlkIjogODkxfQ%3D%3D/fast
-#EXTINF:0 CUID="880" tvg-name="Cheddar News • US" tvg-id="cheddarnews.us" tvg-logo="https://logo.m3uassets.com/cheddarnews.png" group-title="US | News",Cheddar News • US
+#EXTINF:0 CUID="880" tvg-name="CHEDDAR NEWS • US" tvg-id="cheddarnews.us" tvg-logo="https://logo.m3uassets.com/cheddarnews.png" group-title="US | News",CHEDDAR NEWS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jaGVkZGFyLXVzLnNhbXN1bmcud3VybC50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODgwfQ%3D%3D/fast
 #EXTINF:0 CUID="883" tvg-name="FOX NEWS CHANNEL • US" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="US | News",FOX NEWS CHANNEL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zdHJlYW0ubGl2ZW5ld3NwbGF5LmNvbTo5NDQzL2hscy9mb3huZXdzL2ZveHNkLm0zdTgiLCAiaWQiOiA4ODN9/fast
@@ -425,11 +443,11 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zdHJlYW0u
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlaHViLXZvaWRuZXQub25yZW5kZXIuY29tL2NsdXN0ZXIvc3RyZWFtY29yZS91cy9OQkNfUkVESVMubTN1OCIsICJpZCI6IDg5MH0%3D/fast
 #EXTINF:0 CUID="893" tvg-name="NEWS 12 NEW YORK • US" tvg-id="news12newyork.us" tvg-logo="https://logo.m3uassets.com/news12newyork.png" group-title="US | News",NEWS 12 NEW YORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby85N2ZiYjk5Mi1jMjEyLTQxNjQtODQwNi1hYmI2ZjczMWU1MTcvcGxheWxpc3QubTN1OCIsICJpZCI6IDg5M30%3D/fast
-#EXTINF:0 CUID="886" tvg-name="Newsmax 2 • US" tvg-id="newsmax2.us" tvg-logo="https://logo.m3uassets.com/newsmax2.png" group-title="US | News",Newsmax 2 • US
+#EXTINF:0 CUID="886" tvg-name="NEWSMAX 2 • US" tvg-id="newsmax2.us" tvg-logo="https://logo.m3uassets.com/newsmax2.png" group-title="US | News",NEWSMAX 2 • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ubXhsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvNTI5OTY1L0xpdmVfMS9pbmRleC5tM3U4IiwgImlkIjogODg2fQ%3D%3D/fast
-#EXTINF:0 CUID="887" tvg-name="Newsmax TV • US" tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://logo.m3uassets.com/newsmaxtv.png" group-title="US | News",Newsmax TV • US
+#EXTINF:0 CUID="887" tvg-name="NEWSMAX TV • US" tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://logo.m3uassets.com/newsmaxtv.png" group-title="US | News",NEWSMAX TV • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ubXgxb3RhLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjEwNzAxMC9MaXZlXzEvaW5kZXgubTN1OCIsICJpZCI6IDg4N30%3D/fast
-#EXTINF:0 CUID="888" tvg-name="Newsy • US" tvg-id="Newsy.us2" tvg-logo="https://logo.m3uassets.com/newsy.png" group-title="US | News",Newsy • US
+#EXTINF:0 CUID="888" tvg-name="NEWSY • US" tvg-id="Newsy.us2" tvg-logo="https://logo.m3uassets.com/newsy.png" group-title="US | News",NEWSY • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly81NDdmNzJlNjY1MjM3MWMzLm1lZGlhcGFja2FnZS51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9vdXQvdjEvZTNlNmUyOTA5NTg0NGM0YmE3ZDg4N2YwMWU0NGE1ZWYvaW5kZXgubTN1OCIsICJpZCI6IDg4OH0%3D/fast
 #EXTINF:0 CUID="882" tvg-name="FOX BUSINESS NETWORK • US" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="US | News",FOX BUSINESS NETWORK • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQxLjIwNS45My4xNTQvRk9YQlVTSU5FU1MvaW5kZXgubTN1OCIsICJpZCI6IDg4Mn0%3D/fast
@@ -437,6 +455,14 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQxLjIwNS45
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYWRpb3ZpZC5mb3huZXdzLmNvbS9obHMvbGl2ZS82NjE1NDcvUkFESU9WSUQvaW5kZXgubTN1OCIsICJpZCI6IDEwMzZ9/fast
 #EXTINF:0 CUID="885" tvg-name="LiveNOW from FOX • US" tvg-logo="https://logo.m3uassets.com/livenowfox.png" group-title="US | News",LiveNOW from FOX • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9mb3gtZm94bmV3c25vdy12aXppby5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg1fQ%3D%3D/fast
+#EXTINF:0 CUID="895" tvg-name="CNN HEADLINES • US" tvg-id="cnnheadlines.us" group-title="US | News",CNN HEADLINES • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kYnJiNDlwam95bWc0LmNsb3VkZnJvbnQubmV0LzEwMDAxLzk5OTUxMzg2L2hscy9wbGF5bGlzdC5tM3U4P2Fkcy54dW1vX2NoYW5uZWxJZD05OTk1MTM4NiZhZHMuX2Z3X2lmYV90eXBlPSZhZHMuX2Z3X2RpZD0iLCAiaWQiOiA4OTV9/fast
+#EXTINF:0 CUID="884" tvg-name="FOX WEATHER • US" tvg-id="foxweather.us" tvg-logo="https://logo.m3uassets.com/foxweather.png" group-title="US | News",FOX WEATHER • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly8yNDd3bGl2ZS5mb3h3ZWF0aGVyLmNvbS9zdHJlYW0vaW5kZXgubTN1OCIsICJpZCI6IDg4NH0%3D/fast
+#EXTINF:0 CUID="889" tvg-name="YAHOO! FINANCE • US" tvg-id="yahoofinance.us" tvg-logo="https://logo.m3uassets.com/yahoo!finance.png" group-title="US | News",YAHOO! FINANCE • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMWV3Y3RudmN3dnZ2dS5jbG91ZGZyb250Lm5ldC9wbGF5bGlzdC5tM3U4IiwgImlkIjogODg5fQ%3D%3D/fast
+#EXTINF:0 CUID="912" tvg-name="CNN ORIGINALS • US" group-title="US | News",CNN ORIGINALS • US
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kYnJiNDlwam95bWc0LmNsb3VkZnJvbnQubmV0LzEwMDAxLzk5OTUxMzg3L2hscy9wbGF5bGlzdC5tM3U4P2Fkcy54dW1vX2NoYW5uZWxJZD05OTk1MTM4NyZhZHMuX2Z3X2lmYV90eXBlPSZhZHMuX2Z3X2RpZD00M2E5MjYzMy04NDM0IiwgImlkIjogOTEyfQ%3D%3D/fast
 #EXTINF:0 CUID="1040" tvg-name="KMIZABC (ABC) • US" tvg-id="abccolumbusoh.us" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQGk08XAUBTUtA/company-logo_200_200/company-logo_200_200/0/1652981450372/kmiz_tv_news_press_gazette_logo?e=2147483647&v=beta&t=-qTsV6fwmQIdk8tnt-SjX8118BiJSrfLI5ggSSEXCiE" group-title="US | Locals",KMIZABC (ABC) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2YWxsZXkubmV0L2hscy9LTUlaQUJDL0tNSVpBQkMubTN1OCIsICJpZCI6IDEwNDB9/fast
 #EXTINF:0 CUID="1045" tvg-name="KOMUCW (CW) • US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Mj61sWXu2ZU-wyG2W3qd_-MIoVBgFMYYwWDUfPxbZk1W7h9m7c9yMts&s=10" group-title="US | Locals",KOMUCW (CW) • US
@@ -453,65 +479,45 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5MC4xMS4yMjUuMTI0OjUwMDAvbGl2ZS91bml2ZXJzb19oZC9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTM1fQ%3D%3D/fast
 #EXTINF:0 CUID="1046" tvg-name="KYOUDT4 (CW) • US" group-title="US | Locals",KYOUDT4 (CW) • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jdnR2LmN2YWxsZXkubmV0L2hscy9LWU9VRFQ0L0tZT1VEVDQubTN1OCIsICJpZCI6IDEwNDZ9/fast
-#EXTINF:0 CUID="813" tvg-name="ACC Digital Network FAST • US" tvg-logo="https://logo.m3uassets.com/accdigitalnetwork.png" group-title="US | Fast",ACC Digital Network FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby5hbWFnaS50di9pbmdyZXNzL2xpbmVhci9hbWcwMTI1OC1yYXljb21zcG9ydHMtYWNjZGlnaXRhbG5ldHdvcmsteHVtby9wbGF5bGlzdC5tM3U4IiwgImlkIjogODEzfQ%3D%3D/fast
-#EXTINF:0 CUID="809" tvg-name="DAZN Ringside FAST • US" tvg-logo="https://logo.m3uassets.com/daznfast.png" group-title="US | Fast",DAZN Ringside FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby9iZmFkMjllMi01YmVlLTQ0ZjMtODI1Ni0xMjczMjRlOGIxMDYvcGxheWxpc3QubTN1OCIsICJpZCI6IDgwOX0%3D/fast
-#EXTINF:0 CUID="811" tvg-name="NFL Channel Tubi • US" tvg-logo="https://logo.m3uassets.com/nflchannel.png" group-title="US | Fast",NFL Channel Tubi • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby80MjM3OTczZS05ZThjLTRlYzYtOTViMy1iNzM2M2NlMzk0NzAvcGxheWxpc3QubTN1OCIsICJpZCI6IDgxMX0%3D/fast
-#EXTINF:0 CUID="812" tvg-name="UFC FAST • US" tvg-logo="https://logo.m3uassets.com/ufc.png" group-title="US | Fast",UFC FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby9hNzhlYTI4My04NjY2LTQ0YTEtYTBmNi1mZGU1ZDIyOWFjMjEvcGxheWxpc3QubTN1OCIsICJpZCI6IDgxMn0%3D/fast
-#EXTINF:0 CUID="858" tvg-name="Alfred Hitchcock Presents FAST • US" group-title="US | Fast",Alfred Hitchcock Presents FAST • US
+#EXTINF:0 CUID="858" tvg-name="ALFRED HITCHCOCK PRESENTS • US" group-title="US | Fast",ALFRED HITCHCOCK PRESENTS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly94dW1vLXh1bW9lbnQtY2g4MjUta3UyM3EuZmFzdC5uYmN1bmkuY29tL2xpdmUvbWFzdGVyLm0zdTgiLCAiaWQiOiA4NTh9/fast
-#EXTINF:0 CUID="959" tvg-name="Baywatch • US" tvg-logo="https://logo.m3uassets.com/baywatch.png" group-title="US | Fast",Baywatch • US
+#EXTINF:0 CUID="959" tvg-name="BAYWATCH • US" tvg-logo="https://logo.m3uassets.com/baywatch.png" group-title="US | Fast",BAYWATCH • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDE0NS1hbWcwMDE0NWMyLXJha3V0ZW4tdXMtNTMyMy5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDk1OX0%3D/fast
-#EXTINF:0 CUID="933" tvg-name="BBC AMERICA • US" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US | Fast",BBC AMERICA • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC83ZjVlYzE2ZDEwMmY0YjVkOTJlOGUyN2JjOTVmZjQyNC91cy1lYXN0LTEvNjI0MDczMTMwODAwMS9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTMzfQ%3D%3D/fast
-#EXTINF:0 CUID="939" tvg-name="BET Pluto TV FAST • US" tvg-logo="https://logo.m3uassets.com/betplutotv.png" group-title="US | Fast",BET Pluto TV FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNWNhNjcwZjY1OTNhNWQ3OGYwZTg1YWVkL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNzFjYjItMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTllNGRmZTkwLTAyMjgtNGJiYi1iN2NkLTFlNDIyYTBlN2NiYiIsICJpZCI6IDkzOX0%3D/fast
-#EXTINF:0 CUID="940" tvg-name="BritBox Mystery FAST • US" tvg-logo="https://logo.m3uassets.com/britboxmysteries.png" group-title="US | Fast",BritBox Mystery FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjBmNWQzODk5ODVhMGMwMDA3MzU3MzA0L21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNzQzYzktMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTdkZjc0MDBlLTFkMjEtNGQyYy05NTM0LWRiMWM2ZDg0N2E0MiIsICJpZCI6IDk0MH0%3D/fast
-#EXTINF:0 CUID="960" tvg-name="Deal or No Deal • US" group-title="US | Fast",Deal or No Deal • US
+#EXTINF:0 CUID="960" tvg-name="DEAL OR NO DEAL • US" group-title="US | Fast",DEAL OR NO DEAL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kZWFsLW9yLW5vLWRlYWwtcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTYwfQ%3D%3D/fast
-#EXTINF:0 CUID="972" tvg-name="Doctor Who Classic • US" tvg-logo="https://logo.m3uassets.com/classicdoctorwho.png" group-title="US | Fast",Doctor Who Classic • US
+#EXTINF:0 CUID="972" tvg-name="DOCTOR WHO CLASSIC • US" tvg-logo="https://logo.m3uassets.com/classicdoctorwho.png" group-title="US | Fast",DOCTOR WHO CLASSIC • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9iYmMtY2xhc3NpY2Ryd2hvLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NzJ9/fast
-#EXTINF:0 CUID="983" tvg-name="Family Feud • US" group-title="US | Fast",Family Feud • US
+#EXTINF:0 CUID="983" tvg-name="FAMILY FEUD • US" group-title="US | Fast",FAMILY FEUD • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qbXAyLnVrL3N0dnAtR0I1MDAwMDdWTSIsICJpZCI6IDk4M30%3D/fast
-#EXTINF:0 CUID="910" tvg-name="gusto.tv FAST • US" tvg-logo="https://logo.m3uassets.com/gustotv.png" group-title="US | Fast",gusto.tv FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9ndXN0by14dW1vLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5MTB9/fast
-#EXTINF:0 CUID="964" tvg-name="Hell's Kitchen • US" tvg-logo="https://logo.m3uassets.com/itvxhellskitchen.png" group-title="US | Fast",Hell's Kitchen • US
+#EXTINF:0 CUID="964" tvg-name="HELL'S KITCHEN • US" tvg-logo="https://logo.m3uassets.com/itvxhellskitchen.png" group-title="US | Fast",HELL'S KITCHEN • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9pdHYtaGVsbHNraXRjaGVuLXJha3V0ZW4uYW1hZ2kudHYvcGxheWxpc3QubTN1OCIsICJpZCI6IDk2NH0%3D/fast
-#EXTINF:0 CUID="965" tvg-name="Highway Thru Hell • US" group-title="US | Fast",Highway Thru Hell • US
+#EXTINF:0 CUID="965" tvg-name="HIGHWAY THRU HELL • US" group-title="US | Fast",HIGHWAY THRU HELL • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MxNS1yYWt1dGVuLXVrLTQ4MDMucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NjV9/fast
-#EXTINF:0 CUID="967" tvg-name="Ice Road Truckers • US" tvg-logo="https://logo.m3uassets.com/iceroadtruckers.png" group-title="US | Fast",Ice Road Truckers • US
+#EXTINF:0 CUID="967" tvg-name="ICE ROAD TRUCKERS • US" tvg-logo="https://logo.m3uassets.com/iceroadtruckers.png" group-title="US | Fast",ICE ROAD TRUCKERS • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly82ZmZhNTdiYS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9VbUZyZFhSbGJsUldMV2RpWDBsalpWSnZZV1JVY25WamEyVnljMTlJVEZNL3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5Njd9/fast
-#EXTINF:0 CUID="975" tvg-name="Murder She Wrote • US" tvg-logo="https://logo.m3uassets.com/murdershewrote.png" group-title="US | Fast",Murder She Wrote • US
+#EXTINF:0 CUID="975" tvg-name="MURDER SHE WROTE • US" tvg-logo="https://logo.m3uassets.com/murdershewrote.png" group-title="US | Fast",MURDER SHE WROTE • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly94dW1vLXh1bW9lbnQtdmMtMTE5LXQ3d3g3LmZhc3QubmJjdW5pLmNvbS9saXZlL21hc3Rlci5tM3U4IiwgImlkIjogOTc1fQ%3D%3D/fast
-#EXTINF:0 CUID="977" tvg-name="The Walking Dead Universe • US" tvg-logo="https://logo.m3uassets.com/thewalkingdeaduniverse.png" group-title="US | Fast",The Walking Dead Universe • US
+#EXTINF:0 CUID="977" tvg-name="THE WALKING DEAD UNIVERSE • US" tvg-logo="https://logo.m3uassets.com/thewalkingdeaduniverse.png" group-title="US | Fast",THE WALKING DEAD UNIVERSE • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWMtdHdkZmFuZXhwZXJpZW5jZS0xLXVzLnh1bW8ud3VybC50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTc3fQ%3D%3D/fast
-#EXTINF:0 CUID="958" tvg-name="21 Jump Street • US" group-title="US | Fast",21 Jump Street • US
+#EXTINF:0 CUID="958" tvg-name="21 JUMP STREET • US" group-title="US | Fast",21 JUMP STREET • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9jYjU2Mjc1My53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZTU2ZWI4NTljNjM2NTYzMjE0ZjU0MS9VbUZyZFhSbGJsUldMV1YxWHpJeFNuVnRjRk4wY21WbGRGOUlURk0vcGxheWxpc3QubTN1OCIsICJpZCI6IDk1OH0%3D/fast
-#EXTINF:0 CUID="912" tvg-name="CNN Originals FAST • US" group-title="US | Fast",CNN Originals FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kYnJiNDlwam95bWc0LmNsb3VkZnJvbnQubmV0LzEwMDAxLzk5OTUxMzg3L2hscy9wbGF5bGlzdC5tM3U4P2Fkcy54dW1vX2NoYW5uZWxJZD05OTk1MTM4NyZhZHMuX2Z3X2lmYV90eXBlPSZhZHMuX2Z3X2RpZD00M2E5MjYzMy04NDM0IiwgImlkIjogOTEyfQ%3D%3D/fast
-#EXTINF:0 CUID="941" tvg-name="Samuel Goldwyn Classics FAST • US" group-title="US | Fast",Samuel Goldwyn Classics FAST • US
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9zYW11ZWxnb2xkd3luLWNsYXNzaWNzLTEtdXMucm9rdS53dXJsLnR2L3BsYXlsaXN0Lm0zdTgiLCAiaWQiOiA5NDF9/fast
-#EXTINF:0 CUID="973" tvg-name="The Masked Singer • US" group-title="US | Fast",The Masked Singer • US
+#EXTINF:0 CUID="973" tvg-name="THE MASKED SINGER • US" group-title="US | Fast",THE MASKED SINGER • US
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZldHYtZmEudHViaS52aWRlby9tYXNrZWQtc2luZ2VyL2luZGV4Lm0zdTgiLCAiaWQiOiA5NzN9/fast
-#EXTINF:0 CUID="833" tvg-name="Jio Exclusive HD • IN" tvg-id="Jio.Exclusive.HD.in" group-title="India",Jio Exclusive HD • IN
+#EXTINF:0 CUID="833" tvg-name="JIO EXCLUSIVE HD • IN" tvg-id="Jio.Exclusive.HD.in" group-title="India",JIO EXCLUSIVE HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2ppb2V4Y2x1c2l2ZWhkL21hc3Rlci5tM3U4IiwgImlkIjogODMzfQ%3D%3D/fast
 #EXTINF:0 CUID="834" tvg-name="STAR MOVIES SELECT HD • IN" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-title="India",STAR MOVIES SELECT HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL3N0YXJtb3ZpZXNzZWxlY3RoZC9tYXN0ZXIubTN1OCIsICJpZCI6IDgzNH0%3D/fast
 #EXTINF:0 CUID="835" tvg-name="STAR MOVIES HD • IN" tvg-id="Star.Movies.in" group-title="India",STAR MOVIES HD • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL3N0YXJtb3ZpZXNoZC9tYXN0ZXIubTN1OCIsICJpZCI6IDgzNX0%3D/fast
-#EXTINF:0 CUID="1081" tvg-chno="null" tvg-name="SONY Sports 1 • IN" tvg-id="Sony.Sports.Ten.1.HD.in" tvg-logo="https://logo.m3uassets.com/sonysportsten1.png" group-title="India",SONY Sports 1 • IN
+#EXTINF:0 CUID="1081" tvg-chno="null" tvg-name="SONY SPORTS 1 • IN" tvg-id="Sony.Sports.Ten.1.HD.in" tvg-logo="https://logo.m3uassets.com/sonysportsten1.png" group-title="India",SONY SPORTS 1 • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9taW5pLmFsbGlub25lcmVib3JuLm9ubGluZS9ldmVudHMvc3RyZWFtX3Byb3h5LnBocD91cmw9aHR0cHMlM0ElMkYlMkZkaXNobXQuc2xpdmNkbi5jb20lMkZobHMlMkZsaXZlJTJGMjAxMTc0NyUyRlRFTjFIRCUyRm1hc3Rlci5tM3U4JTNGaGRuZWElM0RleHAlM0QxNzU5NTU1MjA1fmFjbCUzRCUyRip+aWQlM0Q0ZDczZTRmMjk2Zjg0Mzg5OTU4MjZiN2NjMzZiZmNkOC0xNzU5NTExOTY4MTc2fmhtYWMlM0RiNzU4NjMwY2EzMjc0MDIzNDBiZjEwMmU2NmQyNGM3ZjRiNzE4NmZjY2U5ZGIwOGRlOTg4OTUyMDkxNmQ3YzE0IiwgImlkIjogMTA4MX0%3D/fast
-#EXTINF:0 CUID="994" tvg-name="Nick Jr. • IN" tvg-id="Nick.Jr.in" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="India",Nick Jr. • IN
+#EXTINF:0 CUID="994" tvg-name="NICK JR. • IN" tvg-id="Nick.Jr.in" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="India",NICK JR. • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL25pY2tqdW5pb3IvbWFzdGVyLm0zdTgiLCAiaWQiOiA5OTR9/fast
-#EXTINF:0 CUID="996" tvg-name="Disney Channel • IN" tvg-id="Disney.in" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="India",Disney Channel • IN
+#EXTINF:0 CUID="996" tvg-name="DISNEY CHANNEL • IN" tvg-id="Disney.in" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="India",DISNEY CHANNEL • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2Rpc25leWNoYW5uZWwvbWFzdGVyLm0zdTgiLCAiaWQiOiA5OTZ9/fast
-#EXTINF:0 CUID="997" tvg-name="Disney Jr. • IN" tvg-id="Disney.Junior.in" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="India",Disney Jr. • IN
+#EXTINF:0 CUID="997" tvg-name="DISNEY JR. • IN" tvg-id="Disney.Junior.in" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="India",DISNEY JR. • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmRpbmVzaDI5LmNvbS5ucC9zdHJlYW0vamlvdHZwbHVzL2Rpc25leWp1bmlvci9tYXN0ZXIubTN1OCIsICJpZCI6IDk5N30%3D/fast
-#EXTINF:0 CUID="999" tvg-name="Cartoon Network HD+ • IN" tvg-id="Cartoon.Network.HD+.in" group-title="India",Cartoon Network HD+ • IN
+#EXTINF:0 CUID="999" tvg-name="CARTOON NETWORK HD+ • IN" tvg-id="Cartoon.Network.HD+.in" group-title="India",CARTOON NETWORK HD+ • IN
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9taW5pLmFsbGlub25lcmVib3JuLm9ubGluZS9qaW90di13dy9hcHAvdHNfbGl2ZV8xMDc5Lm0zdTgiLCAiaWQiOiA5OTl9/fast
 #EXTINF:0 CUID="1083" tvg-chno="null" tvg-name="IN| Nick+" tvg-id="Nick.HD+.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="India",IN| Nick+
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS81ODkzNDYyMzQiLCAiaWQiOiAxMDgzfQ%3D%3D/fast
@@ -543,7 +549,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL2FwZXhlbGl0ZS54eXo6NTA1MC9vYmNvbmxpbmUwMTUvOTdtbXkzOWg4Zy81NjAxMTIiLCAiaWQiOiAxMDY5fQ%3D%3D/fast
 #EXTINF:0 CUID="1052" tvg-chno="null" tvg-name="DAZN 2 • CH" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="China",DAZN 2 • CH
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE1OC41MS4xMjEuNjc6NjQwMTUvIiwgImlkIjogMTA1Mn0%3D/fast
-#EXTINF:0 CUID="1127" tvg-chno="null" tvg-name="CCTV-8" group-title="China",CCTV-8
+#EXTINF:0 CUID="1127" tvg-chno="null" tvg-name="CCTV-8 • CH" group-title="China",CCTV-8 • CH
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjkxLjEwMi40OTo2NDAwNi8iLCAiaWQiOiAxMTI3fQ%3D%3D/fast
 #EXTINF:0 CUID="798" tvg-name="HORSE & COUNTRY • AU" tvg-logo="https://logo.m3uassets.com/horseandcountry.png" group-title="Australia ",HORSE & COUNTRY • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9obmMtZnJlZS12aWV3bGlmdC5hbWFnaS50di9ITkNfQVVTVFJBTElBLm0zdTgiLCAiaWQiOiA3OTh9/fast
@@ -563,35 +569,35 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovL3dlYnNhZmV0eTEwMS5uZXQ6NTA1MC9mZWx0b25zbWl0aDE5NjFAaWNsb3VkLmNvbS9WU3E4Z21zZ2tSLzY5ODk1NiIsICJpZCI6IDEwNTl9/fast
 #EXTINF:0 CUID="870" tvg-name="SKY NEWS WEATHER • AU" tvg-id="SkyWeather.au" tvg-logo="https://logo.m3uassets.com/skynewsweather.png" group-title="Australia ",SKY NEWS WEATHER • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kaXN0cm8wMDEtZ2ItaGxzMS1wcmQuZGVsaXZlcnkuc2t5Y2RwLmNvbS9lYXNlbF9jZG4vbmdycDp3ZWF0aGVyX2xvb3Auc3RyZWFtX2FsbC9wbGF5bGlzdC5tM3U4IiwgImlkIjogODcwfQ%3D%3D/fast
-#EXTINF:0 CUID="873" tvg-name="ABC Australia • AU" group-title="Australia ",ABC Australia • AU
+#EXTINF:0 CUID="873" tvg-name="ABC AUSTRALIA • AU" group-title="Australia ",ABC AUSTRALIA • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hYmMtbmV3cy1kbWQtc3RyZWFtcy0xLmFrYW1haXplZC5uZXQvb3V0L3YxLzcwMTEyNjAxMmQwNDQ5NzFiM2ZhODk0MDZhNDQwMTMzL2luZGV4Lm0zdTgiLCAiaWQiOiA4NzN9/fast
-#EXTINF:0 CUID="874" tvg-name="Sky News Extra 1 • AU" tvg-id="SkyNewsExtra.au" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",Sky News Extra 1 • AU
+#EXTINF:0 CUID="874" tvg-name="SKY NEWS EXTRA 1 • AU" tvg-id="SkyNewsExtra.au" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",SKY NEWS EXTRA 1 • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9za3luZXdzYXUtbGl2ZS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDI2ODkvc2t5bmV3c2F1LWV4dHJhMS9tYXN0ZXIubTN1OCIsICJpZCI6IDg3NH0%3D/fast
-#EXTINF:0 CUID="875" tvg-name="Sky News Extra 2 • AU" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",Sky News Extra 2 • AU
+#EXTINF:0 CUID="875" tvg-name="SKY NEWS EXTRA 2 • AU" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",SKY NEWS EXTRA 2 • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9za3luZXdzYXUtbGl2ZS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDI2OTAvc2t5bmV3c2F1LWV4dHJhMi9tYXN0ZXIubTN1OCIsICJpZCI6IDg3NX0%3D/fast
-#EXTINF:0 CUID="876" tvg-name="Sky News Extra 3 • AU" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",Sky News Extra 3 • AU
+#EXTINF:0 CUID="876" tvg-name="SKY NEWS EXTRA 3 • AU" tvg-logo="https://logo.m3uassets.com/skynewsextra1.png" group-title="Australia ",SKY NEWS EXTRA 3 • AU
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9za3luZXdzYXUtbGl2ZS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDI2OTEvc2t5bmV3c2F1LWV4dHJhMy9tYXN0ZXIubTN1OCIsICJpZCI6IDg3Nn0%3D/fast
 #EXTINF:0 CUID="1114" tvg-chno="null" tvg-name="10 COMEDY" group-title="Australia ",10 COMEDY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ0LjMyLjIwMC4yMTI6NTAwNC9hdXRvL3YxMSIsICJpZCI6IDExMTR9/fast
-#EXTINF:0 CUID="877" tvg-name="Oireachtas TV • IE" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="Ireland ",Oireachtas TV • IE
+#EXTINF:0 CUID="877" tvg-name="OIREACHTAS TV • IE" tvg-logo="https://logo.m3uassets.com/oireachtastv.png" group-title="Ireland ",OIREACHTAS TV • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9kMzN6YWg1aHR4dm94Yi5jbG91ZGZyb250Lm5ldC9lbC9saXZlL29pcnR2L2hscy5tM3U4IiwgImlkIjogODc3fQ%3D%3D/fast
-#EXTINF:0 CUID="1000" tvg-name="cula4 • IE" tvg-id="Cula4.HD.ie" tvg-logo="https://logo.m3uassets.com/cula4.png" group-title="Ireland ",cula4 • IE
+#EXTINF:0 CUID="1000" tvg-name="CÚLA4 • IE" tvg-id="Cula4.HD.ie" tvg-logo="https://logo.m3uassets.com/cula4.png" group-title="Ireland ",CÚLA4 • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzc4LjE2LjIyMi4yMjo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMjEzNTcxMDY2ND90aWNrZXQ9OTA2N0I4Nzk1MDMwNUQ5NTI0ODM4QjdDMTgyRDdCODFCNjEwMUM1MyZwcm9maWxlPXBhc3MiLCAiaWQiOiAxMDAwfQ%3D%3D/fast
 #EXTINF:0 CUID="1001" tvg-name="RTÈ JR. • IE" tvg-id="RTEjr.ie" tvg-logo="https://logo.m3uassets.com/rtejr.png" group-title="Ireland ",RTÈ JR. • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzc4LjE2LjIyMi4yMjo5OTgxL3N0cmVhbS9jaGFubmVsaWQvNTQ4NzY0Nzg5P3RpY2tldD1GNjczNjVFNzY3MEIyMDVGRDYyOUY4MzA1Q0Y1RUE5QUJBODRBRjFEJnByb2ZpbGU9cGFzcyIsICJpZCI6IDEwMDF9/fast
-#EXTINF:0 CUID="1084" tvg-chno="null" tvg-name="TG4" tvg-id="TG4.HD.ie" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="Ireland ",TG4
+#EXTINF:0 CUID="1084" tvg-chno="null" tvg-name="TG4 • IE" tvg-id="TG4.HD.ie" tvg-logo="https://logo.m3uassets.com/tg4.png" group-title="Ireland ",TG4 • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS80MzEwODk0NiIsICJpZCI6IDEwODR9/fast
-#EXTINF:0 CUID="1085" tvg-chno="null" tvg-name="RTÉ One" tvg-id="RTE.One.HD.ie" tvg-logo="https://logo.m3uassets.com/rteone.png" group-title="Ireland ",RTÉ One
+#EXTINF:0 CUID="1085" tvg-chno="null" tvg-name="RTÉ ONE • IE" tvg-id="RTE.One.HD.ie" tvg-logo="https://logo.m3uassets.com/rteone.png" group-title="Ireland ",RTÉ ONE • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjE0Ni4yNS4yMzQ6ODA4Mi9tdXgvZGFzaD91cmw9aHR0cHM6Ly9saXZlLnJ0ZS5pZS9saXZlL2IvdmMxMS92YzExLmlzbWwvbWFuaWZlc3QubXBkJnRpdGxlPVJURStPbmUmdmlkZW9rZXk9YWMzZDVjMzQ5ODkxZGJhODM5NzdmOTY3NDAyZTExN2MmYXVkaW9rZXk9YWMzZDVjMzQ5ODkxZGJhODM5NzdmOTY3NDAyZTExN2MiLCAiaWQiOiAxMDg1fQ%3D%3D/fast
-#EXTINF:0 CUID="1086" tvg-chno="null" tvg-name="RTÉ Two" tvg-id="RTE.Two.HD.ie" tvg-logo="https://logo.m3uassets.com/rt2.png" group-title="Ireland ",RTÉ Two
+#EXTINF:0 CUID="1086" tvg-chno="null" tvg-name="RTÉ TWO • IE" tvg-id="RTE.Two.HD.ie" tvg-logo="https://logo.m3uassets.com/rt2.png" group-title="Ireland ",RTÉ TWO • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly90di5tZWRpYTR1LnRvcC9saXZlL21lZGlhNHUvbWVkaWE0dS8zODYzMTgzMzYiLCAiaWQiOiAxMDg2fQ%3D%3D/fast
-#EXTINF:0 CUID="1118" tvg-chno="null" tvg-name="Virgin Media One" tvg-logo="https://logo.m3uassets.com/virginmediaone.png" group-title="Ireland ",Virgin Media One
+#EXTINF:0 CUID="1118" tvg-chno="null" tvg-name="VIRGIN MEDIA ONE • IE" tvg-logo="https://logo.m3uassets.com/virginmediaone.png" group-title="Ireland ",VIRGIN MEDIA ONE • IE
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE4NS45OS4xMzYuNTA6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzE5NzQ3NDUyNjM/cHJvZmlsZT1wYXNzIiwgImlkIjogMTExOH0%3D/fast
 #EXTINF:0 CUID="800" tvg-name="CANAL+ FOOT • FR" tvg-id="CANAL+FOOT.fr" tvg-logo="https://logo.m3uassets.com/canal+foot.png" group-title="France ",CANAL+ FOOT • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvNTU2L2luZGV4Lm0zdTgiLCAiaWQiOiA4MDB9/fast
-#EXTINF:0 CUID="872" tvg-name="France Info • FR" tvg-id="France.info.fr" group-title="France ",France Info • FR
+#EXTINF:0 CUID="872" tvg-name="FRANCE INFO • FR" tvg-id="France.info.fr" group-title="France ",FRANCE INFO • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvMzA2L2luZGV4Lm0zdTgiLCAiaWQiOiA4NzJ9/fast
-#EXTINF:0 CUID="900" tvg-name="Motor TV • FR" group-title="France ",Motor TV • FR
+#EXTINF:0 CUID="900" tvg-name="MOTOR TV • FR" group-title="France ",MOTOR TV • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzEwMy4xNDAuMy4yMDo2ODc4L2FjZS9tYW5pZmVzdC5tM3U4P2lkPTQ0MmFlYjY2NDNiODgzNmY5ZDAwMzYxYzllNDhlZWIwODQxZGRmOTgmcGlkPTIyNiIsICJpZCI6IDkwMH0%3D/fast
 #EXTINF:0 CUID="927" tvg-name="TV5 MONDE • FR" tvg-id="TV5.monde.fr" tvg-logo="https://logo.m3uassets.com/tv5monde.png" group-title="France ",TV5 MONDE • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE3OC4zMy4yMzkuNTQ6ODA4MC8yMjUvaW5kZXgubTN1OCIsICJpZCI6IDkyN30%3D/fast
@@ -601,7 +607,7 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzku
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvMzA5L2luZGV4Lm0zdTgiLCAiaWQiOiA5Mjl9/fast
 #EXTINF:0 CUID="1088" tvg-chno="null" tvg-name="TF1 UHD • FR" tvg-logo="https://logo.m3uassets.com/tf1.png" group-title="France ",TF1 UHD • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9Ublo1Mjc5S2c2QFA1Uy9pbmRleC5tM3U4IiwgImlkIjogMTA4OH0%3D/fast
-#EXTINF:0 CUID="1089" tvg-chno="null" tvg-name="6ter • FR" tvg-logo="https://logo.m3uassets.com/6ter.png" group-title="France ",6ter • FR
+#EXTINF:0 CUID="1089" tvg-chno="null" tvg-name="6TER • FR" tvg-logo="https://logo.m3uassets.com/6ter.png" group-title="France ",6TER • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9CeldwdDg0Mk05QEpxMksvaW5kZXgubTN1OCIsICJpZCI6IDEwODl9/fast
 #EXTINF:0 CUID="1090" tvg-chno="null" tvg-name="CANAL+ EVENEMENT UHD • FR" group-title="France ",CANAL+ EVENEMENT UHD • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9KdFFHNTQyMDE5STVATnJRNzRXL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDkwfQ%3D%3D/fast
@@ -613,11 +619,11 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEw
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9VZFFTbTk0MlBAWnY2TS9pbmRleC5tM3U4IiwgImlkIjogMTA5M30%3D/fast
 #EXTINF:0 CUID="1094" tvg-chno="null" tvg-name="M6 4K • FR" tvg-logo="https://logo.m3uassets.com/m6.png" group-title="France ",M6 4K • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9KY1F1RTg5MDE3SjJAU3VFNzhDL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDk0fQ%3D%3D/fast
-#EXTINF:0 CUID="1095" tvg-chno="null" tvg-name="beIN Sports 1 • FR" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="France ",beIN Sports 1 • FR
+#EXTINF:0 CUID="1095" tvg-chno="null" tvg-name="BEIN SPORTS 1 • FR" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="France ",BEIN SPORTS 1 • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9DcUx0NTE3TTNAUjZOL2luZGV4Lm0zdTgiLCAiaWQiOiAxMDk1fQ%3D%3D/fast
-#EXTINF:0 CUID="1096" tvg-chno="null" tvg-name="beIN Sports 2 • FR" tvg-logo="https://logo.m3uassets.com/aubeinsports2.png" group-title="France ",beIN Sports 2 • FR
+#EXTINF:0 CUID="1096" tvg-chno="null" tvg-name="BEIN SPORTS 2 • FR" tvg-logo="https://logo.m3uassets.com/aubeinsports2.png" group-title="France ",BEIN SPORTS 2 • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9IekNxNDgyQFA2Ry9pbmRleC5tM3U4IiwgImlkIjogMTA5Nn0%3D/fast
-#EXTINF:0 CUID="1097" tvg-chno="null" tvg-name="beIN Sports 3 • FR" tvg-logo="https://logo.m3uassets.com/aubeinsports3.png" group-title="France ",beIN Sports 3 • FR
+#EXTINF:0 CUID="1097" tvg-chno="null" tvg-name="BEIN SPORTS 3 • FR" tvg-logo="https://logo.m3uassets.com/aubeinsports3.png" group-title="France ",BEIN SPORTS 3 • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9XdFo1Mjc5S2QzQFpqNUQvaW5kZXgubTN1OCIsICJpZCI6IDEwOTd9/fast
 #EXTINF:0 CUID="1098" tvg-chno="null" tvg-name="W9 • FR" tvg-logo="https://logo.m3uassets.com/w9.png" group-title="France ",W9 • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9WeldwNTE3TTNAVGw1Ti9pbmRleC5tM3U4IiwgImlkIjogMTA5OH0%3D/fast
@@ -633,47 +639,47 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEw
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9VblJRSzQwNzczSzlARWNXNzlLL2luZGV4Lm0zdTgiLCAiaWQiOiAxMTAzfQ%3D%3D/fast
 #EXTINF:0 CUID="1104" tvg-chno="null" tvg-name="NOVELAS TV • FR" tvg-logo="https://logo.m3uassets.com/novelastv.png" group-title="France ",NOVELAS TV • FR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzQ1LjkwLjEwNi43Ojg3NzkvcGxheS9VZHpMMjk4QExkM00vaW5kZXgubTN1OCIsICJpZCI6IDExMDR9/fast
-#EXTINF:0 CUID="801" tvg-name="Supersport Premier League • ZA" tvg-id="SS.Premier.League.za" tvg-logo="https://logo.m3uassets.com/supersportpremierleague.png" group-title="South Africa ",Supersport Premier League • ZA
+#EXTINF:0 CUID="801" tvg-name="SUPERSPORT PREMIER LEAGUE • ZA" tvg-id="SS.Premier.League.za" tvg-logo="https://logo.m3uassets.com/supersportpremierleague.png" group-title="South Africa ",SUPERSPORT PREMIER LEAGUE • ZA
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvNTYyL2luZGV4Lm0zdTgiLCAiaWQiOiA4MDF9/fast
-#EXTINF:0 CUID="802" tvg-name="Supersport Football • ZA" tvg-id="SS.Football.za" tvg-logo="https://logo.m3uassets.com/supersportfootball.png" group-title="South Africa ",Supersport Football • ZA
+#EXTINF:0 CUID="802" tvg-name="SUPERSPORT FOOTBALL • ZA" tvg-id="SS.Football.za" tvg-logo="https://logo.m3uassets.com/supersportfootball.png" group-title="South Africa ",SUPERSPORT FOOTBALL • ZA
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE0NS4yMzkuNS4xNzcvNTY0L2luZGV4Lm0zdTgiLCAiaWQiOiA4MDJ9/fast
-#EXTINF:0 CUID="995" tvg-name="CBeebies • Asia" tvg-logo="https://logo.m3uassets.com/cbeebiesasia.png" group-title="Misc ( needs sorted )",CBeebies • Asia
+#EXTINF:0 CUID="995" tvg-name="CBEEBIES • ASIA" tvg-logo="https://logo.m3uassets.com/cbeebiesasia.png" group-title="Misc ( needs sorted )",CBEEBIES • ASIA
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIwMi44MC4yMjIuMjAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDYvMTAyNC5tM3U4IiwgImlkIjogOTk1fQ%3D%3D/fast
-#EXTINF:0 CUID="869" tvg-name="IRIB News • IR" group-title="Misc ( needs sorted )",IRIB News • IR
+#EXTINF:0 CUID="869" tvg-name="IRIB NEWS • IR" group-title="Misc ( needs sorted )",IRIB NEWS • IR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5NS41MC42Ni4zOjEwMDA0LyIsICJpZCI6IDg2OX0%3D/fast
-#EXTINF:0 CUID="923" tvg-name="adult swim • MX" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="Misc ( needs sorted )",adult swim • MX
-http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIwMC4xMjUuMTcwLjEyMjo4MDAwL3BsYXkvYTBjdCIsICJpZCI6IDkyM30%3D/fast
-#EXTINF:0 CUID="911" tvg-name="BBC Earth • NO" tvg-id="USBD1700001RW" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Misc ( needs sorted )",BBC Earth • NO
+#EXTINF:0 CUID="911" tvg-name="BBC EARTH • NO" tvg-id="USBD1700001RW" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Misc ( needs sorted )",BBC EARTH • NO
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LWZpcmV0di11cy00MDY3LnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4IiwgImlkIjogOTExfQ%3D%3D/fast
 #EXTINF:0 CUID="881" tvg-name="CNBC • ID" tvg-id="CNBC.HD.uk" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="Misc ( needs sorted )",CNBC • ID
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OCIsICJpZCI6IDg4MX0%3D/fast
-#EXTINF:0 CUID="1121" tvg-chno="null" tvg-name="Astro oasis" tvg-logo="https://logo.m3uassets.com/astrooasis.png" group-title="Malaysia ",Astro oasis
+#EXTINF:0 CUID="1121" tvg-chno="null" tvg-name="ASTRO OASIS • MY" tvg-logo="https://logo.m3uassets.com/astrooasis.png" group-title="Malaysia ",ASTRO OASIS • MY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTAwOS8iLCAiaWQiOiAxMTIxfQ%3D%3D/fast
-#EXTINF:0 CUID="1122" tvg-chno="null" tvg-name="Astro Chinese" tvg-logo="https://logo.m3uassets.com/astroch100.png" group-title="Malaysia ",Astro Chinese
+#EXTINF:0 CUID="1122" tvg-chno="null" tvg-name="ASTRO CHINESE • MY" tvg-logo="https://logo.m3uassets.com/astroch100.png" group-title="Malaysia ",ASTRO CHINESE • MY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTAyNy8iLCAiaWQiOiAxMTIyfQ%3D%3D/fast
-#EXTINF:0 CUID="1123" tvg-chno="null" tvg-name="Tv alhijrah" tvg-logo="https://logo.m3uassets.com/tvalhijrah.png" group-title="Malaysia ",Tv alhijrah
+#EXTINF:0 CUID="1123" tvg-chno="null" tvg-name="TV ALHIJRAH • MY" tvg-logo="https://logo.m3uassets.com/tvalhijrah.png" group-title="Malaysia ",TV ALHIJRAH • MY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA0NC8iLCAiaWQiOiAxMTIzfQ%3D%3D/fast
-#EXTINF:0 CUID="1124" tvg-chno="null" tvg-name="TNT sports 1 Asia" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Malaysia ",TNT sports 1 Asia
+#EXTINF:0 CUID="1124" tvg-chno="null" tvg-name="TNT SPORTS 1 ASIA • MY" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Malaysia ",TNT SPORTS 1 ASIA • MY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA1Ni8iLCAiaWQiOiAxMTI0fQ%3D%3D/fast
-#EXTINF:0 CUID="1125" tvg-chno="null" tvg-name="Astro premier league" group-title="Malaysia ",Astro premier league
+#EXTINF:0 CUID="1125" tvg-chno="null" tvg-name="ASTRO PREMIER LEAGUE • MY" group-title="Malaysia ",ASTRO PREMIER LEAGUE • MY
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzUxLjc5LjIyOS4xMzoxOTA2MC8iLCAiaWQiOiAxMTI1fQ%3D%3D/fast
-#EXTINF:0 CUID="1126" tvg-chno="null" tvg-name="SBS GOLF" tvg-logo="https://logo.m3uassets.com/sbsgolf.png" group-title="South Korea",SBS GOLF
+#EXTINF:0 CUID="1126" tvg-chno="null" tvg-name="SBS GOLF • KR" tvg-logo="https://logo.m3uassets.com/sbsgolf.png" group-title="South Korea",SBS GOLF • KR
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzM4LjkxLjEwMi40OTo2NDAwNC8iLCAiaWQiOiAxMTI2fQ%3D%3D/fast
-#EXTINF:0 CUID="998" tvg-name="Disney Jr. • JP" tvg-id="I289.74796.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Japan",Disney Jr. • JP
+#EXTINF:0 CUID="998" tvg-name="DISNEY JR. • JP" tvg-id="I289.74796.schedulesdirect.org" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Japan",DISNEY JR. • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2NzMzM5LzEwODBwL21wZWd0cyIsICJpZCI6IDk5OH0%3D/fast
-#EXTINF:0 CUID="1132" tvg-chno="null" tvg-name="J SPORTS 1" tvg-logo="https://logo.m3uassets.com/jsports1.png" group-title="Japan",J SPORTS 1
+#EXTINF:0 CUID="1132" tvg-chno="null" tvg-name="J SPORTS 1 • JP" tvg-logo="https://logo.m3uassets.com/jsports1.png" group-title="Japan",J SPORTS 1 • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2JzMjQyLzEwODBwLTYwZnBzL21wZWd0cyIsICJpZCI6IDExMzJ9/fast
-#EXTINF:0 CUID="1133" tvg-chno="null" tvg-name="J SPORTS 2" tvg-logo="https://logo.m3uassets.com/jsports2.png" group-title="Japan",J SPORTS 2
+#EXTINF:0 CUID="1133" tvg-chno="null" tvg-name="J SPORTS 2 • JP" tvg-logo="https://logo.m3uassets.com/jsports2.png" group-title="Japan",J SPORTS 2 • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2JzMjQzLzEwODBwLTYwZnBzL21wZWd0cyIsICJpZCI6IDExMzN9/fast
-#EXTINF:0 CUID="1134" tvg-chno="null" tvg-name="J SPORTS 3" tvg-logo="https://logo.m3uassets.com/jsports3.png" group-title="Japan",J SPORTS 3
+#EXTINF:0 CUID="1134" tvg-chno="null" tvg-name="J SPORTS 3 • JP" tvg-logo="https://logo.m3uassets.com/jsports3.png" group-title="Japan",J SPORTS 3 • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2JzMjQ0LzEwODBwLTYwZnBzL21wZWd0cyIsICJpZCI6IDExMzR9/fast
-#EXTINF:0 CUID="1135" tvg-chno="null" tvg-name="J SPORTS 4" tvg-logo="https://logo.m3uassets.com/jsports4.png" group-title="Japan",J SPORTS 4
+#EXTINF:0 CUID="1135" tvg-chno="null" tvg-name="J SPORTS 4 • JP" tvg-logo="https://logo.m3uassets.com/jsports4.png" group-title="Japan",J SPORTS 4 • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2JzMjQ1LzEwODBwLTYwZnBzL21wZWd0cyIsICJpZCI6IDExMzV9/fast
-#EXTINF:0 CUID="1136" tvg-chno="null" tvg-name="DISNEY CHANNEL" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Japan",DISNEY CHANNEL
+#EXTINF:0 CUID="1136" tvg-chno="null" tvg-name="DISNEY CHANNEL • JP" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Japan",DISNEY CHANNEL • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2JzMjU2LzEwODBwL21wZWd0cyIsICJpZCI6IDExMzZ9/fast
-#EXTINF:0 CUID="1137" tvg-chno="null" tvg-name="CARTOON NETWORK" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Japan",CARTOON NETWORK
+#EXTINF:0 CUID="1137" tvg-chno="null" tvg-name="CARTOON NETWORK • JP" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Japan",CARTOON NETWORK • JP
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly80My4xMDAuOS42Ny9hcGkvc3RyZWFtcy9saXZlL2NzMzMxLzEwODBwL21wZWd0czY5LzEwODBwL21wZWd0cyIsICJpZCI6IDExMzd9/fast
-#EXTINF:0 CUID="1139" tvg-chno="null" tvg-name="FRANCE 24 ESPANOL" tvg-logo="https://logo.m3uassets.com/france24espanol.png" group-title="Spain",FRANCE 24 ESPANOL
+#EXTINF:0 CUID="1139" tvg-chno="null" tvg-name="FRANCE 24 ESPANOL • ES" tvg-logo="https://logo.m3uassets.com/france24espanol.png" group-title="Spain",FRANCE 24 ESPANOL • ES
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjIwL0YyNF9FU19ISV9ITFMvbWFzdGVyXzUwMDAubTN1OCIsICJpZCI6IDExMzl9/fast
-#EXTINF:0 CUID="1140" tvg-chno="null" tvg-name="Claro Sports" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-title="Mexico",Claro Sports
+#EXTINF:0 CUID="1140" tvg-chno="null" tvg-name="CLARO SPORTS • MX" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-title="Mexico",CLARO SPORTS • MX
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cHM6Ly9qb3kubngtcGMuZWRnZS1hcHBzLm5ldC9obHMva205NWUtcGo1MXAtbTJjaTQtNW5qMDNfNzIwcC9pbmRleC5tM3U4IiwgImlkIjogMTE0MH0%3D/fast
+#EXTINF:0 CUID="923" tvg-name="ADULT SWIM • MX" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="Mexico",ADULT SWIM • MX
+http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzIwMC4xMjUuMTcwLjEyMjo4MDAwL3BsYXkvYTBjdCIsICJpZCI6IDkyM30%3D/fast
