@@ -1,34 +1,34 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-20 18:43:07 UTC  
-**⏱️ Duration:** 569.7 seconds  
+**📅 Generated on:** 2025-10-21 01:55:34 UTC  
+**⏱️ Duration:** 589.4 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 440 streams (📡 392 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 45 FAST)
+- 📄 `channel playlist.m3u`: 462 streams (📡 414 Channels, 🎬 0 VODs, 🥊 3 PPV, 📺 45 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 440 | 100.0% |
-| **📡 Channels** | 392 | 89.1% |
+| **📺 Total Streams Found** | 462 | 100.0% |
+| **📡 Channels** | 414 | 89.6% |
 | **🎬 VODs** | 0 | 0.0% |
-| **🥊 PPV** | 3 | 0.7% |
-| **📺 FAST** | 45 | 10.2% |
-| **🔍 Checked Streams** | 392 | 89.1% |
-| **✅ Working Streams** | 198 | 50.5% |
-| **❌ Failed Streams** | 194 | 49.5% |
-| **⏭️ Skipped Streams** | 48 | 10.9% |
+| **🥊 PPV** | 3 | 0.6% |
+| **📺 FAST** | 45 | 9.7% |
+| **🔍 Checked Streams** | 414 | 89.6% |
+| **✅ Working Streams** | 228 | 55.1% |
+| **❌ Failed Streams** | 186 | 44.9% |
+| **⏭️ Skipped Streams** | 48 | 10.4% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 198 | ❌ 194 | 392 | 50.5% |
+| 📡 **Channels** | ✅ 228 | ❌ 186 | 414 | 55.1% |
 
-## 🚨 Failure Analysis (194 total failures)
+## 🚨 Failure Analysis (186 total failures)
 
 ### 🚫 Connection Refused (1 streams)
 *Server actively refusing connections*
@@ -37,14 +37,15 @@
 |---------|-------|------|-------|------|---------|
 | 10 COMEDY | Australia  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (1 streams)
+### 🔍 Not Found (404) (2 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | SKY SPORTS RACING • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (43 streams)
+### 🔒 Access Denied (403) (52 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
@@ -52,7 +53,7 @@
 | BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TV WAREHOUSE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | GREAT! CHRISTMAS • UK | UK \| Movies | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zootopia\| Zootropolis • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zoolander • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zookeeper • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -62,10 +63,15 @@
 | Zodiac • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zero Dark Thirty • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Zack Snyder's Justice League • | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Jumper • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| The Terminator • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Terminator Salvation • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| Terminator Genisys • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| You've Got Mail • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| You're Cordially Invited • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Yesterday • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Yes Man • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Year One • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| xXx: State of the Union • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| xXx (15th Anniversary Edition) | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| xXx • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| X2: X-Men United • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Terminator Dark Fate • HD | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Terminator 3: Rise of the Mach | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Terminator 2: Judgement Day •  | MOVIES HD | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -92,15 +98,18 @@
 | Yes Day • 4K | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | xXx: Return of Xander Cage • 4 | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | X2: X-Men United • 4K | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| X-Men: The Last Stand • 4K | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| X-Men: First Class • 4K | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Deadpool • 4K | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
+| Deadpool 2 (The Super Duper Cu | MOVIES 4K | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### ⏰ Connection Timeouts (12 streams)
+### ⏰ Connection Timeouts (11 streams)
 *Server slow/overloaded or PPV preparing*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | CLUBLAND • UK | UK \| Entertainment  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORTS F1 • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SKY SPORTS FOOTBALL • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORTS GOLF • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORTS MIX • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORTS NEWS • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
@@ -109,7 +118,7 @@
 | TNT SPORTS ULTIMATE • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | NATIONAL GEOGRAPHIC (LATINA) • | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | USA NETWORK (LATIN AMERICA) •  | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| SUPERSPORT PREMIER LEAGUE • ZA | South Africa  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 502 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
 ### 🌐 DNS Failures (3 streams)
 *Domain name resolution failed*
@@ -140,15 +149,15 @@
 | DISNEY JR. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | CLARO SPORTS • MX | Mexico | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 
-### 🚦 Rate Limited (117 streams)
+### 🚦 Rate Limited (104 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| GREAT! MOVIES • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FILMZIE • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MOVIESPHERE BY LIONSGATE • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| GRJNGO - WESTERNS • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| POPFLIX • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MY TIME MOVIE NETWORK • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| GREAT! ROMANCE • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ICON FILM CHANNEL • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DENNIS AND GNASHER • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MR. BEAN ANIMATED SERIES • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MR. BEAN LIVE ACTION • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -165,14 +174,14 @@
 | THE LEGO CHANNEL • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | AL JAZEERA ENGLISH • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BBC NEWS • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN HEADLINES • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| RACER TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SEC NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TENNIS CHANNEL • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | YES NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CBS SPORTS GOLAZO NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ACC DIGITAL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DAZN RINGSIDE • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NFL CHANNEL (TUBI)  • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ACC DIGITAL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CBS SPORTS HQ • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HBO FAMILY • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -187,41 +196,28 @@
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NICKELODEON PLUTO TV • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ABC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBS NEWS 24/7 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CHEDDAR NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CÚLA4 • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| RTÈ JR. • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TG4 • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| RTÉ ONE • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| RTÉ TWO • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ FOOT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FRANCE INFO • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MOTOR TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TV5 MONDE • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TF1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| M6 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TF1 UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| 6TER • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ FOOT (BACK-UP) • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ KIDS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ SPORT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| M6 4K • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 2 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 3 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| You've Got Mail • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| You're Cordially Invited • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Yesterday • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Yes Man • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Year One • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| xXx: State of the Union • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| xXx (15th Anniversary Edition) | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| xXx • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X2: X-Men United • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| W9 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DAZN LIGUE 1 1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| HISTOIRE TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NOVELAS TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SUPERSPORT PREMIER LEAGUE • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SUPERSPORT FOOTBALL • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| IRIB NEWS • IR | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| BBC EARTH • NO | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| WORLD 4K • INT | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO OASIS • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO CHINESE • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TV ALHIJRAH • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TNT SPORTS 1 ASIA • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO PREMIER LEAGUE • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SBS GOLF • KR | South Korea | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISNEY JR. • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| J SPORTS 1 • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| J SPORTS 2 • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | X-Men Origins Wolverine • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | X-Men: First Class • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Deadpool • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -239,10 +235,10 @@
 | Home Alone 2: Lost in New York | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Edge of Tomorrow • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Project Almanac • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: The Last Stand • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| X-Men: First Class • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Deadpool • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| Deadpool 2 (The Super Duper Cu | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Jumper • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| The Terminator • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Terminator Salvation • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| Terminator Genisys • HD | MOVIES HD | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Deadpool & Wolverine • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Fight Club • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Home Alone • 4K | MOVIES 4K | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -301,5 +297,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-20 18:43:07 UTC*
+*📅 Last updated: 2025-10-21 01:55:34 UTC*
 *🤖 Report generated automatically by GitHub Actions*
