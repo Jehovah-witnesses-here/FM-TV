@@ -751,9 +751,17 @@ http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5OS4yNDUu
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5OS4yNDUuMTczLjI1Mzo1MDA0L2F1dG8vdjMuMTIiLCAiaWQiOiAxMTc4fQ%3D%3D/fast
 #EXTINF:0 CUID="1179" tvg-chno="null" tvg-name="FIRE SCREEN • INT" group-title="FM Exclusive",FIRE SCREEN • INT
 http://alt.xtream-ie.org/aBn1J1oTRSe/VVtbggGMS/1eyJ1cmwiOiAiaHR0cDovLzE5OS4yNDUuMTczLjI1Mzo1MDA0L2F1dG8vdjMuMjUiLCAiaWQiOiAxMTc5fQ%3D%3D/fast
-#EXTINF:0 CUID="93" tvg-name="The Twits" group-title="NETFLIX",The Twits
+#EXTINF:0 CUID="93" tvg-name="The Twits" tvg-logo="https://image.tmdb.org/t/p/w780/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg" group-title="NETFLIX",The Twits
 https://akmzed.cloud/_v1_akmzed/5tZH23S1nQIqO~MvTxVHsGYhusKNC6y~R~QTD+Teohg=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="92" tvg-name="The Shawshank Redemption (1994)" group-title="HBO MAX",The Shawshank Redemption (1994)
+#EXTINF:0 CUID="95" tvg-name="A View to a Kill" group-title="PRIME VIDEO",A View to a Kill
+https://akmzed.cloud/_v1_akmzed/45BmOJt0H7M9nX2upvnfrV08nt3bEdBRe6RBwbr8qwI=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="96" tvg-name="Octopussy" group-title="PRIME VIDEO",Octopussy
+https://akmzed.cloud/_v1_akmzed/HFHH9EVAH0HutIkPG0j6HiQ5yEa8zOpahCMre268eLQ=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="97" tvg-name="The Man with the Golden Gun" group-title="PRIME VIDEO",The Man with the Golden Gun
+https://akmzed.cloud/_v1_akmzed/2onaj1~vVMqVL~3jr+sNkJmPTncGr8sOe9u7Vi1hpBA=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="92" tvg-name="The Shawshank Redemption" tvg-logo="https://image.tmdb.org/t/p/w780/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="HBO MAX",The Shawshank Redemption
 https://akmzed.cloud/_v1_akmzed/yW9XZAcDOLLo7xqwxuYke3h8zhtG0k8qZwP0VOd7gnI=/aW5kZXgubTN1OA==.m3u8/#.mkv
-#EXTINF:0 CUID="94" tvg-name="Freakier Friday" group-title="DISNEY+",Freakier Friday
+#EXTINF:0 CUID="98" tvg-name="The Hobbit: The Battle of the Five Armies" group-title="HBO MAX",The Hobbit: The Battle of the Five Armies
+https://akmzed.cloud/_v1_akmzed/6jSozGGlcrNNmtA5YQJwBaMrHK7BtXyzaLmAH9~V0mM=/aW5kZXgubTN1OA==.m3u8/#.mkv
+#EXTINF:0 CUID="94" tvg-name="Freakier Friday" tvg-logo="https://image.tmdb.org/t/p/w780/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg" group-title="DISNEY+",Freakier Friday
 https://akmzed.cloud/_v1_akmzed/Tb8Zce4zsnn23ZOh5xGcbhgm0JB0f1A4ILdJ3a6ySak=/aW5kZXgubTN1OA==.m3u8/#.mkv
