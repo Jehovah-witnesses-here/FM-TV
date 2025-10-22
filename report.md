@@ -1,34 +1,34 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-21 18:40:23 UTC  
-**⏱️ Duration:** 512.1 seconds  
+**📅 Generated on:** 2025-10-22 01:58:08 UTC  
+**⏱️ Duration:** 547.1 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
 
-- 📄 `channel playlist.m3u`: 379 streams (📡 328 Channels, 🎬 3 VODs, 🥊 3 PPV, 📺 45 FAST)
+- 📄 `channel playlist.m3u`: 398 streams (📡 329 Channels, 🎬 21 VODs, 🥊 3 PPV, 📺 45 FAST)
 
 ## 📊 Summary
 
 | Metric | Count | Percentage |
 |--------|-------|-----------|
-| **📺 Total Streams Found** | 379 | 100.0% |
-| **📡 Channels** | 328 | 86.5% |
-| **🎬 VODs** | 3 | 0.8% |
+| **📺 Total Streams Found** | 398 | 100.0% |
+| **📡 Channels** | 329 | 82.7% |
+| **🎬 VODs** | 21 | 5.3% |
 | **🥊 PPV** | 3 | 0.8% |
-| **📺 FAST** | 45 | 11.9% |
-| **🔍 Checked Streams** | 328 | 86.5% |
-| **✅ Working Streams** | 211 | 64.3% |
-| **❌ Failed Streams** | 117 | 35.7% |
-| **⏭️ Skipped Streams** | 51 | 13.5% |
+| **📺 FAST** | 45 | 11.3% |
+| **🔍 Checked Streams** | 329 | 82.7% |
+| **✅ Working Streams** | 225 | 68.4% |
+| **❌ Failed Streams** | 104 | 31.6% |
+| **⏭️ Skipped Streams** | 69 | 17.3% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 211 | ❌ 117 | 328 | 64.3% |
+| 📡 **Channels** | ✅ 225 | ❌ 104 | 329 | 68.4% |
 
-## 🚨 Failure Analysis (117 total failures)
+## 🚨 Failure Analysis (104 total failures)
 
 ### 🚫 Connection Refused (8 streams)
 *Server actively refusing connections*
@@ -44,15 +44,16 @@
 | 10 COMEDY | Australia  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | MOTOR TV • FR | France  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (2 streams)
+### 🔍 Not Found (404) (3 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
 | SKY SPORTS RACING • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FOX BUSINESS NETWORK • US | US \| News | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (5 streams)
+### 🔒 Access Denied (403) (4 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
@@ -61,7 +62,6 @@
 | TV WAREHOUSE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | GREAT! CHRISTMAS • UK | UK \| Movies | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
 ### ⏰ Connection Timeouts (13 streams)
 *Server slow/overloaded or PPV preparing*
@@ -80,7 +80,7 @@
 | USA NETWORK (LATIN AMERICA) •  | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORT 3 • NZ | New Zealand  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| ADULT SWIM • MX | Mexico | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 501 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
 ### 🌐 DNS Failures (3 streams)
 *Domain name resolution failed*
@@ -111,7 +111,7 @@
 | DISNEY JR. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | CLARO SPORTS • MX | Mexico | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 
-### 🚦 Rate Limited (69 streams)
+### 🚦 Rate Limited (60 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -135,10 +135,6 @@
 | THE LEGO CHANNEL • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | POP UP • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | AL JAZEERA ENGLISH • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BBC NEWS • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNBC • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN HEADLINES • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CNN • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | RACER TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SEC NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TENNIS CHANNEL • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -159,22 +155,6 @@
 | NICK JR. • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NICKELODEON • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NICKELODEON PLUTO TV • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ABC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CBC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TF1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| M6 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TF1 UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| 6TER • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ FOOT (BACK-UP) • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ KIDS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| CANAL+ SPORT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| M6 4K • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 2 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BEIN SPORTS 3 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| W9 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -185,9 +165,20 @@
 | SUPERSPORT FOOTBALL • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | IRIB NEWS • IR | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BBC EARTH • NO | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNBC • ID | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| WORLD 4K • INT | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO OASIS • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO CHINESE • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TV ALHIJRAH • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TNT SPORTS 1 ASIA • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ASTRO PREMIER LEAGUE • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SBS GOLF • KR | South Korea | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DISNEY JR. • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| J SPORTS 1 • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| J SPORTS 2 • JP | Japan | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
-## ⏭️ Skipped Streams (51 total)
+## ⏭️ Skipped Streams (69 total)
 
 ### 🥊 PPV/Event Channels (3 skipped)
 *Enable "🥊 Check PPV" in workflow dispatch to test these*
@@ -205,14 +196,20 @@
 | UK \| Fast | 32 |
 | US \| Fast | 13 |
 
-### 🎬 VOD Files (3 skipped)
+### 🎬 VOD Files (21 skipped)
 *Enable "🎬 Check VODs" in workflow dispatch to test these*
 
 | Group | Count |
 |-------|---------|
-| DISNEY+ | 1 |
-| HBO MAX | 1 |
-| NETFLIX | 1 |
+| DISNEY+ | 3 |
+| HBO MAX | 2 |
+| INDEPENDENT | 1 |
+| NETFLIX | 2 |
+| PEACOCK TV | 4 |
+| PRIME VIDEO | 4 |
+| SONY PICTURES CORE | 2 |
+| STARZ | 2 |
+| STUDIOCANAL PRESENTS | 1 |
 
 
 ## ⚙️ Configuration Notes
@@ -233,5 +230,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-21 18:40:23 UTC*
+*📅 Last updated: 2025-10-22 01:58:08 UTC*
 *🤖 Report generated automatically by GitHub Actions*
