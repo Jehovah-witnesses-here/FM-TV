@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-24 06:42:13 UTC  
-**⏱️ Duration:** 592.2 seconds  
+**📅 Generated on:** 2025-10-24 12:57:59 UTC  
+**⏱️ Duration:** 558.4 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 3 | 0.5% |
 | **📺 FAST** | 45 | 7.5% |
 | **🔍 Checked Streams** | 555 | 92.0% |
-| **✅ Working Streams** | 237 | 42.7% |
-| **❌ Failed Streams** | 318 | 57.3% |
+| **✅ Working Streams** | 232 | 41.8% |
+| **❌ Failed Streams** | 323 | 58.2% |
 | **⏭️ Skipped Streams** | 48 | 8.0% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 237 | ❌ 318 | 555 | 42.7% |
+| 📡 **Channels** | ✅ 232 | ❌ 323 | 555 | 41.8% |
 
-## 🚨 Failure Analysis (318 total failures)
+## 🚨 Failure Analysis (323 total failures)
 
 ### 🚫 Connection Refused (7 streams)
 *Server actively refusing connections*
@@ -51,16 +51,16 @@
 | SKY SPORTS RACING • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | LIFETIME • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NBA TV • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| FOOD NETWORK • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| FX • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | LIFETIME • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | MOVIE TIME • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | MUCH • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NATIONAL GEOGRAPHIC • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SLICE • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SPORTSNET 360 • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SPORTSNET PACIFIC • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| TSN 4 • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (180 streams)
+### 🔒 Access Denied (403) (175 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
@@ -71,11 +71,6 @@
 | GREAT! CHRISTMAS • UK | UK \| Movies | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | CNBC • ID | Misc ( needs sorted  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| SPORTSNET ONE • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| SPORTSNET PACIFIC • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| TREEHOUSE • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| TSN 3 • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| TSN 4 • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TSN 5 • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | TVO • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | W NETWORK • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -246,6 +241,15 @@
 | 'Twas the Night Before Christm | HALLMARK+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | 12 Days of Christmas Eve (2004 | HALLMARK+ | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
+### 🖥️ Server Errors (3 streams)
+*Server-side technical issues*
+
+| Channel | Group | Type | Error | Code | File |
+|---------|-------|------|-------|------|---------|
+| TVN • KR | South Korea | 📡 Channel | Server error (503) | 503 | channel playlist.m3u |
+| JTBC • KR | South Korea | 📡 Channel | Server error (503) | 503 | channel playlist.m3u |
+| JTBC 2 • KR | South Korea | 📡 Channel | Server error (503) | 503 | channel playlist.m3u |
+
 ### ⏰ Connection Timeouts (12 streams)
 *Server slow/overloaded or PPV preparing*
 
@@ -273,13 +277,6 @@
 | SONY SPORTS 1 • IN | India | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 | CARTOON NETWORK HD+ • IN | India | 📡 Channel | DNS resolution failed | None | channel playlist.m3u |
 
-### 📡 Stream Errors (1 streams)
-*Stream exists but not readable*
-
-| Channel | Group | Type | Error | Code | File |
-|---------|-------|------|-------|------|---------|
-| IN\| Nick+ | India | 📡 Channel | Stream not readable | 200 | channel playlist.m3u |
-
 ### 🌍 HTTP Errors (7 streams)
 *Other HTTP status errors*
 
@@ -293,7 +290,7 @@
 | DISNEY JR. • IN | India | 📡 Channel | HTTP 523 | 523 | channel playlist.m3u |
 | CLARO SPORTS • MX | Mexico | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 
-### 🚦 Rate Limited (88 streams)
+### 🚦 Rate Limited (96 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -321,6 +318,8 @@
 | CNBC • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CNN HEADLINES • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CNN • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| DW • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| EURONEWS ENGLISH • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | RACER TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SEC NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TENNIS CHANNEL • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -343,6 +342,9 @@
 | PBS KIDS • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NICKELODEON PLUTO TV • US | US \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ABC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBC NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBS NEWS 24/7 • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CHEDDAR NEWS • US | US \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ABC FAMILY • AU | Australia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ABC NEWS • AU | Australia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | TVSN • AU | Australia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -364,6 +366,7 @@
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ FOOT (BACK-UP) • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ KIDS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CANAL+ SPORT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | AMBIENT SCREEN • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FM CINEMA • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FIRE SCREEN • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -386,6 +389,8 @@
 | DTOUR • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DISCOVERY • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FLAVOUR NETWORK • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOOD NETWORK • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FX • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (48 total)
@@ -425,5 +430,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-24 06:42:13 UTC*
+*📅 Last updated: 2025-10-24 12:57:59 UTC*
 *🤖 Report generated automatically by GitHub Actions*
