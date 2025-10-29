@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-28 18:44:01 UTC  
-**⏱️ Duration:** 573.0 seconds  
+**📅 Generated on:** 2025-10-29 02:00:57 UTC  
+**⏱️ Duration:** 572.5 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -18,17 +18,17 @@
 | **🥊 PPV** | 3 | 0.5% |
 | **📺 FAST** | 48 | 7.8% |
 | **🔍 Checked Streams** | 566 | 91.7% |
-| **✅ Working Streams** | 229 | 40.5% |
-| **❌ Failed Streams** | 337 | 59.5% |
+| **✅ Working Streams** | 232 | 41.0% |
+| **❌ Failed Streams** | 334 | 59.0% |
 | **⏭️ Skipped Streams** | 51 | 8.3% |
 
 ## 🎯 Stream Type Breakdown
 
 | Type | Working | Failed | Total Checked | Success Rate |
 |------|---------|--------|---------------|-------------|
-| 📡 **Channels** | ✅ 229 | ❌ 337 | 566 | 40.5% |
+| 📡 **Channels** | ✅ 232 | ❌ 334 | 566 | 41.0% |
 
-## 🚨 Failure Analysis (337 total failures)
+## 🚨 Failure Analysis (334 total failures)
 
 ### 🚫 Connection Refused (9 streams)
 *Server actively refusing connections*
@@ -45,12 +45,14 @@
 | 10 COMEDY | Australia  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 | MOTOR TV • FR | France  | 📡 Channel | Connection refused | None | channel playlist.m3u |
 
-### 🔍 Not Found (404) (11 streams)
+### 🔍 Not Found (404) (13 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| MORE4 • UK | UK \| Entertainment  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY SPORTS RACING • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FILM4 • UK | UK \| Movies | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | LIFETIME • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NICK JR. • US | US \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -62,14 +64,11 @@
 | CTV WILD CHANNEL • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DTOUR • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (192 streams)
+### 🔒 Access Denied (403) (189 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| BLAZE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| TV WAREHOUSE • UK | UK \| Entertainment  | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
-| GREAT! CHRISTMAS • UK | UK \| Movies | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FOX NEWS CHANNEL • US | US \| News | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | DISCOVERY • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | FLAVOUR NETWORK • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -275,7 +274,7 @@
 | TNT SPORTS ULTIMATE • UK | UK \| Sports | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | NATIONAL GEOGRAPHIC (LATINA) • | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | USA NETWORK (LATIN AMERICA) •  | US \| Entertainment | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
-| FOX SPORTS 506 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
+| FOX SPORTS 504 HD • AU | Australia  | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 | LA 1 UHD • ES | Spain | 📡 Channel | Timeout after 10s | None | channel playlist.m3u |
 
 ### 🌐 DNS Failures (1 streams)
@@ -292,12 +291,11 @@
 |---------|-------|------|-------|------|---------|
 | Family Channel | Canada | 📡 Channel | Stream not readable | 200 | channel playlist.m3u |
 
-### 🌍 HTTP Errors (5 streams)
+### 🌍 HTTP Errors (4 streams)
 *Other HTTP status errors*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
-| SKY SPORTS MAIN EVENTS UHD • U | UK \| Sports | 📡 Channel | HTTP 401 | 401 | channel playlist.m3u |
 | ESPN • US | US \| Sports | 📡 Channel | HTTP 512 | 512 | channel playlist.m3u |
 | ESPN 2 • US | US \| Sports | 📡 Channel | HTTP 512 | 512 | channel playlist.m3u |
 | ESPNEWS • US | US \| Sports | 📡 Channel | HTTP 512 | 512 | channel playlist.m3u |
@@ -330,6 +328,8 @@
 | AL JAZEERA ENGLISH • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BBC NEWS • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CNBC • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNN HEADLINES • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CNN • UK | UK \| News | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FANDUEL TV EXTRA • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -354,7 +354,7 @@
 | TCM • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | BET CINEMA • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HALLMARK EN ESPANOL • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HALLMARK MOVIES & MORE • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KSMOIND (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | KTVOABC (ABC) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | KTVOCBS (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NBC Universo (West) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -377,8 +377,8 @@
 | SKY SPORT 4 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORT 5 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORT 6 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT PREMIER LEAGUE • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TF1 UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| 6TER • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ EVENEMENT UHD • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ FOOT (BACK-UP) • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ KIDS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -401,8 +401,6 @@
 | CNBC • ID | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | WORLD 4K • INT | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ASTRO OASIS • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| ASTRO CHINESE • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TV ALHIJRAH • MY | Malaysia  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (51 total)
@@ -442,5 +440,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-28 18:44:01 UTC*
+*📅 Last updated: 2025-10-29 02:00:57 UTC*
 *🤖 Report generated automatically by GitHub Actions*
