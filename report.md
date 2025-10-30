@@ -1,7 +1,7 @@
 # 📺 M3U Stream Status Report
 
-**📅 Generated on:** 2025-10-30 12:52:22 UTC  
-**⏱️ Duration:** 239.8 seconds  
+**📅 Generated on:** 2025-10-30 18:37:16 UTC  
+**⏱️ Duration:** 242.6 seconds  
 **⚙️ Configuration:** 🎬 VODs: ❌ Disabled, 🥊 PPV: ❌ Disabled, 📺 FAST: ❌ Disabled, ⏲️ Timeout: 10s
 
 ## 📂 Files Processed
@@ -30,7 +30,7 @@
 
 ## 🚨 Failure Analysis (566 total failures)
 
-### 🔍 Not Found (404) (216 streams)
+### 🔍 Not Found (404) (222 streams)
 *Stream URL no longer exists*
 
 | Channel | Group | Type | Error | Code | File |
@@ -65,6 +65,9 @@
 | CLUBLAND • UK | UK \| Entertainment  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | TOGETHER TV • UK | UK \| Entertainment  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CURIOSITY NOW • UK | UK \| Entertainment  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SKY SPORTS F1 • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SKY SPORTS FOOTBALL • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SKY SPORTS GOLF • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY SPORTS MAIN EVENT • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY SPORTS MAIN EVENTS UHD • U | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY SPORTS MIX • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -92,9 +95,9 @@
 | GFN SOCCER TV • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FIFA+ • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SKY SPORTS CLASSICS • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| TENNIS+ • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| MOTORRACING • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| TENNIS CHANNEL • UK | UK \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| MR. BEAN ANIMATED SERIES • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| MR. BEAN LIVE ACTION • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| POP • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SHAUN THE SHEEP • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SMURF TV • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SONIC THE HEDGEHOG • UK | UK \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -122,9 +125,9 @@
 | Bounce • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BUZZR • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CHARGE! • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| COMEDY CENTRAL • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| COMET • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| E! ENTERTAINMENT • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| MOTORTREND • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| NBC LX HOME • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| LOVE NATURE • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BBC AMERICA • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | SAMUEL GOLDWYN CLASSICS • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BET PLUTO TV • US | US \| Entertainment | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -152,9 +155,10 @@
 | ESPNEWS • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FANDUEL RACING • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | FANDUEL TV EXTRA • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| MSG • US | US \| Sports | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| TCM (WEST) • US | US \| Movies | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| MOVIES! • US | US \| Movies | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HBO • US | US \| Movies | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HBO MOVIES • US | US \| Movies | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NICK JR. • US | US \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NICKELODEON • US | US \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | PBS KIDS (EAST) • US | US \| Kids | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -181,10 +185,10 @@
 | KOMUCW (CW) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | KRCGCBS (CBS) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | KSMOIND (CBS) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| KTVOABC (ABC) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| KTVOCBS (CBS) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| NBC Universo (West) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| KYOUDT4 (CW) • US | US \| Locals | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SKY SPORT SELECT • NZ | New Zealand  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| BRAVO+1 • NZ | New Zealand  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| PARLIAMENT TV • NZ | New Zealand  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| WHAKAATA MAORI • NZ | New Zealand  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | TE REO • NZ | New Zealand  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DAZN 2 • CH | China | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CCTV-8 • CH | China | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -211,10 +215,12 @@
 | OIREACHTAS TV • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CÚLA4 • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | RTÈ JR. • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| TG4 • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| RTÉ ONE • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| RTÉ TWO • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| DAZN LIGUE 1 1 • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HISTOIRE TV • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| NOVELAS TV • FR | France  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SUPERSPORT PREMIER LEAGUE • ZA | South Africa  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| SUPERSPORT FOOTBALL • ZA | South Africa  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| IRIB NEWS • IR | Misc ( needs sorted  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | BBC EARTH • NO | Misc ( needs sorted  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | CNBC • ID | Misc ( needs sorted  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | WORLD 4K • INT | Misc ( needs sorted  | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
@@ -239,24 +245,25 @@
 | FRANCE 24 ESPANOL • ES | Spain | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | LA 1 UHD • ES | Spain | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | DW • ES | Spain | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CLARO SPORTS • MX | Mexico | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| ADULT SWIM • MX | Mexico | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| SKY CINEMA ACTION • DE | Germany | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| CBEEBIES • ASIA | International | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| AMBIENT SCREEN • INT | FM Exclusive | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| FM CINEMA • INT | FM Exclusive | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| DISCOVERY • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FLAVOUR NETWORK • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FOOD NETWORK • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| FX • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| GLOBAL TORONTO • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HISTORY CHANNEL • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
+| HGTV • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | KNOWLEDGE NETWORK • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | LIFETIME • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | MOVIE TIME • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | MUCH • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 | NATIONAL GEOGRAPHIC • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
-| OMNI EAST • CA | Canada | 📡 Channel | Stream not found | 404 | channel playlist.m3u |
 
-### 🔒 Access Denied (403) (175 streams)
+### 🔒 Access Denied (403) (176 streams)
 *Geo-blocked or authentication required*
 
 | Channel | Group | Type | Error | Code | File |
 |---------|-------|------|-------|------|---------|
+| OMNI EAST • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | OMNI QUÉBEC • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | OMNI PRAIRIES • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | OMNI BC • CA | Canada | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
@@ -433,7 +440,7 @@
 | The Lost Bus (2025) | APPLE TV | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 | Highest 2 Lowest (2025) | APPLE TV | 📡 Channel | Access denied (geo-blocked/auth required | 403 | channel playlist.m3u |
 
-### 🚦 Rate Limited (175 streams)
+### 🚦 Rate Limited (168 streams)
 *Too many requests*
 
 | Channel | Group | Type | Error | Code | File |
@@ -460,9 +467,9 @@
 | BBC FOUR \| CBEEBIES • UK | UK \| Entertainment  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | ARY DIGITAL • UK | UK \| Entertainment  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORTS CRICKET • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS F1 • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS FOOTBALL • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORTS GOLF • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TENNIS+ • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MOTORRACING • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TENNIS CHANNEL • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORTS CRICKET • UK | UK \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FILM4 • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY CINEMA ACTION • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -484,9 +491,9 @@
 | GREAT! ROMANCE • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FILMZIE • UK | UK \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DENNIS AND GNASHER • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MR. BEAN ANIMATED SERIES • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MR. BEAN LIVE ACTION • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| POP • UK | UK \| Kids | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMEDY CENTRAL • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| COMET • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| E! ENTERTAINMENT • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FXX • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | GAME SHOW CENTRAL • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -509,9 +516,9 @@
 | TRUTV (EAST) • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | USA NETWORK (LATIN AMERICA) •  | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | COURT TV • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MOTORTREND • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NBC LX HOME • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| LOVE NATURE • US | US \| Entertainment | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX SPORTS 1 (FS1) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FOX SPORTS 2 (FS2) • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| MSG • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NBA TV • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NESN • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | NFL NETWORK • US | US \| Sports | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -533,10 +540,10 @@
 | BET CINEMA • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HALLMARK EN ESPANOL • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | HALLMARK MOVIES & MORE • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| TCM (WEST) • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| MOVIES! • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HBO • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HBO MOVIES • US | US \| Movies | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KTVOABC (ABC) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KTVOCBS (CBS) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| NBC Universo (West) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| KYOUDT4 (CW) • US | US \| Locals | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | JIO EXCLUSIVE HD • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | STAR MOVIES SELECT HD • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | STAR MOVIES HD • IN | India | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -558,10 +565,10 @@
 | SKY SPORT 7 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORT PREMIER LEAGUE • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | SKY SPORT 9 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SKY SPORT SELECT • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| BRAVO+1 • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| PARLIAMENT TV • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| WHAKAATA MAORI • NZ | New Zealand  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| TG4 • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| RTÉ ONE • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| RTÉ TWO • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| VIRGIN MEDIA ONE • IE | Ireland  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CANAL+ FOOT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FRANCE INFO • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | MOTOR TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -582,12 +589,12 @@
 | EURO NEWS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CRIME DISTRICT • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CSTAR HITS • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DAZN LIGUE 1 1 • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HISTOIRE TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| NOVELAS TV • FR | France  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SUPERSPORT PREMIER LEAGUE • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| SUPERSPORT FOOTBALL • ZA | South Africa  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| IRIB NEWS • IR | Misc ( needs sorted  | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CLARO SPORTS • MX | Mexico | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| ADULT SWIM • MX | Mexico | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| SKY CINEMA ACTION • DE | Germany | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| CBEEBIES • ASIA | International | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| AMBIENT SCREEN • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
+| FM CINEMA • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | FIRE SCREEN • INT | FM Exclusive | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | Family Channel | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | APTN • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
@@ -606,13 +613,6 @@
 | CTV WILD CHANNEL • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | CTV • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 | DTOUR • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| DISCOVERY • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FLAVOUR NETWORK • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FOOD NETWORK • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| FX • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| GLOBAL TORONTO • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HISTORY CHANNEL • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
-| HGTV • CA | Canada | 📡 Channel | Rate limited | 429 | channel playlist.m3u |
 
 
 ## ⏭️ Skipped Streams (51 total)
@@ -652,5 +652,5 @@ To test specific content types:
 5. Adjust **⏱️ Timeout** for slower connections
 
 ---
-*📅 Last updated: 2025-10-30 12:52:22 UTC*
+*📅 Last updated: 2025-10-30 18:37:16 UTC*
 *🤖 Report generated automatically by GitHub Actions*
